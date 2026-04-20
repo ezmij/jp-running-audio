@@ -22,6 +22,8 @@ SHEETS = [
     {"title": "北海道BD農法", "slug": "bd-nouhou", "schema": "bd"},
     {"title": "常用的100個對話", "slug": "daily-100", "schema": "mrjp"},
     {"title": "談故鄉", "slug": "kokyou", "schema": "mrjp"},
+    {"title": "常用的100個對話", "slug": "daily-100-transcript", "schema": "mrjp-transcript",
+     "display_name": "常用的100個對話 — 全文對照"},
     {"title": "談故鄉", "slug": "kokyou-transcript", "schema": "mrjp-transcript",
      "display_name": "談故鄉 — 全文對照"},
 ]

@@ -1,0 +1,3115 @@
+{
+  "sheet": "常用的100個對話 — 全文對照",
+  "slug": "daily-100-transcript",
+  "total": 222,
+  "tracks": [
+    {
+      "id": 1,
+      "jp": "こんにちは、ミスタージャパニーズ",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "你好， (空格) Mr. Japanese",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/001-1-sentence.mp3",
+        "audio/daily-100-transcript/001-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 2,
+      "jp": "チャンネルへようこそ。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "歡迎來到 (空格) 頻道。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/002-1-sentence.mp3",
+        "audio/daily-100-transcript/002-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 3,
+      "jp": "皆さん、こんにちは。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "各位 (空格) 大家 (空格) 你好。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/003-1-sentence.mp3",
+        "audio/daily-100-transcript/003-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 4,
+      "jp": "今日も一緒に勉強できて",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "今天 (空格) 也 (空格) 一起 (空格) 能夠學習",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/004-1-sentence.mp3",
+        "audio/daily-100-transcript/004-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 5,
+      "jp": "本当に(ほんとうに)嬉しい(うれしい)です。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "真的 (空格) 很 (空格) 開心。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/005-1-sentence.mp3",
+        "audio/daily-100-transcript/005-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 6,
+      "jp": "僕は(ぼくは)健(けんぞ)です。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "我 (空格) 是 (空格) 健。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/006-1-sentence.mp3",
+        "audio/daily-100-transcript/006-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 7,
+      "jp": "そして、こちらはみつさんです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "然後， (空格) 這位是 (空格) Mitsu小姐 (空格) 是。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/007-1-sentence.mp3",
+        "audio/daily-100-transcript/007-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 8,
+      "jp": "僕たちは毎日(まいにち)使える(つかえる)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "我們 (空格) 每天 (空格) 能使用的",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/008-1-sentence.mp3",
+        "audio/daily-100-transcript/008-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 9,
+      "jp": "日本語(にほんご)を学ぶ(まなぶ)ための",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "日文 (空格) (受詞) (空格) 為了學習的",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/009-1-sentence.mp3",
+        "audio/daily-100-transcript/009-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 10,
+      "jp": "動画(どうが)を作って(つくって)います。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "影片 (空格) (受詞) (空格) 正在製作。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/010-1-sentence.mp3",
+        "audio/daily-100-transcript/010-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 11,
+      "jp": "このチャンネルが気に入ったら(きにいったら)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "這份 (空格) 頻道 (空格) (主詞) (空格) 如果喜歡的話",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/011-1-sentence.mp3",
+        "audio/daily-100-transcript/011-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 12,
+      "jp": "是非(ぜひ)高評価(こうひょうか)と",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "務必 (空格) 高評價 (空格) 和",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/012-1-sentence.mp3",
+        "audio/daily-100-transcript/012-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 13,
+      "jp": "チャンネル登録(とうろく)をお願い(おねがい)します。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "頻道訂閱 (空格) (受詞) (空格) 拜託了。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/013-1-sentence.mp3",
+        "audio/daily-100-transcript/013-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 14,
+      "jp": "本当に(ほんとうに)助かります(たすかります)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "真的 (空格) 幫了大忙。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/014-1-sentence.mp3",
+        "audio/daily-100-transcript/014-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 15,
+      "jp": "今日のテーマ(てーま)は",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "今天 (空格) 的 (空格) 主題 (空格) 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/015-1-sentence.mp3",
+        "audio/daily-100-transcript/015-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 16,
+      "jp": "日常生活(にちじょうせいかつ)の",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "日常生活 (空格) 的",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/016-1-sentence.mp3",
+        "audio/daily-100-transcript/016-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 17,
+      "jp": "ルーティン(るーてぃん)についてです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "例行公事 (空格) 關於 (空格) 是。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/017-1-sentence.mp3",
+        "audio/daily-100-transcript/017-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 18,
+      "jp": "リスニング(りすにんぐ)の練習(れんしゅう)をして",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "聽力 (空格) 的 (空格) 練習 (空格) 進行",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/018-1-sentence.mp3",
+        "audio/daily-100-transcript/018-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 19,
+      "jp": "便利な(べんりな)フレーズ(ふれーず)を学んで(まなんで)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "便利的 (空格) 片語 (空格) (受詞) (空格) 學習",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/019-1-sentence.mp3",
+        "audio/daily-100-transcript/019-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 20,
+      "jp": "楽しい(たのしい)会話(かいわ)をしましょう。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "快樂的 (空格) 對話 (空格) (受詞) (空格) 讓我們開始吧。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/020-1-sentence.mp3",
+        "audio/daily-100-transcript/020-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 21,
+      "jp": "準備(じゅんび)はいいですか？",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "準備 (空格) (主詞) (空格) 好了嗎？",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/021-1-sentence.mp3",
+        "audio/daily-100-transcript/021-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 22,
+      "jp": "じゃあ、始めましょう(はじめましょう)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那麼， (空格) 讓我們開始吧。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/022-1-sentence.mp3",
+        "audio/daily-100-transcript/022-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 23,
+      "jp": "みつさん、今日の調子(ちょうし)はどうですか？",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "Mitsu小姐， (空格) 今天的 (空格) 狀態 (空格) (主詞) (空格) 如何？",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/023-1-sentence.mp3",
+        "audio/daily-100-transcript/023-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 24,
+      "jp": "元気(げんき)ですよ、健(けんぞ)さん。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "很有精神 (空格) 喔， (空格) 健先生。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/024-1-sentence.mp3",
+        "audio/daily-100-transcript/024-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 25,
+      "jp": "ちょっと眠い(ねむい)ですけど。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "有點 (空格) 睏 (空格) 是 (空格) 雖然。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/025-1-sentence.mp3",
+        "audio/daily-100-transcript/025-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 26,
+      "jp": "あら、眠い(ねむい)ですか？どうしてですか？",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "哎呀， (空格) 睏 (空格) 嗎？ (空格) 為什麼呢？",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/026-1-sentence.mp3",
+        "audio/daily-100-transcript/026-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 27,
+      "jp": "えっと、今日はすごく(すごぐ)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那個， (空格) 今天 (空格) 是 (空格) 非常",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/027-1-sentence.mp3",
+        "audio/daily-100-transcript/027-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 28,
+      "jp": "早く(はやく)起きた(おきた)んです、朝(あさ)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "早 (空格) 起床 (空格) 了 (說明語氣)， (空格) 早上。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/028-1-sentence.mp3",
+        "audio/daily-100-transcript/028-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 29,
+      "jp": "六時(ろくじ)に？それは早い(はやい)ですね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "六點 (空格) 在？ (空格) 那 (空格) 真是早 (空格) 呢。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/029-1-sentence.mp3",
+        "audio/daily-100-transcript/029-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 30,
+      "jp": "でも、大きな(おおきな)朝ごはん(あさごはん)を",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "但是， (空格) 豐盛的 (空格) 早餐 (空格) (受詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/030-1-sentence.mp3",
+        "audio/daily-100-transcript/030-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 31,
+      "jp": "作りました(つくりました)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "製作 (空格) 了 (過去式)。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/031-1-sentence.mp3",
+        "audio/daily-100-transcript/031-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 32,
+      "jp": "卵焼き(たまごやき)とトースト(とーすと)です。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "玉子燒 (空格) 和 (空格) 吐司 (空格) 是。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/032-1-sentence.mp3",
+        "audio/daily-100-transcript/032-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 33,
+      "jp": "いいですね、一日の(いちにちの)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "真好呢， (空格) 一天的",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/033-1-sentence.mp3",
+        "audio/daily-100-transcript/033-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 34,
+      "jp": "良い(よい)スタート(すたーと)ですね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "好的 (空格) 開始 (空格) 呢。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/034-1-sentence.mp3",
+        "audio/daily-100-transcript/034-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 35,
+      "jp": "私は七時(ななじ)に起きました(おきました)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "我 (空格) 是 (空格) 七點 (空格) 在 (空格) 起床了。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/035-1-sentence.mp3",
+        "audio/daily-100-transcript/035-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 36,
+      "jp": "いいですね。起きて(おきて)最初に(さいしょに)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "真好呢。 (空格) 起床 (空格) 之後 (空格) 首先",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/036-1-sentence.mp3",
+        "audio/daily-100-transcript/036-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 37,
+      "jp": "何を(なにを)しましたか？",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "什麼 (空格) (受詞) (空格) 做了嗎？",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/037-1-sentence.mp3",
+        "audio/daily-100-transcript/037-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 38,
+      "jp": "最初に(さいしょに)歯(は)を磨きました(みがきました)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "首先 (空格) 牙齒 (空格) (受詞) (空格) 刷了。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/038-1-sentence.mp3",
+        "audio/daily-100-transcript/038-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 39,
+      "jp": "それから、コップ一杯(いっぱい)の",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "然後， (空格) 杯 (空格) 一杯 (空格) 的",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/039-1-sentence.mp3",
+        "audio/daily-100-transcript/039-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 40,
+      "jp": "水を(みずを)飲みました(のみました)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "水 (空格) (受詞) (空格) 喝了。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/040-1-sentence.mp3",
+        "audio/daily-100-transcript/040-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 41,
+      "jp": "ああ、健康的(けんこうてき)ですね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "啊啊， (空格) 健康 (空格) 呢。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/041-1-sentence.mp3",
+        "audio/daily-100-transcript/041-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 42,
+      "jp": "いいと思います(おもいます)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "好的 (空格) 認為。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/042-1-sentence.mp3",
+        "audio/daily-100-transcript/042-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 43,
+      "jp": "そうですね、日常(にちじょう)のルーティン(るーてぃん)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "是呢， (空格) 日常 (空格) 的 (空格) 例行公事。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/043-1-sentence.mp3",
+        "audio/daily-100-transcript/043-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 44,
+      "jp": "私たちは毎日(まいにち)同じ(おなじ)ことを",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "我們 (空格) 是 (空格) 每天 (空格) 同樣的 (空格) 事 (空格) (受詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/044-1-sentence.mp3",
+        "audio/daily-100-transcript/044-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 45,
+      "jp": "しますね、多かれ少なかれ(おおかれすくなかれ)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "做 (空格) 呢， (空格) 或多或少。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/045-1-sentence.mp3",
+        "audio/daily-100-transcript/045-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 46,
+      "jp": "私のルーティン(るーてぃん)はシンプル(しんぷる)ですけど",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "我的 (空格) 例行公事 (空格) (主詞) (空格) 簡單 (空格) 是 (空格) 雖然",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/046-1-sentence.mp3",
+        "audio/daily-100-transcript/046-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 47,
+      "jp": "多分(たぶん)つまらないかも。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "大概 (空格) 無聊 (空格) 也許。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/047-1-sentence.mp3",
+        "audio/daily-100-transcript/047-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 48,
+      "jp": "つまらない？ええ、快適(かいてき)です。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "無聊？ (空格) 誒誒， (空格) 舒適 (空格) 是。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/048-1-sentence.mp3",
+        "audio/daily-100-transcript/048-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 49,
+      "jp": "良い(よい)ルーティン(るーてぃん)は快適(かいてき)なものですよ。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "好的 (空格) 例行公事 (空格) (主詞) (空格) 舒適的 (空格) 東西 (空格) 喔。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/049-1-sentence.mp3",
+        "audio/daily-100-transcript/049-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 50,
+      "jp": "ありがとうございます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "謝謝 (空格) 妳。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/050-1-sentence.mp3",
+        "audio/daily-100-transcript/050-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 51,
+      "jp": "じゃあ、朝(あさ)のルーティン(るーてぃん)を",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那麼， (空格) 早上 (空格) 的 (空格) 例行公事 (空格) (受詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/051-1-sentence.mp3",
+        "audio/daily-100-transcript/051-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 52,
+      "jp": "もう一度(もういちど)教えて(おしえて)ください。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "再一次 (空格) 請 (空格) 告訴 (空格) 我。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/052-1-sentence.mp3",
+        "audio/daily-100-transcript/052-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 53,
+      "jp": "もっと詳しく(くわしく)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "更加 (空格) 詳細。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/053-1-sentence.mp3",
+        "audio/daily-100-transcript/053-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 54,
+      "jp": "わかりました。起きた(おきた)後(あと)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "明白了。 (空格) 起床 (空格) 了 (空格) 之後",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/054-1-sentence.mp3",
+        "audio/daily-100-transcript/054-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 55,
+      "jp": "最初に(さいしょに)することは",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "首先 (空格) 做的 (空格) 事情 (空格) (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/055-1-sentence.mp3",
+        "audio/daily-100-transcript/055-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 56,
+      "jp": "目覚まし時計(めざましどけい)を止める(とめる)ことです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "鬧鐘 (空格) (受詞) (空格) 停止 (空格) 是。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/056-1-sentence.mp3",
+        "audio/daily-100-transcript/056-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 57,
+      "jp": "ああ、そうですね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "啊， 是呢。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/057-1-sentence.mp3",
+        "audio/daily-100-transcript/057-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 58,
+      "jp": "一番(いちばん)最初(さいしょ)の行動(こうどう)、",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "第一 最早 的 行動，",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/058-1-sentence.mp3",
+        "audio/daily-100-transcript/058-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 59,
+      "jp": "目覚まし(めざまし)を止める(とめる)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "鬧鐘 (受詞) 停止。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/059-1-sentence.mp3",
+        "audio/daily-100-transcript/059-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 60,
+      "jp": "そうです。それからベッド(べっど)の上に",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "是的。 然後 床 的 上面",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/060-1-sentence.mp3",
+        "audio/daily-100-transcript/060-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 61,
+      "jp": "一分(いっぷん)くらい座ります(すわります)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "一分鐘 左右 坐下。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/061-1-sentence.mp3",
+        "audio/daily-100-transcript/061-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 62,
+      "jp": "すぐに飛び起きる(とびおきる)のは",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "立刻 彈起床 這件事 (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/062-1-sentence.mp3",
+        "audio/daily-100-transcript/062-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 63,
+      "jp": "好き(すき)じゃないの。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "喜歡 不是 的。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/063-1-sentence.mp3",
+        "audio/daily-100-transcript/063-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 64,
+      "jp": "分かります(わかります)。私もベッド(べっど)に",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "明白。 我 也 床 上",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/064-1-sentence.mp3",
+        "audio/daily-100-transcript/064-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 65,
+      "jp": "座って(すわって)ゆっくり目を覚まします(めをさまします)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "坐著 慢慢地 眼睛 (受詞) 睜開（醒來）。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/065-1-sentence.mp3",
+        "audio/daily-100-transcript/065-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 66,
+      "jp": "まさにそれ。それから立ち上がります(たちあがります)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "正是 那個。 然後 站起來。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/066-1-sentence.mp3",
+        "audio/daily-100-transcript/066-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 67,
+      "jp": "ベッド(べっど)から出ます(でます)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "床 從 出來。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/067-1-sentence.mp3",
+        "audio/daily-100-transcript/067-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 68,
+      "jp": "ベッド(べっど)を整えます(ととのえます)か？",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "床 (受詞) 整理 嗎？",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/068-1-sentence.mp3",
+        "audio/daily-100-transcript/068-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 69,
+      "jp": "えっと、時々(ときどき)です。毎日(まいにち)じゃないです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那個， 有時 是。 每天 不是。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/069-1-sentence.mp3",
+        "audio/daily-100-transcript/069-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 70,
+      "jp": "それって悪い(わるい)ですか？",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那件事 是 壞的 嗎？",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/070-1-sentence.mp3",
+        "audio/daily-100-transcript/070-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 71,
+      "jp": "いえ、悪くない(わるくない)ですよ。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "不， 不壞 喔。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/071-1-sentence.mp3",
+        "audio/daily-100-transcript/071-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 72,
+      "jp": "私はいつもベッド(べっど)を整えます(ととのえます)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "我 總是 床 (受詞) 整理。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/072-1-sentence.mp3",
+        "audio/daily-100-transcript/072-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 73,
+      "jp": "気分(きぶん)が良くなる(よくなる)んです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "心情 (主詞) 變好 (語氣)。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/073-1-sentence.mp3",
+        "audio/daily-100-transcript/073-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 74,
+      "jp": "そうですか。じゃあ、ベッド(べっど)を整えます(ととのえます)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "是嗎。 那麼， 床 (受詞) 整理。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/074-1-sentence.mp3",
+        "audio/daily-100-transcript/074-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 75,
+      "jp": "もっとやるように頑張ります(がんばります)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "更加 去做 努力。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/075-1-sentence.mp3",
+        "audio/daily-100-transcript/075-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 76,
+      "jp": "一日の(いちにちの)小さな(ちいさな)達成感(たっせいかん)ですね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "一天的 微小的 達成感 呢。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/076-1-sentence.mp3",
+        "audio/daily-100-transcript/076-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 77,
+      "jp": "それから、洗面所(せんめんじょ)に歩いて(あるいて)いきます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "然後， 盥洗室 到 走 著去。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/077-1-sentence.mp3",
+        "audio/daily-100-transcript/077-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 78,
+      "jp": "歯(は)を磨きます(みがきます)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "牙齒 (受詞) 刷牙。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/078-1-sentence.mp3",
+        "audio/daily-100-transcript/078-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 79,
+      "jp": "冷たい(つめたい)水(みず)で磨きます(みがきます)か？",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "冰冷 的 水 用 刷 嗎？",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/079-1-sentence.mp3",
+        "audio/daily-100-transcript/079-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 80,
+      "jp": "それとも温かい(あたたかい)水(みず)で？",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "還是說 溫暖 的 水 用？",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/080-1-sentence.mp3",
+        "audio/daily-100-transcript/080-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 81,
+      "jp": "冷たい(つめたい)水(みず)です。もっと目が覚める(めがさめる)んです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "冰冷 的 水 是。 更加 眼睛 (受詞) 醒來 (語氣)。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/081-1-sentence.mp3",
+        "audio/daily-100-transcript/081-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 82,
+      "jp": "私は温かい(あたたかい)水(みず)派(は)です。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "我 是 溫暖 的 水 派。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/082-1-sentence.mp3",
+        "audio/daily-100-transcript/082-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 83,
+      "jp": "私たちは違い(ちがい)ますね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "我們 是 不同 呢。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/083-1-sentence.mp3",
+        "audio/daily-100-transcript/083-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 84,
+      "jp": "とても違い(ちがい)ますね。それから顔(かお)を洗います(あらいます)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "非常 不同 呢。 然後 臉 (受詞) 洗。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/084-1-sentence.mp3",
+        "audio/daily-100-transcript/084-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 85,
+      "jp": "いいですね。私も同じ(おなじ)です。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "真好呢。 我 也 同樣 是。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/085-1-sentence.mp3",
+        "audio/daily-100-transcript/085-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 86,
+      "jp": "石鹸(せっけん)で顔(かお)を洗います(あらいます)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "肥皂 用 臉 (受詞) 洗。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/086-1-sentence.mp3",
+        "audio/daily-100-transcript/086-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 87,
+      "jp": "はい、石鹸(せっけん)で。それから鏡(かがみ)を見ます(みます)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "是的， 肥皂 用。 然後 鏡子 (受詞) 看。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/087-1-sentence.mp3",
+        "audio/daily-100-transcript/087-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 88,
+      "jp": "そして、髪(かみ)を切らなきゃ(きらなきゃ)って思います(おもいます)よね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "然後， 頭髮 (受詞) 必須剪 這樣 想 呢。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/088-1-sentence.mp3",
+        "audio/daily-100-transcript/088-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 89,
+      "jp": "どうして分かった(わかった)んですか？",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "為什麼 知道 了 (語氣) 嗎？",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/089-1-sentence.mp3",
+        "audio/daily-100-transcript/089-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 90,
+      "jp": "毎朝(まいあさ)髪(かみ)を切る(きる)必要(ひつよう)があるって思います(おもいます)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "每天早上 頭髮 (受詞) 剪 必要 (主詞) 有 這樣 想。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/090-1-sentence.mp3",
+        "audio/daily-100-transcript/090-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 91,
+      "jp": "万国(ばんこく)共通(きょうつう)の考え(かんがえ)ですね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "世界 共通 的 想法 呢。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/091-1-sentence.mp3",
+        "audio/daily-100-transcript/091-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 92,
+      "jp": "それからシャワー(しゃわー)？",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "然後 淋浴？",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/092-1-sentence.mp3",
+        "audio/daily-100-transcript/092-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 93,
+      "jp": "はい、熱い(あつい)シャワー(しゃわー)を素早く(すばやく)浴びます(あびます)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "是的， 熱的 淋浴 (受詞) 快速地 沖洗。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/093-1-sentence.mp3",
+        "audio/daily-100-transcript/093-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 94,
+      "jp": "シャワー(しゃわー)で歌い(うたい)ますか？",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "淋浴 中 唱歌 嗎？",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/094-1-sentence.mp3",
+        "audio/daily-100-transcript/094-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 95,
+      "jp": "僕が歌う(うたう)？ああ、いいえ。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "我 唱歌？ 啊， 不。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/095-1-sentence.mp3",
+        "audio/daily-100-transcript/095-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 96,
+      "jp": "僕の歌(うた)は上手(じょうず)じゃないです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "我 的 歌 (主詞) 拿手 不是。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/096-1-sentence.mp3",
+        "audio/daily-100-transcript/096-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 97,
+      "jp": "信じられません(しんじられません)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "不能相信。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/097-1-sentence.mp3",
+        "audio/daily-100-transcript/097-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 98,
+      "jp": "健(けんぞ)さんは素敵(すてき)な声(こえ)だとおもいますよ。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "健先生 是 好的 聲音 這樣 認為 喔。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/098-1-sentence.mp3",
+        "audio/daily-100-transcript/098-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 99,
+      "jp": "多分(たぶん)みつさんだけにですよ。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "大概 只有對Mitsu小姐 喔。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/099-1-sentence.mp3",
+        "audio/daily-100-transcript/099-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 100,
+      "jp": "シャワー(しゃわー)の後はタオル(たおる)で体(からだ)を拭きます(ふきます)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "淋浴 的 之後 毛巾 用 身體 (受詞) 擦拭。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/100-1-sentence.mp3",
+        "audio/daily-100-transcript/100-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 101,
+      "jp": "私は髪(かみ)を乾かし(かわかし)ます。それから服(ふく)を着ます(きます)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "我 頭髮 (受詞) 弄乾。 然後 衣服 (受詞) 穿。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/101-1-sentence.mp3",
+        "audio/daily-100-transcript/101-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 102,
+      "jp": "そうです、服(ふく)を着ます(きます)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "是的， 衣服 (受詞) 穿。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/102-1-sentence.mp3",
+        "audio/daily-100-transcript/102-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 103,
+      "jp": "下着(したぎ)、靴下(くつした)、ズボン(ずぼん)、シャツ(しゃつ)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "內衣、 襪子、 褲子、 襯衫。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/103-1-sentence.mp3",
+        "audio/daily-100-transcript/103-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 104,
+      "jp": "仕事(しごと)にはジーンズ(じーんず)と",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "工作 對於 牛仔褲 和",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/104-1-sentence.mp3",
+        "audio/daily-100-transcript/104-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 105,
+      "jp": "Tシャツ(てぃーしゃつ)って言いました(いいました)ね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "T恤 這樣 說了 呢。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/105-1-sentence.mp3",
+        "audio/daily-100-transcript/105-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 106,
+      "jp": "職場(しょくば)はカジュアル(かじゅある)ですか？",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "職場 (主詞) 休閒 是嗎？",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/106-1-sentence.mp3",
+        "audio/daily-100-transcript/106-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 107,
+      "jp": "はい、とてもカジュアル(かじゅある)です。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "是的， 非常 休閒 是。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/107-1-sentence.mp3",
+        "audio/daily-100-transcript/107-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 108,
+      "jp": "ジーンズ(じーんず)が履ける(はける)んです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "牛仔褲 (受詞) 能穿 (語氣)。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/108-1-sentence.mp3",
+        "audio/daily-100-transcript/108-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 109,
+      "jp": "いいですよ。私(わたし)の仕事(しごと)は、",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "真好呢。 我 的 工作 (主詞) 是，",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/109-1-sentence.mp3",
+        "audio/daily-100-transcript/109-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 110,
+      "jp": "上(うえ)は素敵(すてき)なシャツ(しゃつ)で、",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "上面 (主詞) 漂亮的 襯衫 且，",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/110-1-sentence.mp3",
+        "audio/daily-100-transcript/110-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 111,
+      "jp": "下(した)はパジャマ(ぱじゃま)のズボン(ずぼん)です。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "下面 (主詞) 睡衣 的 褲子 是。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/111-1-sentence.mp3",
+        "audio/daily-100-transcript/111-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 112,
+      "jp": "本当(ほんとう)ですか？それは面白い(おもしろい)ですね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "真的 嗎？ 那個 (主詞) 有趣 呢。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/112-1-sentence.mp3",
+        "audio/daily-100-transcript/112-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 113,
+      "jp": "秘密(ひみつ)です。生徒(せいと)さんたちには",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "秘密 是。 學生們 對於",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/113-1-sentence.mp3",
+        "audio/daily-100-transcript/113-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 114,
+      "jp": "言わ(いわ)ないでくださいね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "請不要 說 喔。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/114-1-sentence.mp3",
+        "audio/daily-100-transcript/114-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 115,
+      "jp": "秘密(ひみつ)は守り(まもり)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "秘密 (主詞) 會守住。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/115-1-sentence.mp3",
+        "audio/daily-100-transcript/115-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 116,
+      "jp": "じゃあ、服(ふく)を着(き)たら朝(あさ)ごはんですね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那麼， 衣服 (受詞) 穿了之後 早餐 呢。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/116-1-sentence.mp3",
+        "audio/daily-100-transcript/116-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 117,
+      "jp": "あなたはもう作り(つくり)ましたね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "你 是 已經 製作 了 呢。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/117-1-sentence.mp3",
+        "audio/daily-100-transcript/117-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 118,
+      "jp": "大きな(おおきな)朝(あさ)ごはん。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "豐盛的 早餐。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/118-1-sentence.mp3",
+        "audio/daily-100-transcript/118-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 119,
+      "jp": "はい、フライパン(ふらいぱん)で卵(たまご)を焼い(やい)て、",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "是的， 平底鍋 用 蛋 (受詞) 煎 且，",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/119-1-sentence.mp3",
+        "audio/daily-100-transcript/119-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 120,
+      "jp": "パン(ぱん)をトースター(とーすたー)に入れ(いれ)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "麵包 (受詞) 烤箱 進入（放入）。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/120-1-sentence.mp3",
+        "audio/daily-100-transcript/120-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 121,
+      "jp": "トースト(とーすと)、美味し(おいし)そうですね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "吐司， 美味 起來 呢（看起來很好吃）。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/121-1-sentence.mp3",
+        "audio/daily-100-transcript/121-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 122,
+      "jp": "私(わたし)は納豆(なっとう)ご飯(ごはん)と",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "我 是 納豆 飯 和",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/122-1-sentence.mp3",
+        "audio/daily-100-transcript/122-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 123,
+      "jp": "ヨーグルト(よーぐると)だけです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "優格 只有。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/123-1-sentence.mp3",
+        "audio/daily-100-transcript/123-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 124,
+      "jp": "とても早い(はやい)です。早い(はやい)のもいいですね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "非常 快 是。 快 的 事情 (主詞) 也 好 呢。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/124-1-sentence.mp3",
+        "audio/daily-100-transcript/124-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 125,
+      "jp": "テーブル(てーぶる)で食べ(たべ)ますか？",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "餐桌 在 吃 嗎？",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/125-1-sentence.mp3",
+        "audio/daily-100-transcript/125-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 126,
+      "jp": "いえ、キッチン(きっちん)で立っ(たっ)て食べ(たべ)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "不， 廚房 在 站著 吃。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/126-1-sentence.mp3",
+        "audio/daily-100-transcript/126-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 127,
+      "jp": "悪い(わるい)習慣(しゅうかん)ですね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "壞 的 習慣 呢。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/127-1-sentence.mp3",
+        "audio/daily-100-transcript/127-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 128,
+      "jp": "僕(ぼく)は小さな(ちいさな)テーブル(てーぶる)に座っ(すわっ)て、",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "我 是 微小的 桌子 於 坐著，",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/128-1-sentence.mp3",
+        "audio/daily-100-transcript/128-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 129,
+      "jp": "窓(まど)の外(そと)を見(み)ます。緑茶(りょくちゃ)を飲み(のみ)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "窗戶 的 外面 (受詞) 看。 綠茶 (受詞) 喝。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/129-1-sentence.mp3",
+        "audio/daily-100-transcript/129-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 130,
+      "jp": "それは素敵(すてき)な習慣(しゅうかん)ですね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那個 (主詞) 好的 習慣 呢。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/130-1-sentence.mp3",
+        "audio/daily-100-transcript/130-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 131,
+      "jp": "平和(へいわ)な時間(じかん)。そうなんです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "和平 的 時間。 是這樣的。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/131-1-sentence.mp3",
+        "audio/daily-100-transcript/131-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 132,
+      "jp": "それから問題(もんだい)が始まり(はじまり)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "然後 問題 (主詞) 開始。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/132-1-sentence.mp3",
+        "audio/daily-100-transcript/132-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 133,
+      "jp": "家(いえ)を出る(でる)問題(もんだい)です。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "家 (受詞) 出去 的 問題 是。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/133-1-sentence.mp3",
+        "audio/daily-100-transcript/133-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 134,
+      "jp": "自分(じぶん)のものが、見つから(みつから)ないんです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "自己 的 東西 (主詞)， 找不 到 (語氣)。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/134-1-sentence.mp3",
+        "audio/daily-100-transcript/134-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 135,
+      "jp": "何(なに)をなくす(なくす)んですか？",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "什麼 (受詞) 弄丟 (語氣) 嗎？",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/135-1-sentence.mp3",
+        "audio/daily-100-transcript/135-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 136,
+      "jp": "鍵(かぎ)、財布(さいふ)、スマホ(すまほ)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "鑰匙、 錢包、 智慧型手機。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/136-1-sentence.mp3",
+        "audio/daily-100-transcript/136-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 137,
+      "jp": "毎日(まいにち)探し(さがし)ています。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "每天 正在 尋找。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/137-1-sentence.mp3",
+        "audio/daily-100-transcript/137-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 138,
+      "jp": "特別な(とくべつな)場所(ばしょ)が必要(ひつよう)ですよ。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "特別 的 場所 (主詞) 必要 喔。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/138-1-sentence.mp3",
+        "audio/daily-100-transcript/138-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 139,
+      "jp": "玄関(げんかん)のそばにお皿(おさら)を置く(おく)とか。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "玄關 的 旁邊 於 盤子 (受詞) 放置 等等。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/139-1-sentence.mp3",
+        "audio/daily-100-transcript/139-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 140,
+      "jp": "お皿(おさら)？それはいいアイデア(あいであ)ですね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "盤子？ 那 (主詞) 是 好的 點子 呢。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/140-1-sentence.mp3",
+        "audio/daily-100-transcript/140-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 141,
+      "jp": "お皿(おさら)に鍵(かぎ)を入れ(いれ)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "盤子 於 鑰匙 (受詞) 放入。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/141-1-sentence.mp3",
+        "audio/daily-100-transcript/141-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 142,
+      "jp": "それから家(いえ)を出(で)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "然後 家 (受詞) 出去。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/142-1-sentence.mp3",
+        "audio/daily-100-transcript/142-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 143,
+      "jp": "ドア(どあ)に鍵(かぎ)をかけます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "門 於 鑰匙 (受詞) 掛上（鎖門）。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/143-1-sentence.mp3",
+        "audio/daily-100-transcript/143-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 144,
+      "jp": "とても大事(だいじ)ですね。ドア(どあ)に鍵(かぎ)をかける。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "非常 重要 呢。 門 於 鑰匙 (受詞) 掛上。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/144-1-sentence.mp3",
+        "audio/daily-100-transcript/144-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 145,
+      "jp": "それから車(くるま)まで歩い(あるい)て、",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "然後 車子 直到 走著，",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/145-1-sentence.mp3",
+        "audio/daily-100-transcript/145-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 146,
+      "jp": "車(くるま)に乗り込み(のりこみ)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "車子 於 乘入。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/146-1-sentence.mp3",
+        "audio/daily-100-transcript/146-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 147,
+      "jp": "エンジン(えんじん)をかけます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "引擎 (受詞) 開啟（發動）。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/147-1-sentence.mp3",
+        "audio/daily-100-transcript/147-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 148,
+      "jp": "仕事場(しごとば)まで運転(うんてん)するんですね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "工作室 直到 駕駛 (語氣) 呢。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/148-1-sentence.mp3",
+        "audio/daily-100-transcript/148-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 149,
+      "jp": "渋滞(じゅうたい)はひどいですか？",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "塞車 (主詞) 嚴重 嗎？",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/149-1-sentence.mp3",
+        "audio/daily-100-transcript/149-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 150,
+      "jp": "時々(ときどき)交通量(こうつうりょう)が多い(おおい)時は、",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "有時 交通量 (主詞) 多 的 時候 (主詞)，",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/150-1-sentence.mp3",
+        "audio/daily-100-transcript/150-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 151,
+      "jp": "ラジオ(らじお)を聞き(きき)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "收音機 (受詞) 聽。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/151-1-sentence.mp3",
+        "audio/daily-100-transcript/151-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 152,
+      "jp": "ニュース(にゅーす)ですか？音楽(おんがく)ですか？",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "新聞 是嗎？ 音樂 是嗎？",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/152-1-sentence.mp3",
+        "audio/daily-100-transcript/152-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 153,
+      "jp": "朝(あさ)の音楽(おんがく)が好き(すき)です。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "早上 的 音樂 (主詞) 喜歡 是。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/153-1-sentence.mp3",
+        "audio/daily-100-transcript/153-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 154,
+      "jp": "机(つくえ)についたら、パソコン(ぱそこん)の電源(でんげん)を入れ(いれ)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "桌子 到達 之後， 電腦 的 電源 (受詞) 放入（開啟）。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/154-1-sentence.mp3",
+        "audio/daily-100-transcript/154-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 155,
+      "jp": "カレンダー(かれんだー)をチェック(ちぇっく)します。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "日曆 (受詞) 檢查。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/155-1-sentence.mp3",
+        "audio/daily-100-transcript/155-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 156,
+      "jp": "メール(めーる)をチェック(ちぇっく)します。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "郵件 (受詞) 檢查。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/156-1-sentence.mp3",
+        "audio/daily-100-transcript/156-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 157,
+      "jp": "重要な(じゅうような)ものに返信(へんしん)します。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "重要 的 東西 對於 回信。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/157-1-sentence.mp3",
+        "audio/daily-100-transcript/157-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 158,
+      "jp": "やることリスト(りすと)を作ります(つくります)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "要做的事 清單 (受詞) 製作。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/158-1-sentence.mp3",
+        "audio/daily-100-transcript/158-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 159,
+      "jp": "世界中(せかいじゅう)の生徒(せいと)さんと話します(はなします)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "全世界 的 學生 和 說話。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/159-1-sentence.mp3",
+        "audio/daily-100-transcript/159-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 160,
+      "jp": "十時(じゅうじ)に会議(かいぎ)があります。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "十點 於 會議 (主詞) 有。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/160-1-sentence.mp3",
+        "audio/daily-100-transcript/160-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 161,
+      "jp": "これが私の進捗(しんちょく)状況(じょうきょう)です。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "這 是 我 的 進度 狀況。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/161-1-sentence.mp3",
+        "audio/daily-100-transcript/161-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 162,
+      "jp": "助け(たすけ)が必要です(ひつようです)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "幫助 (主詞) 必要 是。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/162-1-sentence.mp3",
+        "audio/daily-100-transcript/162-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 163,
+      "jp": "同僚(どうりょう)と世間話(せけんばなし)をします。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "同僚（同事） 和 閒聊 (受詞) 進行。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/163-1-sentence.mp3",
+        "audio/daily-100-transcript/163-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 164,
+      "jp": "一時に(いちじに)お昼(おひる)を食べます(たべます)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "一點 於 午餐 (受詞) 吃。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/164-1-sentence.mp3",
+        "audio/daily-100-transcript/164-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 165,
+      "jp": "休憩(きゅうけい)が必要(ひつよう)ですよ。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "休息 (主詞) 必要 喔。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/165-1-sentence.mp3",
+        "audio/daily-100-transcript/165-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 166,
+      "jp": "午後(ごご)のスランプ(すらんぷ)ですね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "下午 的 倦怠（低潮） 呢。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/166-1-sentence.mp3",
+        "audio/daily-100-transcript/166-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 167,
+      "jp": "五時(ごじ)にパソコン(ぱそこん)を切り(きり)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "五點 於 電腦 (受詞) 切斷（關閉）。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/167-1-sentence.mp3",
+        "audio/daily-100-transcript/167-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 168,
+      "jp": "友達(ともだち)にさようならを言います(いいます)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "朋友 對於 再見 (受詞) 說。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/168-1-sentence.mp3",
+        "audio/daily-100-transcript/168-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 169,
+      "jp": "バッグ(ばっぐ)を詰め(つめ)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "包包 (受詞) 填裝（收拾）。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/169-1-sentence.mp3",
+        "audio/daily-100-transcript/169-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 170,
+      "jp": "ポッドキャスト(ぽっどきゃすと)を聞き(きき)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "播客 (受詞) 聽。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/170-1-sentence.mp3",
+        "audio/daily-100-transcript/170-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 171,
+      "jp": "家(いえ)に着い(つい)て「ただいま」と言います(いいます)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "家 於 到達 之後 「我回來了」 這樣 說。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/171-1-sentence.mp3",
+        "audio/daily-100-transcript/171-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 172,
+      "jp": "靴(くつ)を脱い(ぬい)で、着替え(きがえ)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "鞋子 (受詞) 脫掉 之後， 換衣服。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/172-1-sentence.mp3",
+        "audio/daily-100-transcript/172-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 173,
+      "jp": "冷蔵庫(れいぞうこ)をチェック(ちぇっく)します。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "冰箱 (受詞) 檢查。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/173-1-sentence.mp3",
+        "audio/daily-100-transcript/173-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 174,
+      "jp": "スーパー(すーぱー)で買い物(かいもの)をします。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "超市 於 買東西 (受詞) 進行。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/174-1-sentence.mp3",
+        "audio/daily-100-transcript/174-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 175,
+      "jp": "お皿(おさら)に鍵(かぎ)をしまい(しまい)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "盤子 於 鑰匙 (受詞) 收拾（放好）。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/175-1-sentence.mp3",
+        "audio/daily-100-transcript/175-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 176,
+      "jp": "お湯(おゆ)を沸かし(わかし)て、野菜(やさい)を切り(きり)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "熱水 (受詞) 燒開 之後， 蔬菜 (受詞) 切。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/176-1-sentence.mp3",
+        "audio/daily-100-transcript/176-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 177,
+      "jp": "テレビ(てれび)の前(まえ)で食べ(たべ)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "電視 的 前面 於 吃。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/177-1-sentence.mp3",
+        "audio/daily-100-transcript/177-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 178,
+      "jp": "お皿(おさら)を洗い(あらい)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "盤子 (受詞) 洗。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/178-1-sentence.mp3",
+        "audio/daily-100-transcript/178-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 179,
+      "jp": "ソファー(そふぁー)でリラックス(りらっくす)します。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "沙發 於 放鬆。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/179-1-sentence.mp3",
+        "audio/daily-100-transcript/179-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 180,
+      "jp": "両親(りょうしん)に電話(でんわ)をします。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "父母 對於 電話 (受詞) 撥打。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/180-1-sentence.mp3",
+        "audio/daily-100-transcript/180-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 181,
+      "jp": "ミステリー(みすてりー)小説(しょうせつ)を読み(よみ)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "推理 小說 (受詞) 閱讀。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/181-1-sentence.mp3",
+        "audio/daily-100-transcript/181-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 182,
+      "jp": "スキンケア(すきんけあ)をして、化粧水(けしょうすい)をつけます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "護膚 進行 之後， 化妝水 (受詞) 塗抹。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/182-1-sentence.mp3",
+        "audio/daily-100-transcript/182-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 183,
+      "jp": "目覚まし(めざまし)をセット(せっと)します。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "鬧鐘 (受詞) 設定。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/183-1-sentence.mp3",
+        "audio/daily-100-transcript/183-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 184,
+      "jp": "電気(でんき)を消し(けし)て、おやすみなさい。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "電燈 (受詞) 關掉 之後， 晚安。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/184-1-sentence.mp3",
+        "audio/daily-100-transcript/184-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 185,
+      "jp": "眠り(ねむり)に落ち(おち)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "睡眠 於 墜入。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/185-1-sentence.mp3",
+        "audio/daily-100-transcript/185-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 186,
+      "jp": "良い(よい)サイクル(さいくる)だと思います(おもいます)。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "好的 循環 這樣 認為。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/186-1-sentence.mp3",
+        "audio/daily-100-transcript/186-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 187,
+      "jp": "何時(なんじ)に起き(おき)ますか？",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "幾點 於 起來 嗎？",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/187-1-sentence.mp3",
+        "audio/daily-100-transcript/187-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 188,
+      "jp": "七時(ななじ)に起き(おき)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "七點 於 起來。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/188-1-sentence.mp3",
+        "audio/daily-100-transcript/188-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 189,
+      "jp": "「何時(なんじ)に」はとても便利(べんり)です。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "「幾點 於」 是 非常 便利。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/189-1-sentence.mp3",
+        "audio/daily-100-transcript/189-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 190,
+      "jp": "最初(さいしょ)にすることは何(なに)ですか？",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "最初 做的 事情 (主詞) 什麼 是嗎？",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/190-1-sentence.mp3",
+        "audio/daily-100-transcript/190-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 191,
+      "jp": "コップ一杯(いっぱい)の水を(みずを)飲む(のむ)ことです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "杯子 一杯 的 水 (受詞) 喝 這件事 是。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/191-1-sentence.mp3",
+        "audio/daily-100-transcript/191-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 192,
+      "jp": "普段(ふだん)何(なに)を食べ(たべ)ますか？",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "平時 什麼 (受詞) 吃 嗎？",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/192-1-sentence.mp3",
+        "audio/daily-100-transcript/192-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 193,
+      "jp": "準備(じゅんび)にどのくらいかかり(かかり)ますか？",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "準備 於 多少 左右 花費 嗎？",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/193-1-sentence.mp3",
+        "audio/daily-100-transcript/193-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 194,
+      "jp": "三十分(さんじゅうぷん)かかり(かかり)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "三十分鐘 花費。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/194-1-sentence.mp3",
+        "audio/daily-100-transcript/194-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 195,
+      "jp": "どうやって職場(しょくば)に行き(いき)ますか？",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "如何 做 職場 於 去 嗎？",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/195-1-sentence.mp3",
+        "audio/daily-100-transcript/195-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 196,
+      "jp": "車(くるま)で行き(いき)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "車子 用 去。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/196-1-sentence.mp3",
+        "audio/daily-100-transcript/196-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 197,
+      "jp": "何時(なんじ)に仕事(しごと)を始め(はじめ)ますか？",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "幾點 於 工作 (受詞) 開始 嗎？",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/197-1-sentence.mp3",
+        "audio/daily-100-transcript/197-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 198,
+      "jp": "鍵(かぎ)が見つかり(みつかり)ません。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "鑰匙 (主詞) 找 不到。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/198-1-sentence.mp3",
+        "audio/daily-100-transcript/198-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 199,
+      "jp": "どこに置き(おき)ましたか？",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "哪裡 於 放置 了嗎？",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/199-1-sentence.mp3",
+        "audio/daily-100-transcript/199-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 200,
+      "jp": "午後に(ごごに)コーヒー(こーひー)を飲み(のみ)ますか？",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "下午 於 咖啡 (受詞) 喝 嗎？",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/200-1-sentence.mp3",
+        "audio/daily-100-transcript/200-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 201,
+      "jp": "五時半(ごじはん)頃(ごろ)終わり(おわり)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "五點半 左右 結束。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/201-1-sentence.mp3",
+        "audio/daily-100-transcript/201-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 202,
+      "jp": "仕事(しごと)の後(あと)何を(なにを)しますか？",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "工作 的 之後 什麼 (受詞) 做 嗎？",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/202-1-sentence.mp3",
+        "audio/daily-100-transcript/202-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 203,
+      "jp": "時々(ときどき)ジム(じむ)に行き(いき)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "有時 健身房 於 去。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/203-1-sentence.mp3",
+        "audio/daily-100-transcript/203-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 204,
+      "jp": "洗濯(せんたく)をしなければなりません。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "洗衣服 (受詞) 必須 做。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/204-1-sentence.mp3",
+        "audio/daily-100-transcript/204-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 205,
+      "jp": "今夜(こんや)ラーメン(らーめん)を作る(つくる)つもりです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "今晚 拉麵 (受詞) 製作 打算。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/205-1-sentence.mp3",
+        "audio/daily-100-transcript/205-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 206,
+      "jp": "お皿(おさら)洗い(あらい)を手伝っ(てつだっ)てくれませんか？",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "盤子 清洗 (受詞) 幫忙 給我嗎？",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/206-1-sentence.mp3",
+        "audio/daily-100-transcript/206-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 207,
+      "jp": "テレビ(てれび)を見る(みる)のが好き(すき)です。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "電視 (受詞) 看 的這件事 (主詞) 喜歡 是。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/207-1-sentence.mp3",
+        "audio/daily-100-transcript/207-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 208,
+      "jp": "十一時(じゅういちじ)までに寝(ね)ようとしています。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "十一點 之前 試圖 睡覺 正在。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/208-1-sentence.mp3",
+        "audio/daily-100-transcript/208-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 209,
+      "jp": "昨夜(さくや)眠れ(ねむれ)ませんでした。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "昨晚 睡 不著 了。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/209-1-sentence.mp3",
+        "audio/daily-100-transcript/209-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 210,
+      "jp": "早く(はやく)起き(おき)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "早早地 起來。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/210-1-sentence.mp3",
+        "audio/daily-100-transcript/210-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 211,
+      "jp": "遅く(おそく)起き(おき)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "晚晚地 起來。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/211-1-sentence.mp3",
+        "audio/daily-100-transcript/211-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 212,
+      "jp": "目覚まし(めざまし)を止め(とめ)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "鬧鐘 (受詞) 停止。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/212-1-sentence.mp3",
+        "audio/daily-100-transcript/212-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 213,
+      "jp": "ベッド(べっど)から出(で)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "床 從 出來。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/213-1-sentence.mp3",
+        "audio/daily-100-transcript/213-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 214,
+      "jp": "腕(うで)を伸ばし(のばし)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "手臂 (受詞) 伸展。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/214-1-sentence.mp3",
+        "audio/daily-100-transcript/214-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 215,
+      "jp": "ベッド(べっど)を整え(ととのえ)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "床 (受詞) 整理。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/215-1-sentence.mp3",
+        "audio/daily-100-transcript/215-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 216,
+      "jp": "歯(は)を磨き(みがき)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "牙齒 (受詞) 刷牙。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/216-1-sentence.mp3",
+        "audio/daily-100-transcript/216-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 217,
+      "jp": "顔(かお)を洗い(あらいます)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "臉 (受詞) 洗。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/217-1-sentence.mp3",
+        "audio/daily-100-transcript/217-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 218,
+      "jp": "シャワー(しゃわー)を浴び(あび)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "淋浴 (受詞) 沖洗。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/218-1-sentence.mp3",
+        "audio/daily-100-transcript/218-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 219,
+      "jp": "お風呂(おふろ)に入り(はいり)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "浴缸 於 進入（泡澡）。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/219-1-sentence.mp3",
+        "audio/daily-100-transcript/219-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 220,
+      "jp": "髪(かみ)を乾かし(かわかし)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "頭髮 (受詞) 弄乾。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/220-1-sentence.mp3",
+        "audio/daily-100-transcript/220-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 221,
+      "jp": "服(ふく)を着(き)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "衣服 (受詞) 穿上。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/221-1-sentence.mp3",
+        "audio/daily-100-transcript/221-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 222,
+      "jp": "服(ふく)を脱ぎ(ぬぎ)ます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "衣服 (受詞) 脫下。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/daily-100-transcript/222-1-sentence.mp3",
+        "audio/daily-100-transcript/222-2-literal.mp3"
+      ]
+    }
+  ]
+}
