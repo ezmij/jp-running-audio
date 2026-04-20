@@ -78,13 +78,60 @@ function bindEvents() {
   $("back-btn").addEventListener("click", goHome);
   $("prev-btn").addEventListener("click", () => prevTrack(true));
   $("next-btn").addEventListener("click", () => nextTrack(true));
-  $("replay-btn").addEventListener("click", toggleReplay);
+  $("replay-btn").addEventListener("click", (e) => {
+    if (state.suppressReplayClick) {
+      state.suppressReplayClick = false;
+      e.preventDefault();
+      return;
+    }
+    toggleReplay();
+  });
   $("mode-indicator").addEventListener("click", () => {
     state.mode = state.mode === "tap" ? "continuous" : "tap";
     localStorage.setItem("mode", state.mode);
     updateModeIndicator();
   });
   $("speed-btn").addEventListener("click", cycleSpeed);
+
+  // Position slider: preview on drag, seek on release
+  const slider = $("position-slider");
+  slider.addEventListener("input", (e) => {
+    updatePreview(parseInt(e.target.value, 10) - 1);
+  });
+  slider.addEventListener("change", (e) => {
+    const newIdx = parseInt(e.target.value, 10) - 1;
+    clearSegmentTimer();
+    state.currentTrackIdx = newIdx;
+    state.currentSegmentIdx = 0;
+    renderTrack();
+    playCurrent();
+    updateMediaSession();
+  });
+
+  // Long-press replay button = restart sheet from idx 0
+  let pressTimer = null;
+  const replayBtn = $("replay-btn");
+  const startPress = () => {
+    clearTimeout(pressTimer);
+    pressTimer = setTimeout(() => {
+      pressTimer = null;
+      if (!state.currentSheet) return;
+      state.suppressReplayClick = true;
+      clearSegmentTimer();
+      state.currentTrackIdx = 0;
+      state.currentSegmentIdx = 0;
+      renderTrack();
+      playCurrent();
+      updateMediaSession();
+    }, 600);
+  };
+  const cancelPress = () => {
+    if (pressTimer) { clearTimeout(pressTimer); pressTimer = null; }
+  };
+  replayBtn.addEventListener("pointerdown", startPress);
+  replayBtn.addEventListener("pointerup", cancelPress);
+  replayBtn.addEventListener("pointerleave", cancelPress);
+  replayBtn.addEventListener("pointercancel", cancelPress);
 
   // Apply persisted speed on load
   applySpeed();
@@ -104,9 +151,14 @@ async function openSheet(slug) {
   const res = await fetch(`data/${slug}.json`, { cache: "no-cache" });
   const manifest = await res.json();
   state.currentSheet = manifest;
-  state.currentTrackIdx = 0;
+  // Restore last position for this sheet (auto-resume)
+  const savedIdx = parseInt(localStorage.getItem(`pos:${slug}`), 10);
+  state.currentTrackIdx = Number.isFinite(savedIdx) && savedIdx >= 0 && savedIdx < manifest.total
+    ? savedIdx : 0;
   state.currentSegmentIdx = 0;
+  localStorage.setItem("lastSheet", slug);
   showPlayer();
+  setupSlider();
   renderTrack();
   playCurrent();
   setupMediaSession();
@@ -115,6 +167,11 @@ async function openSheet(slug) {
     const urls = manifest.tracks.flatMap((t) => t.segments);
     navigator.serviceWorker.controller.postMessage({ type: "precache", urls });
   }
+}
+
+function savePosition() {
+  if (!state.currentSheet) return;
+  localStorage.setItem(`pos:${state.currentSheet.slug}`, state.currentTrackIdx);
 }
 
 function showPlayer() {
@@ -172,6 +229,29 @@ function renderTrack() {
   $("example").textContent = t.example;
   $("literal").textContent = t.example_literal;
   renderDots();
+  syncSlider();
+  savePosition();
+}
+
+function setupSlider() {
+  const slider = $("position-slider");
+  slider.min = 1;
+  slider.max = state.currentSheet.total;
+  slider.value = state.currentTrackIdx + 1;
+  updatePreview(state.currentTrackIdx);
+}
+
+function syncSlider() {
+  const slider = $("position-slider");
+  slider.value = state.currentTrackIdx + 1;
+  updatePreview(state.currentTrackIdx);
+}
+
+function updatePreview(idx) {
+  const t = state.currentSheet?.tracks[idx];
+  if (!t) return;
+  $("preview-pos").textContent = `${idx + 1} / ${state.currentSheet.total}`;
+  $("preview-cat").textContent = [t.category, t.level].filter(Boolean).join(" · ");
 }
 
 function renderDots() {

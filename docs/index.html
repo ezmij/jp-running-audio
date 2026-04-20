@@ -49,9 +49,17 @@
       <div class="segment-dots" id="segment-dots"></div>
     </div>
 
+    <div class="position-bar">
+      <div class="position-info">
+        <span id="preview-pos"></span>
+        <span id="preview-cat"></span>
+      </div>
+      <input id="position-slider" type="range" min="1" max="1" value="1" step="1" aria-label="跳到第幾詞">
+    </div>
+
     <div class="controls">
       <button id="prev-btn" class="ctrl" aria-label="上一詞">⏮</button>
-      <button id="replay-btn" class="ctrl primary" aria-label="重播">▶</button>
+      <button id="replay-btn" class="ctrl primary" aria-label="重播／長按回到第一詞">▶</button>
       <button id="next-btn" class="ctrl" aria-label="下一詞">⏭</button>
     </div>
   </section>

@@ -1,6 +1,6 @@
 // Service Worker: cache-first for PWA shell + audio segments.
 // Version bump the name to invalidate caches on deploy.
-const CACHE = "jp-running-v2";
+const CACHE = "jp-running-v3";
 const SHELL = [
   "./",
   "index.html",
