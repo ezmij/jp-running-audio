@@ -120,15 +120,15 @@ def row_segments(row: dict) -> list[tuple[str, str, dict]]:
     else:
         word_text = row["jp"]
     segs.append(("word", word_text, JA_VOICE))
-    # 2. chinese meaning
+    # 2. chinese meaning (no prefix — Masa preference)
     if row.get("cn"):
-        segs.append(("meaning", f"中文意思：{row['cn']}", ZH_VOICE))
-    # 3. japanese example
+        segs.append(("meaning", row["cn"], ZH_VOICE))
+    # 3. japanese example (keep 例句 prefix for JA cue)
     if row.get("example"):
         segs.append(("example", f"例句：{row['example']}", JA_VOICE))
-    # 4. literal zh
+    # 4. literal zh (no prefix)
     if row.get("example_literal"):
-        segs.append(("literal", f"直譯：{row['example_literal']}", ZH_VOICE))
+        segs.append(("literal", row["example_literal"], ZH_VOICE))
     return segs
 
 

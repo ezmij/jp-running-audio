@@ -3,12 +3,15 @@
 // - Plays 4-segment audio sequences per track
 // - Hooks MediaSession API for AirPods/lock-screen controls
 
+const SPEEDS = [0.7, 0.85, 1.0, 1.1, 1.3];
+
 const state = {
   sheets: [],
   currentSheet: null,      // manifest object
   currentTrackIdx: 0,
   currentSegmentIdx: 0,
   mode: localStorage.getItem("mode") || "tap", // "tap" | "continuous"
+  speed: parseFloat(localStorage.getItem("speed")) || 1.0,
   isPlaying: false,
   segmentTimer: null,      // setTimeout between segments; cleared on pause
 };
@@ -81,6 +84,11 @@ function bindEvents() {
     localStorage.setItem("mode", state.mode);
     updateModeIndicator();
   });
+  $("speed-btn").addEventListener("click", cycleSpeed);
+
+  // Apply persisted speed on load
+  applySpeed();
+  updateSpeedIndicator();
 
   audio.addEventListener("ended", onSegmentEnded);
   audio.addEventListener("play", () => setPlayingUI(true));
@@ -122,7 +130,28 @@ function goHome() {
 }
 
 function updateModeIndicator() {
-  $("mode-indicator").textContent = state.mode === "tap" ? "點擊推進" : "連播";
+  $("mode-indicator").textContent = state.mode === "tap" ? "點擊" : "連播";
+}
+
+function updateSpeedIndicator() {
+  const v = state.speed;
+  $("speed-btn").textContent = (v === 1 ? "1.0" : String(v)) + "×";
+}
+
+function applySpeed() {
+  audio.playbackRate = state.speed;
+  // preservesPitch avoids chipmunk effect at >1x
+  if ("preservesPitch" in audio) audio.preservesPitch = true;
+  // Safari legacy
+  if ("webkitPreservesPitch" in audio) audio.webkitPreservesPitch = true;
+}
+
+function cycleSpeed() {
+  const idx = SPEEDS.indexOf(state.speed);
+  state.speed = SPEEDS[(idx + 1) % SPEEDS.length];
+  localStorage.setItem("speed", state.speed);
+  applySpeed();
+  updateSpeedIndicator();
 }
 
 // ----- Rendering -----
@@ -165,6 +194,7 @@ function playCurrent() {
   if (!t) return;
   const url = t.segments[state.currentSegmentIdx];
   audio.src = url;
+  applySpeed();
   audio.play().catch((e) => console.warn("play error", e));
   renderDots();
 }
