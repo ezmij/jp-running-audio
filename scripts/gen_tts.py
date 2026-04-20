@@ -46,7 +46,7 @@ MANIFEST_DIR = WEB_DIR / "data"
 
 TTS_ENDPOINT = "https://texttospeech.googleapis.com/v1/text:synthesize"
 JA_VOICE = {"languageCode": "ja-JP", "name": "ja-JP-Neural2-B"}
-ZH_VOICE = {"languageCode": "cmn-TW", "name": "cmn-TW-Wavenet-A"}
+ZH_VOICE = {"languageCode": "cmn-TW", "name": "cmn-TW-Standard-A"}
 QUOTA_PROJECT = "yuningweb"
 
 
