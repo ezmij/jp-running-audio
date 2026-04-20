@@ -1,0 +1,2468 @@
+{
+  "sheet": "北海道BD農法",
+  "slug": "bd-nouhou",
+  "total": 154,
+  "tracks": [
+    {
+      "id": 1,
+      "jp": "バイオダイナミック農法",
+      "reading": "ばいおだいなみっく のうほう",
+      "cn": "BD農法",
+      "example": "これから、バイオダイナミック農法の基礎を学びます。",
+      "example_literal": "接下來、BD農法的 基礎(受詞) 學習。",
+      "category": "BD核心",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/001-1-word.mp3",
+        "audio/bd-nouhou/001-2-meaning.mp3",
+        "audio/bd-nouhou/001-3-example.mp3",
+        "audio/bd-nouhou/001-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 2,
+      "jp": "調合剤",
+      "reading": "ちょうごうざい",
+      "cn": "配方、製劑",
+      "example": "今日、新しい調合剤を作ります。",
+      "example_literal": "今天、新的 配方(受詞) 製作。",
+      "category": "BD核心",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/002-1-word.mp3",
+        "audio/bd-nouhou/002-2-meaning.mp3",
+        "audio/bd-nouhou/002-3-example.mp3",
+        "audio/bd-nouhou/002-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 3,
+      "jp": "500番",
+      "reading": "ごひゃくばん",
+      "cn": "500號牛糞配方",
+      "example": "500番は土の生命力を高めます。",
+      "example_literal": "500號(主題) 泥土的 生命力(受詞) 提高。",
+      "category": "BD核心",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/003-1-word.mp3",
+        "audio/bd-nouhou/003-2-meaning.mp3",
+        "audio/bd-nouhou/003-3-example.mp3",
+        "audio/bd-nouhou/003-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 4,
+      "jp": "501番",
+      "reading": "ごひゃくいちばん",
+      "cn": "501號水晶配方",
+      "example": "501番の調合剤を準備してください。",
+      "example_literal": "501號的 配方(受詞) 準備 請。",
+      "category": "BD核心",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/004-1-word.mp3",
+        "audio/bd-nouhou/004-2-meaning.mp3",
+        "audio/bd-nouhou/004-3-example.mp3",
+        "audio/bd-nouhou/004-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 5,
+      "jp": "水晶",
+      "reading": "すいしょう",
+      "cn": "水晶",
+      "example": "水晶を細かい粉にします。",
+      "example_literal": "水晶(受詞) 細微的 粉末 變成。",
+      "category": "BD核心",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/005-1-word.mp3",
+        "audio/bd-nouhou/005-2-meaning.mp3",
+        "audio/bd-nouhou/005-3-example.mp3",
+        "audio/bd-nouhou/005-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 6,
+      "jp": "牛の角",
+      "reading": "うしのつの",
+      "cn": "牛角",
+      "example": "牛の角に堆肥を詰めます。",
+      "example_literal": "牛的角裡 堆肥(受詞) 填裝。",
+      "category": "BD核心",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/006-1-word.mp3",
+        "audio/bd-nouhou/006-2-meaning.mp3",
+        "audio/bd-nouhou/006-3-example.mp3",
+        "audio/bd-nouhou/006-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 7,
+      "jp": "牛糞",
+      "reading": "ぎゅうふん",
+      "cn": "牛糞",
+      "example": "新鮮な牛糞が必要です。",
+      "example_literal": "新鮮的 牛糞(主詞) 需要 的。",
+      "category": "BD核心",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/007-1-word.mp3",
+        "audio/bd-nouhou/007-2-meaning.mp3",
+        "audio/bd-nouhou/007-3-example.mp3",
+        "audio/bd-nouhou/007-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 8,
+      "jp": "堆肥",
+      "reading": "たいひ",
+      "cn": "堆肥",
+      "example": "ここで牛糞の堆肥を作ります。",
+      "example_literal": "在這裡 牛糞的 堆肥(受詞) 製作。",
+      "category": "BD核心",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/008-1-word.mp3",
+        "audio/bd-nouhou/008-2-meaning.mp3",
+        "audio/bd-nouhou/008-3-example.mp3",
+        "audio/bd-nouhou/008-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 9,
+      "jp": "オイリュトミー",
+      "reading": "おいりゅとみー",
+      "cn": "優律思美",
+      "example": "朝、みんなでオイリュトミーをします。",
+      "example_literal": "早上、大家一起 優律思美(受詞) 做。",
+      "category": "BD核心",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/009-1-word.mp3",
+        "audio/bd-nouhou/009-2-meaning.mp3",
+        "audio/bd-nouhou/009-3-example.mp3",
+        "audio/bd-nouhou/009-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 10,
+      "jp": "宇宙",
+      "reading": "うちゅう",
+      "cn": "宇宙",
+      "example": "宇宙のリズムを感じてください。",
+      "example_literal": "宇宙的 節律(受詞) 感受 請。",
+      "category": "BD核心",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/010-1-word.mp3",
+        "audio/bd-nouhou/010-2-meaning.mp3",
+        "audio/bd-nouhou/010-3-example.mp3",
+        "audio/bd-nouhou/010-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 11,
+      "jp": "種まきカレンダー",
+      "reading": "たねまき かれんだー",
+      "cn": "播種日曆",
+      "example": "種まきカレンダーを見てください。",
+      "example_literal": "播種日曆(受詞) 看 請。",
+      "category": "BD核心",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/011-1-word.mp3",
+        "audio/bd-nouhou/011-2-meaning.mp3",
+        "audio/bd-nouhou/011-3-example.mp3",
+        "audio/bd-nouhou/011-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 12,
+      "jp": "根の日",
+      "reading": "ねのひ",
+      "cn": "根群日",
+      "example": "今日は根の日です。",
+      "example_literal": "今天(主題) 根的日子 是。",
+      "category": "BD核心",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/012-1-word.mp3",
+        "audio/bd-nouhou/012-2-meaning.mp3",
+        "audio/bd-nouhou/012-3-example.mp3",
+        "audio/bd-nouhou/012-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 13,
+      "jp": "葉の日",
+      "reading": "はのひ",
+      "cn": "葉群日",
+      "example": "明日は葉の日です。",
+      "example_literal": "明天(主題) 葉的日子 是。",
+      "category": "BD核心",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/013-1-word.mp3",
+        "audio/bd-nouhou/013-2-meaning.mp3",
+        "audio/bd-nouhou/013-3-example.mp3",
+        "audio/bd-nouhou/013-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 14,
+      "jp": "花の日",
+      "reading": "はなのひ",
+      "cn": "花群日",
+      "example": "花の日に作業をします。",
+      "example_literal": "花的日子在 作業(受詞) 做。",
+      "category": "BD核心",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/014-1-word.mp3",
+        "audio/bd-nouhou/014-2-meaning.mp3",
+        "audio/bd-nouhou/014-3-example.mp3",
+        "audio/bd-nouhou/014-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 15,
+      "jp": "実の日",
+      "reading": "みのひ",
+      "cn": "果群日",
+      "example": "実の日に収穫します。",
+      "example_literal": "果實的日子在 採收 做。",
+      "category": "BD核心",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/015-1-word.mp3",
+        "audio/bd-nouhou/015-2-meaning.mp3",
+        "audio/bd-nouhou/015-3-example.mp3",
+        "audio/bd-nouhou/015-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 16,
+      "jp": "生命力",
+      "reading": "せいめいりょく",
+      "cn": "生命力",
+      "example": "植物の生命力を観察してください。",
+      "example_literal": "植物的 生命力(受詞) 觀察 請。",
+      "category": "BD核心",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/016-1-word.mp3",
+        "audio/bd-nouhou/016-2-meaning.mp3",
+        "audio/bd-nouhou/016-3-example.mp3",
+        "audio/bd-nouhou/016-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 17,
+      "jp": "光と闇",
+      "reading": "ひかり と やみ",
+      "cn": "光與暗",
+      "example": "光と闇の関係を説明します。",
+      "example_literal": "光與暗的 關係(受詞) 說明 做。",
+      "category": "BD核心",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/017-1-word.mp3",
+        "audio/bd-nouhou/017-2-meaning.mp3",
+        "audio/bd-nouhou/017-3-example.mp3",
+        "audio/bd-nouhou/017-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 18,
+      "jp": "観察",
+      "reading": "かんさつ",
+      "cn": "觀察",
+      "example": "畑の状態をよく観察してください。",
+      "example_literal": "田地的 狀態(受詞) 仔細地 觀察 請。",
+      "category": "BD核心",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/018-1-word.mp3",
+        "audio/bd-nouhou/018-2-meaning.mp3",
+        "audio/bd-nouhou/018-3-example.mp3",
+        "audio/bd-nouhou/018-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 19,
+      "jp": "牧場",
+      "reading": "ぼくじょう",
+      "cn": "牧場",
+      "example": "午後、牧場へ行きます。",
+      "example_literal": "下午、牧場往 去。",
+      "category": "BD核心",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/019-1-word.mp3",
+        "audio/bd-nouhou/019-2-meaning.mp3",
+        "audio/bd-nouhou/019-3-example.mp3",
+        "audio/bd-nouhou/019-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 20,
+      "jp": "自然",
+      "reading": "しぜん",
+      "cn": "自然",
+      "example": "自然の力を信じます。",
+      "example_literal": "自然的 力量(受詞) 相信。",
+      "category": "BD核心",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/020-1-word.mp3",
+        "audio/bd-nouhou/020-2-meaning.mp3",
+        "audio/bd-nouhou/020-3-example.mp3",
+        "audio/bd-nouhou/020-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 21,
+      "jp": "スコップ",
+      "reading": "すこっぷ",
+      "cn": "鏟子",
+      "example": "スコップで穴を掘ります。",
+      "example_literal": "用鏟子 洞穴(受詞) 挖。",
+      "category": "農具",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/021-1-word.mp3",
+        "audio/bd-nouhou/021-2-meaning.mp3",
+        "audio/bd-nouhou/021-3-example.mp3",
+        "audio/bd-nouhou/021-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 22,
+      "jp": "クワ",
+      "reading": "くわ",
+      "cn": "鋤頭",
+      "example": "クワで土を耕してください。",
+      "example_literal": "用鋤頭 泥土(受詞) 耕作 請。",
+      "category": "農具",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/022-1-word.mp3",
+        "audio/bd-nouhou/022-2-meaning.mp3",
+        "audio/bd-nouhou/022-3-example.mp3",
+        "audio/bd-nouhou/022-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 23,
+      "jp": "カマ",
+      "reading": "かま",
+      "cn": "鐮刀",
+      "example": "カマで草を刈ります。",
+      "example_literal": "用鐮刀 草(受詞) 割。",
+      "category": "農具",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/023-1-word.mp3",
+        "audio/bd-nouhou/023-2-meaning.mp3",
+        "audio/bd-nouhou/023-3-example.mp3",
+        "audio/bd-nouhou/023-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 24,
+      "jp": "バケツ",
+      "reading": "ばけつ",
+      "cn": "水桶",
+      "example": "バケツに水を入れてください。",
+      "example_literal": "水桶裡 水(受詞) 放入 請。",
+      "category": "農具",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/024-1-word.mp3",
+        "audio/bd-nouhou/024-2-meaning.mp3",
+        "audio/bd-nouhou/024-3-example.mp3",
+        "audio/bd-nouhou/024-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 25,
+      "jp": "一輪車",
+      "reading": "いちりんしゃ",
+      "cn": "單輪推車",
+      "example": "一輪車で堆肥を運びます。",
+      "example_literal": "用單輪推車 堆肥(受詞) 搬運。",
+      "category": "農具",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/025-1-word.mp3",
+        "audio/bd-nouhou/025-2-meaning.mp3",
+        "audio/bd-nouhou/025-3-example.mp3",
+        "audio/bd-nouhou/025-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 26,
+      "jp": "棒",
+      "reading": "ぼう",
+      "cn": "木棒",
+      "example": "この棒で水を混ぜます。",
+      "example_literal": "用這根 棒子 水(受詞) 攪拌。",
+      "category": "農具",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/026-1-word.mp3",
+        "audio/bd-nouhou/026-2-meaning.mp3",
+        "audio/bd-nouhou/026-3-example.mp3",
+        "audio/bd-nouhou/026-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 27,
+      "jp": "長靴",
+      "reading": "ながぐつ",
+      "cn": "雨鞋",
+      "example": "長靴を履いてください。",
+      "example_literal": "雨鞋(受詞) 穿上 請。",
+      "category": "農具",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/027-1-word.mp3",
+        "audio/bd-nouhou/027-2-meaning.mp3",
+        "audio/bd-nouhou/027-3-example.mp3",
+        "audio/bd-nouhou/027-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 28,
+      "jp": "手袋",
+      "reading": "てぶくろ",
+      "cn": "工作手套",
+      "example": "作業の前に、手袋をします。",
+      "example_literal": "作業的 之前、手套(受詞) 戴上。",
+      "category": "農具",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/028-1-word.mp3",
+        "audio/bd-nouhou/028-2-meaning.mp3",
+        "audio/bd-nouhou/028-3-example.mp3",
+        "audio/bd-nouhou/028-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 29,
+      "jp": "帽子",
+      "reading": "ぼうし",
+      "cn": "帽子",
+      "example": "外では帽子を被ってください。",
+      "example_literal": "外面在 帽子(受詞) 戴上 請。",
+      "category": "農具",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/029-1-word.mp3",
+        "audio/bd-nouhou/029-2-meaning.mp3",
+        "audio/bd-nouhou/029-3-example.mp3",
+        "audio/bd-nouhou/029-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 30,
+      "jp": "じょうろ",
+      "reading": "じょうろ",
+      "cn": "澆水壺",
+      "example": "じょうろで水をやります。",
+      "example_literal": "用澆水壺 水(受詞) 給予(澆)。",
+      "category": "農具",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/030-1-word.mp3",
+        "audio/bd-nouhou/030-2-meaning.mp3",
+        "audio/bd-nouhou/030-3-example.mp3",
+        "audio/bd-nouhou/030-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 31,
+      "jp": "ハサミ",
+      "reading": "はさみ",
+      "cn": "剪刀",
+      "example": "ハサミで枝を切ってください。",
+      "example_literal": "用剪刀 樹枝(受詞) 剪 請。",
+      "category": "農具",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/031-1-word.mp3",
+        "audio/bd-nouhou/031-2-meaning.mp3",
+        "audio/bd-nouhou/031-3-example.mp3",
+        "audio/bd-nouhou/031-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 32,
+      "jp": "カゴ",
+      "reading": "かご",
+      "cn": "籃子",
+      "example": "カゴに野菜を入れます。",
+      "example_literal": "籃子裡 蔬菜(受詞) 放入。",
+      "category": "農具",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/032-1-word.mp3",
+        "audio/bd-nouhou/032-2-meaning.mp3",
+        "audio/bd-nouhou/032-3-example.mp3",
+        "audio/bd-nouhou/032-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 33,
+      "jp": "ほうき",
+      "reading": "ほうき",
+      "cn": "掃把",
+      "example": "ほうきで床を掃いてください。",
+      "example_literal": "用掃把 地板(受詞) 掃 請。",
+      "category": "農具",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/033-1-word.mp3",
+        "audio/bd-nouhou/033-2-meaning.mp3",
+        "audio/bd-nouhou/033-3-example.mp3",
+        "audio/bd-nouhou/033-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 34,
+      "jp": "タオル",
+      "reading": "たおる",
+      "cn": "毛巾",
+      "example": "タオルで手を拭きます。",
+      "example_literal": "用毛巾 手(受詞) 擦拭。",
+      "category": "農具",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/034-1-word.mp3",
+        "audio/bd-nouhou/034-2-meaning.mp3",
+        "audio/bd-nouhou/034-3-example.mp3",
+        "audio/bd-nouhou/034-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 35,
+      "jp": "道具",
+      "reading": "どうぐ",
+      "cn": "工具、道具",
+      "example": "道具を大切に使ってください。",
+      "example_literal": "工具(受詞) 珍惜地 使用 請。",
+      "category": "農具",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/035-1-word.mp3",
+        "audio/bd-nouhou/035-2-meaning.mp3",
+        "audio/bd-nouhou/035-3-example.mp3",
+        "audio/bd-nouhou/035-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 36,
+      "jp": "掘る",
+      "reading": "ほる",
+      "cn": "挖",
+      "example": "ここに深い穴を掘ってください。",
+      "example_literal": "在這裡 深的 洞穴(受詞) 挖 請。",
+      "category": "動作",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/036-1-word.mp3",
+        "audio/bd-nouhou/036-2-meaning.mp3",
+        "audio/bd-nouhou/036-3-example.mp3",
+        "audio/bd-nouhou/036-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 37,
+      "jp": "詰める",
+      "reading": "つめる",
+      "cn": "填裝、塞入",
+      "example": "角に隙間なく詰めてください。",
+      "example_literal": "角裡 沒有空隙地 填裝 請。",
+      "category": "動作",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/037-1-word.mp3",
+        "audio/bd-nouhou/037-2-meaning.mp3",
+        "audio/bd-nouhou/037-3-example.mp3",
+        "audio/bd-nouhou/037-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 38,
+      "jp": "埋める",
+      "reading": "うめる",
+      "cn": "埋入",
+      "example": "土の中にしっかりと埋めます。",
+      "example_literal": "泥土的 裡面 緊實地 埋入。",
+      "category": "動作",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/038-1-word.mp3",
+        "audio/bd-nouhou/038-2-meaning.mp3",
+        "audio/bd-nouhou/038-3-example.mp3",
+        "audio/bd-nouhou/038-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 39,
+      "jp": "かき混ぜる",
+      "reading": "かきまぜる",
+      "cn": "攪拌",
+      "example": "一時間ぐるぐるとかき混ぜてください。",
+      "example_literal": "一小時 轉圈地 攪拌 請。",
+      "category": "動作",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/039-1-word.mp3",
+        "audio/bd-nouhou/039-2-meaning.mp3",
+        "audio/bd-nouhou/039-3-example.mp3",
+        "audio/bd-nouhou/039-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 40,
+      "jp": "撒く",
+      "reading": "まく",
+      "cn": "撒、噴灑",
+      "example": "調合剤を畑全体に撒きます。",
+      "example_literal": "配方製劑(受詞) 田地全體在 噴灑。",
+      "category": "動作",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/040-1-word.mp3",
+        "audio/bd-nouhou/040-2-meaning.mp3",
+        "audio/bd-nouhou/040-3-example.mp3",
+        "audio/bd-nouhou/040-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 41,
+      "jp": "集める",
+      "reading": "あつめる",
+      "cn": "收集",
+      "example": "落ち葉を一カ所に集めてください。",
+      "example_literal": "落葉(受詞) 在一個地方 收集 請。",
+      "category": "動作",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/041-1-word.mp3",
+        "audio/bd-nouhou/041-2-meaning.mp3",
+        "audio/bd-nouhou/041-3-example.mp3",
+        "audio/bd-nouhou/041-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 42,
+      "jp": "運ぶ",
+      "reading": "はこぶ",
+      "cn": "搬運",
+      "example": "この土をあちらへ運んでください。",
+      "example_literal": "這個 泥土(受詞) 往那邊 搬運 請。",
+      "category": "動作",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/042-1-word.mp3",
+        "audio/bd-nouhou/042-2-meaning.mp3",
+        "audio/bd-nouhou/042-3-example.mp3",
+        "audio/bd-nouhou/042-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 43,
+      "jp": "洗う",
+      "reading": "あらう",
+      "cn": "清洗",
+      "example": "使った道具を水で洗ってください。",
+      "example_literal": "使用過的 道具(受詞) 用水 清洗 請。",
+      "category": "動作",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/043-1-word.mp3",
+        "audio/bd-nouhou/043-2-meaning.mp3",
+        "audio/bd-nouhou/043-3-example.mp3",
+        "audio/bd-nouhou/043-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 44,
+      "jp": "拭く",
+      "reading": "ふく",
+      "cn": "擦拭",
+      "example": "洗った後、汚れを拭いてください。",
+      "example_literal": "洗過的 之後、髒污(受詞) 擦拭 請。",
+      "category": "動作",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/044-1-word.mp3",
+        "audio/bd-nouhou/044-2-meaning.mp3",
+        "audio/bd-nouhou/044-3-example.mp3",
+        "audio/bd-nouhou/044-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 45,
+      "jp": "乾かす",
+      "reading": "かわかす",
+      "cn": "晾乾",
+      "example": "日陰で道具を乾かします。",
+      "example_literal": "陰涼處在 道具(受詞) 晾乾。",
+      "category": "動作",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/045-1-word.mp3",
+        "audio/bd-nouhou/045-2-meaning.mp3",
+        "audio/bd-nouhou/045-3-example.mp3",
+        "audio/bd-nouhou/045-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 46,
+      "jp": "片付ける",
+      "reading": "かたづける",
+      "cn": "收拾、歸位",
+      "example": "作業が終わったら、片付けてください。",
+      "example_literal": "作業(主詞) 結束後、收拾歸位 請。",
+      "category": "動作",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/046-1-word.mp3",
+        "audio/bd-nouhou/046-2-meaning.mp3",
+        "audio/bd-nouhou/046-3-example.mp3",
+        "audio/bd-nouhou/046-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 47,
+      "jp": "しまう",
+      "reading": "しまう",
+      "cn": "收進去",
+      "example": "スコップを倉庫にしまってください。",
+      "example_literal": "鏟子(受詞) 倉庫裡 收進去 請。",
+      "category": "動作",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/047-1-word.mp3",
+        "audio/bd-nouhou/047-2-meaning.mp3",
+        "audio/bd-nouhou/047-3-example.mp3",
+        "audio/bd-nouhou/047-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 48,
+      "jp": "揃える",
+      "reading": "そろえる",
+      "cn": "排好、對齊",
+      "example": "長靴をきれいに揃えてください。",
+      "example_literal": "雨鞋(受詞) 乾淨整齊地 排好 請。",
+      "category": "動作",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/048-1-word.mp3",
+        "audio/bd-nouhou/048-2-meaning.mp3",
+        "audio/bd-nouhou/048-3-example.mp3",
+        "audio/bd-nouhou/048-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 49,
+      "jp": "切る",
+      "reading": "きる",
+      "cn": "切斷、剪下",
+      "example": "ハサミで古い根を切ります。",
+      "example_literal": "用剪刀 老舊的 根(受詞) 剪下。",
+      "category": "動作",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/049-1-word.mp3",
+        "audio/bd-nouhou/049-2-meaning.mp3",
+        "audio/bd-nouhou/049-3-example.mp3",
+        "audio/bd-nouhou/049-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 50,
+      "jp": "抜く",
+      "reading": "ぬく",
+      "cn": "拔出",
+      "example": "雑草を根から抜いてください。",
+      "example_literal": "雜草(受詞) 從根部 拔出 請。",
+      "category": "動作",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/050-1-word.mp3",
+        "audio/bd-nouhou/050-2-meaning.mp3",
+        "audio/bd-nouhou/050-3-example.mp3",
+        "audio/bd-nouhou/050-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 51,
+      "jp": "持つ",
+      "reading": "もつ",
+      "cn": "拿著",
+      "example": "このバケツを持ってください。",
+      "example_literal": "這個 水桶(受詞) 拿著 請。",
+      "category": "動作",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/051-1-word.mp3",
+        "audio/bd-nouhou/051-2-meaning.mp3",
+        "audio/bd-nouhou/051-3-example.mp3",
+        "audio/bd-nouhou/051-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 52,
+      "jp": "置く",
+      "reading": "おく",
+      "cn": "放置",
+      "example": "それを地面に置いてください。",
+      "example_literal": "那個(受詞) 地面上 放置 請。",
+      "category": "動作",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/052-1-word.mp3",
+        "audio/bd-nouhou/052-2-meaning.mp3",
+        "audio/bd-nouhou/052-3-example.mp3",
+        "audio/bd-nouhou/052-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 53,
+      "jp": "押す",
+      "reading": "おす",
+      "cn": "推",
+      "example": "一輪車をゆっくり押してください。",
+      "example_literal": "單輪推車(受詞) 慢慢地 推 請。",
+      "category": "動作",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/053-1-word.mp3",
+        "audio/bd-nouhou/053-2-meaning.mp3",
+        "audio/bd-nouhou/053-3-example.mp3",
+        "audio/bd-nouhou/053-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 54,
+      "jp": "引く",
+      "reading": "ひく",
+      "cn": "拉",
+      "example": "ロープを強く引いてください。",
+      "example_literal": "繩子(受詞) 用力地 拉 請。",
+      "category": "動作",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/054-1-word.mp3",
+        "audio/bd-nouhou/054-2-meaning.mp3",
+        "audio/bd-nouhou/054-3-example.mp3",
+        "audio/bd-nouhou/054-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 55,
+      "jp": "結ぶ",
+      "reading": "むすぶ",
+      "cn": "綁、打結",
+      "example": "ヒモでしっかり結んでください。",
+      "example_literal": "用繩子 緊緊地 綁好 請。",
+      "category": "動作",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/055-1-word.mp3",
+        "audio/bd-nouhou/055-2-meaning.mp3",
+        "audio/bd-nouhou/055-3-example.mp3",
+        "audio/bd-nouhou/055-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 56,
+      "jp": "乗せる",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "",
+      "category": "動作",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/056-1-word.mp3"
+      ]
+    },
+    {
+      "id": 57,
+      "jp": "降ろす",
+      "reading": "おろす",
+      "cn": "卸下",
+      "example": "ここへ荷物を降ろしてください。",
+      "example_literal": "往這裡 貨物(受詞) 卸下 請。",
+      "category": "動作",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/057-1-word.mp3",
+        "audio/bd-nouhou/057-2-meaning.mp3",
+        "audio/bd-nouhou/057-3-example.mp3",
+        "audio/bd-nouhou/057-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 58,
+      "jp": "手入れ",
+      "reading": "ていれ",
+      "cn": "保養維護",
+      "example": "今日は道具の手入れをします。",
+      "example_literal": "今天(主題) 道具的 保養(受詞) 做。",
+      "category": "動作",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/058-1-word.mp3",
+        "audio/bd-nouhou/058-2-meaning.mp3",
+        "audio/bd-nouhou/058-3-example.mp3",
+        "audio/bd-nouhou/058-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 59,
+      "jp": "準備",
+      "reading": "じゅんび",
+      "cn": "準備",
+      "example": "明日の作業の準備をします。",
+      "example_literal": "明天的 作業的 準備(受詞) 做。",
+      "category": "動作",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/059-1-word.mp3",
+        "audio/bd-nouhou/059-2-meaning.mp3",
+        "audio/bd-nouhou/059-3-example.mp3",
+        "audio/bd-nouhou/059-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 60,
+      "jp": "終わる",
+      "reading": "おわる",
+      "cn": "結束",
+      "example": "今日の作業はこれで終わります。",
+      "example_literal": "今天的 作業(主題) 到這裡 結束。",
+      "category": "動作",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/060-1-word.mp3",
+        "audio/bd-nouhou/060-2-meaning.mp3",
+        "audio/bd-nouhou/060-3-example.mp3",
+        "audio/bd-nouhou/060-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 61,
+      "jp": "種",
+      "reading": "たね",
+      "cn": "種子",
+      "example": "土に種をまきます。",
+      "example_literal": "泥土裡 種子(受詞) 播撒。",
+      "category": "種植採收",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/061-1-word.mp3",
+        "audio/bd-nouhou/061-2-meaning.mp3",
+        "audio/bd-nouhou/061-3-example.mp3",
+        "audio/bd-nouhou/061-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 62,
+      "jp": "苗",
+      "reading": "なえ",
+      "cn": "幼苗",
+      "example": "温室で苗を育てます。",
+      "example_literal": "溫室裡 幼苗(受詞) 培育。",
+      "category": "種植採收",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/062-1-word.mp3",
+        "audio/bd-nouhou/062-2-meaning.mp3",
+        "audio/bd-nouhou/062-3-example.mp3",
+        "audio/bd-nouhou/062-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 63,
+      "jp": "植える",
+      "reading": "うえる",
+      "cn": "種植、定植",
+      "example": "畑に野菜の苗を植えます。",
+      "example_literal": "田地裡 蔬菜的 幼苗(受詞) 種植。",
+      "category": "種植採收",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/063-1-word.mp3",
+        "audio/bd-nouhou/063-2-meaning.mp3",
+        "audio/bd-nouhou/063-3-example.mp3",
+        "audio/bd-nouhou/063-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 64,
+      "jp": "雑草",
+      "reading": "ざっそう",
+      "cn": "雜草",
+      "example": "手で雑草を取ってください。",
+      "example_literal": "用手 雜草(受詞) 拔除 請。",
+      "category": "種植採收",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/064-1-word.mp3",
+        "audio/bd-nouhou/064-2-meaning.mp3",
+        "audio/bd-nouhou/064-3-example.mp3",
+        "audio/bd-nouhou/064-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 65,
+      "jp": "草を刈る",
+      "reading": "くさをかる",
+      "cn": "割草",
+      "example": "ぶどう畑の草を刈ります。",
+      "example_literal": "葡萄園的 草(受詞) 割。",
+      "category": "種植採收",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/065-1-word.mp3",
+        "audio/bd-nouhou/065-2-meaning.mp3",
+        "audio/bd-nouhou/065-3-example.mp3",
+        "audio/bd-nouhou/065-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 66,
+      "jp": "収穫する",
+      "reading": "しゅうかくする",
+      "cn": "採收",
+      "example": "朝早く野菜を収穫します。",
+      "example_literal": "早上很早 蔬菜(受詞) 採收。",
+      "category": "種植採收",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/066-1-word.mp3",
+        "audio/bd-nouhou/066-2-meaning.mp3",
+        "audio/bd-nouhou/066-3-example.mp3",
+        "audio/bd-nouhou/066-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 67,
+      "jp": "摘む",
+      "reading": "つむ",
+      "cn": "摘取",
+      "example": "一つずつ花を摘んでください。",
+      "example_literal": "一個一個地 花朵(受詞) 摘取 請。",
+      "category": "種植採收",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/067-1-word.mp3",
+        "audio/bd-nouhou/067-2-meaning.mp3",
+        "audio/bd-nouhou/067-3-example.mp3",
+        "audio/bd-nouhou/067-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 68,
+      "jp": "畑",
+      "reading": "はたけ",
+      "cn": "田地",
+      "example": "これから畑へ向かいます。",
+      "example_literal": "接下來 田地往 前去。",
+      "category": "種植採收",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/068-1-word.mp3",
+        "audio/bd-nouhou/068-2-meaning.mp3",
+        "audio/bd-nouhou/068-3-example.mp3",
+        "audio/bd-nouhou/068-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 69,
+      "jp": "土",
+      "reading": "つち",
+      "cn": "泥土、土壤",
+      "example": "BD農法で土が元気になります。",
+      "example_literal": "用BD農法 泥土(主詞) 變得有精神。",
+      "category": "種植採收",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/069-1-word.mp3",
+        "audio/bd-nouhou/069-2-meaning.mp3",
+        "audio/bd-nouhou/069-3-example.mp3",
+        "audio/bd-nouhou/069-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 70,
+      "jp": "水をやる",
+      "reading": "みずをやる",
+      "cn": "澆水",
+      "example": "夕方、植物に水をやります。",
+      "example_literal": "傍晚、對植物 水(受詞) 給予(澆)。",
+      "category": "種植採收",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/070-1-word.mp3",
+        "audio/bd-nouhou/070-2-meaning.mp3",
+        "audio/bd-nouhou/070-3-example.mp3",
+        "audio/bd-nouhou/070-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 71,
+      "jp": "根元",
+      "reading": "ねもと",
+      "cn": "植物的根部",
+      "example": "植物の根元に撒いてください。",
+      "example_literal": "植物的 根部在 噴灑 請。",
+      "category": "種植採收",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/071-1-word.mp3",
+        "audio/bd-nouhou/071-2-meaning.mp3",
+        "audio/bd-nouhou/071-3-example.mp3",
+        "audio/bd-nouhou/071-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 72,
+      "jp": "葉っぱ",
+      "reading": "はっぱ",
+      "cn": "葉片",
+      "example": "健康な葉っぱが育ちました。",
+      "example_literal": "健康的 葉片(主詞) 成長了。",
+      "category": "種植採收",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/072-1-word.mp3",
+        "audio/bd-nouhou/072-2-meaning.mp3",
+        "audio/bd-nouhou/072-3-example.mp3",
+        "audio/bd-nouhou/072-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 73,
+      "jp": "花",
+      "reading": "はな",
+      "cn": "花朵",
+      "example": "ハーブの花が咲きました。",
+      "example_literal": "香草的 花朵(主詞) 開了。",
+      "category": "種植採收",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/073-1-word.mp3",
+        "audio/bd-nouhou/073-2-meaning.mp3",
+        "audio/bd-nouhou/073-3-example.mp3",
+        "audio/bd-nouhou/073-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 74,
+      "jp": "作物",
+      "reading": "さくもつ",
+      "cn": "農作物",
+      "example": "今年の作物は素晴らしいです。",
+      "example_literal": "今年的 農作物(主題) 極好的 是。",
+      "category": "種植採收",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/074-1-word.mp3",
+        "audio/bd-nouhou/074-2-meaning.mp3",
+        "audio/bd-nouhou/074-3-example.mp3",
+        "audio/bd-nouhou/074-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 75,
+      "jp": "育てる",
+      "reading": "そだてる",
+      "cn": "培育、照顧",
+      "example": "みんなで大切に育てます。",
+      "example_literal": "大家一起 珍惜地 培育。",
+      "category": "種植採收",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/075-1-word.mp3",
+        "audio/bd-nouhou/075-2-meaning.mp3",
+        "audio/bd-nouhou/075-3-example.mp3",
+        "audio/bd-nouhou/075-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 76,
+      "jp": "先生",
+      "reading": "せんせい",
+      "cn": "老師",
+      "example": "先生、質問してもいいですか。",
+      "example_literal": "老師、提問的話 可以嗎。",
+      "category": "發問",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/076-1-word.mp3",
+        "audio/bd-nouhou/076-2-meaning.mp3",
+        "audio/bd-nouhou/076-3-example.mp3",
+        "audio/bd-nouhou/076-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 77,
+      "jp": "見せてください",
+      "reading": "みせてください",
+      "cn": "請示範給我看",
+      "example": "もう一度やって見せてください。",
+      "example_literal": "再一次 做 請給我看。",
+      "category": "發問",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/077-1-word.mp3",
+        "audio/bd-nouhou/077-2-meaning.mp3",
+        "audio/bd-nouhou/077-3-example.mp3",
+        "audio/bd-nouhou/077-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 78,
+      "jp": "合っていますか",
+      "reading": "あっていますか",
+      "cn": "對嗎？正確嗎？",
+      "example": "このやり方で合っていますか。",
+      "example_literal": "這個 做法 正確 嗎。",
+      "category": "發問",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/078-1-word.mp3",
+        "audio/bd-nouhou/078-2-meaning.mp3",
+        "audio/bd-nouhou/078-3-example.mp3",
+        "audio/bd-nouhou/078-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 79,
+      "jp": "次",
+      "reading": "つぎ",
+      "cn": "接下來、下一個",
+      "example": "次は、何をしますか。",
+      "example_literal": "接下來(主題)、什麼(受詞) 做嗎。",
+      "category": "發問",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/079-1-word.mp3",
+        "audio/bd-nouhou/079-2-meaning.mp3",
+        "audio/bd-nouhou/079-3-example.mp3",
+        "audio/bd-nouhou/079-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 80,
+      "jp": "もう一度",
+      "reading": "もういちど",
+      "cn": "再一次",
+      "example": "もう一度お願いします。",
+      "example_literal": "再一次 拜託 做。",
+      "category": "發問",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/080-1-word.mp3",
+        "audio/bd-nouhou/080-2-meaning.mp3",
+        "audio/bd-nouhou/080-3-example.mp3",
+        "audio/bd-nouhou/080-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 81,
+      "jp": "言ってください",
+      "reading": "いってください",
+      "cn": "請說",
+      "example": "ゆっくり言ってください。",
+      "example_literal": "慢慢地 說 請。",
+      "category": "發問",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/081-1-word.mp3",
+        "audio/bd-nouhou/081-2-meaning.mp3",
+        "audio/bd-nouhou/081-3-example.mp3",
+        "audio/bd-nouhou/081-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 82,
+      "jp": "質問",
+      "reading": "しつもん",
+      "cn": "提問、問題",
+      "example": "BD農法について質問があります。",
+      "example_literal": "關於BD農法 提問(主詞) 有。",
+      "category": "發問",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/082-1-word.mp3",
+        "audio/bd-nouhou/082-2-meaning.mp3",
+        "audio/bd-nouhou/082-3-example.mp3",
+        "audio/bd-nouhou/082-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 83,
+      "jp": "いいですか",
+      "reading": "いいですか",
+      "cn": "可以嗎？",
+      "example": "これを使ってもいいですか。",
+      "example_literal": "這個(受詞) 使用的話 可以嗎。",
+      "category": "發問",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/083-1-word.mp3",
+        "audio/bd-nouhou/083-2-meaning.mp3",
+        "audio/bd-nouhou/083-3-example.mp3",
+        "audio/bd-nouhou/083-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 84,
+      "jp": "日本語で",
+      "reading": "にほんごで",
+      "cn": "用日文",
+      "example": "これは日本語で何と言いますか。",
+      "example_literal": "這個(主題) 用日語 怎麼 說嗎。",
+      "category": "發問",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/084-1-word.mp3",
+        "audio/bd-nouhou/084-2-meaning.mp3",
+        "audio/bd-nouhou/084-3-example.mp3",
+        "audio/bd-nouhou/084-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 85,
+      "jp": "わかりました",
+      "reading": "わかりました",
+      "cn": "明白了、懂了",
+      "example": "はい、よくわかりました。",
+      "example_literal": "是的、很清楚 明白了。",
+      "category": "發問",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/085-1-word.mp3",
+        "audio/bd-nouhou/085-2-meaning.mp3",
+        "audio/bd-nouhou/085-3-example.mp3",
+        "audio/bd-nouhou/085-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 86,
+      "jp": "わかりません",
+      "reading": "わかりません",
+      "cn": "不明白、不懂",
+      "example": "すみません、ちょっとわかりません。",
+      "example_literal": "不好意思、稍微 不明白。",
+      "category": "發問",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/086-1-word.mp3",
+        "audio/bd-nouhou/086-2-meaning.mp3",
+        "audio/bd-nouhou/086-3-example.mp3",
+        "audio/bd-nouhou/086-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 87,
+      "jp": "助けてください",
+      "reading": "たすけてください",
+      "cn": "請幫我",
+      "example": "重いので、助けてください。",
+      "example_literal": "因為很重、幫忙 請。",
+      "category": "發問",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/087-1-word.mp3",
+        "audio/bd-nouhou/087-2-meaning.mp3",
+        "audio/bd-nouhou/087-3-example.mp3",
+        "audio/bd-nouhou/087-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 88,
+      "jp": "ありがとうございます",
+      "reading": "ありがとうございます",
+      "cn": "謝謝",
+      "example": "教えてくれて、ありがとうございます。",
+      "example_literal": "教導 給(我)、非常 感謝。",
+      "category": "發問",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/088-1-word.mp3",
+        "audio/bd-nouhou/088-2-meaning.mp3",
+        "audio/bd-nouhou/088-3-example.mp3",
+        "audio/bd-nouhou/088-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 89,
+      "jp": "勉強になりました",
+      "reading": "べんきょうに なりました",
+      "cn": "學到很多",
+      "example": "今日の授業は勉強になりました。",
+      "example_literal": "今天的 課程(主題) 成為學習 了。",
+      "category": "發問",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/089-1-word.mp3",
+        "audio/bd-nouhou/089-2-meaning.mp3",
+        "audio/bd-nouhou/089-3-example.mp3",
+        "audio/bd-nouhou/089-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 90,
+      "jp": "感動しました",
+      "reading": "かんどうしました",
+      "cn": "很感動",
+      "example": "自然の力に感動しました。",
+      "example_literal": "對於自然的力量 感動 了。",
+      "category": "發問",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/090-1-word.mp3",
+        "audio/bd-nouhou/090-2-meaning.mp3",
+        "audio/bd-nouhou/090-3-example.mp3",
+        "audio/bd-nouhou/090-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 91,
+      "jp": "おはようございます",
+      "reading": "おはようございます",
+      "cn": "早安",
+      "example": "皆さん、おはようございます。",
+      "example_literal": "大家、早安 (敬語)。",
+      "category": "生活",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/091-1-word.mp3",
+        "audio/bd-nouhou/091-2-meaning.mp3",
+        "audio/bd-nouhou/091-3-example.mp3",
+        "audio/bd-nouhou/091-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 92,
+      "jp": "お疲れ様です",
+      "reading": "おつかれさまです",
+      "cn": "辛苦了",
+      "example": "今日の農作業、お疲れ様です。",
+      "example_literal": "今天的 農事、辛苦了 (敬語)。",
+      "category": "生活",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/092-1-word.mp3",
+        "audio/bd-nouhou/092-2-meaning.mp3",
+        "audio/bd-nouhou/092-3-example.mp3",
+        "audio/bd-nouhou/092-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 93,
+      "jp": "よろしくお願いします",
+      "reading": "よろしく おねがいします",
+      "cn": "請多指教",
+      "example": "今日からよろしくお願いします。",
+      "example_literal": "從今天起 多多 拜託了。",
+      "category": "生活",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/093-1-word.mp3",
+        "audio/bd-nouhou/093-2-meaning.mp3",
+        "audio/bd-nouhou/093-3-example.mp3",
+        "audio/bd-nouhou/093-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 94,
+      "jp": "手伝いましょうか",
+      "reading": "てつだいましょうか",
+      "cn": "我來幫忙嗎？",
+      "example": "食事の準備、手伝いましょうか。",
+      "example_literal": "用餐的 準備、我來幫忙嗎。",
+      "category": "生活",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/094-1-word.mp3",
+        "audio/bd-nouhou/094-2-meaning.mp3",
+        "audio/bd-nouhou/094-3-example.mp3",
+        "audio/bd-nouhou/094-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 95,
+      "jp": "いただきます",
+      "reading": "いただきます",
+      "cn": "我開動了",
+      "example": "みんなで一緒にいただきます。",
+      "example_literal": "大家 一起 開動了。",
+      "category": "生活",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/095-1-word.mp3",
+        "audio/bd-nouhou/095-2-meaning.mp3",
+        "audio/bd-nouhou/095-3-example.mp3",
+        "audio/bd-nouhou/095-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 96,
+      "jp": "美味しいです",
+      "reading": "おいしいです",
+      "cn": "很好吃",
+      "example": "北海道の野菜は美味しいです。",
+      "example_literal": "北海道的 蔬菜(主題) 美味 的。",
+      "category": "生活",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/096-1-word.mp3",
+        "audio/bd-nouhou/096-2-meaning.mp3",
+        "audio/bd-nouhou/096-3-example.mp3",
+        "audio/bd-nouhou/096-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 97,
+      "jp": "ごちそうさまでした",
+      "reading": "ごちそうさまでした",
+      "cn": "感謝款待",
+      "example": "とても美味しかったです。ごちそうさまでした。",
+      "example_literal": "非常 美味了。感謝款待。",
+      "category": "生活",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/097-1-word.mp3",
+        "audio/bd-nouhou/097-2-meaning.mp3",
+        "audio/bd-nouhou/097-3-example.mp3",
+        "audio/bd-nouhou/097-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 98,
+      "jp": "ただいま",
+      "reading": "ただいま",
+      "cn": "我回來了",
+      "example": "畑からただいま戻りました。",
+      "example_literal": "從田地 現在 回來了。",
+      "category": "生活",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/098-1-word.mp3",
+        "audio/bd-nouhou/098-2-meaning.mp3",
+        "audio/bd-nouhou/098-3-example.mp3",
+        "audio/bd-nouhou/098-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 99,
+      "jp": "おやすみなさい",
+      "reading": "おやすみなさい",
+      "cn": "晚安",
+      "example": "明日も早いので、おやすみなさい。",
+      "example_literal": "明天也 因為很早、晚安。",
+      "category": "生活",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/099-1-word.mp3",
+        "audio/bd-nouhou/099-2-meaning.mp3",
+        "audio/bd-nouhou/099-3-example.mp3",
+        "audio/bd-nouhou/099-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 100,
+      "jp": "お風呂",
+      "reading": "おふろ",
+      "cn": "洗澡、浴室",
+      "example": "今、お風呂に入ってもいいですか。",
+      "example_literal": "現在、洗澡(受詞) 進入的話 可以嗎。",
+      "category": "生活",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/100-1-word.mp3",
+        "audio/bd-nouhou/100-2-meaning.mp3",
+        "audio/bd-nouhou/100-3-example.mp3",
+        "audio/bd-nouhou/100-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 101,
+      "jp": "洗濯機",
+      "reading": "せんたくき",
+      "cn": "洗衣機",
+      "example": "洗濯機を使ってもいいですか。",
+      "example_literal": "洗衣機(受詞) 使用的話 可以嗎。",
+      "category": "生活",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/101-1-word.mp3",
+        "audio/bd-nouhou/101-2-meaning.mp3",
+        "audio/bd-nouhou/101-3-example.mp3",
+        "audio/bd-nouhou/101-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 102,
+      "jp": "布団",
+      "reading": "ふとん",
+      "cn": "日式床墊、棉被",
+      "example": "自分の布団は自分で畳みます。",
+      "example_literal": "自己的 床墊(主題) 自己 摺疊。",
+      "category": "生活",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/102-1-word.mp3",
+        "audio/bd-nouhou/102-2-meaning.mp3",
+        "audio/bd-nouhou/102-3-example.mp3",
+        "audio/bd-nouhou/102-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 103,
+      "jp": "敷く",
+      "reading": "しく",
+      "cn": "鋪床",
+      "example": "ここで布団を敷いてください。",
+      "example_literal": "在這裡 床墊(受詞) 鋪設 請。",
+      "category": "生活",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/103-1-word.mp3",
+        "audio/bd-nouhou/103-2-meaning.mp3",
+        "audio/bd-nouhou/103-3-example.mp3",
+        "audio/bd-nouhou/103-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 104,
+      "jp": "ゴミの分別",
+      "reading": "ごみの ぶんべつ",
+      "cn": "垃圾分類",
+      "example": "ゴミの分別をお願いします。",
+      "example_literal": "垃圾的 分類(受詞) 拜託 做。",
+      "category": "生活",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/104-1-word.mp3",
+        "audio/bd-nouhou/104-2-meaning.mp3",
+        "audio/bd-nouhou/104-3-example.mp3",
+        "audio/bd-nouhou/104-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 105,
+      "jp": "トイレ",
+      "reading": "といれ",
+      "cn": "廁所、洗手間",
+      "example": "トイレはどこですか。",
+      "example_literal": "廁所(主題) 在哪裡嗎。",
+      "category": "生活",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/105-1-word.mp3",
+        "audio/bd-nouhou/105-2-meaning.mp3",
+        "audio/bd-nouhou/105-3-example.mp3",
+        "audio/bd-nouhou/105-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 106,
+      "jp": "どこですか",
+      "reading": "どこですか",
+      "cn": "在哪裡？",
+      "example": "共有の客間はどこですか。",
+      "example_literal": "共用的 客廳(主題) 在哪裡嗎。",
+      "category": "生活",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/106-1-word.mp3",
+        "audio/bd-nouhou/106-2-meaning.mp3",
+        "audio/bd-nouhou/106-3-example.mp3",
+        "audio/bd-nouhou/106-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 107,
+      "jp": "部屋",
+      "reading": "へや",
+      "cn": "房間",
+      "example": "この部屋を使ってください。",
+      "example_literal": "這個 房間(受詞) 使用 請。",
+      "category": "生活",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/107-1-word.mp3",
+        "audio/bd-nouhou/107-2-meaning.mp3",
+        "audio/bd-nouhou/107-3-example.mp3",
+        "audio/bd-nouhou/107-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 108,
+      "jp": "台所",
+      "reading": "だいどころ",
+      "cn": "廚房",
+      "example": "台所で一緒に料理します。",
+      "example_literal": "廚房在 一起 做料理。",
+      "category": "生活",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/108-1-word.mp3",
+        "audio/bd-nouhou/108-2-meaning.mp3",
+        "audio/bd-nouhou/108-3-example.mp3",
+        "audio/bd-nouhou/108-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 109,
+      "jp": "お皿",
+      "reading": "おさら",
+      "cn": "盤子",
+      "example": "私がお皿を洗います。",
+      "example_literal": "我(主詞) 盤子(受詞) 清洗。",
+      "category": "生活",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/109-1-word.mp3",
+        "audio/bd-nouhou/109-2-meaning.mp3",
+        "audio/bd-nouhou/109-3-example.mp3",
+        "audio/bd-nouhou/109-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 110,
+      "jp": "コップ",
+      "reading": "こっぷ",
+      "cn": "杯子",
+      "example": "コップをテーブルに置きます。",
+      "example_literal": "杯子(受詞) 桌子上 放置。",
+      "category": "生活",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/110-1-word.mp3",
+        "audio/bd-nouhou/110-2-meaning.mp3",
+        "audio/bd-nouhou/110-3-example.mp3",
+        "audio/bd-nouhou/110-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 111,
+      "jp": "箸",
+      "reading": "はし",
+      "cn": "筷子",
+      "example": "箸をきれいに洗ってください。",
+      "example_literal": "筷子(受詞) 乾淨地 清洗 請。",
+      "category": "生活",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/111-1-word.mp3",
+        "audio/bd-nouhou/111-2-meaning.mp3",
+        "audio/bd-nouhou/111-3-example.mp3",
+        "audio/bd-nouhou/111-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 112,
+      "jp": "鍋",
+      "reading": "なべ",
+      "cn": "鍋子",
+      "example": "大きな鍋でスープを作ります。",
+      "example_literal": "用大的 鍋子 湯(受詞) 製作。",
+      "category": "生活",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/112-1-word.mp3",
+        "audio/bd-nouhou/112-2-meaning.mp3",
+        "audio/bd-nouhou/112-3-example.mp3",
+        "audio/bd-nouhou/112-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 113,
+      "jp": "包丁",
+      "reading": "ほうちょう",
+      "cn": "菜刀",
+      "example": "包丁は気をつけて使ってください。",
+      "example_literal": "菜刀(主題) 小心注意 使用 請。",
+      "category": "生活",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/113-1-word.mp3",
+        "audio/bd-nouhou/113-2-meaning.mp3",
+        "audio/bd-nouhou/113-3-example.mp3",
+        "audio/bd-nouhou/113-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 114,
+      "jp": "まな板",
+      "reading": "まないた",
+      "cn": "砧板",
+      "example": "野菜をまな板の上で切ります。",
+      "example_literal": "蔬菜(受詞) 砧板的 上面在 切。",
+      "category": "生活",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/114-1-word.mp3",
+        "audio/bd-nouhou/114-2-meaning.mp3",
+        "audio/bd-nouhou/114-3-example.mp3",
+        "audio/bd-nouhou/114-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 115,
+      "jp": "冷蔵庫",
+      "reading": "れいぞうこ",
+      "cn": "冰箱",
+      "example": "残った食材を冷蔵庫に入れます。",
+      "example_literal": "剩下的 食材(受詞) 冰箱裡 放入。",
+      "category": "生活",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/115-1-word.mp3",
+        "audio/bd-nouhou/115-2-meaning.mp3",
+        "audio/bd-nouhou/115-3-example.mp3",
+        "audio/bd-nouhou/115-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 116,
+      "jp": "切る(料理)",
+      "reading": "きる",
+      "cn": "切(菜)",
+      "example": "私が野菜を切ります。",
+      "example_literal": "我(主詞) 蔬菜(受詞) 切。",
+      "category": "生活",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/116-1-word.mp3",
+        "audio/bd-nouhou/116-2-meaning.mp3",
+        "audio/bd-nouhou/116-3-example.mp3",
+        "audio/bd-nouhou/116-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 117,
+      "jp": "料理する",
+      "reading": "りょうりする",
+      "cn": "做菜",
+      "example": "地元の食材で料理します。",
+      "example_literal": "用當地的 食材 料理 做。",
+      "category": "生活",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/117-1-word.mp3",
+        "audio/bd-nouhou/117-2-meaning.mp3",
+        "audio/bd-nouhou/117-3-example.mp3",
+        "audio/bd-nouhou/117-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 118,
+      "jp": "沸かす",
+      "reading": "わかす",
+      "cn": "燒熱水",
+      "example": "お茶のために、お湯を沸かします。",
+      "example_literal": "為了茶、熱水(受詞) 燒開。",
+      "category": "生活",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/118-1-word.mp3",
+        "audio/bd-nouhou/118-2-meaning.mp3",
+        "audio/bd-nouhou/118-3-example.mp3",
+        "audio/bd-nouhou/118-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 119,
+      "jp": "食事",
+      "reading": "しょくじ",
+      "cn": "用餐",
+      "example": "みんなで楽しく食事をします。",
+      "example_literal": "大家一起 快樂地 用餐(受詞) 做。",
+      "category": "生活",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/119-1-word.mp3",
+        "audio/bd-nouhou/119-2-meaning.mp3",
+        "audio/bd-nouhou/119-3-example.mp3",
+        "audio/bd-nouhou/119-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 120,
+      "jp": "片付ける(廚房)",
+      "reading": "かたづける",
+      "cn": "收拾(廚房)",
+      "example": "食後のテーブルを片付けます。",
+      "example_literal": "飯後的 桌子(受詞) 收拾。",
+      "category": "生活",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/120-1-word.mp3",
+        "audio/bd-nouhou/120-2-meaning.mp3",
+        "audio/bd-nouhou/120-3-example.mp3",
+        "audio/bd-nouhou/120-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 121,
+      "jp": "カモミール",
+      "reading": "かもみーる",
+      "cn": "洋甘菊",
+      "example": "カモミールの花を摘んでください。",
+      "example_literal": "洋甘菊的 花朵(受詞) 摘取 請。",
+      "category": "植物香草",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/121-1-word.mp3",
+        "audio/bd-nouhou/121-2-meaning.mp3",
+        "audio/bd-nouhou/121-3-example.mp3",
+        "audio/bd-nouhou/121-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 122,
+      "jp": "タンポポ",
+      "reading": "たんぽぽ",
+      "cn": "蒲公英",
+      "example": "秋にタンポポの調合剤を掘り出します。",
+      "example_literal": "秋天時 蒲公英的 配方製劑(受詞) 挖出來。",
+      "category": "植物香草",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/122-1-word.mp3",
+        "audio/bd-nouhou/122-2-meaning.mp3",
+        "audio/bd-nouhou/122-3-example.mp3",
+        "audio/bd-nouhou/122-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 123,
+      "jp": "ノコギリソウ",
+      "reading": "のこぎりそう",
+      "cn": "西洋蓍草",
+      "example": "ノコギリソウは鹿の膀胱に詰めます。",
+      "example_literal": "西洋蓍草(主題) 鹿的 膀胱裡 填裝。",
+      "category": "植物香草",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/123-1-word.mp3",
+        "audio/bd-nouhou/123-2-meaning.mp3",
+        "audio/bd-nouhou/123-3-example.mp3",
+        "audio/bd-nouhou/123-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 124,
+      "jp": "イラクサ",
+      "reading": "いらくさ",
+      "cn": "蕁麻",
+      "example": "イラクサは土を賢くします。",
+      "example_literal": "蕁麻(主題) 泥土(受詞) 聰明地 變成。",
+      "category": "植物香草",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/124-1-word.mp3",
+        "audio/bd-nouhou/124-2-meaning.mp3",
+        "audio/bd-nouhou/124-3-example.mp3",
+        "audio/bd-nouhou/124-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 125,
+      "jp": "オークの樹皮",
+      "reading": "おーくの じゅひ",
+      "cn": "橡樹皮",
+      "example": "細かくしたオークの樹皮を使います。",
+      "example_literal": "弄得細碎的 橡樹的 樹皮(受詞) 使用。",
+      "category": "植物香草",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/125-1-word.mp3",
+        "audio/bd-nouhou/125-2-meaning.mp3",
+        "audio/bd-nouhou/125-3-example.mp3",
+        "audio/bd-nouhou/125-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 126,
+      "jp": "カノコソウ",
+      "reading": "かのこそう",
+      "cn": "纈草",
+      "example": "最後にカノコソウの絞り汁を加えます。",
+      "example_literal": "最後 纈草的 汁液(受詞) 加入。",
+      "category": "植物香草",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/126-1-word.mp3",
+        "audio/bd-nouhou/126-2-meaning.mp3",
+        "audio/bd-nouhou/126-3-example.mp3",
+        "audio/bd-nouhou/126-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 127,
+      "jp": "ハーブ",
+      "reading": "はーぶ",
+      "cn": "香草、草藥",
+      "example": "ここでオーガニックハーブを育てています。",
+      "example_literal": "在這裡 有機 香草(受詞) 培育著。",
+      "category": "植物香草",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/127-1-word.mp3",
+        "audio/bd-nouhou/127-2-meaning.mp3",
+        "audio/bd-nouhou/127-3-example.mp3",
+        "audio/bd-nouhou/127-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 128,
+      "jp": "牧草",
+      "reading": "ぼくそう",
+      "cn": "牧草",
+      "example": "牛が新鮮な牧草を食べています。",
+      "example_literal": "牛(主詞) 新鮮的 牧草(受詞) 正在吃。",
+      "category": "植物香草",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/128-1-word.mp3",
+        "audio/bd-nouhou/128-2-meaning.mp3",
+        "audio/bd-nouhou/128-3-example.mp3",
+        "audio/bd-nouhou/128-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 129,
+      "jp": "クローバー",
+      "reading": "くろーばー",
+      "cn": "三葉草",
+      "example": "畑にクローバーの種をまきます。",
+      "example_literal": "田地裡 三葉草的 種子(受詞) 播撒。",
+      "category": "植物香草",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/129-1-word.mp3",
+        "audio/bd-nouhou/129-2-meaning.mp3",
+        "audio/bd-nouhou/129-3-example.mp3",
+        "audio/bd-nouhou/129-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 130,
+      "jp": "山菜",
+      "reading": "さんさい",
+      "cn": "野菜、山菜",
+      "example": "森で春の山菜を採りましょう。",
+      "example_literal": "森林裡 春天的 山菜(受詞) 採集吧。",
+      "category": "植物香草",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/130-1-word.mp3",
+        "audio/bd-nouhou/130-2-meaning.mp3",
+        "audio/bd-nouhou/130-3-example.mp3",
+        "audio/bd-nouhou/130-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 131,
+      "jp": "ぶどう",
+      "reading": "ぶどう",
+      "cn": "葡萄",
+      "example": "このぶどうはワインになります。",
+      "example_literal": "這個 葡萄(主題) 葡萄酒(狀態) 變成。",
+      "category": "植物香草",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/131-1-word.mp3",
+        "audio/bd-nouhou/131-2-meaning.mp3",
+        "audio/bd-nouhou/131-3-example.mp3",
+        "audio/bd-nouhou/131-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 132,
+      "jp": "森",
+      "reading": "もり",
+      "cn": "森林",
+      "example": "森の中を一緒に歩きましょう。",
+      "example_literal": "森林的 裡面(受詞) 一起 走吧。",
+      "category": "植物香草",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/132-1-word.mp3",
+        "audio/bd-nouhou/132-2-meaning.mp3",
+        "audio/bd-nouhou/132-3-example.mp3",
+        "audio/bd-nouhou/132-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 133,
+      "jp": "牛",
+      "reading": "うし",
+      "cn": "牛",
+      "example": "牛の糞で堆肥を作ります。",
+      "example_literal": "用牛的 糞便 堆肥(受詞) 製作。",
+      "category": "動物生態",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/133-1-word.mp3",
+        "audio/bd-nouhou/133-2-meaning.mp3",
+        "audio/bd-nouhou/133-3-example.mp3",
+        "audio/bd-nouhou/133-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 134,
+      "jp": "ブラウンスイス牛",
+      "reading": "ぶらうん すいす ぎゅう",
+      "cn": "布朗瑞士牛",
+      "example": "ブラウンスイス牛のミルクを搾ります。",
+      "example_literal": "布朗瑞士牛的 牛奶(受詞) 擠取。",
+      "category": "動物生態",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/134-1-word.mp3",
+        "audio/bd-nouhou/134-2-meaning.mp3",
+        "audio/bd-nouhou/134-3-example.mp3",
+        "audio/bd-nouhou/134-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 135,
+      "jp": "鶏",
+      "reading": "にわとり",
+      "cn": "雞",
+      "example": "朝、鶏の卵を集めてください。",
+      "example_literal": "早上、雞的 蛋(受詞) 收集 請。",
+      "category": "動物生態",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/135-1-word.mp3",
+        "audio/bd-nouhou/135-2-meaning.mp3",
+        "audio/bd-nouhou/135-3-example.mp3",
+        "audio/bd-nouhou/135-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 136,
+      "jp": "豚",
+      "reading": "ぶた",
+      "cn": "豬",
+      "example": "放牧の豚が土を掘っています。",
+      "example_literal": "放牧的 豬(主詞) 泥土(受詞) 正在挖。",
+      "category": "動物生態",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/136-1-word.mp3",
+        "audio/bd-nouhou/136-2-meaning.mp3",
+        "audio/bd-nouhou/136-3-example.mp3",
+        "audio/bd-nouhou/136-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 137,
+      "jp": "鹿",
+      "reading": "しか",
+      "cn": "鹿",
+      "example": "北海道には野生の鹿がいます。",
+      "example_literal": "北海道(存在處) 野生的 鹿(主詞) 有。",
+      "category": "動物生態",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/137-1-word.mp3",
+        "audio/bd-nouhou/137-2-meaning.mp3",
+        "audio/bd-nouhou/137-3-example.mp3",
+        "audio/bd-nouhou/137-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 138,
+      "jp": "キツネ",
+      "reading": "きつね",
+      "cn": "狐狸",
+      "example": "夜、キツネが農場に来ます。",
+      "example_literal": "夜晚、狐狸(主詞) 農場裡 來。",
+      "category": "動物生態",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/138-1-word.mp3",
+        "audio/bd-nouhou/138-2-meaning.mp3",
+        "audio/bd-nouhou/138-3-example.mp3",
+        "audio/bd-nouhou/138-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 139,
+      "jp": "ミミズ",
+      "reading": "みみず",
+      "cn": "蚯蚓",
+      "example": "良い土にはミミズがたくさんいます。",
+      "example_literal": "好的 泥土裡 蚯蚓(主詞) 很多 有。",
+      "category": "動物生態",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/139-1-word.mp3",
+        "audio/bd-nouhou/139-2-meaning.mp3",
+        "audio/bd-nouhou/139-3-example.mp3",
+        "audio/bd-nouhou/139-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 140,
+      "jp": "微生物",
+      "reading": "びせいぶつ",
+      "cn": "微生物",
+      "example": "微生物が堆肥を分解します。",
+      "example_literal": "微生物(主詞) 堆肥(受詞) 分解 做。",
+      "category": "動物生態",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/140-1-word.mp3",
+        "audio/bd-nouhou/140-2-meaning.mp3",
+        "audio/bd-nouhou/140-3-example.mp3",
+        "audio/bd-nouhou/140-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 141,
+      "jp": "虫",
+      "reading": "むし",
+      "cn": "蟲、昆蟲",
+      "example": "この虫は畑の益虫です。",
+      "example_literal": "這個 蟲(主題) 田地的 益蟲 是。",
+      "category": "動物生態",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/141-1-word.mp3",
+        "audio/bd-nouhou/141-2-meaning.mp3",
+        "audio/bd-nouhou/141-3-example.mp3",
+        "audio/bd-nouhou/141-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 142,
+      "jp": "家畜",
+      "reading": "かちく",
+      "cn": "家畜",
+      "example": "家畜は農場に命を与えます。",
+      "example_literal": "家畜(主題) 農場裡 生命(受詞) 給予。",
+      "category": "動物生態",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/142-1-word.mp3",
+        "audio/bd-nouhou/142-2-meaning.mp3",
+        "audio/bd-nouhou/142-3-example.mp3",
+        "audio/bd-nouhou/142-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 143,
+      "jp": "野生動物",
+      "reading": "やせい どうぶつ",
+      "cn": "野生動物",
+      "example": "野生動物との共存が大切です。",
+      "example_literal": "與野生動物的 共存(主詞) 重要 的。",
+      "category": "動物生態",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/143-1-word.mp3",
+        "audio/bd-nouhou/143-2-meaning.mp3",
+        "audio/bd-nouhou/143-3-example.mp3",
+        "audio/bd-nouhou/143-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 144,
+      "jp": "生態系",
+      "reading": "せいたいけい",
+      "cn": "生態系",
+      "example": "農場全体の生態系を守ります。",
+      "example_literal": "農場 全體的 生態系(受詞) 守護。",
+      "category": "動物生態",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/144-1-word.mp3",
+        "audio/bd-nouhou/144-2-meaning.mp3",
+        "audio/bd-nouhou/144-3-example.mp3",
+        "audio/bd-nouhou/144-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 145,
+      "jp": "太陽",
+      "reading": "たいよう",
+      "cn": "太陽",
+      "example": "植物は太陽の光を吸収します。",
+      "example_literal": "植物(主題) 太陽的 光(受詞) 吸收 做。",
+      "category": "氣候天象",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/145-1-word.mp3",
+        "audio/bd-nouhou/145-2-meaning.mp3",
+        "audio/bd-nouhou/145-3-example.mp3",
+        "audio/bd-nouhou/145-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 146,
+      "jp": "月",
+      "reading": "つき",
+      "cn": "月亮",
+      "example": "月のリズムで種をまきます。",
+      "example_literal": "用月亮的 節律 種子(受詞) 播撒。",
+      "category": "氣候天象",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/146-1-word.mp3",
+        "audio/bd-nouhou/146-2-meaning.mp3",
+        "audio/bd-nouhou/146-3-example.mp3",
+        "audio/bd-nouhou/146-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 147,
+      "jp": "満ち欠け",
+      "reading": "みちかけ",
+      "cn": "盈虧",
+      "example": "月の満ち欠けをカレンダーで確認します。",
+      "example_literal": "月亮的 盈虧(受詞) 用日曆 確認 做。",
+      "category": "氣候天象",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/147-1-word.mp3",
+        "audio/bd-nouhou/147-2-meaning.mp3",
+        "audio/bd-nouhou/147-3-example.mp3",
+        "audio/bd-nouhou/147-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 148,
+      "jp": "星",
+      "reading": "ほし",
+      "cn": "星星、星象",
+      "example": "星の動きが植物に影響します。",
+      "example_literal": "星星的 運行(主詞) 對植物 影響 做。",
+      "category": "氣候天象",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/148-1-word.mp3",
+        "audio/bd-nouhou/148-2-meaning.mp3",
+        "audio/bd-nouhou/148-3-example.mp3",
+        "audio/bd-nouhou/148-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 149,
+      "jp": "雪",
+      "reading": "ゆき",
+      "cn": "雪",
+      "example": "五月ですが、山にはまだ雪があります。",
+      "example_literal": "雖然是五月、山上(存在處) 還 雪(主詞) 有。",
+      "category": "氣候天象",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/149-1-word.mp3",
+        "audio/bd-nouhou/149-2-meaning.mp3",
+        "audio/bd-nouhou/149-3-example.mp3",
+        "audio/bd-nouhou/149-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 150,
+      "jp": "雨",
+      "reading": "あめ",
+      "cn": "雨",
+      "example": "明日は雨が降るそうです。",
+      "example_literal": "明天(主題) 雨(主詞) 下 聽說是這樣。",
+      "category": "氣候天象",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/150-1-word.mp3",
+        "audio/bd-nouhou/150-2-meaning.mp3",
+        "audio/bd-nouhou/150-3-example.mp3",
+        "audio/bd-nouhou/150-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 151,
+      "jp": "風",
+      "reading": "かぜ",
+      "cn": "風",
+      "example": "今日は少し風が強いです。",
+      "example_literal": "今天(主題) 稍微 風(主詞) 強烈 的。",
+      "category": "氣候天象",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/151-1-word.mp3",
+        "audio/bd-nouhou/151-2-meaning.mp3",
+        "audio/bd-nouhou/151-3-example.mp3",
+        "audio/bd-nouhou/151-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 152,
+      "jp": "気温",
+      "reading": "きおん",
+      "cn": "氣溫",
+      "example": "朝と晩は、気温が下がります。",
+      "example_literal": "早上和 晚上(主題)、氣溫(主詞) 下降。",
+      "category": "氣候天象",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/152-1-word.mp3",
+        "audio/bd-nouhou/152-2-meaning.mp3",
+        "audio/bd-nouhou/152-3-example.mp3",
+        "audio/bd-nouhou/152-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 153,
+      "jp": "寒暖差",
+      "reading": "かんだんさ",
+      "cn": "溫差",
+      "example": "北海道は寒暖差が大きいです。",
+      "example_literal": "北海道(主題) 溫差(主詞) 大 的。",
+      "category": "氣候天象",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/153-1-word.mp3",
+        "audio/bd-nouhou/153-2-meaning.mp3",
+        "audio/bd-nouhou/153-3-example.mp3",
+        "audio/bd-nouhou/153-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 154,
+      "jp": "春",
+      "reading": "はる",
+      "cn": "春天",
+      "example": "北海道にも、やっと春が来ました。",
+      "example_literal": "北海道也、終於 春天(主詞) 來了。",
+      "category": "氣候天象",
+      "level": "",
+      "segments": [
+        "audio/bd-nouhou/154-1-word.mp3",
+        "audio/bd-nouhou/154-2-meaning.mp3",
+        "audio/bd-nouhou/154-3-example.mp3",
+        "audio/bd-nouhou/154-4-literal.mp3"
+      ]
+    }
+  ]
+}

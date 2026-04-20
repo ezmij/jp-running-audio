@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="zh-TW">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<meta name="apple-mobile-web-app-capable" content="yes">
+<meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+<meta name="apple-mobile-web-app-title" content="日語跑步">
+<meta name="theme-color" content="#111">
+<link rel="manifest" href="manifest.webmanifest">
+<link rel="apple-touch-icon" href="icon-192.png">
+<title>日語跑步聽</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<main id="app">
+  <section id="home" class="screen active">
+    <h1>日語跑步聽</h1>
+    <div class="section-label">主題</div>
+    <ul id="sheet-list" class="sheet-list">
+      <li class="loading">載入中…</li>
+    </ul>
+    <div class="section-label">模式</div>
+    <div class="mode-toggle">
+      <button data-mode="tap" class="mode-btn active">點擊推進</button>
+      <button data-mode="continuous" class="mode-btn">連播</button>
+    </div>
+    <p class="hint">選主題開始。AirPods 雙擊＝下一詞、三擊＝上一詞。</p>
+  </section>
+
+  <section id="player" class="screen">
+    <header class="player-header">
+      <button id="back-btn" aria-label="回主頁">←</button>
+      <div class="player-title">
+        <div id="sheet-title"></div>
+        <div id="position"></div>
+      </div>
+      <button id="mode-indicator" aria-label="切換模式"></button>
+    </header>
+
+    <div class="card">
+      <div class="category" id="category"></div>
+      <div class="jp" id="jp"></div>
+      <div class="reading" id="reading"></div>
+      <div class="cn" id="cn"></div>
+      <div class="example" id="example"></div>
+      <div class="literal" id="literal"></div>
+      <div class="segment-dots" id="segment-dots"></div>
+    </div>
+
+    <div class="controls">
+      <button id="prev-btn" class="ctrl" aria-label="上一詞">⏮</button>
+      <button id="replay-btn" class="ctrl primary" aria-label="重播">▶</button>
+      <button id="next-btn" class="ctrl" aria-label="下一詞">⏭</button>
+    </div>
+  </section>
+</main>
+
+<audio id="audio" preload="auto"></audio>
+<script src="app.js"></script>
+</body>
+</html>

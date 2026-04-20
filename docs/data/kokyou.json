@@ -1,0 +1,1639 @@
+{
+  "sheet": "談故鄉",
+  "slug": "kokyou",
+  "total": 102,
+  "tracks": [
+    {
+      "id": 1,
+      "jp": "話す",
+      "reading": "はなす",
+      "cn": "說、講話",
+      "example": "リアルな日本語会話を練習できるようにサポートしています。",
+      "example_literal": "真實的 日語會話(受詞) 練習 能夠 這樣地 支援著。",
+      "category": "一類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/kokyou/001-1-word.mp3",
+        "audio/kokyou/001-2-meaning.mp3",
+        "audio/kokyou/001-3-example.mp3",
+        "audio/kokyou/001-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 2,
+      "jp": "住む",
+      "reading": "すむ",
+      "cn": "居住",
+      "example": "約1300万人が東京23区に住んでいると思います。",
+      "example_literal": "約1300萬人(主詞) 東京23區(地點) 居住 認為。",
+      "category": "一類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/kokyou/002-1-word.mp3",
+        "audio/kokyou/002-2-meaning.mp3",
+        "audio/kokyou/002-3-example.mp3",
+        "audio/kokyou/002-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 3,
+      "jp": "働く",
+      "reading": "はたらく",
+      "cn": "工作",
+      "example": "多くの人が商業で働いています。",
+      "example_literal": "許多 人(主詞) 商業(領域) 工作著。",
+      "category": "一類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/kokyou/003-1-word.mp3",
+        "audio/kokyou/003-2-meaning.mp3",
+        "audio/kokyou/003-3-example.mp3",
+        "audio/kokyou/003-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 4,
+      "jp": "使う",
+      "reading": "つかう",
+      "cn": "使用",
+      "example": "シンプルな言葉を使ってください。",
+      "example_literal": "簡單的 詞彙(受詞) 請使用。",
+      "category": "一類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/kokyou/004-1-word.mp3",
+        "audio/kokyou/004-2-meaning.mp3",
+        "audio/kokyou/004-3-example.mp3",
+        "audio/kokyou/004-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 5,
+      "jp": "思う",
+      "reading": "おもう",
+      "cn": "認為、想",
+      "example": "日本中の人が大阪城を知っていると思います。",
+      "example_literal": "日本全國的 人(主詞) 大阪城(受詞) 知道著 認為。",
+      "category": "一類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/kokyou/005-1-word.mp3",
+        "audio/kokyou/005-2-meaning.mp3",
+        "audio/kokyou/005-3-example.mp3",
+        "audio/kokyou/005-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 6,
+      "jp": "降る",
+      "reading": "ふる",
+      "cn": "下（雨/雪）",
+      "example": "冬には雪が降ります。",
+      "example_literal": "冬天(時間) 雪(主詞) 下。",
+      "category": "一類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/kokyou/006-1-word.mp3",
+        "audio/kokyou/006-2-meaning.mp3",
+        "audio/kokyou/006-3-example.mp3",
+        "audio/kokyou/006-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 7,
+      "jp": "歩く",
+      "reading": "あるく",
+      "cn": "走路",
+      "example": "人々は早く歩き一生懸命働きます。",
+      "example_literal": "人們(主題) 快 走 拼命地 工作。",
+      "category": "一類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/kokyou/007-1-word.mp3",
+        "audio/kokyou/007-2-meaning.mp3",
+        "audio/kokyou/007-3-example.mp3",
+        "audio/kokyou/007-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 8,
+      "jp": "手伝う",
+      "reading": "てつだう",
+      "cn": "幫忙",
+      "example": "だから今日はそれを手伝います。",
+      "example_literal": "所以 今天(主題) 那個(受詞) 幫忙。",
+      "category": "一類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/kokyou/008-1-word.mp3",
+        "audio/kokyou/008-2-meaning.mp3",
+        "audio/kokyou/008-3-example.mp3",
+        "audio/kokyou/008-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 9,
+      "jp": "渡る",
+      "reading": "わたる",
+      "cn": "渡過",
+      "example": "ピーク時には1度に3000人くらいが渡ります。",
+      "example_literal": "尖峰時(時間) 一次 3000人 左右(主詞) 通過。",
+      "category": "一類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/kokyou/009-1-word.mp3",
+        "audio/kokyou/009-2-meaning.mp3",
+        "audio/kokyou/009-3-example.mp3",
+        "audio/kokyou/009-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 10,
+      "jp": "楽しむ",
+      "reading": "たのしむ",
+      "cn": "享受",
+      "example": "人々は必に行くのを楽しみます。",
+      "example_literal": "人們(主題) 必(地點) 去(受詞) 享受。",
+      "category": "一類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/kokyou/010-1-word.mp3",
+        "audio/kokyou/010-2-meaning.mp3",
+        "audio/kokyou/010-3-example.mp3",
+        "audio/kokyou/010-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 11,
+      "jp": "変わる",
+      "reading": "かわる",
+      "cn": "改變",
+      "example": "木々が赤、オレンジ、黄色に変わります。",
+      "example_literal": "樹木們(主詞) 紅、橘、黃色(結果) 變成。",
+      "category": "一類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/kokyou/011-1-word.mp3",
+        "audio/kokyou/011-2-meaning.mp3",
+        "audio/kokyou/011-3-example.mp3",
+        "audio/kokyou/011-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 12,
+      "jp": "育つ",
+      "reading": "そだつ",
+      "cn": "長大",
+      "example": "子供の頃に育った場所です。",
+      "example_literal": "小孩 時候(時間) 長大的 地方 是。",
+      "category": "一類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/kokyou/012-1-word.mp3",
+        "audio/kokyou/012-2-meaning.mp3",
+        "audio/kokyou/012-3-example.mp3",
+        "audio/kokyou/012-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 13,
+      "jp": "囲む",
+      "reading": "かこむ",
+      "cn": "環繞、包圍",
+      "example": "私の故郷は山に囲まれています。",
+      "example_literal": "我的 故鄉(主題) 山(手段) 被環繞著。",
+      "category": "一類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/kokyou/013-1-word.mp3",
+        "audio/kokyou/013-2-meaning.mp3",
+        "audio/kokyou/013-3-example.mp3",
+        "audio/kokyou/013-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 14,
+      "jp": "流れる",
+      "reading": "ながれる",
+      "cn": "流動",
+      "example": "町の中を川が流れています。",
+      "example_literal": "町 之中(地點) 川(主詞) 流動著。",
+      "category": "一類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/kokyou/014-1-word.mp3",
+        "audio/kokyou/014-2-meaning.mp3",
+        "audio/kokyou/014-3-example.mp3",
+        "audio/kokyou/014-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 15,
+      "jp": "引き寄せる",
+      "reading": "ひきよせる",
+      "cn": "吸引、拉近",
+      "example": "毎年全国から観光客を引き寄せています。",
+      "example_literal": "每年 全國(起點)從 觀光客(受詞) 吸引著。",
+      "category": "一類動詞",
+      "level": "N1",
+      "segments": [
+        "audio/kokyou/015-1-word.mp3",
+        "audio/kokyou/015-2-meaning.mp3",
+        "audio/kokyou/015-3-example.mp3",
+        "audio/kokyou/015-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 16,
+      "jp": "続く",
+      "reading": "つづく",
+      "cn": "持續",
+      "example": "練習を続けて学び続けて諦めないでください。",
+      "example_literal": "練習(受詞) 持續 學習 持續 請不要放棄。",
+      "category": "一類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/kokyou/016-1-word.mp3",
+        "audio/kokyou/016-2-meaning.mp3",
+        "audio/kokyou/016-3-example.mp3",
+        "audio/kokyou/016-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 17,
+      "jp": "気づく",
+      "reading": "きづく",
+      "cn": "察覺、注意到",
+      "example": "大阪では最初に気づくのは賑やかな商店街です。",
+      "example_literal": "大阪(地點)(主題) 最先 察覺到 的(主詞)(主題) 熱鬧的 商店街 是。",
+      "category": "一類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/kokyou/017-1-word.mp3",
+        "audio/kokyou/017-2-meaning.mp3",
+        "audio/kokyou/017-3-example.mp3",
+        "audio/kokyou/017-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 18,
+      "jp": "向かう",
+      "reading": "むかう",
+      "cn": "朝...去、前往",
+      "example": "自分自身や友達に向かって声に出して行ったりできます。",
+      "example_literal": "自己 或 朋友(對象) 朝向 聲音地 說出來 做 等等 可以。",
+      "category": "一類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/kokyou/018-1-word.mp3",
+        "audio/kokyou/018-2-meaning.mp3",
+        "audio/kokyou/018-3-example.mp3",
+        "audio/kokyou/018-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 19,
+      "jp": "教える",
+      "reading": "おしえる",
+      "cn": "教導、告知",
+      "example": "シンプルなフレーズと便利な表現を教えます。",
+      "example_literal": "簡單的 片語 和 便利的 表達(受詞) 教。",
+      "category": "二類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/kokyou/019-1-word.mp3",
+        "audio/kokyou/019-2-meaning.mp3",
+        "audio/kokyou/019-3-example.mp3",
+        "audio/kokyou/019-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 20,
+      "jp": "始める",
+      "reading": "はじめる",
+      "cn": "開始",
+      "example": "さて、始めましょう。",
+      "example_literal": "那麼 開始吧。",
+      "category": "二類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/kokyou/020-1-word.mp3",
+        "audio/kokyou/020-2-meaning.mp3",
+        "audio/kokyou/020-3-example.mp3",
+        "audio/kokyou/020-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 21,
+      "jp": "建てる",
+      "reading": "たてる",
+      "cn": "建造",
+      "example": "豊臣秀吉が1583年に建てた美しいお城です。",
+      "example_literal": "豊臣秀吉(主詞) 1583年(時間) 建造的 美麗的 城 是。",
+      "category": "二類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/kokyou/021-1-word.mp3",
+        "audio/kokyou/021-2-meaning.mp3",
+        "audio/kokyou/021-3-example.mp3",
+        "audio/kokyou/021-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 22,
+      "jp": "比べる",
+      "reading": "くらべる",
+      "cn": "比較",
+      "example": "ライフスタイルは大都市に比べてリラックスしています。",
+      "example_literal": "生活方式(主題) 大都市(對象) 相比 放鬆著。",
+      "category": "二類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/kokyou/022-1-word.mp3",
+        "audio/kokyou/022-2-meaning.mp3",
+        "audio/kokyou/022-3-example.mp3",
+        "audio/kokyou/022-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 23,
+      "jp": "諦める",
+      "reading": "あきらめる",
+      "cn": "放棄",
+      "example": "練習を続けて学び続けて諦めないでください。",
+      "example_literal": "練習(受詞) 持續 學習 持續 請不要放棄。",
+      "category": "二類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/kokyou/023-1-word.mp3",
+        "audio/kokyou/023-2-meaning.mp3",
+        "audio/kokyou/023-3-example.mp3",
+        "audio/kokyou/023-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 24,
+      "jp": "加える",
+      "reading": "くわえる",
+      "cn": "追加、加上",
+      "example": "詳しい情報は後からでも追加できますから。",
+      "example_literal": "詳細的 資訊(主題) 之後(時間)也 追加 可以 因為。",
+      "category": "二類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/kokyou/024-1-word.mp3",
+        "audio/kokyou/024-2-meaning.mp3",
+        "audio/kokyou/024-3-example.mp3",
+        "audio/kokyou/024-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 25,
+      "jp": "見上げる",
+      "reading": "みあげる",
+      "cn": "仰望",
+      "example": "上を見上げると空がほとんど見えません。",
+      "example_literal": "上面(受詞) 仰望 的話 天空(主詞) 幾乎 看不見。",
+      "category": "二類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/kokyou/025-1-word.mp3",
+        "audio/kokyou/025-2-meaning.mp3",
+        "audio/kokyou/025-3-example.mp3",
+        "audio/kokyou/025-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 26,
+      "jp": "感じる",
+      "reading": "かんじる",
+      "cn": "感覺、感受",
+      "example": "平和を感じられるので好きです。",
+      "example_literal": "平靜(受詞) 能感受到 因為 喜歡 是。",
+      "category": "二類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/kokyou/026-1-word.mp3",
+        "audio/kokyou/026-2-meaning.mp3",
+        "audio/kokyou/026-3-example.mp3",
+        "audio/kokyou/026-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 27,
+      "jp": "迎える",
+      "reading": "むかえる",
+      "cn": "迎接",
+      "example": "金沢の人々は親切で歓迎してくれます。",
+      "example_literal": "金沢的 人們(主題) 親切 又 迎接 給我們。",
+      "category": "二類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/kokyou/027-1-word.mp3",
+        "audio/kokyou/027-2-meaning.mp3",
+        "audio/kokyou/027-3-example.mp3",
+        "audio/kokyou/027-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 28,
+      "jp": "逃れる",
+      "reading": "のがれる",
+      "cn": "逃離、擺脫",
+      "example": "忙しい町から逃れて平和を感じられるので好きです。",
+      "example_literal": "忙碌的 町(起點)從 逃離 平靜(受詞) 能感受到 因為 喜歡 是。",
+      "category": "二類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/kokyou/028-1-word.mp3",
+        "audio/kokyou/028-2-meaning.mp3",
+        "audio/kokyou/028-3-example.mp3",
+        "audio/kokyou/028-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 29,
+      "jp": "与える",
+      "reading": "あたえる",
+      "cn": "給予",
+      "example": "人々が都市に個性を与えるんです。",
+      "example_literal": "人們(主詞) 都市(對象) 個性(受詞) 給予 是。",
+      "category": "二類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/kokyou/029-1-word.mp3",
+        "audio/kokyou/029-2-meaning.mp3",
+        "audio/kokyou/029-3-example.mp3",
+        "audio/kokyou/029-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 30,
+      "jp": "含める",
+      "reading": "ふくめる",
+      "cn": "包含",
+      "example": "空気に多くの水蒸気が含まれていることを意味します。",
+      "example_literal": "空氣(地點) 許多的 水蒸氣(主詞) 被包含著 的事(受詞) 意味著。",
+      "category": "二類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/kokyou/030-1-word.mp3",
+        "audio/kokyou/030-2-meaning.mp3",
+        "audio/kokyou/030-3-example.mp3",
+        "audio/kokyou/030-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 31,
+      "jp": "来る",
+      "reading": "くる",
+      "cn": "來",
+      "example": "夏にはたくさんの観光客が泳いだりしたりするために来ます。",
+      "example_literal": "夏天(時間) 許多的 觀光客(主詞) 游泳 或 做 之類 為了 來。",
+      "category": "三類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/kokyou/031-1-word.mp3",
+        "audio/kokyou/031-2-meaning.mp3",
+        "audio/kokyou/031-3-example.mp3",
+        "audio/kokyou/031-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 32,
+      "jp": "散歩する",
+      "reading": "さんぽする",
+      "cn": "散步",
+      "example": "夕方にはみんなが町の広場を散歩します。",
+      "example_literal": "傍晚(時間) 大家(主詞) 町的 廣場(受詞) 散步。",
+      "category": "三類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/kokyou/032-1-word.mp3",
+        "audio/kokyou/032-2-meaning.mp3",
+        "audio/kokyou/032-3-example.mp3",
+        "audio/kokyou/032-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 33,
+      "jp": "練習する",
+      "reading": "れんしゅうする",
+      "cn": "練習",
+      "example": "リアルな日本語会話を練習できるようにサポートしています。",
+      "example_literal": "真實的 日語會話(受詞) 練習 能夠 這樣地 支援著。",
+      "category": "三類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/kokyou/033-1-word.mp3",
+        "audio/kokyou/033-2-meaning.mp3",
+        "audio/kokyou/033-3-example.mp3",
+        "audio/kokyou/033-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 34,
+      "jp": "混雑する",
+      "reading": "こんざつする",
+      "cn": "擁擠、混亂",
+      "example": "世界で最も混雑する行車用交差点の1つです。",
+      "example_literal": "世界(範圍)(地點) 最 擁擠的 行車用 路口 之一 是。",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/kokyou/034-1-word.mp3",
+        "audio/kokyou/034-2-meaning.mp3",
+        "audio/kokyou/034-3-example.mp3",
+        "audio/kokyou/034-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 35,
+      "jp": "苦労する",
+      "reading": "くろうする",
+      "cn": "辛苦、費力",
+      "example": "それを日本語で説明するのに苦労します。",
+      "example_literal": "那個(受詞) 日語(手段) 說明 的事(對象) 費力。",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/kokyou/035-1-word.mp3",
+        "audio/kokyou/035-2-meaning.mp3",
+        "audio/kokyou/035-3-example.mp3",
+        "audio/kokyou/035-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 36,
+      "jp": "期待する",
+      "reading": "きたいする",
+      "cn": "期待",
+      "example": "これで人々が訪れる場合に何を期待すればいいかわかります。",
+      "example_literal": "這樣 人們(主詞) 造訪 情況(時) 什麼(受詞) 期待 如果好 是否 明白。",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/kokyou/036-1-word.mp3",
+        "audio/kokyou/036-2-meaning.mp3",
+        "audio/kokyou/036-3-example.mp3",
+        "audio/kokyou/036-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 37,
+      "jp": "位置する",
+      "reading": "いちする",
+      "cn": "位於",
+      "example": "北陸地方に位置しています。",
+      "example_literal": "北陸地方(地點) 位於著。",
+      "category": "三類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/kokyou/037-1-word.mp3",
+        "audio/kokyou/037-2-meaning.mp3",
+        "audio/kokyou/037-3-example.mp3",
+        "audio/kokyou/037-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 38,
+      "jp": "リラックスする",
+      "reading": "りらっくすする",
+      "cn": "放鬆",
+      "example": "ライフスタイルは大都市に比べてリラックスしています。",
+      "example_literal": "生活方式(主題) 大都市(對象) 相比 放鬆著。",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/kokyou/038-1-word.mp3",
+        "audio/kokyou/038-2-meaning.mp3",
+        "audio/kokyou/038-3-example.mp3",
+        "audio/kokyou/038-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 39,
+      "jp": "ハイキングする",
+      "reading": "はいきんぐする",
+      "cn": "健行",
+      "example": "近くの山でハイキングを楽しんだりします。",
+      "example_literal": "附近的 山(地點) 健行(受詞) 享受 等等 做。",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/kokyou/039-1-word.mp3",
+        "audio/kokyou/039-2-meaning.mp3",
+        "audio/kokyou/039-3-example.mp3",
+        "audio/kokyou/039-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 40,
+      "jp": "故郷",
+      "reading": "ふるさと",
+      "cn": "故鄉",
+      "example": "日本語で自分の故郷を説明する方法を学びます。",
+      "example_literal": "日語(手段) 自己的 故鄉(受詞) 說明 的 方法(受詞) 學習。",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/kokyou/040-1-word.mp3",
+        "audio/kokyou/040-2-meaning.mp3",
+        "audio/kokyou/040-3-example.mp3",
+        "audio/kokyou/040-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 41,
+      "jp": "場所",
+      "reading": "ばしょ",
+      "cn": "場所、地點",
+      "example": "あなたの元々の家です。",
+      "example_literal": "你的 原本的 家 是。",
+      "category": "名詞",
+      "level": "N5",
+      "segments": [
+        "audio/kokyou/041-1-word.mp3",
+        "audio/kokyou/041-2-meaning.mp3",
+        "audio/kokyou/041-3-example.mp3",
+        "audio/kokyou/041-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 42,
+      "jp": "地方",
+      "reading": "ちほう",
+      "cn": "地區",
+      "example": "日本の東部関東地方にあります。",
+      "example_literal": "日本的 東部 關東地方(地點) 有。",
+      "category": "名詞",
+      "level": "N4",
+      "segments": [
+        "audio/kokyou/042-1-word.mp3",
+        "audio/kokyou/042-2-meaning.mp3",
+        "audio/kokyou/042-3-example.mp3",
+        "audio/kokyou/042-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 43,
+      "jp": "大都市",
+      "reading": "だいとし",
+      "cn": "大都市",
+      "example": "2つとも大都市ですが、とても違いますね。",
+      "example_literal": "兩個都 大都市 是 但是 非常 不同 對吧。",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/kokyou/043-1-word.mp3",
+        "audio/kokyou/043-2-meaning.mp3",
+        "audio/kokyou/043-3-example.mp3",
+        "audio/kokyou/043-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 44,
+      "jp": "商店街",
+      "reading": "しょうてんがい",
+      "cn": "商店街",
+      "example": "大阪では最初に気づくのは賑やかな商店街です。",
+      "example_literal": "大阪(地點)(主題) 最先 察覺到 的(主題) 熱鬧的 商店街 是。",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/kokyou/044-1-word.mp3",
+        "audio/kokyou/044-2-meaning.mp3",
+        "audio/kokyou/044-3-example.mp3",
+        "audio/kokyou/044-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 45,
+      "jp": "交差点",
+      "reading": "こうさてん",
+      "cn": "十字路口",
+      "example": "渋谷のスクランブル交差点がとても有名です。",
+      "example_literal": "渋谷的 十字路口(主詞) 非常 有名 是。",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/kokyou/045-1-word.mp3",
+        "audio/kokyou/045-2-meaning.mp3",
+        "audio/kokyou/045-3-example.mp3",
+        "audio/kokyou/045-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 46,
+      "jp": "雰囲気",
+      "reading": "ふんいき",
+      "cn": "氛圍",
+      "example": "その場所の雰囲気が本当に感じられます。",
+      "example_literal": "那個 地方的 氛圍(主詞) 真的 能感受到。",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/kokyou/046-1-word.mp3",
+        "audio/kokyou/046-2-meaning.mp3",
+        "audio/kokyou/046-3-example.mp3",
+        "audio/kokyou/046-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 47,
+      "jp": "ランドマーク",
+      "reading": "らんどまーく",
+      "cn": "地標",
+      "example": "富士山は日本で最も有名なランドマークです。",
+      "example_literal": "富士山(主題) 日本(範圍)(地點) 最 有名的 地標 是。",
+      "category": "名詞",
+      "level": "N2",
+      "segments": [
+        "audio/kokyou/047-1-word.mp3",
+        "audio/kokyou/047-2-meaning.mp3",
+        "audio/kokyou/047-3-example.mp3",
+        "audio/kokyou/047-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 48,
+      "jp": "気候",
+      "reading": "きこう",
+      "cn": "氣候",
+      "example": "神戸は1年中穏やかな気候です。",
+      "example_literal": "神戸(主題) 一整年 溫和的 氣候 是。",
+      "category": "名詞",
+      "level": "N4",
+      "segments": [
+        "audio/kokyou/048-1-word.mp3",
+        "audio/kokyou/048-2-meaning.mp3",
+        "audio/kokyou/048-3-example.mp3",
+        "audio/kokyou/048-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 49,
+      "jp": "湿気",
+      "reading": "しっけ",
+      "cn": "濕氣",
+      "example": "空気が重くてベタベタします。",
+      "example_literal": "空氣(主詞) 重 又 黏膩。",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/kokyou/049-1-word.mp3",
+        "audio/kokyou/049-2-meaning.mp3",
+        "audio/kokyou/049-3-example.mp3",
+        "audio/kokyou/049-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 50,
+      "jp": "高層ビル",
+      "reading": "こうそうびる",
+      "cn": "摩天大樓",
+      "example": "私のオフィスは高層ビルの45階にあります。",
+      "example_literal": "我的 辦公室(主題) 摩天大樓的 45樓(地點) 有。",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/kokyou/050-1-word.mp3",
+        "audio/kokyou/050-2-meaning.mp3",
+        "audio/kokyou/050-3-example.mp3",
+        "audio/kokyou/050-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 51,
+      "jp": "海岸",
+      "reading": "かいがん",
+      "cn": "海岸",
+      "example": "海岸は隣の陸地です。",
+      "example_literal": "海岸(主題) 隔壁的 陸地 是。",
+      "category": "名詞",
+      "level": "N4",
+      "segments": [
+        "audio/kokyou/051-1-word.mp3",
+        "audio/kokyou/051-2-meaning.mp3",
+        "audio/kokyou/051-3-example.mp3",
+        "audio/kokyou/051-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 52,
+      "jp": "方言",
+      "reading": "ほうげん",
+      "cn": "方言",
+      "example": "標準的な日本語とは少し違う方言です。",
+      "example_literal": "標準的 日語(對象)(主題) 一點 不同的 方言 是。",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/kokyou/052-1-word.mp3",
+        "audio/kokyou/052-2-meaning.mp3",
+        "audio/kokyou/052-3-example.mp3",
+        "audio/kokyou/052-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 53,
+      "jp": "商業",
+      "reading": "しょうぎょう",
+      "cn": "商業",
+      "example": "多くの人が商業で働いています。",
+      "example_literal": "許多 人(主詞) 商業(領域) 工作著。",
+      "category": "名詞",
+      "level": "N2",
+      "segments": [
+        "audio/kokyou/053-1-word.mp3",
+        "audio/kokyou/053-2-meaning.mp3",
+        "audio/kokyou/053-3-example.mp3",
+        "audio/kokyou/053-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 54,
+      "jp": "秩序",
+      "reading": "ちつじょ",
+      "cn": "秩序",
+      "example": "いいことです。秩序があります。",
+      "example_literal": "好 事 是。秩序(主詞) 有。",
+      "category": "名詞",
+      "level": "N1",
+      "segments": [
+        "audio/kokyou/054-1-word.mp3",
+        "audio/kokyou/054-2-meaning.mp3",
+        "audio/kokyou/054-3-example.mp3",
+        "audio/kokyou/054-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 55,
+      "jp": "収穫祭",
+      "reading": "しゅうかくさい",
+      "cn": "豐收祭",
+      "example": "秋に収穫祭があります。",
+      "example_literal": "秋天(時間) 豐收祭(主詞) 有。",
+      "category": "名詞",
+      "level": "N1",
+      "segments": [
+        "audio/kokyou/055-1-word.mp3",
+        "audio/kokyou/055-2-meaning.mp3",
+        "audio/kokyou/055-3-example.mp3",
+        "audio/kokyou/055-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 56,
+      "jp": "湿度",
+      "reading": "しつど",
+      "cn": "濕度",
+      "example": "湿度のせいで時々不快です。",
+      "example_literal": "濕度 因為 有時 不舒服 是。",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/kokyou/056-1-word.mp3",
+        "audio/kokyou/056-2-meaning.mp3",
+        "audio/kokyou/056-3-example.mp3",
+        "audio/kokyou/056-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 57,
+      "jp": "天下",
+      "reading": "てんか",
+      "cn": "天下",
+      "example": "大阪は天下の台所と呼ばれています。",
+      "example_literal": "大阪(主題) 天下的 廚房(結果) 被稱呼著。",
+      "category": "名詞",
+      "level": "N1",
+      "segments": [
+        "audio/kokyou/057-1-word.mp3",
+        "audio/kokyou/057-2-meaning.mp3",
+        "audio/kokyou/057-3-example.mp3",
+        "audio/kokyou/057-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 58,
+      "jp": "石畳",
+      "reading": "いしだたみ",
+      "cn": "石板路",
+      "example": "通りは石畳で狭いです。",
+      "example_literal": "街道(主題) 石板路 且 狹窄 是。",
+      "category": "名詞",
+      "level": "N1",
+      "segments": [
+        "audio/kokyou/058-1-word.mp3",
+        "audio/kokyou/058-2-meaning.mp3",
+        "audio/kokyou/058-3-example.mp3",
+        "audio/kokyou/058-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 59,
+      "jp": "運河",
+      "reading": "うんが",
+      "cn": "運河",
+      "example": "運河沿いのエンターテイメント地区です。",
+      "example_literal": "運河 沿岸的 娛樂 區 是。",
+      "category": "名詞",
+      "level": "N1",
+      "segments": [
+        "audio/kokyou/059-1-word.mp3",
+        "audio/kokyou/059-2-meaning.mp3",
+        "audio/kokyou/059-3-example.mp3",
+        "audio/kokyou/059-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 60,
+      "jp": "有名",
+      "reading": "ゆうめい",
+      "cn": "有名的",
+      "example": "渋谷のスクランブル交差点がとても有名です。",
+      "example_literal": "渋谷的 十字路口(主詞) 非常 有名 是。",
+      "category": "な形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/kokyou/060-1-word.mp3",
+        "audio/kokyou/060-2-meaning.mp3",
+        "audio/kokyou/060-3-example.mp3",
+        "audio/kokyou/060-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 61,
+      "jp": "静か",
+      "reading": "しずか",
+      "cn": "安靜的",
+      "example": "静かで広々としています。",
+      "example_literal": "安靜 且 寬闊。",
+      "category": "な形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/kokyou/061-1-word.mp3",
+        "audio/kokyou/061-2-meaning.mp3",
+        "audio/kokyou/061-3-example.mp3",
+        "audio/kokyou/061-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 62,
+      "jp": "親切",
+      "reading": "しんせつ",
+      "cn": "親切的",
+      "example": "東京の人々は冷たく見えても実際にはとても親切です。",
+      "example_literal": "東京的 人們(主題) 冷漠地 看起來 即使 實際上(主題) 非常 親切 是。",
+      "category": "な形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/kokyou/062-1-word.mp3",
+        "audio/kokyou/062-2-meaning.mp3",
+        "audio/kokyou/062-3-example.mp3",
+        "audio/kokyou/062-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 63,
+      "jp": "大切",
+      "reading": "たいせつ",
+      "cn": "重要的",
+      "example": "これはとても大切なことなんです。",
+      "example_literal": "這個(主題) 非常 重要的 事 是。",
+      "category": "な形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/kokyou/063-1-word.mp3",
+        "audio/kokyou/063-2-meaning.mp3",
+        "audio/kokyou/063-3-example.mp3",
+        "audio/kokyou/063-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 64,
+      "jp": "賑やか",
+      "reading": "にぎやか",
+      "cn": "熱鬧的",
+      "example": "通りはいつも賑やかです。",
+      "example_literal": "街道(主題) 總是 熱鬧 是。",
+      "category": "な形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/kokyou/064-1-word.mp3",
+        "audio/kokyou/064-2-meaning.mp3",
+        "audio/kokyou/064-3-example.mp3",
+        "audio/kokyou/064-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 65,
+      "jp": "複雑",
+      "reading": "ふくざつ",
+      "cn": "複雜的",
+      "example": "複雑すぎずシンプルで説明的です。",
+      "example_literal": "複雜 太過不 簡單 且 說明性 是。",
+      "category": "な形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/kokyou/065-1-word.mp3",
+        "audio/kokyou/065-2-meaning.mp3",
+        "audio/kokyou/065-3-example.mp3",
+        "audio/kokyou/065-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 66,
+      "jp": "特別",
+      "reading": "とくべつ",
+      "cn": "特別的",
+      "example": "どの故郷にも何かユニークなもの、特別なものがあります。",
+      "example_literal": "任何 故鄉(地點)也 什麼 獨特的 東西、特別的 東西(主詞) 有。",
+      "category": "な形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/kokyou/066-1-word.mp3",
+        "audio/kokyou/066-2-meaning.mp3",
+        "audio/kokyou/066-3-example.mp3",
+        "audio/kokyou/066-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 67,
+      "jp": "実用的",
+      "reading": "じつようてき",
+      "cn": "實用的",
+      "example": "今日はとても実用的で役に立つことを学びます。",
+      "example_literal": "今天(主題) 非常 實用 且 有用的 事(受詞) 學習。",
+      "category": "な形容詞",
+      "level": "N2",
+      "segments": [
+        "audio/kokyou/067-1-word.mp3",
+        "audio/kokyou/067-2-meaning.mp3",
+        "audio/kokyou/067-3-example.mp3",
+        "audio/kokyou/067-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 68,
+      "jp": "穏やか",
+      "reading": "おだやか",
+      "cn": "平穩、溫和的",
+      "example": "今日の天気は穏やかで快適です。",
+      "example_literal": "今天的 天氣(主題) 溫和 且 舒適 是。",
+      "category": "な形容詞",
+      "level": "N2",
+      "segments": [
+        "audio/kokyou/068-1-word.mp3",
+        "audio/kokyou/068-2-meaning.mp3",
+        "audio/kokyou/068-3-example.mp3",
+        "audio/kokyou/068-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 69,
+      "jp": "魅力的",
+      "reading": "みりょくてき",
+      "cn": "有魅力的",
+      "example": "とても魅力的で平和です。",
+      "example_literal": "非常 有魅力 且 平靜 是。",
+      "category": "な形容詞",
+      "level": "N2",
+      "segments": [
+        "audio/kokyou/069-1-word.mp3",
+        "audio/kokyou/069-2-meaning.mp3",
+        "audio/kokyou/069-3-example.mp3",
+        "audio/kokyou/069-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 70,
+      "jp": "不快",
+      "reading": "ふかい",
+      "cn": "不舒服的",
+      "example": "湿度のせいで時々不快です。",
+      "example_literal": "濕度 因為 有時 不舒服 是。",
+      "category": "な形容詞",
+      "level": "N2",
+      "segments": [
+        "audio/kokyou/070-1-word.mp3",
+        "audio/kokyou/070-2-meaning.mp3",
+        "audio/kokyou/070-3-example.mp3",
+        "audio/kokyou/070-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 71,
+      "jp": "巨大",
+      "reading": "きょだい",
+      "cn": "巨大的",
+      "example": "わあ、それは巨大ですね。",
+      "example_literal": "哇 那個(主題) 巨大 對吧。",
+      "category": "な形容詞",
+      "level": "N2",
+      "segments": [
+        "audio/kokyou/071-1-word.mp3",
+        "audio/kokyou/071-2-meaning.mp3",
+        "audio/kokyou/071-3-example.mp3",
+        "audio/kokyou/071-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 72,
+      "jp": "完璧",
+      "reading": "かんぺき",
+      "cn": "完美的",
+      "example": "完璧です。とても明確で分かりやすかったです。",
+      "example_literal": "完美 是。非常 明確 且 易懂了 是。",
+      "category": "な形容詞",
+      "level": "N2",
+      "segments": [
+        "audio/kokyou/072-1-word.mp3",
+        "audio/kokyou/072-2-meaning.mp3",
+        "audio/kokyou/072-3-example.mp3",
+        "audio/kokyou/072-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 73,
+      "jp": "多様",
+      "reading": "たよう",
+      "cn": "多樣的",
+      "example": "私の近所はとても多様です。",
+      "example_literal": "我的 鄰近地區(主題) 非常 多樣 是。",
+      "category": "な形容詞",
+      "level": "N1",
+      "segments": [
+        "audio/kokyou/073-1-word.mp3",
+        "audio/kokyou/073-2-meaning.mp3",
+        "audio/kokyou/073-3-example.mp3",
+        "audio/kokyou/073-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 74,
+      "jp": "様々",
+      "reading": "さまざま",
+      "cn": "各式各樣的",
+      "example": "様々なスタイルがあります。",
+      "example_literal": "各式各樣的 風格(主詞) 有。",
+      "category": "な形容詞",
+      "level": "N3",
+      "segments": [
+        "audio/kokyou/074-1-word.mp3",
+        "audio/kokyou/074-2-meaning.mp3",
+        "audio/kokyou/074-3-example.mp3",
+        "audio/kokyou/074-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 75,
+      "jp": "嬉しい",
+      "reading": "うれしい",
+      "cn": "開心的",
+      "example": "今日も来てくださって本当に嬉しいです。",
+      "example_literal": "今天也 來 給我 真的 開心 是。",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/kokyou/075-1-word.mp3",
+        "audio/kokyou/075-2-meaning.mp3",
+        "audio/kokyou/075-3-example.mp3",
+        "audio/kokyou/075-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 76,
+      "jp": "大きい",
+      "reading": "おおきい",
+      "cn": "大的",
+      "example": "東京は間違いなく大都市です。",
+      "example_literal": "東京(主題) 毫無疑問地 大都市 是。",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/kokyou/076-1-word.mp3",
+        "audio/kokyou/076-2-meaning.mp3",
+        "audio/kokyou/076-3-example.mp3",
+        "audio/kokyou/076-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 77,
+      "jp": "小さい",
+      "reading": "ちいさい",
+      "cn": "小的",
+      "example": "大阪はもっと小さいです。",
+      "example_literal": "大阪(主題) 更 小 是。",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/kokyou/077-1-word.mp3",
+        "audio/kokyou/077-2-meaning.mp3",
+        "audio/kokyou/077-3-example.mp3",
+        "audio/kokyou/077-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 78,
+      "jp": "高い",
+      "reading": "たかい",
+      "cn": "高的、貴的",
+      "example": "私たちには高層ビルがたくさんあります。",
+      "example_literal": "我們(對象)(主題) 摩天大樓(主詞) 很多 有。",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/kokyou/078-1-word.mp3",
+        "audio/kokyou/078-2-meaning.mp3",
+        "audio/kokyou/078-3-example.mp3",
+        "audio/kokyou/078-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 79,
+      "jp": "低い",
+      "reading": "ひくい",
+      "cn": "低的",
+      "example": "私の古里には赤い瓦屋根の低い建物があります。",
+      "example_literal": "我的 故鄉(地點)(主題) 紅的 瓦屋頂的 低的 建築(主詞) 有。",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/kokyou/079-1-word.mp3",
+        "audio/kokyou/079-2-meaning.mp3",
+        "audio/kokyou/079-3-example.mp3",
+        "audio/kokyou/079-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 80,
+      "jp": "暑い",
+      "reading": "あつい",
+      "cn": "熱的",
+      "example": "夏は暑くて湿気があります。",
+      "example_literal": "夏天(主題) 熱 又 濕氣(主詞) 有。",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/kokyou/080-1-word.mp3",
+        "audio/kokyou/080-2-meaning.mp3",
+        "audio/kokyou/080-3-example.mp3",
+        "audio/kokyou/080-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 81,
+      "jp": "寒い",
+      "reading": "さむい",
+      "cn": "冷的",
+      "example": "冬は寒いです。",
+      "example_literal": "冬天(主題) 冷 是。",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/kokyou/081-1-word.mp3",
+        "audio/kokyou/081-2-meaning.mp3",
+        "audio/kokyou/081-3-example.mp3",
+        "audio/kokyou/081-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 82,
+      "jp": "忙しい",
+      "reading": "いそがしい",
+      "cn": "忙碌的",
+      "example": "だから忙しいライフスタイルなんですね。",
+      "example_literal": "所以 忙碌的 生活方式 是 對吧。",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/kokyou/082-1-word.mp3",
+        "audio/kokyou/082-2-meaning.mp3",
+        "audio/kokyou/082-3-example.mp3",
+        "audio/kokyou/082-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 83,
+      "jp": "面白い",
+      "reading": "おもしろい",
+      "cn": "有趣的",
+      "example": "これは面白くなりそうです。",
+      "example_literal": "這個(主題) 變有趣 似乎 是。",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/kokyou/083-1-word.mp3",
+        "audio/kokyou/083-2-meaning.mp3",
+        "audio/kokyou/083-3-example.mp3",
+        "audio/kokyou/083-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 84,
+      "jp": "狭い",
+      "reading": "せまい",
+      "cn": "狹窄的",
+      "example": "または通りは狭くて曲がりくねっています。",
+      "example_literal": "或者 街道(主題) 狹窄 又 蜿蜒著。",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/kokyou/084-1-word.mp3",
+        "audio/kokyou/084-2-meaning.mp3",
+        "audio/kokyou/084-3-example.mp3",
+        "audio/kokyou/084-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 85,
+      "jp": "広い",
+      "reading": "ひろい",
+      "cn": "寬廣的",
+      "example": "通りは広くて綺麗です。",
+      "example_literal": "街道(主題) 寬廣 又 漂亮 是。",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/kokyou/085-1-word.mp3",
+        "audio/kokyou/085-2-meaning.mp3",
+        "audio/kokyou/085-3-example.mp3",
+        "audio/kokyou/085-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 86,
+      "jp": "素晴らしい",
+      "reading": "すばらしい",
+      "cn": "極好的",
+      "example": "素晴らしい。通りはどうですか?",
+      "example_literal": "極好的。街道(主題) 如何 嗎?",
+      "category": "い形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/kokyou/086-1-word.mp3",
+        "audio/kokyou/086-2-meaning.mp3",
+        "audio/kokyou/086-3-example.mp3",
+        "audio/kokyou/086-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 87,
+      "jp": "美しい",
+      "reading": "うつくしい",
+      "cn": "美麗的",
+      "example": "それは美しいでしょうね。",
+      "example_literal": "那個(主題) 美麗 吧 對吧。",
+      "category": "い形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/kokyou/087-1-word.mp3",
+        "audio/kokyou/087-2-meaning.mp3",
+        "audio/kokyou/087-3-example.mp3",
+        "audio/kokyou/087-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 88,
+      "jp": "珍しい",
+      "reading": "めずらしい",
+      "cn": "稀有的",
+      "example": "でも大雪は稀です。",
+      "example_literal": "不過 大雪(主題) 稀有 是。",
+      "category": "い形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/kokyou/088-1-word.mp3",
+        "audio/kokyou/088-2-meaning.mp3",
+        "audio/kokyou/088-3-example.mp3",
+        "audio/kokyou/088-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 89,
+      "jp": "詳しい",
+      "reading": "くわしい",
+      "cn": "詳細的",
+      "example": "詳しい情報は後からでも追加できますから。",
+      "example_literal": "詳細的 資訊(主題) 之後(時間)也 追加 可以 因為。",
+      "category": "い形容詞",
+      "level": "N3",
+      "segments": [
+        "audio/kokyou/089-1-word.mp3",
+        "audio/kokyou/089-2-meaning.mp3",
+        "audio/kokyou/089-3-example.mp3",
+        "audio/kokyou/089-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 90,
+      "jp": "とても",
+      "reading": "とても",
+      "cn": "非常",
+      "example": "とても大きいです。",
+      "example_literal": "非常 大 是。",
+      "category": "副詞",
+      "level": "N5",
+      "segments": [
+        "audio/kokyou/090-1-word.mp3",
+        "audio/kokyou/090-2-meaning.mp3",
+        "audio/kokyou/090-3-example.mp3",
+        "audio/kokyou/090-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 91,
+      "jp": "たくさん",
+      "reading": "たくさん",
+      "cn": "很多",
+      "example": "たくさんのことをします。",
+      "example_literal": "很多的 事(受詞) 做。",
+      "category": "副詞",
+      "level": "N5",
+      "segments": [
+        "audio/kokyou/091-1-word.mp3",
+        "audio/kokyou/091-2-meaning.mp3",
+        "audio/kokyou/091-3-example.mp3",
+        "audio/kokyou/091-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 92,
+      "jp": "一緒に",
+      "reading": "いっしょに",
+      "cn": "一起",
+      "example": "ここにいるみんなが一緒に学んでいます。",
+      "example_literal": "這裡(地點) 在 大家(主詞) 一起 學習著。",
+      "category": "副詞",
+      "level": "N5",
+      "segments": [
+        "audio/kokyou/092-1-word.mp3",
+        "audio/kokyou/092-2-meaning.mp3",
+        "audio/kokyou/092-3-example.mp3",
+        "audio/kokyou/092-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 93,
+      "jp": "もっと",
+      "reading": "もっと",
+      "cn": "更加",
+      "example": "このレッスンは皆さんが日本語をもっと自信を持って話せるようにお手伝いします。",
+      "example_literal": "這堂 課(主題) 各位(主詞) 日語(受詞) 更加 自信(受詞) 擁有 說得出來 這樣地 幫忙。",
+      "category": "副詞",
+      "level": "N5",
+      "segments": [
+        "audio/kokyou/093-1-word.mp3",
+        "audio/kokyou/093-2-meaning.mp3",
+        "audio/kokyou/093-3-example.mp3",
+        "audio/kokyou/093-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 94,
+      "jp": "ちょっと",
+      "reading": "ちょっと",
+      "cn": "稍微",
+      "example": "今日のレッスンが楽しみでちょっとワクワクしています。",
+      "example_literal": "今天的 課(主詞) 期待 所以 稍微 興奮著。",
+      "category": "副詞",
+      "level": "N5",
+      "segments": [
+        "audio/kokyou/094-1-word.mp3",
+        "audio/kokyou/094-2-meaning.mp3",
+        "audio/kokyou/094-3-example.mp3",
+        "audio/kokyou/094-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 95,
+      "jp": "まず",
+      "reading": "まず",
+      "cn": "首先",
+      "example": "まずシンプルに始めます。",
+      "example_literal": "首先 簡單地 開始。",
+      "category": "副詞",
+      "level": "N4",
+      "segments": [
+        "audio/kokyou/095-1-word.mp3",
+        "audio/kokyou/095-2-meaning.mp3",
+        "audio/kokyou/095-3-example.mp3",
+        "audio/kokyou/095-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 96,
+      "jp": "特に",
+      "reading": "とくに",
+      "cn": "特別是",
+      "example": "動くカニの看板が特に有名です。",
+      "example_literal": "會動的 螃蟹的 招牌(主詞) 特別 有名 是。",
+      "category": "副詞",
+      "level": "N4",
+      "segments": [
+        "audio/kokyou/096-1-word.mp3",
+        "audio/kokyou/096-2-meaning.mp3",
+        "audio/kokyou/096-3-example.mp3",
+        "audio/kokyou/096-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 97,
+      "jp": "約",
+      "reading": "やく",
+      "cn": "大約",
+      "example": "約1300万人が東京23区に住んでいると思います。",
+      "example_literal": "約1300萬人(主詞) 東京23區(地點) 居住 認為。",
+      "category": "副詞",
+      "level": "N4",
+      "segments": [
+        "audio/kokyou/097-1-word.mp3",
+        "audio/kokyou/097-2-meaning.mp3",
+        "audio/kokyou/097-3-example.mp3",
+        "audio/kokyou/097-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 98,
+      "jp": "ほとんど",
+      "reading": "ほとんど",
+      "cn": "幾乎",
+      "example": "ほとんどは現代的ですが、大阪城のような歴史的な建物もあります。",
+      "example_literal": "幾乎(主題) 現代的 是 但是 大阪城 一樣的 歷史性的 建築 也 有。",
+      "category": "副詞",
+      "level": "N4",
+      "segments": [
+        "audio/kokyou/098-1-word.mp3",
+        "audio/kokyou/098-2-meaning.mp3",
+        "audio/kokyou/098-3-example.mp3",
+        "audio/kokyou/098-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 99,
+      "jp": "すごく",
+      "reading": "すごく",
+      "cn": "非常",
+      "example": "すごく元気です。",
+      "example_literal": "非常 有精神 是。",
+      "category": "副詞",
+      "level": "N4",
+      "segments": [
+        "audio/kokyou/099-1-word.mp3",
+        "audio/kokyou/099-2-meaning.mp3",
+        "audio/kokyou/099-3-example.mp3",
+        "audio/kokyou/099-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 100,
+      "jp": "間違いなく",
+      "reading": "まちがいなく",
+      "cn": "毫無疑問地",
+      "example": "東京は間違いなく大都市です。",
+      "example_literal": "東京(主題) 毫無疑問地 大都市 是。",
+      "category": "副詞",
+      "level": "N2",
+      "segments": [
+        "audio/kokyou/100-1-word.mp3",
+        "audio/kokyou/100-2-meaning.mp3",
+        "audio/kokyou/100-3-example.mp3",
+        "audio/kokyou/100-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 101,
+      "jp": "定期的に",
+      "reading": "ていきてきに",
+      "cn": "定期地",
+      "example": "1年中定期的に雨が降ります。",
+      "example_literal": "一整年 定期地 雨(主詞) 下。",
+      "category": "副詞",
+      "level": "N2",
+      "segments": [
+        "audio/kokyou/101-1-word.mp3",
+        "audio/kokyou/101-2-meaning.mp3",
+        "audio/kokyou/101-3-example.mp3",
+        "audio/kokyou/101-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 102,
+      "jp": "至る所に",
+      "reading": "いたるところに",
+      "cn": "到處",
+      "example": "ラーメン屋が至るところにあります。",
+      "example_literal": "拉麵店(主詞) 到處(地點) 有。",
+      "category": "副詞",
+      "level": "N1",
+      "segments": [
+        "audio/kokyou/102-1-word.mp3",
+        "audio/kokyou/102-2-meaning.mp3",
+        "audio/kokyou/102-3-example.mp3",
+        "audio/kokyou/102-4-literal.mp3"
+      ]
+    }
+  ]
+}
