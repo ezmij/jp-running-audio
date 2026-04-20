@@ -222,15 +222,21 @@ function renderTrack() {
   if (!t) return;
   $("sheet-title").textContent = state.currentSheet.sheet;
   $("position").textContent = `${state.currentTrackIdx + 1} / ${state.currentSheet.total}`;
-  $("category").textContent = [t.category, t.level].filter(Boolean).join(" · ");
-  $("jp").textContent = t.jp;
-  $("reading").textContent = t.reading !== t.jp ? t.reading : "";
-  $("cn").textContent = t.cn;
-  $("example").textContent = t.example;
-  $("literal").textContent = t.example_literal;
+  setField("category", [t.category, t.level].filter(Boolean).join(" · "));
+  setField("jp", t.jp);
+  setField("reading", t.reading && t.reading !== t.jp ? t.reading : "");
+  setField("cn", t.cn);
+  setField("example", t.example);
+  setField("literal", t.example_literal);
   renderDots();
   syncSlider();
   savePosition();
+}
+
+function setField(id, value) {
+  const el = $(id);
+  el.textContent = value || "";
+  el.hidden = !value;
 }
 
 function setupSlider() {

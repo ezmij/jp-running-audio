@@ -14,6 +14,11 @@
       "slug": "kokyou",
       "sheet": "談故鄉",
       "total": 102
+    },
+    {
+      "slug": "kokyou-transcript",
+      "sheet": "談故鄉 — 全文對照",
+      "total": 473
     }
   ]
 }

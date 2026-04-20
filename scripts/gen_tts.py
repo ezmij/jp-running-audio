@@ -49,6 +49,20 @@ JA_VOICE = {"languageCode": "ja-JP", "name": "ja-JP-Neural2-B"}
 ZH_VOICE = {"languageCode": "cmn-TW", "name": "cmn-TW-Standard-A"}
 QUOTA_PROJECT = "yuningweb"
 
+# Matches parenthetical content (both half-width and full-width brackets)
+# Used to strip reading annotations like 靴(くつ) and grammar labels like (受詞)
+# from TTS input — the on-screen text keeps them.
+PAREN_RE = re.compile(r"[（(][^)）]{1,20}[)）]")
+
+
+def strip_parens(text: str) -> str:
+    if not text:
+        return text
+    cleaned = PAREN_RE.sub("", text)
+    # Collapse doubled spaces caused by removed tokens
+    cleaned = re.sub(r"\s+", " ", cleaned).strip()
+    return cleaned
+
 
 def get_access_token() -> str:
     proc = subprocess.run(
@@ -114,21 +128,35 @@ def render_segment(token: str, text: str, voice: dict, path: Path) -> None:
 def row_segments(row: dict) -> list[tuple[str, str, dict]]:
     """Return list of (kind, text, voice) per row. Kind used for filename."""
     segs = []
-    # 1. word + reading (reading only if different from jp)
+    schema = row.get("schema", "vocab")
+
+    # Transcript schema: 2 segments only (JP sentence + CN literal)
+    if schema == "transcript":
+        jp = strip_parens(row.get("jp", ""))
+        if jp:
+            segs.append(("sentence", jp, JA_VOICE))
+        cn = strip_parens(row.get("example_literal", ""))
+        if cn:
+            segs.append(("literal", cn, ZH_VOICE))
+        return segs
+
+    # Vocab schema (default):
+    # 1. word + reading (reading only if different from jp) — no parens in word/reading
     if row["reading"] and row["reading"] != row["jp"]:
         word_text = f"{row['jp']}。{row['reading']}"
     else:
         word_text = row["jp"]
     segs.append(("word", word_text, JA_VOICE))
-    # 2. chinese meaning (no prefix — Masa preference)
+    # 2. chinese meaning — strip parens like 燒開(水)
     if row.get("cn"):
-        segs.append(("meaning", row["cn"], ZH_VOICE))
-    # 3. japanese example (keep 例句 prefix for JA cue)
+        segs.append(("meaning", strip_parens(row["cn"]), ZH_VOICE))
+    # 3. japanese example — strip furigana like 靴(くつ), keep 例句 JP cue
     if row.get("example"):
-        segs.append(("example", f"例句：{row['example']}", JA_VOICE))
-    # 4. literal zh (no prefix)
+        ex = strip_parens(row["example"])
+        segs.append(("example", f"例句：{ex}", JA_VOICE))
+    # 4. literal zh — strip grammar labels like (主詞)(受詞)
     if row.get("example_literal"):
-        segs.append(("literal", row["example_literal"], ZH_VOICE))
+        segs.append(("literal", strip_parens(row["example_literal"]), ZH_VOICE))
     return segs
 
 

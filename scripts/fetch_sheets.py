@@ -20,9 +20,10 @@ DATA_DIR = PROJECT_ROOT / "data"
 # Output slug keeps filenames ASCII-safe
 SHEETS = [
     {"title": "北海道BD農法", "slug": "bd-nouhou", "schema": "bd"},
-    {"title": "北海道BD農法2", "slug": "bd-nouhou2", "schema": "bd"},
     {"title": "常用的100個對話", "slug": "daily-100", "schema": "mrjp"},
     {"title": "談故鄉", "slug": "kokyou", "schema": "mrjp"},
+    {"title": "談故鄉", "slug": "kokyou-transcript", "schema": "mrjp-transcript",
+     "display_name": "談故鄉 — 全文對照"},
 ]
 
 # MR JP vocab categories appear as sub-headers inside 一、單字表整理
@@ -72,6 +73,59 @@ def parse_bd(rows: list[list[str]]) -> list[dict]:
             "example": example.strip(),
             "example_literal": literal.strip(),
             "note": note.strip(),
+            "level": "",
+        })
+    return out
+
+
+def parse_mrjp_transcript(rows: list[list[str]]) -> list[dict]:
+    """
+    Extract the full video transcript section paired with word-by-word
+    Chinese literal translation.
+
+    Section headers vary across sheets:
+      - 談壓力: col B = "四、日漢對照"
+      - 談故鄉: col A = "Context"
+    Both layouts then put data in col E (JP) and col F (CN literal),
+    with a header row containing "中文（詞序對應" in col F.
+    """
+    out = []
+    in_section = False
+    seen_header = False
+    for row in rows:
+        row = row + [""] * (6 - len(row))
+        a = row[0].strip() if len(row) > 0 else ""
+        b = row[1].strip() if len(row) > 1 else ""
+        # Start markers
+        if (b.startswith("四、") and "日漢" in b) or a == "Context":
+            in_section = True
+            seen_header = False
+            continue
+        # Stop at next major section
+        if b.startswith("五、"):
+            break
+        if not in_section:
+            continue
+        e = row[4].strip() if len(row) > 4 else ""
+        f = row[5].strip() if len(row) > 5 else ""
+        # Skip the "中文（詞序對應，不潤飾）" header row
+        if not seen_header and f and ("詞序對應" in f or "不潤飾" in f):
+            seen_header = True
+            continue
+        if e == "日文原句":
+            continue
+        if not e:
+            continue
+        out.append({
+            "id": len(out) + 1,
+            "schema": "transcript",
+            "category": "",
+            "jp": e,
+            "reading": "",
+            "cn": "",
+            "example": "",
+            "example_literal": f,
+            "note": "",
             "level": "",
         })
     return out
@@ -137,19 +191,44 @@ def main() -> int:
         title = sheet["title"]
         slug = sheet["slug"]
         schema = sheet["schema"]
-        # Read generously; actual row counts are at most ~300 for vocab area
-        a1 = f"{title}!A1:I300"
+        # Read generously; transcript sections can extend to row ~800
+        a1 = f"{title}!A1:I800"
         print(f"Fetching {title} ({schema}) ...", flush=True)
         rows = gws_read(SHEET_ID, a1)
         if schema == "bd":
             parsed = parse_bd(rows)
+        elif schema == "mrjp-transcript":
+            parsed = parse_mrjp_transcript(rows)
         else:
             parsed = parse_mrjp(rows)
+
+        # Preserve AI-filled example_literal from previous rows.json so we
+        # don't clobber generated word-by-word translations on each refetch.
         out_dir = DATA_DIR / slug
+        prev_path = out_dir / "rows.json"
+        if prev_path.exists():
+            try:
+                with open(prev_path, encoding="utf-8") as pf:
+                    prev = json.load(pf)
+                # Match by (category, jp, example) — same triple → carry literal
+                prev_map = {
+                    (r.get("category", ""), r.get("jp", ""), r.get("example", "")): r.get("example_literal", "")
+                    for r in prev.get("rows", [])
+                    if r.get("example_literal")
+                }
+                for row in parsed:
+                    key = (row.get("category", ""), row.get("jp", ""), row.get("example", ""))
+                    if not row.get("example_literal") and prev_map.get(key):
+                        row["example_literal"] = prev_map[key]
+            except Exception as e:
+                print(f"  WARN: could not merge previous literals: {e}")
+
         out_dir.mkdir(parents=True, exist_ok=True)
+        display_name = sheet.get("display_name", title)
         with open(out_dir / "rows.json", "w", encoding="utf-8") as f:
             json.dump({
-                "sheet": title,
+                "sheet": display_name,
+                "source_tab": title,
                 "slug": slug,
                 "schema": schema,
                 "count": len(parsed),
