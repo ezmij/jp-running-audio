@@ -28,6 +28,31 @@
     <p class="hint">選主題開始。AirPods 雙擊＝下一詞、三擊＝上一詞。</p>
   </section>
 
+  <section id="settings" class="screen">
+    <header class="player-header">
+      <button id="settings-back-btn" aria-label="回主頁">←</button>
+      <div class="player-title">
+        <div id="settings-title"></div>
+        <div id="settings-subtitle"></div>
+      </div>
+      <span class="player-header-spacer"></span>
+    </header>
+
+    <div class="settings-body">
+      <div class="section-label">播放內容</div>
+      <div id="segment-toggles" class="segment-toggles"></div>
+
+      <div class="section-label">空檔秒數</div>
+      <div id="gap-inputs" class="gap-inputs"></div>
+
+      <p class="hint">取消勾選的段落會跳過；空檔是該段播完後的停頓。</p>
+    </div>
+
+    <div class="controls">
+      <button id="start-play-btn" class="ctrl primary">開始播放</button>
+    </div>
+  </section>
+
   <section id="player" class="screen">
     <header class="player-header">
       <button id="back-btn" aria-label="回主頁">←</button>

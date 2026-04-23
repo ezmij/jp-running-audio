@@ -67,3 +67,21 @@ h1 { font-size: 24px; font-weight: 600; margin: 8px 0 20px; }
 .ctrl.primary { background: #2563eb; flex: 1.3; font-size: 32px; }
 .ctrl.primary:active { background: #1d4ed8; }
 .ctrl.primary.playing { background: #16a34a; }
+
+/* ------- Settings ------- */
+.player-header-spacer { min-width: 48px; }
+#settings-title { font-size: 16px; color: #fff; font-weight: 500; }
+#settings-subtitle { font-size: 12px; color: #888; margin-top: 2px; }
+.settings-body { flex: 1; overflow-y: auto; padding: 4px 2px 16px; }
+.segment-toggles { display: flex; flex-direction: column; gap: 8px; }
+.segment-toggle { display: flex; align-items: center; gap: 12px; background: #1a1a1a; padding: 14px 16px; border-radius: 12px; cursor: pointer; user-select: none; }
+.segment-toggle input[type="checkbox"] { width: 20px; height: 20px; accent-color: #2563eb; margin: 0; cursor: pointer; flex-shrink: 0; }
+.segment-toggle .seg-label { font-size: 16px; color: #eee; flex: 1; }
+.segment-toggle .seg-hint { font-size: 12px; color: #888; }
+.gap-inputs { display: flex; flex-direction: column; gap: 8px; }
+.gap-row { display: flex; align-items: center; gap: 12px; background: #1a1a1a; padding: 12px 16px; border-radius: 12px; }
+.gap-row .gap-label { flex: 1; font-size: 14px; color: #ccc; }
+.gap-row input[type="number"] { width: 80px; background: #0a0a0a; color: #eee; border: 1px solid #333; border-radius: 8px; padding: 8px 10px; font-size: 16px; text-align: center; font-family: inherit; font-variant-numeric: tabular-nums; -moz-appearance: textfield; }
+.gap-row input[type="number"]::-webkit-inner-spin-button,
+.gap-row input[type="number"]::-webkit-outer-spin-button { -webkit-appearance: none; margin: 0; }
+.gap-row .gap-unit { font-size: 13px; color: #888; min-width: 18px; }

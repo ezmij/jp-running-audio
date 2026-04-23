@@ -1,20 +1,116 @@
 // 日語跑步聽 PWA — single-file controller
 // - Loads sheet manifests from data/*.json
-// - Plays 4-segment audio sequences per track
+// - Settings panel (per schema) gates sheet entry: pick segments + gaps, then play
 // - Hooks MediaSession API for AirPods/lock-screen controls
 
 const SPEEDS = [0.7, 0.85, 1.0, 1.1, 1.3];
 
+const KIND_META = {
+  vocab: [
+    { kind: "word",    label: "日文單字" },
+    { kind: "meaning", label: "中文意思" },
+    { kind: "example", label: "日文例句" },
+    { kind: "literal", label: "語序直譯" },
+  ],
+  transcript: [
+    { kind: "sentence", label: "日文原句" },
+    { kind: "literal",  label: "語序直譯" },
+  ],
+};
+
+const DEFAULT_SETTINGS = {
+  vocab: {
+    enabled: { word: true, meaning: true, example: true, literal: true },
+    gaps: [350, 350, 350, 600],
+  },
+  transcript: {
+    enabled: { sentence: true, literal: true },
+    gaps: [350, 600],
+  },
+};
+
 const state = {
   sheets: [],
-  currentSheet: null,      // manifest object
+  currentSheet: null,
   currentTrackIdx: 0,
   currentSegmentIdx: 0,
-  mode: localStorage.getItem("mode") || "tap", // "tap" | "continuous"
+  mode: localStorage.getItem("mode") || "tap",
   speed: parseFloat(localStorage.getItem("speed")) || 1.0,
   isPlaying: false,
-  segmentTimer: null,      // setTimeout between segments; cleared on pause
+  segmentTimer: null,
+  activeSegments: [],
+  settings: loadSettings(),
 };
+
+const $ = (id) => document.getElementById(id);
+const audio = $("audio");
+
+// ----- Settings persistence -----
+
+function loadSettings() {
+  const fallback = JSON.parse(JSON.stringify(DEFAULT_SETTINGS));
+  try {
+    const raw = localStorage.getItem("settings");
+    if (!raw) return fallback;
+    const s = JSON.parse(raw);
+    return {
+      vocab: {
+        enabled: { ...fallback.vocab.enabled, ...(s?.vocab?.enabled || {}) },
+        gaps: Array.isArray(s?.vocab?.gaps) && s.vocab.gaps.length === 4
+          ? s.vocab.gaps.map(Number) : fallback.vocab.gaps,
+      },
+      transcript: {
+        enabled: { ...fallback.transcript.enabled, ...(s?.transcript?.enabled || {}) },
+        gaps: Array.isArray(s?.transcript?.gaps) && s.transcript.gaps.length === 2
+          ? s.transcript.gaps.map(Number) : fallback.transcript.gaps,
+      },
+    };
+  } catch (e) {
+    return fallback;
+  }
+}
+
+function saveSettings() {
+  localStorage.setItem("settings", JSON.stringify(state.settings));
+}
+
+// ----- Kind / schema helpers -----
+
+function segKindFromUrl(url) {
+  const m = url.match(/-(\d+)-([a-z]+)\.mp3(?:[?#].*)?$/);
+  return m ? m[2] : null;
+}
+
+function sheetSchema(manifest) {
+  const first = manifest.tracks?.[0]?.segments?.[0];
+  const kind = first ? segKindFromUrl(first) : null;
+  return kind === "sentence" ? "transcript" : "vocab";
+}
+
+function activeSegmentsForTrack(track) {
+  const schema = state.currentSheet?.schema || "vocab";
+  const cfg = state.settings[schema];
+  return track.segments.filter((url) => {
+    const kind = segKindFromUrl(url);
+    return kind && cfg.enabled[kind];
+  });
+}
+
+function gapAfterKind(kind) {
+  const schema = state.currentSheet?.schema || "vocab";
+  const kinds = KIND_META[schema].map((k) => k.kind);
+  const idx = kinds.indexOf(kind);
+  if (idx < 0) return 350;
+  return state.settings[schema].gaps[idx] ?? 350;
+}
+
+function lastGap() {
+  const schema = state.currentSheet?.schema || "vocab";
+  const gaps = state.settings[schema].gaps;
+  return gaps[gaps.length - 1] ?? 600;
+}
+
+// ----- Timers -----
 
 function clearSegmentTimer() {
   if (state.segmentTimer) {
@@ -22,9 +118,6 @@ function clearSegmentTimer() {
     state.segmentTimer = null;
   }
 }
-
-const $ = (id) => document.getElementById(id);
-const audio = $("audio");
 
 // ----- Init -----
 init();
@@ -93,7 +186,12 @@ function bindEvents() {
   });
   $("speed-btn").addEventListener("click", cycleSpeed);
 
-  // Position slider: preview on drag, seek on release
+  $("settings-back-btn").addEventListener("click", () => {
+    $("settings").classList.remove("active");
+    $("home").classList.add("active");
+  });
+  $("start-play-btn").addEventListener("click", startPlaying);
+
   const slider = $("position-slider");
   slider.addEventListener("input", (e) => {
     updatePreview(parseInt(e.target.value, 10) - 1);
@@ -108,7 +206,6 @@ function bindEvents() {
     updateMediaSession();
   });
 
-  // Long-press replay button = restart sheet from idx 0
   let pressTimer = null;
   const replayBtn = $("replay-btn");
   const startPress = () => {
@@ -133,7 +230,6 @@ function bindEvents() {
   replayBtn.addEventListener("pointerleave", cancelPress);
   replayBtn.addEventListener("pointercancel", cancelPress);
 
-  // Apply persisted speed on load
   applySpeed();
   updateSpeedIndicator();
 
@@ -145,28 +241,111 @@ function bindEvents() {
   });
 }
 
-// ----- Sheet loading -----
+// ----- Sheet loading / settings panel -----
 
 async function openSheet(slug) {
   const res = await fetch(`data/${slug}.json`, { cache: "no-cache" });
   const manifest = await res.json();
+  manifest.schema = sheetSchema(manifest);
   state.currentSheet = manifest;
-  // Restore last position for this sheet (auto-resume)
+
   const savedIdx = parseInt(localStorage.getItem(`pos:${slug}`), 10);
   state.currentTrackIdx = Number.isFinite(savedIdx) && savedIdx >= 0 && savedIdx < manifest.total
     ? savedIdx : 0;
   state.currentSegmentIdx = 0;
   localStorage.setItem("lastSheet", slug);
-  showPlayer();
-  setupSlider();
-  renderTrack();
-  playCurrent();
-  setupMediaSession();
-  // Hint SW to pre-cache the manifest + all segments for this sheet
+
+  showSettings();
+
   if (navigator.serviceWorker?.controller) {
     const urls = manifest.tracks.flatMap((t) => t.segments);
     navigator.serviceWorker.controller.postMessage({ type: "precache", urls });
   }
+}
+
+function showSettings() {
+  const manifest = state.currentSheet;
+  if (!manifest) return;
+
+  $("home").classList.remove("active");
+  $("player").classList.remove("active");
+  $("settings").classList.add("active");
+
+  $("settings-title").textContent = manifest.sheet;
+  $("settings-subtitle").textContent = `${state.currentTrackIdx + 1} / ${manifest.total}`;
+
+  const schema = manifest.schema;
+  const cfg = state.settings[schema];
+
+  const togglesEl = $("segment-toggles");
+  togglesEl.innerHTML = "";
+  KIND_META[schema].forEach((k) => {
+    const label = document.createElement("label");
+    label.className = "segment-toggle";
+    label.innerHTML = `
+      <input type="checkbox" data-kind="${k.kind}" ${cfg.enabled[k.kind] ? "checked" : ""}>
+      <span class="seg-label">${k.label}</span>
+    `;
+    togglesEl.appendChild(label);
+  });
+  togglesEl.querySelectorAll("input[type=checkbox]").forEach((cb) => {
+    cb.addEventListener("change", () => {
+      cfg.enabled[cb.dataset.kind] = cb.checked;
+      saveSettings();
+      updateStartBtn();
+    });
+  });
+
+  const gapsEl = $("gap-inputs");
+  gapsEl.innerHTML = "";
+  KIND_META[schema].forEach((k, i) => {
+    const row = document.createElement("div");
+    row.className = "gap-row";
+    const isLast = i === KIND_META[schema].length - 1;
+    const labelText = isLast
+      ? `${k.label}→下一筆`
+      : `${k.label}→下一段`;
+    row.innerHTML = `
+      <span class="gap-label">${labelText}</span>
+      <input type="number" min="0" max="10" step="0.1" value="${(cfg.gaps[i] / 1000).toFixed(1)}" data-idx="${i}">
+      <span class="gap-unit">秒</span>
+    `;
+    gapsEl.appendChild(row);
+  });
+  gapsEl.querySelectorAll("input[type=number]").forEach((inp) => {
+    inp.addEventListener("change", () => {
+      const idx = parseInt(inp.dataset.idx, 10);
+      const secs = parseFloat(inp.value);
+      if (Number.isFinite(secs) && secs >= 0) {
+        cfg.gaps[idx] = Math.round(secs * 1000);
+        saveSettings();
+      } else {
+        inp.value = (cfg.gaps[idx] / 1000).toFixed(1);
+      }
+    });
+  });
+
+  updateStartBtn();
+}
+
+function updateStartBtn() {
+  const schema = state.currentSheet?.schema || "vocab";
+  const cfg = state.settings[schema];
+  const anyEnabled = Object.values(cfg.enabled).some(Boolean);
+  const btn = $("start-play-btn");
+  btn.disabled = !anyEnabled;
+  btn.textContent = anyEnabled ? "開始播放" : "請至少選一項";
+  btn.style.opacity = anyEnabled ? "" : "0.5";
+}
+
+function startPlaying() {
+  $("settings").classList.remove("active");
+  $("player").classList.add("active");
+  updateModeIndicator();
+  setupSlider();
+  renderTrack();
+  playCurrent();
+  setupMediaSession();
 }
 
 function savePosition() {
@@ -174,15 +353,11 @@ function savePosition() {
   localStorage.setItem(`pos:${state.currentSheet.slug}`, state.currentTrackIdx);
 }
 
-function showPlayer() {
-  $("home").classList.remove("active");
-  $("player").classList.add("active");
-  updateModeIndicator();
-}
-
 function goHome() {
+  clearSegmentTimer();
   audio.pause();
   $("player").classList.remove("active");
+  $("settings").classList.remove("active");
   $("home").classList.add("active");
 }
 
@@ -197,9 +372,7 @@ function updateSpeedIndicator() {
 
 function applySpeed() {
   audio.playbackRate = state.speed;
-  // preservesPitch avoids chipmunk effect at >1x
   if ("preservesPitch" in audio) audio.preservesPitch = true;
-  // Safari legacy
   if ("webkitPreservesPitch" in audio) audio.webkitPreservesPitch = true;
 }
 
@@ -228,6 +401,7 @@ function renderTrack() {
   setField("cn", t.cn);
   setField("example", t.example);
   setField("literal", t.example_literal);
+  state.activeSegments = activeSegmentsForTrack(t);
   renderDots();
   syncSlider();
   savePosition();
@@ -261,10 +435,10 @@ function updatePreview(idx) {
 }
 
 function renderDots() {
-  const t = currentTrack();
   const dots = $("segment-dots");
   dots.innerHTML = "";
-  for (let i = 0; i < t.segments.length; i++) {
+  const n = state.activeSegments.length;
+  for (let i = 0; i < n; i++) {
     const d = document.createElement("span");
     d.className = "dot" +
       (i === state.currentSegmentIdx ? " active" :
@@ -276,9 +450,9 @@ function renderDots() {
 // ----- Playback -----
 
 function playCurrent() {
-  const t = currentTrack();
-  if (!t) return;
-  const url = t.segments[state.currentSegmentIdx];
+  if (!state.activeSegments.length) return;
+  const url = state.activeSegments[state.currentSegmentIdx];
+  if (!url) return;
   audio.src = url;
   applySpeed();
   audio.play().catch((e) => console.warn("play error", e));
@@ -286,16 +460,19 @@ function playCurrent() {
 }
 
 function onSegmentEnded() {
-  const t = currentTrack();
-  if (state.currentSegmentIdx < t.segments.length - 1) {
-    // Next segment in same track
+  const active = state.activeSegments;
+  const justEnded = active[state.currentSegmentIdx];
+  const justKind = justEnded ? segKindFromUrl(justEnded) : null;
+
+  if (state.currentSegmentIdx < active.length - 1) {
     state.currentSegmentIdx++;
     renderDots();
     clearSegmentTimer();
+    const gap = justKind ? gapAfterKind(justKind) : 350;
     state.segmentTimer = setTimeout(() => {
       state.segmentTimer = null;
       playCurrent();
-    }, 350);
+    }, gap);
     return;
   }
   // Track finished
@@ -305,7 +482,7 @@ function onSegmentEnded() {
     state.segmentTimer = setTimeout(() => {
       state.segmentTimer = null;
       nextTrack(false);
-    }, 600);
+    }, lastGap());
   } else {
     setPlayingUI(false);
     renderDots();
@@ -317,7 +494,6 @@ function nextTrack(fromUser) {
   const total = state.currentSheet.total;
   if (state.currentTrackIdx >= total - 1) {
     if (state.mode === "continuous") {
-      // Loop back to start
       state.currentTrackIdx = 0;
     } else {
       setPlayingUI(false);
@@ -343,11 +519,9 @@ function prevTrack(fromUser) {
 
 function toggleReplay() {
   if (audio.paused) {
-    // Track fully ended: start over from segment 1
     if (state.currentSegmentIdx === 0 && (audio.ended || !audio.src)) {
       playCurrent();
     } else if (audio.ended) {
-      // Current segment finished but still mid-track — resume next segment via onSegmentEnded
       playCurrent();
     } else {
       audio.play();
@@ -365,7 +539,7 @@ function setPlayingUI(playing) {
   btn.textContent = playing ? "⏸" : "▶";
 }
 
-// ----- MediaSession (AirPods, Lock Screen) -----
+// ----- MediaSession -----
 
 function setupMediaSession() {
   if (!("mediaSession" in navigator)) return;
