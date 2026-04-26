@@ -26,6 +26,23 @@
       <button data-mode="continuous" class="mode-btn">連播</button>
     </div>
     <p class="hint">選主題開始。AirPods 雙擊＝下一詞、三擊＝上一詞。</p>
+
+    <details class="offline-panel" id="offline-panel">
+      <summary>📦 離線儲存</summary>
+      <div class="offline-body">
+        <p class="offline-hint">
+          沒網路也能聽。點任何主題進去會自動下載；要事先下載全部按下方按鈕。
+        </p>
+        <div class="offline-stats">
+          <div>用量：<span id="storage-usage">查詢中…</span></div>
+          <div>狀態：<span id="storage-persist" class="persist-status">查詢中…</span></div>
+        </div>
+        <div class="offline-actions">
+          <button id="dl-all-btn" class="ctrl">全部下載到離線</button>
+          <button id="clear-cache-btn" class="ctrl ghost">清除離線快取</button>
+        </div>
+      </div>
+    </details>
   </section>
 
   <section id="settings" class="screen">

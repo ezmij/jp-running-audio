@@ -126,6 +126,7 @@ async function init() {
   restoreUIState();
   await loadSheetIndex();
   bindEvents();
+  bindOfflinePanel();
   registerServiceWorker();
 }
 
@@ -144,15 +145,160 @@ async function loadSheetIndex() {
     list.innerHTML = "";
     for (const s of state.sheets) {
       const li = document.createElement("li");
-      li.innerHTML = `<span>${s.sheet}</span><span class="count">${s.total} 詞</span>`;
+      li.dataset.slug = s.slug;
+      li.innerHTML = `
+        <span>${s.sheet}</span>
+        <span class="count">${s.total} 詞 <span class="cache-badge" data-cache-badge="${s.slug}" title="點主題進去會自動下載到離線"></span></span>
+      `;
       li.addEventListener("click", () => openSheet(s.slug));
       list.appendChild(li);
     }
     if (state.sheets.length === 0) {
       list.innerHTML = "<li class='loading'>沒有可用的主題</li>";
     }
+    refreshAllCacheBadges();
   } catch (e) {
     list.innerHTML = `<li class='loading'>載入失敗：${e.message}</li>`;
+  }
+}
+
+// ----- Offline / cache management -----
+
+async function fetchSheetManifest(slug) {
+  if (!state.manifestCache) state.manifestCache = {};
+  if (state.manifestCache[slug]) return state.manifestCache[slug];
+  const res = await fetch(`data/${slug}.json`);
+  if (!res.ok) throw new Error(`manifest ${slug}: ${res.status}`);
+  const m = await res.json();
+  state.manifestCache[slug] = m;
+  return m;
+}
+
+function manifestUrls(manifest, slug) {
+  const segUrls = manifest.tracks.flatMap((t) => t.segments);
+  return [`data/${slug}.json`, ...segUrls];
+}
+
+function swPost(message) {
+  return new Promise((resolve, reject) => {
+    if (!navigator.serviceWorker?.controller) return reject(new Error("no SW"));
+    const ch = new MessageChannel();
+    const timer = setTimeout(() => reject(new Error("SW timeout")), 30000);
+    ch.port1.onmessage = (ev) => { clearTimeout(timer); resolve(ev.data); };
+    navigator.serviceWorker.controller.postMessage(message, [ch.port2]);
+  });
+}
+
+async function querySheetCacheStatus(slug) {
+  try {
+    const manifest = await fetchSheetManifest(slug);
+    const urls = manifestUrls(manifest, slug);
+    const resp = await swPost({ type: "query-cache-status", urls, tag: slug });
+    return { slug, cached: resp.cached, total: resp.total };
+  } catch (e) {
+    return { slug, cached: 0, total: 0, error: e.message };
+  }
+}
+
+function renderCacheBadge(slug, cached, total) {
+  const el = document.querySelector(`[data-cache-badge="${slug}"]`);
+  if (!el) return;
+  if (total === 0) {
+    el.textContent = "";
+    return;
+  }
+  if (cached >= total) {
+    el.textContent = "✅ 離線";
+    el.className = "cache-badge ok";
+  } else if (cached === 0) {
+    el.textContent = "⬇ 未下載";
+    el.className = "cache-badge none";
+  } else {
+    const pct = Math.round((cached / total) * 100);
+    el.textContent = `🔄 ${pct}%`;
+    el.className = "cache-badge partial";
+  }
+}
+
+async function refreshAllCacheBadges() {
+  if (!navigator.serviceWorker?.controller) return;
+  for (const s of state.sheets || []) {
+    const r = await querySheetCacheStatus(s.slug);
+    renderCacheBadge(s.slug, r.cached, r.total);
+  }
+  updateGlobalStorageInfo();
+}
+
+async function precacheSheet(slug, onProgress) {
+  const manifest = await fetchSheetManifest(slug);
+  const urls = manifestUrls(manifest, slug);
+  return new Promise((resolve, reject) => {
+    if (!navigator.serviceWorker?.controller) return reject(new Error("no SW"));
+    const ch = new MessageChannel();
+    const timer = setTimeout(() => reject(new Error("precache timeout")), 600000);
+    ch.port1.onmessage = (ev) => {
+      const d = ev.data;
+      if (d.type === "precache-progress" && onProgress) onProgress(d);
+      if (d.type === "precache-done") { clearTimeout(timer); resolve(d); }
+    };
+    navigator.serviceWorker.controller.postMessage(
+      { type: "precache", urls, tag: slug },
+      [ch.port2]
+    );
+  });
+}
+
+async function precacheAllSheets() {
+  const btn = $("dl-all-btn");
+  if (btn) btn.disabled = true;
+  for (const s of state.sheets || []) {
+    try {
+      await precacheSheet(s.slug, (p) => {
+        renderCacheBadge(s.slug, p.done, p.total);
+        if (btn) btn.textContent = `下載中 ${s.sheet} ${p.done}/${p.total}…`;
+      });
+      await querySheetCacheStatus(s.slug).then((r) =>
+        renderCacheBadge(s.slug, r.cached, r.total));
+    } catch (e) {
+      console.warn("precache failed", s.slug, e);
+    }
+  }
+  if (btn) {
+    btn.disabled = false;
+    btn.textContent = "全部下載到離線";
+  }
+  updateGlobalStorageInfo();
+}
+
+async function clearAudioCache() {
+  if (!confirm("確定清除已下載的離線 MP3？\n（程式 + 設定不受影響，下次播放會重新下載）")) return;
+  await swPost({ type: "clear-audio-cache" });
+  refreshAllCacheBadges();
+}
+
+async function requestPersistent() {
+  if (!navigator.storage?.persist) return false;
+  try { return await navigator.storage.persist(); } catch (_) { return false; }
+}
+
+async function updateGlobalStorageInfo() {
+  const usageEl = $("storage-usage");
+  const persistEl = $("storage-persist");
+  if (!usageEl || !persistEl) return;
+  if (navigator.storage?.estimate) {
+    const e = await navigator.storage.estimate();
+    const used = (e.usage || 0) / 1024 / 1024;
+    const quota = (e.quota || 0) / 1024 / 1024 / 1024;
+    usageEl.textContent = `已用 ${used.toFixed(1)} MB${quota ? ` / 配額 ${quota.toFixed(2)} GB` : ""}`;
+  } else {
+    usageEl.textContent = "（瀏覽器不支援用量查詢）";
+  }
+  if (navigator.storage?.persisted) {
+    const p = await navigator.storage.persisted();
+    persistEl.textContent = p ? "✅ 永久（不會被系統回收）" : "⚠️ 非永久（系統可能在儲存空間不足時清除）";
+    persistEl.className = "persist-status " + (p ? "ok" : "warn");
+  } else {
+    persistEl.textContent = "（瀏覽器不支援永久儲存查詢）";
   }
 }
 
@@ -568,9 +714,23 @@ function updateMediaSession() {
 // ----- Service Worker -----
 
 function registerServiceWorker() {
-  if ("serviceWorker" in navigator) {
-    navigator.serviceWorker.register("sw.js").catch((e) =>
-      console.warn("sw register failed", e)
-    );
-  }
+  if (!("serviceWorker" in navigator)) return;
+  navigator.serviceWorker.register("sw.js").catch((e) =>
+    console.warn("sw register failed", e)
+  );
+  navigator.serviceWorker.ready.then(() => {
+    requestPersistent();
+    refreshAllCacheBadges();
+  });
+}
+
+function bindOfflinePanel() {
+  const dlAll = $("dl-all-btn");
+  const clear = $("clear-cache-btn");
+  if (dlAll) dlAll.addEventListener("click", () => precacheAllSheets());
+  if (clear) clear.addEventListener("click", () => clearAudioCache());
+  const panel = $("offline-panel");
+  if (panel) panel.addEventListener("toggle", () => {
+    if (panel.open) refreshAllCacheBadges();
+  });
 }
