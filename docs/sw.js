@@ -1,6 +1,6 @@
 // Service Worker: cache-first for PWA shell + audio segments.
 // Version bump the name to invalidate caches on deploy.
-const CACHE = "jp-running-v6";
+const CACHE = "jp-running-v7";
 const SHELL = [
   "./",
   "index.html",
@@ -15,7 +15,13 @@ const SHELL = [
 self.addEventListener("install", (e) => {
   e.waitUntil(
     caches.open(CACHE).then((c) =>
-      c.addAll(SHELL).catch((err) => console.warn("shell cache partial", err))
+      // cache: "reload" forces network and bypasses HTTP cache, ensuring
+      // shell files are the freshest version at install time.
+      Promise.all(SHELL.map((url) =>
+        c.add(new Request(url, { cache: "reload" })).catch((err) =>
+          console.warn("shell precache failed", url, err)
+        )
+      ))
     ).then(() => self.skipWaiting())
   );
 });
