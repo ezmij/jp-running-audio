@@ -1,0 +1,315 @@
+{
+  "sheet": "イランカラプテ — 全文歌詞對照",
+  "slug": "irankarapte-transcript",
+  "total": 22,
+  "tracks": [
+    {
+      "id": 1,
+      "jp": "遠い町(まち)から　はるばると",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "從 遠方的 城鎮 不辭路遠地",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/irankarapte-transcript/001-1-sentence.mp3",
+        "audio/irankarapte-transcript/001-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 2,
+      "jp": "よく来(き)てくれたね　旅人(たびびと)よ",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "你 真好 來到此地 旅人 啊",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/irankarapte-transcript/002-1-sentence.mp3",
+        "audio/irankarapte-transcript/002-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 3,
+      "jp": "ここは　森(もり)と湖(みずうみ)の大地(だいち)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "這裡 是 森林 與 湖泊 的 大地",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/irankarapte-transcript/003-1-sentence.mp3",
+        "audio/irankarapte-transcript/003-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 4,
+      "jp": "鳥(とり)は歌(うた)い　風(かぜ)は大空(おおぞら)を吹(ふ)きわたる",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "鳥兒 歌唱 風 在 天空 吹拂而過",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/irankarapte-transcript/004-1-sentence.mp3",
+        "audio/irankarapte-transcript/004-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 5,
+      "jp": "イランカラプテ　イランカラプテ",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "Irankarapte Irankarapte（您好 您好）",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/irankarapte-transcript/005-1-sentence.mp3",
+        "audio/irankarapte-transcript/005-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 6,
+      "jp": "君(きみ)に逢(あ)えてよかった",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "能 與 你 相逢 真好",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/irankarapte-transcript/006-1-sentence.mp3",
+        "audio/irankarapte-transcript/006-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 7,
+      "jp": "今日(きょう)はいい日(ひ)だ",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "今天 是 美好的 一天",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/irankarapte-transcript/007-1-sentence.mp3",
+        "audio/irankarapte-transcript/007-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 8,
+      "jp": "遠い国(くに)から　はるばると",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "從 遠方的 國度 不辭路遠地",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/irankarapte-transcript/008-1-sentence.mp3",
+        "audio/irankarapte-transcript/008-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 9,
+      "jp": "よく来(き)てくれたね　旅人(たびびと)よ",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "你 真好 來到此地 旅人 啊",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/irankarapte-transcript/009-1-sentence.mp3",
+        "audio/irankarapte-transcript/009-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 10,
+      "jp": "ここは　雪(ゆき)とぬくもりの大地(だいち)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "這裡 是 雪 與 溫暖 的 大地",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/irankarapte-transcript/010-1-sentence.mp3",
+        "audio/irankarapte-transcript/010-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 11,
+      "jp": "いのちの河(かわ)は　ゆったりと流(なが)れる",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "生命的 河流 悠然地 流淌",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/irankarapte-transcript/011-1-sentence.mp3",
+        "audio/irankarapte-transcript/011-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 12,
+      "jp": "イランカラプテ　イランカラプテ",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "Irankarapte Irankarapte（您好 您好）",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/irankarapte-transcript/012-1-sentence.mp3",
+        "audio/irankarapte-transcript/012-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 13,
+      "jp": "君(きみ)に逢(あ)えてよかった",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "能 與 你 相逢 真好",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/irankarapte-transcript/013-1-sentence.mp3",
+        "audio/irankarapte-transcript/013-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 14,
+      "jp": "今日(きょう)はいい日(ひ)だ",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "今天 是 美好的 一天",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/irankarapte-transcript/014-1-sentence.mp3",
+        "audio/irankarapte-transcript/014-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 15,
+      "jp": "遠い町(まち)から　はるばると",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "從 遠方的 城鎮 不辭路遠地",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/irankarapte-transcript/015-1-sentence.mp3",
+        "audio/irankarapte-transcript/015-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 16,
+      "jp": "よく来(き)てくれたね　旅人(たびびと)よ",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "你 真好 來到此地 旅人 啊",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/irankarapte-transcript/016-1-sentence.mp3",
+        "audio/irankarapte-transcript/016-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 17,
+      "jp": "ここは　夢(ゆめ)とほほえみの大地(だいち)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "這裡 是 夢 與 微笑 的 大地",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/irankarapte-transcript/017-1-sentence.mp3",
+        "audio/irankarapte-transcript/017-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 18,
+      "jp": "ラベンダーかざしたら　ふたりはきょうだい",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "高舉 薰衣草 兩人 便是 兄弟",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/irankarapte-transcript/018-1-sentence.mp3",
+        "audio/irankarapte-transcript/018-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 19,
+      "jp": "イランカラプテ　イランカラプテ",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "Irankarapte Irankarapte（您好 您好）",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/irankarapte-transcript/019-1-sentence.mp3",
+        "audio/irankarapte-transcript/019-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 20,
+      "jp": "君(きみ)に逢(あ)えてよかった",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "能 與 你 相逢 真好",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/irankarapte-transcript/020-1-sentence.mp3",
+        "audio/irankarapte-transcript/020-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 21,
+      "jp": "今日(きょう)はいい日(ひ)だ",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "今天 是 美好的 一天",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/irankarapte-transcript/021-1-sentence.mp3",
+        "audio/irankarapte-transcript/021-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 22,
+      "jp": "今日(きょう)はいい日(ひ)だ",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "今天 是 美好的 一天",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/irankarapte-transcript/022-1-sentence.mp3",
+        "audio/irankarapte-transcript/022-2-literal.mp3"
+      ]
+    }
+  ]
+}

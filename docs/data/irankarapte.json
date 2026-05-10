@@ -1,0 +1,2247 @@
+{
+  "sheet": "イランカラプテ",
+  "slug": "irankarapte",
+  "total": 140,
+  "tracks": [
+    {
+      "id": 1,
+      "jp": "来る",
+      "reading": "くる",
+      "cn": "來、到來",
+      "example": "遠い町から来てくれた。",
+      "example_literal": "從 遙遠的 城鎮 來訪。",
+      "category": "一類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/irankarapte/001-1-word.mp3",
+        "audio/irankarapte/001-2-meaning.mp3",
+        "audio/irankarapte/001-3-example.mp3",
+        "audio/irankarapte/001-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 2,
+      "jp": "逢う",
+      "reading": "あう",
+      "cn": "相逢、相遇",
+      "example": "君に逢えてよかった。",
+      "example_literal": "與 你 能相逢 真好。",
+      "category": "一類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/irankarapte/002-1-word.mp3",
+        "audio/irankarapte/002-2-meaning.mp3",
+        "audio/irankarapte/002-3-example.mp3",
+        "audio/irankarapte/002-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 3,
+      "jp": "流れる",
+      "reading": "ながれる",
+      "cn": "流動",
+      "example": "いのちの河はゆったりと流れる。",
+      "example_literal": "生命之 河 悠然地 流淌。",
+      "category": "一類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/003-1-word.mp3",
+        "audio/irankarapte/003-2-meaning.mp3",
+        "audio/irankarapte/003-3-example.mp3",
+        "audio/irankarapte/003-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 4,
+      "jp": "吹く",
+      "reading": "ふく",
+      "cn": "吹拂",
+      "example": "風は大空を吹きわたる。",
+      "example_literal": "風 吹拂過 大空。",
+      "category": "一類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/irankarapte/004-1-word.mp3",
+        "audio/irankarapte/004-2-meaning.mp3",
+        "audio/irankarapte/004-3-example.mp3",
+        "audio/irankarapte/004-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 5,
+      "jp": "歌う",
+      "reading": "うたう",
+      "cn": "歌唱",
+      "example": "鳥は歌い、人も歌う。",
+      "example_literal": "鳥 歌唱 人 也 歌唱。",
+      "category": "一類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/irankarapte/005-1-word.mp3",
+        "audio/irankarapte/005-2-meaning.mp3",
+        "audio/irankarapte/005-3-example.mp3",
+        "audio/irankarapte/005-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 6,
+      "jp": "咲く",
+      "reading": "さく",
+      "cn": "(花)開放",
+      "example": "ラベンダーが一面に咲く。",
+      "example_literal": "薰衣草(主詞) 一面 盛開。",
+      "category": "一類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/irankarapte/006-1-word.mp3",
+        "audio/irankarapte/006-2-meaning.mp3",
+        "audio/irankarapte/006-3-example.mp3",
+        "audio/irankarapte/006-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 7,
+      "jp": "散る",
+      "reading": "ちる",
+      "cn": "凋謝、飄落",
+      "example": "花びらが風に散る。",
+      "example_literal": "花瓣 在風中 飄落。",
+      "category": "一類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/007-1-word.mp3",
+        "audio/irankarapte/007-2-meaning.mp3",
+        "audio/irankarapte/007-3-example.mp3",
+        "audio/irankarapte/007-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 8,
+      "jp": "走る",
+      "reading": "はしる",
+      "cn": "奔跑",
+      "example": "馬が草原を走る。",
+      "example_literal": "馬(主詞) 在草原 奔馳。",
+      "category": "一類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/irankarapte/008-1-word.mp3",
+        "audio/irankarapte/008-2-meaning.mp3",
+        "audio/irankarapte/008-3-example.mp3",
+        "audio/irankarapte/008-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 9,
+      "jp": "飛ぶ",
+      "reading": "とぶ",
+      "cn": "飛翔",
+      "example": "鳥が大空を飛ぶ。",
+      "example_literal": "鳥(主詞) 在大空 飛翔。",
+      "category": "一類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/irankarapte/009-1-word.mp3",
+        "audio/irankarapte/009-2-meaning.mp3",
+        "audio/irankarapte/009-3-example.mp3",
+        "audio/irankarapte/009-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 10,
+      "jp": "降る",
+      "reading": "ふる",
+      "cn": "(雨雪)降下",
+      "example": "雪が静かに降る。",
+      "example_literal": "雪(主詞) 靜靜地 降下。",
+      "category": "一類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/irankarapte/010-1-word.mp3",
+        "audio/irankarapte/010-2-meaning.mp3",
+        "audio/irankarapte/010-3-example.mp3",
+        "audio/irankarapte/010-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 11,
+      "jp": "輝く",
+      "reading": "かがやく",
+      "cn": "閃耀、輝煌",
+      "example": "星が夜空に輝く。",
+      "example_literal": "星(主詞) 在夜空 閃耀。",
+      "category": "一類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/irankarapte/011-1-word.mp3",
+        "audio/irankarapte/011-2-meaning.mp3",
+        "audio/irankarapte/011-3-example.mp3",
+        "audio/irankarapte/011-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 12,
+      "jp": "響く",
+      "reading": "ひびく",
+      "cn": "迴響",
+      "example": "歌声が森に響く。",
+      "example_literal": "歌聲(主詞) 在森中 迴響。",
+      "category": "一類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/irankarapte/012-1-word.mp3",
+        "audio/irankarapte/012-2-meaning.mp3",
+        "audio/irankarapte/012-3-example.mp3",
+        "audio/irankarapte/012-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 13,
+      "jp": "結ぶ",
+      "reading": "むすぶ",
+      "cn": "結合、繫結",
+      "example": "二人は心を結ぶ。",
+      "example_literal": "兩人 心 結合。",
+      "category": "一類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/013-1-word.mp3",
+        "audio/irankarapte/013-2-meaning.mp3",
+        "audio/irankarapte/013-3-example.mp3",
+        "audio/irankarapte/013-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 14,
+      "jp": "続く",
+      "reading": "つづく",
+      "cn": "持續",
+      "example": "幸せが長く続くように。",
+      "example_literal": "幸福 長久地 持續 願如此。",
+      "category": "一類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/irankarapte/014-1-word.mp3",
+        "audio/irankarapte/014-2-meaning.mp3",
+        "audio/irankarapte/014-3-example.mp3",
+        "audio/irankarapte/014-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 15,
+      "jp": "出会う",
+      "reading": "であう",
+      "cn": "邂逅",
+      "example": "旅先で君に出会った。",
+      "example_literal": "在旅途 與 你 邂逅。",
+      "category": "一類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/015-1-word.mp3",
+        "audio/irankarapte/015-2-meaning.mp3",
+        "audio/irankarapte/015-3-example.mp3",
+        "audio/irankarapte/015-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 16,
+      "jp": "立つ",
+      "reading": "たつ",
+      "cn": "站立",
+      "example": "湖のほとりに立つ。",
+      "example_literal": "在 湖畔 站立。",
+      "category": "一類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/irankarapte/016-1-word.mp3",
+        "audio/irankarapte/016-2-meaning.mp3",
+        "audio/irankarapte/016-3-example.mp3",
+        "audio/irankarapte/016-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 17,
+      "jp": "行く",
+      "reading": "いく",
+      "cn": "去、前往",
+      "example": "北海道へ行く。",
+      "example_literal": "前往 北海道。",
+      "category": "一類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/irankarapte/017-1-word.mp3",
+        "audio/irankarapte/017-2-meaning.mp3",
+        "audio/irankarapte/017-3-example.mp3",
+        "audio/irankarapte/017-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 18,
+      "jp": "残す",
+      "reading": "のこす",
+      "cn": "留下",
+      "example": "思い出を心に残す。",
+      "example_literal": "回憶 留在 心中。",
+      "category": "一類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/018-1-word.mp3",
+        "audio/irankarapte/018-2-meaning.mp3",
+        "audio/irankarapte/018-3-example.mp3",
+        "audio/irankarapte/018-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 19,
+      "jp": "渡る",
+      "reading": "わたる",
+      "cn": "橫越、渡過",
+      "example": "風が大空を渡っていく。",
+      "example_literal": "風 橫越 大空 而去。",
+      "category": "一類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/irankarapte/019-1-word.mp3",
+        "audio/irankarapte/019-2-meaning.mp3",
+        "audio/irankarapte/019-3-example.mp3",
+        "audio/irankarapte/019-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 20,
+      "jp": "待つ",
+      "reading": "まつ",
+      "cn": "等待",
+      "example": "旅人を温かく待つ。",
+      "example_literal": "把 旅人 溫暖地 等候。",
+      "category": "一類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/irankarapte/020-1-word.mp3",
+        "audio/irankarapte/020-2-meaning.mp3",
+        "audio/irankarapte/020-3-example.mp3",
+        "audio/irankarapte/020-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 21,
+      "jp": "迎える",
+      "reading": "むかえる",
+      "cn": "迎接",
+      "example": "笑顔で旅人を迎える。",
+      "example_literal": "用笑容 將 旅人(受詞) 迎接。",
+      "category": "二類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/021-1-word.mp3",
+        "audio/irankarapte/021-2-meaning.mp3",
+        "audio/irankarapte/021-3-example.mp3",
+        "audio/irankarapte/021-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 22,
+      "jp": "逢える",
+      "reading": "あえる",
+      "cn": "能相逢",
+      "example": "君に逢えて本当に嬉しい。",
+      "example_literal": "與你 能相逢 真的 高興。",
+      "category": "二類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/022-1-word.mp3",
+        "audio/irankarapte/022-2-meaning.mp3",
+        "audio/irankarapte/022-3-example.mp3",
+        "audio/irankarapte/022-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 23,
+      "jp": "流れる",
+      "reading": "ながれる",
+      "cn": "流動(此處重複示意可動詞活用)",
+      "example": "時が流れるように過ぎる。",
+      "example_literal": "時光 像流逝般 過去。",
+      "category": "二類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/023-1-word.mp3",
+        "audio/irankarapte/023-2-meaning.mp3",
+        "audio/irankarapte/023-3-example.mp3",
+        "audio/irankarapte/023-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 24,
+      "jp": "生まれる",
+      "reading": "うまれる",
+      "cn": "誕生",
+      "example": "新しい絆が生まれる。",
+      "example_literal": "新的 緣分 誕生。",
+      "category": "二類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/irankarapte/024-1-word.mp3",
+        "audio/irankarapte/024-2-meaning.mp3",
+        "audio/irankarapte/024-3-example.mp3",
+        "audio/irankarapte/024-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 25,
+      "jp": "訪れる",
+      "reading": "おとずれる",
+      "cn": "造訪",
+      "example": "春が大地を訪れる。",
+      "example_literal": "春天 拜訪 大地。",
+      "category": "二類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/irankarapte/025-1-word.mp3",
+        "audio/irankarapte/025-2-meaning.mp3",
+        "audio/irankarapte/025-3-example.mp3",
+        "audio/irankarapte/025-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 26,
+      "jp": "感じる",
+      "reading": "かんじる",
+      "cn": "感受",
+      "example": "温もりを感じる。",
+      "example_literal": "感受到 暖意。",
+      "category": "二類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/026-1-word.mp3",
+        "audio/irankarapte/026-2-meaning.mp3",
+        "audio/irankarapte/026-3-example.mp3",
+        "audio/irankarapte/026-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 27,
+      "jp": "見える",
+      "reading": "みえる",
+      "cn": "看得見",
+      "example": "湖が遠くに見える。",
+      "example_literal": "湖 在遠方 看得見。",
+      "category": "二類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/irankarapte/027-1-word.mp3",
+        "audio/irankarapte/027-2-meaning.mp3",
+        "audio/irankarapte/027-3-example.mp3",
+        "audio/irankarapte/027-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 28,
+      "jp": "聞こえる",
+      "reading": "きこえる",
+      "cn": "聽得到",
+      "example": "鳥の声が聞こえる。",
+      "example_literal": "鳥之 聲 聽得到。",
+      "category": "二類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/irankarapte/028-1-word.mp3",
+        "audio/irankarapte/028-2-meaning.mp3",
+        "audio/irankarapte/028-3-example.mp3",
+        "audio/irankarapte/028-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 29,
+      "jp": "伝える",
+      "reading": "つたえる",
+      "cn": "傳達",
+      "example": "感謝の気持ちを伝える。",
+      "example_literal": "把 感謝 的心情(受詞) 傳達。",
+      "category": "二類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/029-1-word.mp3",
+        "audio/irankarapte/029-2-meaning.mp3",
+        "audio/irankarapte/029-3-example.mp3",
+        "audio/irankarapte/029-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 30,
+      "jp": "覚える",
+      "reading": "おぼえる",
+      "cn": "記住",
+      "example": "この風景を心に覚える。",
+      "example_literal": "把 此風景 記在 心中。",
+      "category": "二類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/irankarapte/030-1-word.mp3",
+        "audio/irankarapte/030-2-meaning.mp3",
+        "audio/irankarapte/030-3-example.mp3",
+        "audio/irankarapte/030-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 31,
+      "jp": "温める",
+      "reading": "あたためる",
+      "cn": "溫暖、加溫",
+      "example": "心を温める歌だ。",
+      "example_literal": "溫暖 心 之歌。",
+      "category": "二類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/031-1-word.mp3",
+        "audio/irankarapte/031-2-meaning.mp3",
+        "audio/irankarapte/031-3-example.mp3",
+        "audio/irankarapte/031-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 32,
+      "jp": "分ける",
+      "reading": "わける",
+      "cn": "分享、區分",
+      "example": "喜びをみんなと分ける。",
+      "example_literal": "把 喜悅 與 大家(受詞) 分享。",
+      "category": "二類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/irankarapte/032-1-word.mp3",
+        "audio/irankarapte/032-2-meaning.mp3",
+        "audio/irankarapte/032-3-example.mp3",
+        "audio/irankarapte/032-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 33,
+      "jp": "重ねる",
+      "reading": "かさねる",
+      "cn": "重疊",
+      "example": "出会いを重ねていく。",
+      "example_literal": "把 相遇(受詞) 重複 累積。",
+      "category": "二類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/irankarapte/033-1-word.mp3",
+        "audio/irankarapte/033-2-meaning.mp3",
+        "audio/irankarapte/033-3-example.mp3",
+        "audio/irankarapte/033-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 34,
+      "jp": "越える",
+      "reading": "こえる",
+      "cn": "越過",
+      "example": "国境を越えてやってきた。",
+      "example_literal": "越過 國境 而來。",
+      "category": "二類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/034-1-word.mp3",
+        "audio/irankarapte/034-2-meaning.mp3",
+        "audio/irankarapte/034-3-example.mp3",
+        "audio/irankarapte/034-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 35,
+      "jp": "抱える",
+      "reading": "かかえる",
+      "cn": "懷抱、抱持",
+      "example": "希望を胸に抱える。",
+      "example_literal": "把 希望 在胸中 抱持。",
+      "category": "二類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/irankarapte/035-1-word.mp3",
+        "audio/irankarapte/035-2-meaning.mp3",
+        "audio/irankarapte/035-3-example.mp3",
+        "audio/irankarapte/035-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 36,
+      "jp": "眺める",
+      "reading": "ながめる",
+      "cn": "眺望",
+      "example": "湖を静かに眺める。",
+      "example_literal": "靜靜地 眺望 湖。",
+      "category": "二類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/irankarapte/036-1-word.mp3",
+        "audio/irankarapte/036-2-meaning.mp3",
+        "audio/irankarapte/036-3-example.mp3",
+        "audio/irankarapte/036-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 37,
+      "jp": "閉じる",
+      "reading": "とじる",
+      "cn": "閉合",
+      "example": "瞳を閉じて歌を聴く。",
+      "example_literal": "閉上 眼瞳 聆聽 歌。",
+      "category": "二類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/037-1-word.mp3",
+        "audio/irankarapte/037-2-meaning.mp3",
+        "audio/irankarapte/037-3-example.mp3",
+        "audio/irankarapte/037-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 38,
+      "jp": "教える",
+      "reading": "おしえる",
+      "cn": "教導",
+      "example": "アイヌの言葉を教えてもらう。",
+      "example_literal": "請別人 教 愛努語。",
+      "category": "二類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/irankarapte/038-1-word.mp3",
+        "audio/irankarapte/038-2-meaning.mp3",
+        "audio/irankarapte/038-3-example.mp3",
+        "audio/irankarapte/038-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 39,
+      "jp": "変える",
+      "reading": "かえる",
+      "cn": "改變",
+      "example": "この出会いが人生を変える。",
+      "example_literal": "此次相遇 改變 人生。",
+      "category": "二類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/039-1-word.mp3",
+        "audio/irankarapte/039-2-meaning.mp3",
+        "audio/irankarapte/039-3-example.mp3",
+        "audio/irankarapte/039-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 40,
+      "jp": "逃げる",
+      "reading": "にげる",
+      "cn": "逃跑",
+      "example": "時間が早く逃げていく。",
+      "example_literal": "時間 急速地 逃走。",
+      "category": "二類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/irankarapte/040-1-word.mp3",
+        "audio/irankarapte/040-2-meaning.mp3",
+        "audio/irankarapte/040-3-example.mp3",
+        "audio/irankarapte/040-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 41,
+      "jp": "来る",
+      "reading": "くる",
+      "cn": "來",
+      "example": "はるばる来てくれた。",
+      "example_literal": "從遠方 不辭路遠 來訪。",
+      "category": "三類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/irankarapte/041-1-word.mp3",
+        "audio/irankarapte/041-2-meaning.mp3",
+        "audio/irankarapte/041-3-example.mp3",
+        "audio/irankarapte/041-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 42,
+      "jp": "する",
+      "reading": "する",
+      "cn": "做",
+      "example": "旅をする。",
+      "example_literal": "做 旅行。",
+      "category": "三類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/irankarapte/042-1-word.mp3",
+        "audio/irankarapte/042-2-meaning.mp3",
+        "audio/irankarapte/042-3-example.mp3",
+        "audio/irankarapte/042-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 43,
+      "jp": "案内する",
+      "reading": "あんないする",
+      "cn": "嚮導、引導",
+      "example": "湖まで案内する。",
+      "example_literal": "嚮導 至湖畔。",
+      "category": "三類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/irankarapte/043-1-word.mp3",
+        "audio/irankarapte/043-2-meaning.mp3",
+        "audio/irankarapte/043-3-example.mp3",
+        "audio/irankarapte/043-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 44,
+      "jp": "紹介する",
+      "reading": "しょうかいする",
+      "cn": "介紹",
+      "example": "故郷を紹介する。",
+      "example_literal": "把 故鄉(受詞) 介紹。",
+      "category": "三類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/irankarapte/044-1-word.mp3",
+        "audio/irankarapte/044-2-meaning.mp3",
+        "audio/irankarapte/044-3-example.mp3",
+        "audio/irankarapte/044-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 45,
+      "jp": "挨拶する",
+      "reading": "あいさつする",
+      "cn": "問候",
+      "example": "「イランカラプテ」と挨拶する。",
+      "example_literal": "用「Irankarapte」 致意。",
+      "category": "三類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/irankarapte/045-1-word.mp3",
+        "audio/irankarapte/045-2-meaning.mp3",
+        "audio/irankarapte/045-3-example.mp3",
+        "audio/irankarapte/045-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 46,
+      "jp": "握手する",
+      "reading": "あくしゅする",
+      "cn": "握手",
+      "example": "笑顔で握手する。",
+      "example_literal": "用笑容 握手。",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/046-1-word.mp3",
+        "audio/irankarapte/046-2-meaning.mp3",
+        "audio/irankarapte/046-3-example.mp3",
+        "audio/irankarapte/046-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 47,
+      "jp": "感動する",
+      "reading": "かんどうする",
+      "cn": "感動",
+      "example": "歌に感動する。",
+      "example_literal": "為 歌 感動。",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/047-1-word.mp3",
+        "audio/irankarapte/047-2-meaning.mp3",
+        "audio/irankarapte/047-3-example.mp3",
+        "audio/irankarapte/047-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 48,
+      "jp": "感謝する",
+      "reading": "かんしゃする",
+      "cn": "感謝",
+      "example": "出会いに感謝する。",
+      "example_literal": "為 相遇 感謝。",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/048-1-word.mp3",
+        "audio/irankarapte/048-2-meaning.mp3",
+        "audio/irankarapte/048-3-example.mp3",
+        "audio/irankarapte/048-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 49,
+      "jp": "参加する",
+      "reading": "さんかする",
+      "cn": "參加",
+      "example": "祭りに参加する。",
+      "example_literal": "參加 祭典。",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/049-1-word.mp3",
+        "audio/irankarapte/049-2-meaning.mp3",
+        "audio/irankarapte/049-3-example.mp3",
+        "audio/irankarapte/049-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 50,
+      "jp": "出発する",
+      "reading": "しゅっぱつする",
+      "cn": "出發",
+      "example": "明日出発する。",
+      "example_literal": "明天 出發。",
+      "category": "三類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/irankarapte/050-1-word.mp3",
+        "audio/irankarapte/050-2-meaning.mp3",
+        "audio/irankarapte/050-3-example.mp3",
+        "audio/irankarapte/050-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 51,
+      "jp": "到着する",
+      "reading": "とうちゃくする",
+      "cn": "抵達",
+      "example": "新千歳空港に到着する。",
+      "example_literal": "在 新千歲機場 抵達。",
+      "category": "三類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/irankarapte/051-1-word.mp3",
+        "audio/irankarapte/051-2-meaning.mp3",
+        "audio/irankarapte/051-3-example.mp3",
+        "audio/irankarapte/051-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 52,
+      "jp": "観光する",
+      "reading": "かんこうする",
+      "cn": "觀光",
+      "example": "富良野を観光する。",
+      "example_literal": "觀光 富良野。",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/052-1-word.mp3",
+        "audio/irankarapte/052-2-meaning.mp3",
+        "audio/irankarapte/052-3-example.mp3",
+        "audio/irankarapte/052-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 53,
+      "jp": "宿泊する",
+      "reading": "しゅくはくする",
+      "cn": "投宿",
+      "example": "民宿に宿泊する。",
+      "example_literal": "投宿 民宿。",
+      "category": "三類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/irankarapte/053-1-word.mp3",
+        "audio/irankarapte/053-2-meaning.mp3",
+        "audio/irankarapte/053-3-example.mp3",
+        "audio/irankarapte/053-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 54,
+      "jp": "滞在する",
+      "reading": "たいざいする",
+      "cn": "停留",
+      "example": "一週間北海道に滞在する。",
+      "example_literal": "在北海道 滯留 一週。",
+      "category": "三類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/irankarapte/054-1-word.mp3",
+        "audio/irankarapte/054-2-meaning.mp3",
+        "audio/irankarapte/054-3-example.mp3",
+        "audio/irankarapte/054-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 55,
+      "jp": "移動する",
+      "reading": "いどうする",
+      "cn": "移動",
+      "example": "車で移動する。",
+      "example_literal": "搭車 移動。",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/055-1-word.mp3",
+        "audio/irankarapte/055-2-meaning.mp3",
+        "audio/irankarapte/055-3-example.mp3",
+        "audio/irankarapte/055-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 56,
+      "jp": "体験する",
+      "reading": "たいけんする",
+      "cn": "體驗",
+      "example": "アイヌ文化を体験する。",
+      "example_literal": "體驗 愛努文化。",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/056-1-word.mp3",
+        "audio/irankarapte/056-2-meaning.mp3",
+        "audio/irankarapte/056-3-example.mp3",
+        "audio/irankarapte/056-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 57,
+      "jp": "説明する",
+      "reading": "せつめいする",
+      "cn": "說明",
+      "example": "伝統を説明する。",
+      "example_literal": "說明 傳統。",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/057-1-word.mp3",
+        "audio/irankarapte/057-2-meaning.mp3",
+        "audio/irankarapte/057-3-example.mp3",
+        "audio/irankarapte/057-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 58,
+      "jp": "応援する",
+      "reading": "おうえんする",
+      "cn": "支援、加油",
+      "example": "旅人を心から応援する。",
+      "example_literal": "從心底 為 旅人(受詞) 加油。",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/058-1-word.mp3",
+        "audio/irankarapte/058-2-meaning.mp3",
+        "audio/irankarapte/058-3-example.mp3",
+        "audio/irankarapte/058-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 59,
+      "jp": "約束する",
+      "reading": "やくそくする",
+      "cn": "約定",
+      "example": "また会うと約束する。",
+      "example_literal": "約定 再相見。",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/059-1-word.mp3",
+        "audio/irankarapte/059-2-meaning.mp3",
+        "audio/irankarapte/059-3-example.mp3",
+        "audio/irankarapte/059-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 60,
+      "jp": "出迎する",
+      "reading": "でむかえする",
+      "cn": "迎接(較正式)",
+      "example": "心を込めて出迎する。",
+      "example_literal": "用心 迎接。",
+      "category": "三類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/irankarapte/060-1-word.mp3",
+        "audio/irankarapte/060-2-meaning.mp3",
+        "audio/irankarapte/060-3-example.mp3",
+        "audio/irankarapte/060-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 61,
+      "jp": "町",
+      "reading": "まち",
+      "cn": "城鎮",
+      "example": "遠い町から来た。",
+      "example_literal": "從 遙遠的 城鎮 來。",
+      "category": "名詞",
+      "level": "N5",
+      "segments": [
+        "audio/irankarapte/061-1-word.mp3",
+        "audio/irankarapte/061-2-meaning.mp3",
+        "audio/irankarapte/061-3-example.mp3",
+        "audio/irankarapte/061-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 62,
+      "jp": "国",
+      "reading": "くに",
+      "cn": "國家、家鄉",
+      "example": "遠い国からはるばる。",
+      "example_literal": "從 遙遠的 國家 不辭路遠地。",
+      "category": "名詞",
+      "level": "N5",
+      "segments": [
+        "audio/irankarapte/062-1-word.mp3",
+        "audio/irankarapte/062-2-meaning.mp3",
+        "audio/irankarapte/062-3-example.mp3",
+        "audio/irankarapte/062-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 63,
+      "jp": "旅人",
+      "reading": "たびびと",
+      "cn": "旅人",
+      "example": "ようこそ、旅人よ。",
+      "example_literal": "歡迎啊 旅人 啊。",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/063-1-word.mp3",
+        "audio/irankarapte/063-2-meaning.mp3",
+        "audio/irankarapte/063-3-example.mp3",
+        "audio/irankarapte/063-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 64,
+      "jp": "森",
+      "reading": "もり",
+      "cn": "森林",
+      "example": "森と湖の大地。",
+      "example_literal": "森林 與 湖泊 之 大地。",
+      "category": "名詞",
+      "level": "N5",
+      "segments": [
+        "audio/irankarapte/064-1-word.mp3",
+        "audio/irankarapte/064-2-meaning.mp3",
+        "audio/irankarapte/064-3-example.mp3",
+        "audio/irankarapte/064-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 65,
+      "jp": "湖",
+      "reading": "みずうみ",
+      "cn": "湖泊",
+      "example": "湖は静かに広がる。",
+      "example_literal": "湖(主詞) 靜靜地 開展。",
+      "category": "名詞",
+      "level": "N4",
+      "segments": [
+        "audio/irankarapte/065-1-word.mp3",
+        "audio/irankarapte/065-2-meaning.mp3",
+        "audio/irankarapte/065-3-example.mp3",
+        "audio/irankarapte/065-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 66,
+      "jp": "大地",
+      "reading": "だいち",
+      "cn": "大地",
+      "example": "雪とぬくもりの大地。",
+      "example_literal": "雪 與 暖意 之 大地。",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/066-1-word.mp3",
+        "audio/irankarapte/066-2-meaning.mp3",
+        "audio/irankarapte/066-3-example.mp3",
+        "audio/irankarapte/066-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 67,
+      "jp": "鳥",
+      "reading": "とり",
+      "cn": "鳥",
+      "example": "鳥は歌っている。",
+      "example_literal": "鳥(主詞) 正在歌唱。",
+      "category": "名詞",
+      "level": "N5",
+      "segments": [
+        "audio/irankarapte/067-1-word.mp3",
+        "audio/irankarapte/067-2-meaning.mp3",
+        "audio/irankarapte/067-3-example.mp3",
+        "audio/irankarapte/067-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 68,
+      "jp": "風",
+      "reading": "かぜ",
+      "cn": "風",
+      "example": "風が大空を吹く。",
+      "example_literal": "風(主詞) 在大空 吹拂。",
+      "category": "名詞",
+      "level": "N5",
+      "segments": [
+        "audio/irankarapte/068-1-word.mp3",
+        "audio/irankarapte/068-2-meaning.mp3",
+        "audio/irankarapte/068-3-example.mp3",
+        "audio/irankarapte/068-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 69,
+      "jp": "大空",
+      "reading": "おおぞら",
+      "cn": "天空",
+      "example": "鳥が大空を渡る。",
+      "example_literal": "鳥(主詞) 越過 大空。",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/069-1-word.mp3",
+        "audio/irankarapte/069-2-meaning.mp3",
+        "audio/irankarapte/069-3-example.mp3",
+        "audio/irankarapte/069-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 70,
+      "jp": "河",
+      "reading": "かわ",
+      "cn": "河流",
+      "example": "いのちの河が流れる。",
+      "example_literal": "生命之 河(主詞) 流淌。",
+      "category": "名詞",
+      "level": "N5",
+      "segments": [
+        "audio/irankarapte/070-1-word.mp3",
+        "audio/irankarapte/070-2-meaning.mp3",
+        "audio/irankarapte/070-3-example.mp3",
+        "audio/irankarapte/070-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 71,
+      "jp": "雪",
+      "reading": "ゆき",
+      "cn": "雪",
+      "example": "雪とぬくもりの大地。",
+      "example_literal": "雪 與 暖意 之 大地。",
+      "category": "名詞",
+      "level": "N5",
+      "segments": [
+        "audio/irankarapte/071-1-word.mp3",
+        "audio/irankarapte/071-2-meaning.mp3",
+        "audio/irankarapte/071-3-example.mp3",
+        "audio/irankarapte/071-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 72,
+      "jp": "夢",
+      "reading": "ゆめ",
+      "cn": "夢、夢想",
+      "example": "夢とほほえみの大地。",
+      "example_literal": "夢 與 微笑 之 大地。",
+      "category": "名詞",
+      "level": "N4",
+      "segments": [
+        "audio/irankarapte/072-1-word.mp3",
+        "audio/irankarapte/072-2-meaning.mp3",
+        "audio/irankarapte/072-3-example.mp3",
+        "audio/irankarapte/072-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 73,
+      "jp": "微笑み",
+      "reading": "ほほえみ",
+      "cn": "微笑",
+      "example": "ほほえみで迎えてくれた。",
+      "example_literal": "用 微笑 來 迎接 我。",
+      "category": "名詞",
+      "level": "N2",
+      "segments": [
+        "audio/irankarapte/073-1-word.mp3",
+        "audio/irankarapte/073-2-meaning.mp3",
+        "audio/irankarapte/073-3-example.mp3",
+        "audio/irankarapte/073-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 74,
+      "jp": "ラベンダー",
+      "reading": "らべんだー",
+      "cn": "薰衣草",
+      "example": "ラベンダーが咲き乱れる。",
+      "example_literal": "薰衣草(主詞) 開遍 一面。",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/074-1-word.mp3",
+        "audio/irankarapte/074-2-meaning.mp3",
+        "audio/irankarapte/074-3-example.mp3",
+        "audio/irankarapte/074-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 75,
+      "jp": "兄弟",
+      "reading": "きょうだい",
+      "cn": "兄弟",
+      "example": "二人は兄弟のようだ。",
+      "example_literal": "兩人 像 兄弟 一般。",
+      "category": "名詞",
+      "level": "N4",
+      "segments": [
+        "audio/irankarapte/075-1-word.mp3",
+        "audio/irankarapte/075-2-meaning.mp3",
+        "audio/irankarapte/075-3-example.mp3",
+        "audio/irankarapte/075-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 76,
+      "jp": "温もり",
+      "reading": "ぬくもり",
+      "cn": "溫暖、暖意",
+      "example": "雪国にも温もりがある。",
+      "example_literal": "雪國 也 有 暖意。",
+      "category": "名詞",
+      "level": "N2",
+      "segments": [
+        "audio/irankarapte/076-1-word.mp3",
+        "audio/irankarapte/076-2-meaning.mp3",
+        "audio/irankarapte/076-3-example.mp3",
+        "audio/irankarapte/076-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 77,
+      "jp": "故郷",
+      "reading": "ふるさと",
+      "cn": "故郷",
+      "example": "私の故郷は北海道だ。",
+      "example_literal": "我的 故鄉 是 北海道。",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/077-1-word.mp3",
+        "audio/irankarapte/077-2-meaning.mp3",
+        "audio/irankarapte/077-3-example.mp3",
+        "audio/irankarapte/077-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 78,
+      "jp": "命",
+      "reading": "いのち",
+      "cn": "生命",
+      "example": "いのちの河は永遠に流れる。",
+      "example_literal": "生命之 河 永遠 流淌。",
+      "category": "名詞",
+      "level": "N4",
+      "segments": [
+        "audio/irankarapte/078-1-word.mp3",
+        "audio/irankarapte/078-2-meaning.mp3",
+        "audio/irankarapte/078-3-example.mp3",
+        "audio/irankarapte/078-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 79,
+      "jp": "挨拶",
+      "reading": "あいさつ",
+      "cn": "問候",
+      "example": "イランカラプテはアイヌ語の挨拶だ。",
+      "example_literal": "Irankarapte 是 愛努語的 問候語。",
+      "category": "名詞",
+      "level": "N4",
+      "segments": [
+        "audio/irankarapte/079-1-word.mp3",
+        "audio/irankarapte/079-2-meaning.mp3",
+        "audio/irankarapte/079-3-example.mp3",
+        "audio/irankarapte/079-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 80,
+      "jp": "思い出",
+      "reading": "おもいで",
+      "cn": "回憶",
+      "example": "旅の思い出を大切にする。",
+      "example_literal": "把 旅之 回憶(受詞) 珍惜。",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/080-1-word.mp3",
+        "audio/irankarapte/080-2-meaning.mp3",
+        "audio/irankarapte/080-3-example.mp3",
+        "audio/irankarapte/080-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 81,
+      "jp": "静か",
+      "reading": "しずか",
+      "cn": "安靜的",
+      "example": "湖はとても静かだ。",
+      "example_literal": "湖(主詞) 非常 安靜。",
+      "category": "な形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/irankarapte/081-1-word.mp3",
+        "audio/irankarapte/081-2-meaning.mp3",
+        "audio/irankarapte/081-3-example.mp3",
+        "audio/irankarapte/081-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 82,
+      "jp": "のどか",
+      "reading": "のどか",
+      "cn": "悠閒寧靜",
+      "example": "のどかな田園風景。",
+      "example_literal": "悠閒寧靜的 田園 風景。",
+      "category": "な形容詞",
+      "level": "N2",
+      "segments": [
+        "audio/irankarapte/082-1-word.mp3",
+        "audio/irankarapte/082-2-meaning.mp3",
+        "audio/irankarapte/082-3-example.mp3",
+        "audio/irankarapte/082-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 83,
+      "jp": "豊か",
+      "reading": "ゆたか",
+      "cn": "豐富的",
+      "example": "自然が豊かな大地。",
+      "example_literal": "自然 豐富的 大地。",
+      "category": "な形容詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/083-1-word.mp3",
+        "audio/irankarapte/083-2-meaning.mp3",
+        "audio/irankarapte/083-3-example.mp3",
+        "audio/irankarapte/083-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 84,
+      "jp": "雄大",
+      "reading": "ゆうだい",
+      "cn": "雄偉",
+      "example": "雄大な景色が広がる。",
+      "example_literal": "雄偉的 景色 開展。",
+      "category": "な形容詞",
+      "level": "N2",
+      "segments": [
+        "audio/irankarapte/084-1-word.mp3",
+        "audio/irankarapte/084-2-meaning.mp3",
+        "audio/irankarapte/084-3-example.mp3",
+        "audio/irankarapte/084-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 85,
+      "jp": "新鮮",
+      "reading": "しんせん",
+      "cn": "新鮮的",
+      "example": "新鮮な空気を吸う。",
+      "example_literal": "新鮮的 空氣 吸入。",
+      "category": "な形容詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/085-1-word.mp3",
+        "audio/irankarapte/085-2-meaning.mp3",
+        "audio/irankarapte/085-3-example.mp3",
+        "audio/irankarapte/085-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 86,
+      "jp": "素朴",
+      "reading": "そぼく",
+      "cn": "樸素",
+      "example": "素朴な人々の暮らし。",
+      "example_literal": "樸素的 人們 之 生活。",
+      "category": "な形容詞",
+      "level": "N2",
+      "segments": [
+        "audio/irankarapte/086-1-word.mp3",
+        "audio/irankarapte/086-2-meaning.mp3",
+        "audio/irankarapte/086-3-example.mp3",
+        "audio/irankarapte/086-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 87,
+      "jp": "温和",
+      "reading": "おんわ",
+      "cn": "溫和的",
+      "example": "温和な笑顔で迎えられた。",
+      "example_literal": "被 溫和的 笑容 迎接。",
+      "category": "な形容詞",
+      "level": "N2",
+      "segments": [
+        "audio/irankarapte/087-1-word.mp3",
+        "audio/irankarapte/087-2-meaning.mp3",
+        "audio/irankarapte/087-3-example.mp3",
+        "audio/irankarapte/087-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 88,
+      "jp": "神聖",
+      "reading": "しんせい",
+      "cn": "神聖",
+      "example": "アイヌ文化は神聖だ。",
+      "example_literal": "愛努 文化 是 神聖的。",
+      "category": "な形容詞",
+      "level": "N2",
+      "segments": [
+        "audio/irankarapte/088-1-word.mp3",
+        "audio/irankarapte/088-2-meaning.mp3",
+        "audio/irankarapte/088-3-example.mp3",
+        "audio/irankarapte/088-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 89,
+      "jp": "平和",
+      "reading": "へいわ",
+      "cn": "和平的",
+      "example": "平和な世界を願う。",
+      "example_literal": "祈願 和平的 世界。",
+      "category": "な形容詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/089-1-word.mp3",
+        "audio/irankarapte/089-2-meaning.mp3",
+        "audio/irankarapte/089-3-example.mp3",
+        "audio/irankarapte/089-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 90,
+      "jp": "自由",
+      "reading": "じゆう",
+      "cn": "自由的",
+      "example": "自由な旅を楽しむ。",
+      "example_literal": "享受 自由的 旅行。",
+      "category": "な形容詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/090-1-word.mp3",
+        "audio/irankarapte/090-2-meaning.mp3",
+        "audio/irankarapte/090-3-example.mp3",
+        "audio/irankarapte/090-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 91,
+      "jp": "爽やか",
+      "reading": "さわやか",
+      "cn": "清爽",
+      "example": "爽やかな朝の空気。",
+      "example_literal": "清爽的 朝晨 空氣。",
+      "category": "な形容詞",
+      "level": "N2",
+      "segments": [
+        "audio/irankarapte/091-1-word.mp3",
+        "audio/irankarapte/091-2-meaning.mp3",
+        "audio/irankarapte/091-3-example.mp3",
+        "audio/irankarapte/091-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 92,
+      "jp": "清らか",
+      "reading": "きよらか",
+      "cn": "清澈的",
+      "example": "清らかな水が流れる。",
+      "example_literal": "清澈的 水(主詞) 流淌。",
+      "category": "な形容詞",
+      "level": "N2",
+      "segments": [
+        "audio/irankarapte/092-1-word.mp3",
+        "audio/irankarapte/092-2-meaning.mp3",
+        "audio/irankarapte/092-3-example.mp3",
+        "audio/irankarapte/092-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 93,
+      "jp": "優雅",
+      "reading": "ゆうが",
+      "cn": "優雅",
+      "example": "優雅な舞を見せる。",
+      "example_literal": "展示 優雅的 舞蹈。",
+      "category": "な形容詞",
+      "level": "N2",
+      "segments": [
+        "audio/irankarapte/093-1-word.mp3",
+        "audio/irankarapte/093-2-meaning.mp3",
+        "audio/irankarapte/093-3-example.mp3",
+        "audio/irankarapte/093-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 94,
+      "jp": "特別",
+      "reading": "とくべつ",
+      "cn": "特別的",
+      "example": "特別な日になった。",
+      "example_literal": "成為 特別的 一日。",
+      "category": "な形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/irankarapte/094-1-word.mp3",
+        "audio/irankarapte/094-2-meaning.mp3",
+        "audio/irankarapte/094-3-example.mp3",
+        "audio/irankarapte/094-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 95,
+      "jp": "有名",
+      "reading": "ゆうめい",
+      "cn": "有名",
+      "example": "ラベンダーで有名な富良野。",
+      "example_literal": "以薰衣草 聞名的 富良野。",
+      "category": "な形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/irankarapte/095-1-word.mp3",
+        "audio/irankarapte/095-2-meaning.mp3",
+        "audio/irankarapte/095-3-example.mp3",
+        "audio/irankarapte/095-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 96,
+      "jp": "素敵",
+      "reading": "すてき",
+      "cn": "美好的",
+      "example": "素敵な出会いだった。",
+      "example_literal": "美好的 相遇。",
+      "category": "な形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/irankarapte/096-1-word.mp3",
+        "audio/irankarapte/096-2-meaning.mp3",
+        "audio/irankarapte/096-3-example.mp3",
+        "audio/irankarapte/096-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 97,
+      "jp": "巨大",
+      "reading": "きょだい",
+      "cn": "巨大",
+      "example": "巨大な氷河が見える。",
+      "example_literal": "巨大的 冰河 看得見。",
+      "category": "な形容詞",
+      "level": "N2",
+      "segments": [
+        "audio/irankarapte/097-1-word.mp3",
+        "audio/irankarapte/097-2-meaning.mp3",
+        "audio/irankarapte/097-3-example.mp3",
+        "audio/irankarapte/097-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 98,
+      "jp": "完璧",
+      "reading": "かんぺき",
+      "cn": "完美",
+      "example": "完璧な一日になった。",
+      "example_literal": "成為 完美的 一日。",
+      "category": "な形容詞",
+      "level": "N2",
+      "segments": [
+        "audio/irankarapte/098-1-word.mp3",
+        "audio/irankarapte/098-2-meaning.mp3",
+        "audio/irankarapte/098-3-example.mp3",
+        "audio/irankarapte/098-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 99,
+      "jp": "大切",
+      "reading": "たいせつ",
+      "cn": "重要的",
+      "example": "大切な思い出になる。",
+      "example_literal": "成為 重要的 回憶。",
+      "category": "な形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/irankarapte/099-1-word.mp3",
+        "audio/irankarapte/099-2-meaning.mp3",
+        "audio/irankarapte/099-3-example.mp3",
+        "audio/irankarapte/099-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 100,
+      "jp": "華やか",
+      "reading": "はなやか",
+      "cn": "華麗",
+      "example": "華やかな祭りが開かれる。",
+      "example_literal": "華麗的 祭典 舉行。",
+      "category": "な形容詞",
+      "level": "N2",
+      "segments": [
+        "audio/irankarapte/100-1-word.mp3",
+        "audio/irankarapte/100-2-meaning.mp3",
+        "audio/irankarapte/100-3-example.mp3",
+        "audio/irankarapte/100-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 101,
+      "jp": "遠い",
+      "reading": "とおい",
+      "cn": "遠的",
+      "example": "遠い町から来た。",
+      "example_literal": "從 遙遠的 城鎮 來。",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/irankarapte/101-1-word.mp3",
+        "audio/irankarapte/101-2-meaning.mp3",
+        "audio/irankarapte/101-3-example.mp3",
+        "audio/irankarapte/101-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 102,
+      "jp": "寒い",
+      "reading": "さむい",
+      "cn": "冷的",
+      "example": "北海道の冬は寒い。",
+      "example_literal": "北海道之 冬 寒冷。",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/irankarapte/102-1-word.mp3",
+        "audio/irankarapte/102-2-meaning.mp3",
+        "audio/irankarapte/102-3-example.mp3",
+        "audio/irankarapte/102-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 103,
+      "jp": "暖かい",
+      "reading": "あたたかい",
+      "cn": "溫暖的",
+      "example": "暖かい挨拶を受けた。",
+      "example_literal": "受到 溫暖的 致意。",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/irankarapte/103-1-word.mp3",
+        "audio/irankarapte/103-2-meaning.mp3",
+        "audio/irankarapte/103-3-example.mp3",
+        "audio/irankarapte/103-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 104,
+      "jp": "広い",
+      "reading": "ひろい",
+      "cn": "寬廣的",
+      "example": "広い大地を見渡す。",
+      "example_literal": "把 寬廣之 大地 環視。",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/irankarapte/104-1-word.mp3",
+        "audio/irankarapte/104-2-meaning.mp3",
+        "audio/irankarapte/104-3-example.mp3",
+        "audio/irankarapte/104-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 105,
+      "jp": "深い",
+      "reading": "ふかい",
+      "cn": "深的",
+      "example": "深い湖を覗く。",
+      "example_literal": "窺視 深邃的 湖。",
+      "category": "い形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/irankarapte/105-1-word.mp3",
+        "audio/irankarapte/105-2-meaning.mp3",
+        "audio/irankarapte/105-3-example.mp3",
+        "audio/irankarapte/105-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 106,
+      "jp": "美しい",
+      "reading": "うつくしい",
+      "cn": "美麗的",
+      "example": "美しい景色に感動する。",
+      "example_literal": "為 美麗的 景色 感動。",
+      "category": "い形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/irankarapte/106-1-word.mp3",
+        "audio/irankarapte/106-2-meaning.mp3",
+        "audio/irankarapte/106-3-example.mp3",
+        "audio/irankarapte/106-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 107,
+      "jp": "優しい",
+      "reading": "やさしい",
+      "cn": "溫柔的",
+      "example": "優しい人々に迎えられる。",
+      "example_literal": "被 溫柔的 人們 迎接。",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/irankarapte/107-1-word.mp3",
+        "audio/irankarapte/107-2-meaning.mp3",
+        "audio/irankarapte/107-3-example.mp3",
+        "audio/irankarapte/107-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 108,
+      "jp": "嬉しい",
+      "reading": "うれしい",
+      "cn": "高興的",
+      "example": "君に逢えて嬉しい。",
+      "example_literal": "與你 相逢 高興。",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/irankarapte/108-1-word.mp3",
+        "audio/irankarapte/108-2-meaning.mp3",
+        "audio/irankarapte/108-3-example.mp3",
+        "audio/irankarapte/108-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 109,
+      "jp": "楽しい",
+      "reading": "たのしい",
+      "cn": "愉快的",
+      "example": "旅は本当に楽しい。",
+      "example_literal": "旅行 真的 愉快。",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/irankarapte/109-1-word.mp3",
+        "audio/irankarapte/109-2-meaning.mp3",
+        "audio/irankarapte/109-3-example.mp3",
+        "audio/irankarapte/109-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 110,
+      "jp": "懐かしい",
+      "reading": "なつかしい",
+      "cn": "懷念的",
+      "example": "故郷の懐かしい風景。",
+      "example_literal": "故鄉的 懷念之 風景。",
+      "category": "い形容詞",
+      "level": "N2",
+      "segments": [
+        "audio/irankarapte/110-1-word.mp3",
+        "audio/irankarapte/110-2-meaning.mp3",
+        "audio/irankarapte/110-3-example.mp3",
+        "audio/irankarapte/110-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 111,
+      "jp": "明るい",
+      "reading": "あかるい",
+      "cn": "明亮的",
+      "example": "明るい笑顔で迎えられた。",
+      "example_literal": "被 明亮的 笑容 迎接。",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/irankarapte/111-1-word.mp3",
+        "audio/irankarapte/111-2-meaning.mp3",
+        "audio/irankarapte/111-3-example.mp3",
+        "audio/irankarapte/111-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 112,
+      "jp": "細い",
+      "reading": "ほそい",
+      "cn": "細的",
+      "example": "細い小道を歩く。",
+      "example_literal": "走過 細小的 小路。",
+      "category": "い形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/irankarapte/112-1-word.mp3",
+        "audio/irankarapte/112-2-meaning.mp3",
+        "audio/irankarapte/112-3-example.mp3",
+        "audio/irankarapte/112-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 113,
+      "jp": "新しい",
+      "reading": "あたらしい",
+      "cn": "新的",
+      "example": "新しい出会いに感謝する。",
+      "example_literal": "為 新的 相遇 感謝。",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/irankarapte/113-1-word.mp3",
+        "audio/irankarapte/113-2-meaning.mp3",
+        "audio/irankarapte/113-3-example.mp3",
+        "audio/irankarapte/113-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 114,
+      "jp": "古い",
+      "reading": "ふるい",
+      "cn": "舊的、古老的",
+      "example": "古い伝統を守る。",
+      "example_literal": "守護 古老的 傳統。",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/irankarapte/114-1-word.mp3",
+        "audio/irankarapte/114-2-meaning.mp3",
+        "audio/irankarapte/114-3-example.mp3",
+        "audio/irankarapte/114-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 115,
+      "jp": "強い",
+      "reading": "つよい",
+      "cn": "強的",
+      "example": "風が強い日だ。",
+      "example_literal": "風(主詞) 強的 一日。",
+      "category": "い形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/irankarapte/115-1-word.mp3",
+        "audio/irankarapte/115-2-meaning.mp3",
+        "audio/irankarapte/115-3-example.mp3",
+        "audio/irankarapte/115-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 116,
+      "jp": "珍しい",
+      "reading": "めずらしい",
+      "cn": "罕見的",
+      "example": "珍しい鳥が湖に来る。",
+      "example_literal": "罕見的 鳥(主詞) 來到 湖。",
+      "category": "い形容詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/116-1-word.mp3",
+        "audio/irankarapte/116-2-meaning.mp3",
+        "audio/irankarapte/116-3-example.mp3",
+        "audio/irankarapte/116-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 117,
+      "jp": "難しい",
+      "reading": "むずかしい",
+      "cn": "困難的",
+      "example": "アイヌ語は難しい。",
+      "example_literal": "愛努語 困難。",
+      "category": "い形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/irankarapte/117-1-word.mp3",
+        "audio/irankarapte/117-2-meaning.mp3",
+        "audio/irankarapte/117-3-example.mp3",
+        "audio/irankarapte/117-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 118,
+      "jp": "長い",
+      "reading": "ながい",
+      "cn": "長的",
+      "example": "長い旅を終えた。",
+      "example_literal": "結束了 漫長的 旅程。",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/irankarapte/118-1-word.mp3",
+        "audio/irankarapte/118-2-meaning.mp3",
+        "audio/irankarapte/118-3-example.mp3",
+        "audio/irankarapte/118-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 119,
+      "jp": "心地よい",
+      "reading": "ここちよい",
+      "cn": "舒適的",
+      "example": "心地よい風が頬を撫でる。",
+      "example_literal": "舒適的 風 拂過 臉頰。",
+      "category": "い形容詞",
+      "level": "N2",
+      "segments": [
+        "audio/irankarapte/119-1-word.mp3",
+        "audio/irankarapte/119-2-meaning.mp3",
+        "audio/irankarapte/119-3-example.mp3",
+        "audio/irankarapte/119-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 120,
+      "jp": "眩しい",
+      "reading": "まぶしい",
+      "cn": "刺眼的",
+      "example": "眩しい朝日が昇る。",
+      "example_literal": "刺眼的 朝陽 升起。",
+      "category": "い形容詞",
+      "level": "N2",
+      "segments": [
+        "audio/irankarapte/120-1-word.mp3",
+        "audio/irankarapte/120-2-meaning.mp3",
+        "audio/irankarapte/120-3-example.mp3",
+        "audio/irankarapte/120-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 121,
+      "jp": "はるばる",
+      "reading": "はるばる",
+      "cn": "遠遠地、不辭路遠",
+      "example": "はるばるよく来てくれた。",
+      "example_literal": "不辭路遠地 真好 來到。",
+      "category": "副詞",
+      "level": "N2",
+      "segments": [
+        "audio/irankarapte/121-1-word.mp3",
+        "audio/irankarapte/121-2-meaning.mp3",
+        "audio/irankarapte/121-3-example.mp3",
+        "audio/irankarapte/121-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 122,
+      "jp": "ゆったり",
+      "reading": "ゆったり",
+      "cn": "悠然",
+      "example": "いのちの河はゆったりと流れる。",
+      "example_literal": "生命之 河 悠然地 流淌。",
+      "category": "副詞",
+      "level": "N2",
+      "segments": [
+        "audio/irankarapte/122-1-word.mp3",
+        "audio/irankarapte/122-2-meaning.mp3",
+        "audio/irankarapte/122-3-example.mp3",
+        "audio/irankarapte/122-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 123,
+      "jp": "よく",
+      "reading": "よく",
+      "cn": "經常、好好地",
+      "example": "よく来てくれたね。",
+      "example_literal": "你 真好 來到。",
+      "category": "副詞",
+      "level": "N5",
+      "segments": [
+        "audio/irankarapte/123-1-word.mp3",
+        "audio/irankarapte/123-2-meaning.mp3",
+        "audio/irankarapte/123-3-example.mp3",
+        "audio/irankarapte/123-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 124,
+      "jp": "ちゃんと",
+      "reading": "ちゃんと",
+      "cn": "好好地、確實",
+      "example": "ちゃんと挨拶しよう。",
+      "example_literal": "好好地 致意 吧。",
+      "category": "副詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/124-1-word.mp3",
+        "audio/irankarapte/124-2-meaning.mp3",
+        "audio/irankarapte/124-3-example.mp3",
+        "audio/irankarapte/124-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 125,
+      "jp": "しっかり",
+      "reading": "しっかり",
+      "cn": "牢牢地",
+      "example": "しっかり手をつなぐ。",
+      "example_literal": "牢牢地 牽手。",
+      "category": "副詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/125-1-word.mp3",
+        "audio/irankarapte/125-2-meaning.mp3",
+        "audio/irankarapte/125-3-example.mp3",
+        "audio/irankarapte/125-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 126,
+      "jp": "たまに",
+      "reading": "たまに",
+      "cn": "偶爾",
+      "example": "たまに故郷を訪れる。",
+      "example_literal": "偶爾 拜訪 故鄉。",
+      "category": "副詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/126-1-word.mp3",
+        "audio/irankarapte/126-2-meaning.mp3",
+        "audio/irankarapte/126-3-example.mp3",
+        "audio/irankarapte/126-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 127,
+      "jp": "すぐに",
+      "reading": "すぐに",
+      "cn": "立刻",
+      "example": "すぐに友達になれた。",
+      "example_literal": "立刻 成為 朋友。",
+      "category": "副詞",
+      "level": "N4",
+      "segments": [
+        "audio/irankarapte/127-1-word.mp3",
+        "audio/irankarapte/127-2-meaning.mp3",
+        "audio/irankarapte/127-3-example.mp3",
+        "audio/irankarapte/127-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 128,
+      "jp": "ゆっくり",
+      "reading": "ゆっくり",
+      "cn": "慢慢地",
+      "example": "ゆっくり休んでください。",
+      "example_literal": "請 慢慢地 休息。",
+      "category": "副詞",
+      "level": "N5",
+      "segments": [
+        "audio/irankarapte/128-1-word.mp3",
+        "audio/irankarapte/128-2-meaning.mp3",
+        "audio/irankarapte/128-3-example.mp3",
+        "audio/irankarapte/128-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 129,
+      "jp": "きっと",
+      "reading": "きっと",
+      "cn": "一定",
+      "example": "きっとまた逢える。",
+      "example_literal": "一定 還能 相逢。",
+      "category": "副詞",
+      "level": "N4",
+      "segments": [
+        "audio/irankarapte/129-1-word.mp3",
+        "audio/irankarapte/129-2-meaning.mp3",
+        "audio/irankarapte/129-3-example.mp3",
+        "audio/irankarapte/129-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 130,
+      "jp": "やっと",
+      "reading": "やっと",
+      "cn": "終於",
+      "example": "やっと君に逢えた。",
+      "example_literal": "終於 與你 相逢了。",
+      "category": "副詞",
+      "level": "N4",
+      "segments": [
+        "audio/irankarapte/130-1-word.mp3",
+        "audio/irankarapte/130-2-meaning.mp3",
+        "audio/irankarapte/130-3-example.mp3",
+        "audio/irankarapte/130-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 131,
+      "jp": "まるで",
+      "reading": "まるで",
+      "cn": "宛如",
+      "example": "まるで夢のような景色。",
+      "example_literal": "宛如 夢一般的 景色。",
+      "category": "副詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/131-1-word.mp3",
+        "audio/irankarapte/131-2-meaning.mp3",
+        "audio/irankarapte/131-3-example.mp3",
+        "audio/irankarapte/131-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 132,
+      "jp": "ふと",
+      "reading": "ふと",
+      "cn": "突然、無意間",
+      "example": "ふと故郷を思い出す。",
+      "example_literal": "突然 想起 故鄉。",
+      "category": "副詞",
+      "level": "N2",
+      "segments": [
+        "audio/irankarapte/132-1-word.mp3",
+        "audio/irankarapte/132-2-meaning.mp3",
+        "audio/irankarapte/132-3-example.mp3",
+        "audio/irankarapte/132-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 133,
+      "jp": "せっかく",
+      "reading": "せっかく",
+      "cn": "好不容易、特地",
+      "example": "せっかく北海道に来たのに。",
+      "example_literal": "好不容易 來到 北海道。",
+      "category": "副詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/133-1-word.mp3",
+        "audio/irankarapte/133-2-meaning.mp3",
+        "audio/irankarapte/133-3-example.mp3",
+        "audio/irankarapte/133-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 134,
+      "jp": "なるべく",
+      "reading": "なるべく",
+      "cn": "盡量",
+      "example": "なるべく地元の店を選ぶ。",
+      "example_literal": "盡量 選擇 當地的 店。",
+      "category": "副詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/134-1-word.mp3",
+        "audio/irankarapte/134-2-meaning.mp3",
+        "audio/irankarapte/134-3-example.mp3",
+        "audio/irankarapte/134-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 135,
+      "jp": "ますます",
+      "reading": "ますます",
+      "cn": "越來越",
+      "example": "雪はますます激しくなる。",
+      "example_literal": "雪 越來越 強烈。",
+      "category": "副詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/135-1-word.mp3",
+        "audio/irankarapte/135-2-meaning.mp3",
+        "audio/irankarapte/135-3-example.mp3",
+        "audio/irankarapte/135-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 136,
+      "jp": "特に",
+      "reading": "とくに",
+      "cn": "特別是",
+      "example": "特にラベンダー畑が美しい。",
+      "example_literal": "特別 薰衣草田 美麗。",
+      "category": "副詞",
+      "level": "N4",
+      "segments": [
+        "audio/irankarapte/136-1-word.mp3",
+        "audio/irankarapte/136-2-meaning.mp3",
+        "audio/irankarapte/136-3-example.mp3",
+        "audio/irankarapte/136-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 137,
+      "jp": "本当に",
+      "reading": "ほんとうに",
+      "cn": "真的",
+      "example": "本当にいい日だ。",
+      "example_literal": "真的 是 美好的 一日。",
+      "category": "副詞",
+      "level": "N5",
+      "segments": [
+        "audio/irankarapte/137-1-word.mp3",
+        "audio/irankarapte/137-2-meaning.mp3",
+        "audio/irankarapte/137-3-example.mp3",
+        "audio/irankarapte/137-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 138,
+      "jp": "きちんと",
+      "reading": "きちんと",
+      "cn": "整齊地",
+      "example": "きちんと並んで歩く。",
+      "example_literal": "整齊地 並排 行走。",
+      "category": "副詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/138-1-word.mp3",
+        "audio/irankarapte/138-2-meaning.mp3",
+        "audio/irankarapte/138-3-example.mp3",
+        "audio/irankarapte/138-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 139,
+      "jp": "ついに",
+      "reading": "ついに",
+      "cn": "終於、最終",
+      "example": "ついに憧れの地に到着した。",
+      "example_literal": "終於 抵達 嚮往之 地。",
+      "category": "副詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/139-1-word.mp3",
+        "audio/irankarapte/139-2-meaning.mp3",
+        "audio/irankarapte/139-3-example.mp3",
+        "audio/irankarapte/139-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 140,
+      "jp": "ぴったり",
+      "reading": "ぴったり",
+      "cn": "正合適",
+      "example": "二人はぴったりの兄弟だ。",
+      "example_literal": "兩人 是 完美 兄弟。",
+      "category": "副詞",
+      "level": "N3",
+      "segments": [
+        "audio/irankarapte/140-1-word.mp3",
+        "audio/irankarapte/140-2-meaning.mp3",
+        "audio/irankarapte/140-3-example.mp3",
+        "audio/irankarapte/140-4-literal.mp3"
+      ]
+    }
+  ]
+}
