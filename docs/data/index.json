@@ -34,6 +34,16 @@
       "slug": "kokyou-transcript",
       "sheet": "談故鄉 — 全文對照",
       "total": 473
+    },
+    {
+      "slug": "shukan",
+      "sheet": "習慣的養成",
+      "total": 140
+    },
+    {
+      "slug": "shukan-transcript",
+      "sheet": "習慣的養成 — 全文對照",
+      "total": 542
     }
   ]
 }

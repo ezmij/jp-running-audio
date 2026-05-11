@@ -1,0 +1,7595 @@
+{
+  "sheet": "習慣的養成 — 全文對照",
+  "slug": "shukan-transcript",
+  "total": 542,
+  "tracks": [
+    {
+      "id": 1,
+      "jp": "こんにちは",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "你好",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/001-1-sentence.mp3",
+        "audio/shukan-transcript/001-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 2,
+      "jp": "ミスタージャパニーズチャンネルへ",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "Mr. Japanese Channel / 往/向",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/002-1-sentence.mp3",
+        "audio/shukan-transcript/002-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 3,
+      "jp": "ようこそ",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "歡迎",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/003-1-sentence.mp3",
+        "audio/shukan-transcript/003-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 4,
+      "jp": "皆さんこんにちは",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "大家 / 你好",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/004-1-sentence.mp3",
+        "audio/shukan-transcript/004-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 5,
+      "jp": "今日も",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "今天 / 也",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/005-1-sentence.mp3",
+        "audio/shukan-transcript/005-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 6,
+      "jp": "ご視聴ありがとうございます",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "觀看 / 謝謝",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/006-1-sentence.mp3",
+        "audio/shukan-transcript/006-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 7,
+      "jp": "私はみつきです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "我 / 是 / Mitsuki",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/007-1-sentence.mp3",
+        "audio/shukan-transcript/007-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 8,
+      "jp": "そして私は健三",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "然後 / 我 / 是 / Kenzo",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/008-1-sentence.mp3",
+        "audio/shukan-transcript/008-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 9,
+      "jp": "このチャンネルでは",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "這個 / 頻道 / 在",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/009-1-sentence.mp3",
+        "audio/shukan-transcript/009-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 10,
+      "jp": "皆さんと一緒に",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "大家 / 和 / 一起",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/010-1-sentence.mp3",
+        "audio/shukan-transcript/010-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 11,
+      "jp": "実用的な日本語の",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "實用的 / 日語的",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/011-1-sentence.mp3",
+        "audio/shukan-transcript/011-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 12,
+      "jp": "会話を練習しています",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "對話 / 正在練習",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/012-1-sentence.mp3",
+        "audio/shukan-transcript/012-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 13,
+      "jp": "前回の動画では",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "上次的 / 影片 / 中",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/013-1-sentence.mp3",
+        "audio/shukan-transcript/013-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 14,
+      "jp": "2026年の目標や",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "2026年的 / 目標 / 和",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/014-1-sentence.mp3",
+        "audio/shukan-transcript/014-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 15,
+      "jp": "計画について",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "關於 / 計畫",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/015-1-sentence.mp3",
+        "audio/shukan-transcript/015-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 16,
+      "jp": "お話しましたね",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "談過了 / 呢",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/016-1-sentence.mp3",
+        "audio/shukan-transcript/016-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 17,
+      "jp": "今日は",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "今天 / (主題)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/017-1-sentence.mp3",
+        "audio/shukan-transcript/017-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 18,
+      "jp": "それとは少し違うけれど",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "跟那個 / 稍微 / 不同 / 但是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/018-1-sentence.mp3",
+        "audio/shukan-transcript/018-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 19,
+      "jp": "同じくらい大切な",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "同樣 / 程度 / 重要的",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/019-1-sentence.mp3",
+        "audio/shukan-transcript/019-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 20,
+      "jp": "テーマについて話します",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "關於 / 主題 / 說話",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/020-1-sentence.mp3",
+        "audio/shukan-transcript/020-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 21,
+      "jp": "そうですね",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "是 / 這樣 / 呢",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/021-1-sentence.mp3",
+        "audio/shukan-transcript/021-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 22,
+      "jp": "今日のテーマは",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "今天的 / 主題 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/022-1-sentence.mp3",
+        "audio/shukan-transcript/022-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 23,
+      "jp": "日々の習慣です",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "每天的 / 習慣 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/023-1-sentence.mp3",
+        "audio/shukan-transcript/023-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 24,
+      "jp": "目標を持つことは",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "擁有 / 目標 / 這件事 (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/024-1-sentence.mp3",
+        "audio/shukan-transcript/024-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 25,
+      "jp": "素晴らしいですが",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "很棒 / 但是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/025-1-sentence.mp3",
+        "audio/shukan-transcript/025-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 26,
+      "jp": "実際に",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "實際上",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/026-1-sentence.mp3",
+        "audio/shukan-transcript/026-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 27,
+      "jp": "その目標を",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那個 / 目標 / (受詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/027-1-sentence.mp3",
+        "audio/shukan-transcript/027-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 28,
+      "jp": "達成するのは",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "達成 / 的 / (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/028-1-sentence.mp3",
+        "audio/shukan-transcript/028-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 29,
+      "jp": "習慣なんです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "習慣 / 的緣故/是也",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/029-1-sentence.mp3",
+        "audio/shukan-transcript/029-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 30,
+      "jp": "目標は",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "目標 / (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/030-1-sentence.mp3",
+        "audio/shukan-transcript/030-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 31,
+      "jp": "行き先を示します",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "目的地 / 指示/顯示",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/031-1-sentence.mp3",
+        "audio/shukan-transcript/031-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 32,
+      "jp": "習慣は",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "習慣 / (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/032-1-sentence.mp3",
+        "audio/shukan-transcript/032-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 33,
+      "jp": "そこへ行く方法です",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "往那裡 / 去的 / 方法 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/033-1-sentence.mp3",
+        "audio/shukan-transcript/033-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 34,
+      "jp": "まさにその通りです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "正是 / 那個 / 樣子/沒錯",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/034-1-sentence.mp3",
+        "audio/shukan-transcript/034-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 35,
+      "jp": "どんなに素晴らしい",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "多麼地 / 很棒的",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/035-1-sentence.mp3",
+        "audio/shukan-transcript/035-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 36,
+      "jp": "目標があっても",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "目標 / 即使有",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/036-1-sentence.mp3",
+        "audio/shukan-transcript/036-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 37,
+      "jp": "日々の習慣がなければ",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "每天的 / 習慣 / 如果沒有的話",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/037-1-sentence.mp3",
+        "audio/shukan-transcript/037-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 38,
+      "jp": "その目標は",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那個 / 目標 / (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/038-1-sentence.mp3",
+        "audio/shukan-transcript/038-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 39,
+      "jp": "ただの夢で",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "僅僅是 / 夢 / 而",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/039-1-sentence.mp3",
+        "audio/shukan-transcript/039-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 40,
+      "jp": "終わってしまいます",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "結束 / 遺憾/掉了",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/040-1-sentence.mp3",
+        "audio/shukan-transcript/040-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 41,
+      "jp": "だから今日は",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "所以 / 今天 / (主題)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/041-1-sentence.mp3",
+        "audio/shukan-transcript/041-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 42,
+      "jp": "実際に継続できる",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "實際上 / 能夠持續的",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/042-1-sentence.mp3",
+        "audio/shukan-transcript/042-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 43,
+      "jp": "強い日々の習慣を",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "強力的 / 每天的 / 習慣 / (受詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/043-1-sentence.mp3",
+        "audio/shukan-transcript/043-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 44,
+      "jp": "作る方法について",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "關於 / 建立的 / 方法",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/044-1-sentence.mp3",
+        "audio/shukan-transcript/044-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 45,
+      "jp": "お話します",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "說話/談論",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/045-1-sentence.mp3",
+        "audio/shukan-transcript/045-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 46,
+      "jp": "そしてもちろん",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "然後 / 當然",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/046-1-sentence.mp3",
+        "audio/shukan-transcript/046-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 47,
+      "jp": "その過程で",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那個 / 過程中",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/047-1-sentence.mp3",
+        "audio/shukan-transcript/047-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 48,
+      "jp": "たくさんの便利な",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "很多的 / 方便的",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/048-1-sentence.mp3",
+        "audio/shukan-transcript/048-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 49,
+      "jp": "日本語の語彙や",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "日語的 / 詞彙 / 和",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/049-1-sentence.mp3",
+        "audio/shukan-transcript/049-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 50,
+      "jp": "表現も学んでいきましょう",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "表達 / 也 / 學下去吧",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/050-1-sentence.mp3",
+        "audio/shukan-transcript/050-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 51,
+      "jp": "この動画を",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "這個 / 影片 / (受詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/051-1-sentence.mp3",
+        "audio/shukan-transcript/051-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 52,
+      "jp": "気に入っていただけたら",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "如果能讓您中意/喜歡的話",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/052-1-sentence.mp3",
+        "audio/shukan-transcript/052-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 53,
+      "jp": "是非いいねボタンを押して",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "務必 / 讚按鈕 / 按下 / 並",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/053-1-sentence.mp3",
+        "audio/shukan-transcript/053-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 54,
+      "jp": "チャンネル登録も",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "頻道 / 訂閱 / 也",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/054-1-sentence.mp3",
+        "audio/shukan-transcript/054-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 55,
+      "jp": "お願いします",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "拜託了",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/055-1-sentence.mp3",
+        "audio/shukan-transcript/055-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 56,
+      "jp": "それでは始めましょう",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那麼 / 開始吧",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/056-1-sentence.mp3",
+        "audio/shukan-transcript/056-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 57,
+      "jp": "健三さん",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "Kenzo / 桑",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/057-1-sentence.mp3",
+        "audio/shukan-transcript/057-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 58,
+      "jp": "目標と習慣の違いは",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "目標 / 和 / 習慣的 / 差別 / (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/058-1-sentence.mp3",
+        "audio/shukan-transcript/058-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 59,
+      "jp": "理解していますか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "正在理解 / 嗎",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/059-1-sentence.mp3",
+        "audio/shukan-transcript/059-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 60,
+      "jp": "理解してますが",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "理解 / 著 / 但是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/060-1-sentence.mp3",
+        "audio/shukan-transcript/060-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 61,
+      "jp": "視聴者の皆さんのために",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "觀眾的 / 大家的 / 為了",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/061-1-sentence.mp3",
+        "audio/shukan-transcript/061-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 62,
+      "jp": "説明しましょう",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "說明 / 吧",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/062-1-sentence.mp3",
+        "audio/shukan-transcript/062-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 63,
+      "jp": "いいですね",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "好 / 耶",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/063-1-sentence.mp3",
+        "audio/shukan-transcript/063-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 64,
+      "jp": "目標というのは",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "所謂 / 目標 / (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/064-1-sentence.mp3",
+        "audio/shukan-transcript/064-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 65,
+      "jp": "達成したいことです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "想要達成 / 的事 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/065-1-sentence.mp3",
+        "audio/shukan-transcript/065-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 66,
+      "jp": "例えば",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "例如",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/066-1-sentence.mp3",
+        "audio/shukan-transcript/066-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 67,
+      "jp": "体重を減らしたいとか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "體重 / 想要減少 / 之類的",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/067-1-sentence.mp3",
+        "audio/shukan-transcript/067-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 68,
+      "jp": "日本語を学びたいとか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "日語 / 想要學 / 之類的",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/068-1-sentence.mp3",
+        "audio/shukan-transcript/068-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 69,
+      "jp": "そうですね",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "是 / 這樣 / 呢",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/069-1-sentence.mp3",
+        "audio/shukan-transcript/069-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 70,
+      "jp": "でも習慣は",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "但是 / 習慣 / (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/070-1-sentence.mp3",
+        "audio/shukan-transcript/070-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 71,
+      "jp": "その目標に",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那個 / 目標 / (對象)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/071-1-sentence.mp3",
+        "audio/shukan-transcript/071-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 72,
+      "jp": "到達するための",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "為了 / 到達 / 的",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/072-1-sentence.mp3",
+        "audio/shukan-transcript/072-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 73,
+      "jp": "日々の行動です",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "每天的 / 行動 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/073-1-sentence.mp3",
+        "audio/shukan-transcript/073-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 74,
+      "jp": "例えば毎朝",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "例如 / 每天早上",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/074-1-sentence.mp3",
+        "audio/shukan-transcript/074-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 75,
+      "jp": "30分運動するとか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "30分 / 運動 / 之類的",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/075-1-sentence.mp3",
+        "audio/shukan-transcript/075-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 76,
+      "jp": "毎日15分",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "每天 / 15分",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/076-1-sentence.mp3",
+        "audio/shukan-transcript/076-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 77,
+      "jp": "日本語を練習するとか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "日語 / 練習 / 之類的",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/077-1-sentence.mp3",
+        "audio/shukan-transcript/077-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 78,
+      "jp": "まさに",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "正是/的確",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/078-1-sentence.mp3",
+        "audio/shukan-transcript/078-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 79,
+      "jp": "目標は目的地です",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "目標 / 目的地 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/079-1-sentence.mp3",
+        "audio/shukan-transcript/079-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 80,
+      "jp": "習慣は",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "習慣 / (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/080-1-sentence.mp3",
+        "audio/shukan-transcript/080-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 81,
+      "jp": "そこへ連れていく",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "往那裡 / 帶去/領去的",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/081-1-sentence.mp3",
+        "audio/shukan-transcript/081-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 82,
+      "jp": "乗り物です",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "交通工具 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/082-1-sentence.mp3",
+        "audio/shukan-transcript/082-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 83,
+      "jp": "完璧な説明ですね",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "完美的 / 說明 / 呢",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/083-1-sentence.mp3",
+        "audio/shukan-transcript/083-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 84,
+      "jp": "では今日は",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那麼 / 今天 / (主題)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/084-1-sentence.mp3",
+        "audio/shukan-transcript/084-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 85,
+      "jp": "2026年の",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "2026年的",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/085-1-sentence.mp3",
+        "audio/shukan-transcript/085-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 86,
+      "jp": "私たちの日々の習慣について",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "我們的 / 每天的 / 習慣 / 關於",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/086-1-sentence.mp3",
+        "audio/shukan-transcript/086-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 87,
+      "jp": "話しましょう",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "說話/談談吧",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/087-1-sentence.mp3",
+        "audio/shukan-transcript/087-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 88,
+      "jp": "習慣について話す前に",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "關於 / 習慣 / 說話 / 之前",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/088-1-sentence.mp3",
+        "audio/shukan-transcript/088-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 89,
+      "jp": "正直に言いたいことが",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "誠實地 / 想說的 / 事 / (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/089-1-sentence.mp3",
+        "audio/shukan-transcript/089-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 90,
+      "jp": "あります",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "有",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/090-1-sentence.mp3",
+        "audio/shukan-transcript/090-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 91,
+      "jp": "何ですか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "什麼 / 是 / 嗎",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/091-1-sentence.mp3",
+        "audio/shukan-transcript/091-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 92,
+      "jp": "習慣を作るのは",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "習慣 / 建立 / 這件事 (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/092-1-sentence.mp3",
+        "audio/shukan-transcript/092-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 93,
+      "jp": "本当に難しいです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "真的 / 很難 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/093-1-sentence.mp3",
+        "audio/shukan-transcript/093-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 94,
+      "jp": "私はこれまで",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "我 / 到目前為止",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/094-1-sentence.mp3",
+        "audio/shukan-transcript/094-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 95,
+      "jp": "たくさんの習慣を",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "很多的 / 習慣 / (受詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/095-1-sentence.mp3",
+        "audio/shukan-transcript/095-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 96,
+      "jp": "作ろうとしましたが",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "想要建立 / 雖然做了/嘗試了",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/096-1-sentence.mp3",
+        "audio/shukan-transcript/096-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 97,
+      "jp": "ほとんど失敗しました",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "幾乎 / 失敗 / 了",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/097-1-sentence.mp3",
+        "audio/shukan-transcript/097-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 98,
+      "jp": "私も同じです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "我 / 也 / 一樣 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/098-1-sentence.mp3",
+        "audio/shukan-transcript/098-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 99,
+      "jp": "誰でも習慣作りには",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "誰 / 都 / 在習慣建立方面",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/099-1-sentence.mp3",
+        "audio/shukan-transcript/099-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 100,
+      "jp": "苦労しますよね",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "辛苦/費心 / 呢",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/100-1-sentence.mp3",
+        "audio/shukan-transcript/100-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 101,
+      "jp": "なぜこんなに",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "為什麼 / 這麼地",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/101-1-sentence.mp3",
+        "audio/shukan-transcript/101-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 102,
+      "jp": "難しいんでしょう",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "難 / 的 / 吧",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/102-1-sentence.mp3",
+        "audio/shukan-transcript/102-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 103,
+      "jp": "つまり私たちは",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "也就是說 / 我們 / (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/103-1-sentence.mp3",
+        "audio/shukan-transcript/103-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 104,
+      "jp": "何をすべきか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "什麼 / 該做 / 嗎",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/104-1-sentence.mp3",
+        "audio/shukan-transcript/104-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 105,
+      "jp": "分かっています",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "知道 / 著",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/105-1-sentence.mp3",
+        "audio/shukan-transcript/105-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 106,
+      "jp": "運動が良いことも",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "運動 / 好的 / 事情 / 也",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/106-1-sentence.mp3",
+        "audio/shukan-transcript/106-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 107,
+      "jp": "読書が良いことも",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "讀書 / 好的 / 事情 / 也",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/107-1-sentence.mp3",
+        "audio/shukan-transcript/107-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 108,
+      "jp": "知っています",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "知道 / 著",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/108-1-sentence.mp3",
+        "audio/shukan-transcript/108-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 109,
+      "jp": "それなのに",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "明明那樣 (盡管如此)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/109-1-sentence.mp3",
+        "audio/shukan-transcript/109-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 110,
+      "jp": "なぜやらないんでしょう",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "為什麼 / 不做 / 的 / 吧",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/110-1-sentence.mp3",
+        "audio/shukan-transcript/110-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 111,
+      "jp": "いくつか理由が",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "幾個 / 理由 / (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/111-1-sentence.mp3",
+        "audio/shukan-transcript/111-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 112,
+      "jp": "あると思います",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "有 / 我想",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/112-1-sentence.mp3",
+        "audio/shukan-transcript/112-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 113,
+      "jp": "まず習慣は",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "首先 / 習慣 / (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/113-1-sentence.mp3",
+        "audio/shukan-transcript/113-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 114,
+      "jp": "形成されるまでに",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "被形成 / 到...為止",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/114-1-sentence.mp3",
+        "audio/shukan-transcript/114-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 115,
+      "jp": "時間がかかります",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "時間 / 花費",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/115-1-sentence.mp3",
+        "audio/shukan-transcript/115-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 116,
+      "jp": "何かをやろうと決めて",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "某事 / 想要做 / 決定 / 並且",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/116-1-sentence.mp3",
+        "audio/shukan-transcript/116-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 117,
+      "jp": "次の日には",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "下個 / 日子 / 在 (時間點)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/117-1-sentence.mp3",
+        "audio/shukan-transcript/117-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 118,
+      "jp": "自動的にできるように",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "自動地 / 變得能做 / 樣",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/118-1-sentence.mp3",
+        "audio/shukan-transcript/118-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 119,
+      "jp": "なるわけではありません",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "變成 / 並非 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/119-1-sentence.mp3",
+        "audio/shukan-transcript/119-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 120,
+      "jp": "どのくらい時間が",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "大約多少 / 時間 / (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/120-1-sentence.mp3",
+        "audio/shukan-transcript/120-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 121,
+      "jp": "かかりますか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "花費 / 嗎",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/121-1-sentence.mp3",
+        "audio/shukan-transcript/121-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 122,
+      "jp": "21日という人もいれば",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "21天 / 說的 / 人 / 也有 / 並且",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/122-1-sentence.mp3",
+        "audio/shukan-transcript/122-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 123,
+      "jp": "66日という人もいます",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "66天 / 說的 / 人 / 也有",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/123-1-sentence.mp3",
+        "audio/shukan-transcript/123-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 124,
+      "jp": "でも実際は",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "但是 / 實際上 / (主題)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/124-1-sentence.mp3",
+        "audio/shukan-transcript/124-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 125,
+      "jp": "人によって違いますし",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "根據 / 人 / 不同 / 而且",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/125-1-sentence.mp3",
+        "audio/shukan-transcript/125-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 126,
+      "jp": "習慣によっても",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "根據 / 習慣 / 也",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/126-1-sentence.mp3",
+        "audio/shukan-transcript/126-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 127,
+      "jp": "変わります",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "改變",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/127-1-sentence.mp3",
+        "audio/shukan-transcript/127-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 128,
+      "jp": "つまり",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "也就是說",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/128-1-sentence.mp3",
+        "audio/shukan-transcript/128-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 129,
+      "jp": "忍耐強くいる",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "忍耐 / 強地 / 待著/保持",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/129-1-sentence.mp3",
+        "audio/shukan-transcript/129-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 130,
+      "jp": "必要がありますね",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "必要 / 有 / 呢",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/130-1-sentence.mp3",
+        "audio/shukan-transcript/130-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 131,
+      "jp": "その通りです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那個 / 樣子/沒錯 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/131-1-sentence.mp3",
+        "audio/shukan-transcript/131-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 132,
+      "jp": "2つ目の理由は",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "第2個的 / 理由 / (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/132-1-sentence.mp3",
+        "audio/shukan-transcript/132-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 133,
+      "jp": "一度に変えようとすることが",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "一次 / 想要改變 / 這件事 / (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/133-1-sentence.mp3",
+        "audio/shukan-transcript/133-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 134,
+      "jp": "多すぎることです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "太多 / 的事情 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/134-1-sentence.mp3",
+        "audio/shukan-transcript/134-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 135,
+      "jp": "1月1日に目覚めて",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "1月1日 / 在 / 醒來 / 並且",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/135-1-sentence.mp3",
+        "audio/shukan-transcript/135-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 136,
+      "jp": "運動して",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "運動 / 並且",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/136-1-sentence.mp3",
+        "audio/shukan-transcript/136-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 137,
+      "jp": "健康的に食べて",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "健康地 / 吃 / 並且",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/137-1-sentence.mp3",
+        "audio/shukan-transcript/137-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 138,
+      "jp": "もっと読書して",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "更多 / 讀書 / 並且",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/138-1-sentence.mp3",
+        "audio/shukan-transcript/138-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 139,
+      "jp": "言語を学ぶ",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "語言 / (受詞) / 學習",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/139-1-sentence.mp3",
+        "audio/shukan-transcript/139-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 140,
+      "jp": "全部同時に",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "全部 / 同時",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/140-1-sentence.mp3",
+        "audio/shukan-transcript/140-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 141,
+      "jp": "決めてしまう",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "決定 / 掉/了",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/141-1-sentence.mp3",
+        "audio/shukan-transcript/141-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 142,
+      "jp": "それは無理が",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那個 / 勉強/不合理 / (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/142-1-sentence.mp3",
+        "audio/shukan-transcript/142-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 143,
+      "jp": "ありすぎます",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "有 / 過度 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/143-1-sentence.mp3",
+        "audio/shukan-transcript/143-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 144,
+      "jp": "確かに脳が",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "的確 / 腦 / (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/144-1-sentence.mp3",
+        "audio/shukan-transcript/144-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 145,
+      "jp": "圧倒されてしまいます",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "被壓倒 / 掉/了",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/145-1-sentence.mp3",
+        "audio/shukan-transcript/145-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 146,
+      "jp": "一度に1つか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "一次 / 在 / 1個 / 或",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/146-1-sentence.mp3",
+        "audio/shukan-transcript/146-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 147,
+      "jp": "2つの習慣に",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "2個的 / 習慣 / 上",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/147-1-sentence.mp3",
+        "audio/shukan-transcript/147-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 148,
+      "jp": "集中する必要がありますね",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "集中 / 必要 / 有 / 呢",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/148-1-sentence.mp3",
+        "audio/shukan-transcript/148-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 149,
+      "jp": "納得です",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "接受/信服 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/149-1-sentence.mp3",
+        "audio/shukan-transcript/149-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 150,
+      "jp": "3つ目の理由は",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "第3個的 / 理由 / (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/150-1-sentence.mp3",
+        "audio/shukan-transcript/150-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 151,
+      "jp": "何ですか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "什麼 / 是 / 嗎",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/151-1-sentence.mp3",
+        "audio/shukan-transcript/151-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 152,
+      "jp": "習慣を十分",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "習慣 / (受詞) / 十分/足夠",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/152-1-sentence.mp3",
+        "audio/shukan-transcript/152-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 153,
+      "jp": "簡単にしていないことです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "簡單 / 沒正在做 / 的事情 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/153-1-sentence.mp3",
+        "audio/shukan-transcript/153-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 154,
+      "jp": "考えすぎたり",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "思考 / 過度 / 之類的",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/154-1-sentence.mp3",
+        "audio/shukan-transcript/154-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 155,
+      "jp": "頑張りすぎたり",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "努力 / 過度 / 之類的",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/155-1-sentence.mp3",
+        "audio/shukan-transcript/155-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 156,
+      "jp": "必要があると",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "必要 / 有 / 的話",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/156-1-sentence.mp3",
+        "audio/shukan-transcript/156-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 157,
+      "jp": "やらなくなってしまいます",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "變得不做 / 掉/了",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/157-1-sentence.mp3",
+        "audio/shukan-transcript/157-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 158,
+      "jp": "だから習慣を",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "所以 / 習慣 / (受詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/158-1-sentence.mp3",
+        "audio/shukan-transcript/158-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 159,
+      "jp": "シンプルで",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "簡單 / 並且",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/159-1-sentence.mp3",
+        "audio/shukan-transcript/159-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 160,
+      "jp": "自動的なものにすることが",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "自動的 / 東西 / 成為 / 這件事 (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/160-1-sentence.mp3",
+        "audio/shukan-transcript/160-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 161,
+      "jp": "鍵なんですね",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "關鍵 / 的 / 呢",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/161-1-sentence.mp3",
+        "audio/shukan-transcript/161-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 162,
+      "jp": "まさにその通りです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "正是 / 那個 / 樣子/沒錯 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/162-1-sentence.mp3",
+        "audio/shukan-transcript/162-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 163,
+      "jp": "さて",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那麼 (轉折)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/163-1-sentence.mp3",
+        "audio/shukan-transcript/163-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 164,
+      "jp": "習慣が難しい",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "習慣 / (主詞) / 難的",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/164-1-sentence.mp3",
+        "audio/shukan-transcript/164-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 165,
+      "jp": "理由については",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "關於 / 理由",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/165-1-sentence.mp3",
+        "audio/shukan-transcript/165-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 166,
+      "jp": "十分話しました",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "十分/足夠 / 說過了",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/166-1-sentence.mp3",
+        "audio/shukan-transcript/166-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 167,
+      "jp": "どうやって習慣を",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "如何 / 習慣 / (受詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/167-1-sentence.mp3",
+        "audio/shukan-transcript/167-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 168,
+      "jp": "簡単にするか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "簡單 / 地 / 做/弄 / 嗎(疑問)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/168-1-sentence.mp3",
+        "audio/shukan-transcript/168-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 169,
+      "jp": "話しましょう",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "說話/談談吧",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/169-1-sentence.mp3",
+        "audio/shukan-transcript/169-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 170,
+      "jp": "まず最も大切な",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "首先 / 最 / 重要的",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/170-1-sentence.mp3",
+        "audio/shukan-transcript/170-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 171,
+      "jp": "時間帯",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "時間帶",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/171-1-sentence.mp3",
+        "audio/shukan-transcript/171-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 172,
+      "jp": "朝から始めましょう",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "早上 / 從 / 開始吧",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/172-1-sentence.mp3",
+        "audio/shukan-transcript/172-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 173,
+      "jp": "1日の始め方は",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "1日的 / 開始方式 / (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/173-1-sentence.mp3",
+        "audio/shukan-transcript/173-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 174,
+      "jp": "1日全体に",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "1日 / 全體 / 對於/在",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/174-1-sentence.mp3",
+        "audio/shukan-transcript/174-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 175,
+      "jp": "影響します",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "影響",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/175-1-sentence.mp3",
+        "audio/shukan-transcript/175-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 176,
+      "jp": "同意します",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "同意",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/176-1-sentence.mp3",
+        "audio/shukan-transcript/176-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 177,
+      "jp": "ではあなたの",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那麼 / 你的",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/177-1-sentence.mp3",
+        "audio/shukan-transcript/177-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 178,
+      "jp": "最初の朝の習慣は",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "最初的 / 早上的 / 習慣 / (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/178-1-sentence.mp3",
+        "audio/shukan-transcript/178-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 179,
+      "jp": "何ですか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "什麼 / 是 / 嗎",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/179-1-sentence.mp3",
+        "audio/shukan-transcript/179-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 180,
+      "jp": "週末も含めて",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "週末 / 也 / 含入/包括",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/180-1-sentence.mp3",
+        "audio/shukan-transcript/180-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 181,
+      "jp": "毎日同じ時間に",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "每天 / 相同的 / 時間 / 在",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/181-1-sentence.mp3",
+        "audio/shukan-transcript/181-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 182,
+      "jp": "起きることです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "起床 / 的事情 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/182-1-sentence.mp3",
+        "audio/shukan-transcript/182-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 183,
+      "jp": "週末も",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "週末 / 也",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/183-1-sentence.mp3",
+        "audio/shukan-transcript/183-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 184,
+      "jp": "それは大変ですね",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那個 / 辛苦/夠嗆 / 呢",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/184-1-sentence.mp3",
+        "audio/shukan-transcript/184-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 185,
+      "jp": "わかります",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "懂/明白",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/185-1-sentence.mp3",
+        "audio/shukan-transcript/185-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 186,
+      "jp": "でもとても大切なんです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "但是 / 非常 / 重要 / 的是(強調)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/186-1-sentence.mp3",
+        "audio/shukan-transcript/186-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 187,
+      "jp": "毎日同じ時間に",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "每天 / 相同的 / 時間 / 在",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/187-1-sentence.mp3",
+        "audio/shukan-transcript/187-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 188,
+      "jp": "起きると",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "起床 / 的話",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/188-1-sentence.mp3",
+        "audio/shukan-transcript/188-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 189,
+      "jp": "体がそれに慣れます",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "身體 / (主詞) / 對那個 / 習慣/適應",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/189-1-sentence.mp3",
+        "audio/shukan-transcript/189-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 190,
+      "jp": "自然になるんです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "自然 / 變得 / 的(強調)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/190-1-sentence.mp3",
+        "audio/shukan-transcript/190-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 191,
+      "jp": "何時に起きるんですか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "幾點 / 在 / 起床 / 的 / 嗎",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/191-1-sentence.mp3",
+        "audio/shukan-transcript/191-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 192,
+      "jp": "朝6時半です",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "早上 / 6點半 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/192-1-sentence.mp3",
+        "audio/shukan-transcript/192-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 193,
+      "jp": "すごく早いわけではないですが",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "非常 / 早 / 並非 / 是 / 但是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/193-1-sentence.mp3",
+        "audio/shukan-transcript/193-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 194,
+      "jp": "穏やかな朝を",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "平穩/溫和的 / 早上 / (受詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/194-1-sentence.mp3",
+        "audio/shukan-transcript/194-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 195,
+      "jp": "過ごすには",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "度過 / 為了",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/195-1-sentence.mp3",
+        "audio/shukan-transcript/195-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 196,
+      "jp": "十分早いです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "十分/足夠 / 早 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/196-1-sentence.mp3",
+        "audio/shukan-transcript/196-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 197,
+      "jp": "なるほど",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "原來如此",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/197-1-sentence.mp3",
+        "audio/shukan-transcript/197-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 198,
+      "jp": "6時半に起きて",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "6點半 / 在 / 起床 / 並且",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/198-1-sentence.mp3",
+        "audio/shukan-transcript/198-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 199,
+      "jp": "最初に何をしますか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "最初 / 在 / 什麼 / (受詞) / 做 / 嗎",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/199-1-sentence.mp3",
+        "audio/shukan-transcript/199-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 200,
+      "jp": "これは重要なんですが",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "這個 / 重要 / 的是 / 但是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/200-1-sentence.mp3",
+        "audio/shukan-transcript/200-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 201,
+      "jp": "スマホを見ません",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "智慧手機 / (受詞) / 不看",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/201-1-sentence.mp3",
+        "audio/shukan-transcript/201-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 202,
+      "jp": "本当ですか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "真的 / 嗎",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/202-1-sentence.mp3",
+        "audio/shukan-transcript/202-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 203,
+      "jp": "それは難しいですね",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那個 / 難 / 呢",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/203-1-sentence.mp3",
+        "audio/shukan-transcript/203-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 204,
+      "jp": "難しいです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "難 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/204-1-sentence.mp3",
+        "audio/shukan-transcript/204-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 205,
+      "jp": "でも朝一番に",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "但是 / 早上 / 第一順位/最先 / 在",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/205-1-sentence.mp3",
+        "audio/shukan-transcript/205-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 206,
+      "jp": "スマホを見ると",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "手機 / (受詞) / 看 / 的話",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/206-1-sentence.mp3",
+        "audio/shukan-transcript/206-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 207,
+      "jp": "メールやメッセージ",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "郵件 / 和 / 訊息",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/207-1-sentence.mp3",
+        "audio/shukan-transcript/207-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 208,
+      "jp": "ニュースが目に入ります",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "新聞 / (主詞) / 眼 / 進入/映入",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/208-1-sentence.mp3",
+        "audio/shukan-transcript/208-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 209,
+      "jp": "すぐに脳が",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "立刻 / 腦 / (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/209-1-sentence.mp3",
+        "audio/shukan-transcript/209-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 210,
+      "jp": "忙しくなってしまう",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "忙碌 / 變得 / 掉/了",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/210-1-sentence.mp3",
+        "audio/shukan-transcript/210-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 211,
+      "jp": "そうではなく",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那樣 / 並非",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/211-1-sentence.mp3",
+        "audio/shukan-transcript/211-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 212,
+      "jp": "穏やかなスタートを",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "平穩的 / 開始 / (受詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/212-1-sentence.mp3",
+        "audio/shukan-transcript/212-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 213,
+      "jp": "切りたいんです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "想要切/開啟 / 的(強調)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/213-1-sentence.mp3",
+        "audio/shukan-transcript/213-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 214,
+      "jp": "では代わりに",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那麼 / 代替 / 在",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/214-1-sentence.mp3",
+        "audio/shukan-transcript/214-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 215,
+      "jp": "何をするんですか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "什麼 / (受詞) / 做 / 的 / 嗎",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/215-1-sentence.mp3",
+        "audio/shukan-transcript/215-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 216,
+      "jp": "すぐにベッドから",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "立刻 / 床 / 從",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/216-1-sentence.mp3",
+        "audio/shukan-transcript/216-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 217,
+      "jp": "出ます",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "出去/離開",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/217-1-sentence.mp3",
+        "audio/shukan-transcript/217-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 218,
+      "jp": "スヌーズボタンは",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "貪睡按鈕 / (主題)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/218-1-sentence.mp3",
+        "audio/shukan-transcript/218-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 219,
+      "jp": "押しません",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "不按",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/219-1-sentence.mp3",
+        "audio/shukan-transcript/219-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 220,
+      "jp": "洗面所に行って",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "洗臉台/盥洗室 / 去 / 並且",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/220-1-sentence.mp3",
+        "audio/shukan-transcript/220-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 221,
+      "jp": "顔を洗って",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "臉 / (受詞) / 洗 / 並且",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/221-1-sentence.mp3",
+        "audio/shukan-transcript/221-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 222,
+      "jp": "歯を磨きます",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "牙齒 / (受詞) / 刷",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/222-1-sentence.mp3",
+        "audio/shukan-transcript/222-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 223,
+      "jp": "それから大きなグラス",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "然後 / 大的 / 玻璃杯",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/223-1-sentence.mp3",
+        "audio/shukan-transcript/223-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 224,
+      "jp": "1杯の水を",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "1杯的 / 水 / (受詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/224-1-sentence.mp3",
+        "audio/shukan-transcript/224-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 225,
+      "jp": "飲みます",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "喝",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/225-1-sentence.mp3",
+        "audio/shukan-transcript/225-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 226,
+      "jp": "朝一番に水ですね",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "早上 / 最先 / 水 / 呢",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/226-1-sentence.mp3",
+        "audio/shukan-transcript/226-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 227,
+      "jp": "それはいい習慣です",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那個 / 好的 / 習慣 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/227-1-sentence.mp3",
+        "audio/shukan-transcript/227-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 228,
+      "jp": "そうなんです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "是 / 那樣 / 的(強調)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/228-1-sentence.mp3",
+        "audio/shukan-transcript/228-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 229,
+      "jp": "8時間寝た後",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "8小時 / 睡了 / 後",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/229-1-sentence.mp3",
+        "audio/shukan-transcript/229-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 230,
+      "jp": "体は水分不足に",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "身體 / (主詞) / 水分不足 / 狀態",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/230-1-sentence.mp3",
+        "audio/shukan-transcript/230-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 231,
+      "jp": "なっています",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "正在變成/處於",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/231-1-sentence.mp3",
+        "audio/shukan-transcript/231-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 232,
+      "jp": "水はコーヒーよりも",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "水 / (主詞) / 咖啡 / 比起",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/232-1-sentence.mp3",
+        "audio/shukan-transcript/232-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 233,
+      "jp": "目を覚まさせてくれます",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "眼 / (受詞) / 覺醒/弄醒 / 讓我(授受)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/233-1-sentence.mp3",
+        "audio/shukan-transcript/233-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 234,
+      "jp": "コーヒーより",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "咖啡 / 比起",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/234-1-sentence.mp3",
+        "audio/shukan-transcript/234-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 235,
+      "jp": "それは分かりませんね",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那個 / 不知道 / 呢(保留態度)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/235-1-sentence.mp3",
+        "audio/shukan-transcript/235-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 236,
+      "jp": "まあより良いとは",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "嘛 / 更好 / 所謂",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/236-1-sentence.mp3",
+        "audio/shukan-transcript/236-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 237,
+      "jp": "言えないかもしれませんが",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "不能說 / 也許 / 但是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/237-1-sentence.mp3",
+        "audio/shukan-transcript/237-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 238,
+      "jp": "健康的です",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "健康的 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/238-1-sentence.mp3",
+        "audio/shukan-transcript/238-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 239,
+      "jp": "水の後",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "水 / 的 / 後",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/239-1-sentence.mp3",
+        "audio/shukan-transcript/239-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 240,
+      "jp": "10分間ストレッチをします",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "10分間 / 伸展 / (受詞) / 做",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/240-1-sentence.mp3",
+        "audio/shukan-transcript/240-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 241,
+      "jp": "毎朝ですか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "每早 / 嗎",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/241-1-sentence.mp3",
+        "audio/shukan-transcript/241-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 242,
+      "jp": "毎朝です",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "每早 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/242-1-sentence.mp3",
+        "audio/shukan-transcript/242-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 243,
+      "jp": "これは譲れません",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "這個 / 不能讓步/堅持",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/243-1-sentence.mp3",
+        "audio/shukan-transcript/243-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 244,
+      "jp": "ストレッチしないと",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "不做伸展 / 的話",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/244-1-sentence.mp3",
+        "audio/shukan-transcript/244-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 245,
+      "jp": "背中が痛くなるんです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "背部 / (主詞) / 痛 / 變得 / 的(強調)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/245-1-sentence.mp3",
+        "audio/shukan-transcript/245-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 246,
+      "jp": "10分間",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "10分間",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/246-1-sentence.mp3",
+        "audio/shukan-transcript/246-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 247,
+      "jp": "それは管理しやすいですね",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那個 / 容易管理 / 呢",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/247-1-sentence.mp3",
+        "audio/shukan-transcript/247-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 248,
+      "jp": "それがポイントなんです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那個 / 重點 / 的(強調)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/248-1-sentence.mp3",
+        "audio/shukan-transcript/248-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 249,
+      "jp": "1時間ストレッチするなんて",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "1小時 / 做伸展 / 之類的",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/249-1-sentence.mp3",
+        "audio/shukan-transcript/249-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 250,
+      "jp": "言ったら",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "說了 / 的話",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/250-1-sentence.mp3",
+        "audio/shukan-transcript/250-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 251,
+      "jp": "絶対やりません",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "絕對 / 不做",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/251-1-sentence.mp3",
+        "audio/shukan-transcript/251-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 252,
+      "jp": "でも10分なら",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "但是 / 10分 / 的話",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/252-1-sentence.mp3",
+        "audio/shukan-transcript/252-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 253,
+      "jp": "誰でもできます",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "誰 / 都 / 能做",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/253-1-sentence.mp3",
+        "audio/shukan-transcript/253-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 254,
+      "jp": "確かに",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "的確",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/254-1-sentence.mp3",
+        "audio/shukan-transcript/254-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 255,
+      "jp": "朝食はどうですか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "早餐 / (主題) / 如何 / 嗎",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/255-1-sentence.mp3",
+        "audio/shukan-transcript/255-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 256,
+      "jp": "毎日同じ",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "每天 / 相同的",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/256-1-sentence.mp3",
+        "audio/shukan-transcript/256-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 257,
+      "jp": "朝食を食べます",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "早餐 / (受詞) / 吃",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/257-1-sentence.mp3",
+        "audio/shukan-transcript/257-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 258,
+      "jp": "同じものを",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "相同的 / 東西 / (受詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/258-1-sentence.mp3",
+        "audio/shukan-transcript/258-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 259,
+      "jp": "飽きませんか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "不膩/厭煩 / 嗎",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/259-1-sentence.mp3",
+        "audio/shukan-transcript/259-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 260,
+      "jp": "実はそうでもないんです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "其實 / 那樣 / 也不 / 的(強調)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/260-1-sentence.mp3",
+        "audio/shukan-transcript/260-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 261,
+      "jp": "そしてその理由は",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "然後 / 那個 / 理由 / (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/261-1-sentence.mp3",
+        "audio/shukan-transcript/261-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 262,
+      "jp": "賢いからです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "聰明 / 因為 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/262-1-sentence.mp3",
+        "audio/shukan-transcript/262-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 263,
+      "jp": "考える必要が",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "思考 / 必要 / (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/263-1-sentence.mp3",
+        "audio/shukan-transcript/263-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 264,
+      "jp": "ありません",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "沒有",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/264-1-sentence.mp3",
+        "audio/shukan-transcript/264-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 265,
+      "jp": "何を食べるか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "什麼 / (受詞) / 吃 / 嗎",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/265-1-sentence.mp3",
+        "audio/shukan-transcript/265-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 266,
+      "jp": "決める必要がない",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "決定 / 必要 / (主詞) / 沒有",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/266-1-sentence.mp3",
+        "audio/shukan-transcript/266-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 267,
+      "jp": "ただ自動的に",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "只是 / 自動地",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/267-1-sentence.mp3",
+        "audio/shukan-transcript/267-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 268,
+      "jp": "作るだけです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "製作 / 僅僅 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/268-1-sentence.mp3",
+        "audio/shukan-transcript/268-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 269,
+      "jp": "何を食べるんですか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "什麼 / (受詞) / 吃 / 的 / 嗎",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/269-1-sentence.mp3",
+        "audio/shukan-transcript/269-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 270,
+      "jp": "オートミールに",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "燕麥片 / 配上",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/270-1-sentence.mp3",
+        "audio/shukan-transcript/270-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 271,
+      "jp": "バナナ",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "香蕉",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/271-1-sentence.mp3",
+        "audio/shukan-transcript/271-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 272,
+      "jp": "そして緑茶一杯です",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "然後 / 綠茶 / 一杯 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/272-1-sentence.mp3",
+        "audio/shukan-transcript/272-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 273,
+      "jp": "シンプルで健康的で",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "簡單 / 且 / 健康的 / 且",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/273-1-sentence.mp3",
+        "audio/shukan-transcript/273-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 274,
+      "jp": "早い",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "快",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/274-1-sentence.mp3",
+        "audio/shukan-transcript/274-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 275,
+      "jp": "なるほど",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "原來如此",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/275-1-sentence.mp3",
+        "audio/shukan-transcript/275-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 276,
+      "jp": "あなたの朝のルーティンは",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "你的 / 早上的 / 例行公事 / (主題)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/276-1-sentence.mp3",
+        "audio/shukan-transcript/276-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 277,
+      "jp": "いいですね",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "好 / 耶",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/277-1-sentence.mp3",
+        "audio/shukan-transcript/277-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 278,
+      "jp": "私のも共有させてください",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "我的 / 也 / 共有 / 讓我 / 請",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/278-1-sentence.mp3",
+        "audio/shukan-transcript/278-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 279,
+      "jp": "是非お願いします",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "務必 / 拜託了",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/279-1-sentence.mp3",
+        "audio/shukan-transcript/279-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 280,
+      "jp": "私は朝7時に起きます",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "我 / (主題) / 早上 / 7點 / 在 / 起床",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/280-1-sentence.mp3",
+        "audio/shukan-transcript/280-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 281,
+      "jp": "あなたより遅いのは",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "你 / 比起 / 慢 / 的事 / (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/281-1-sentence.mp3",
+        "audio/shukan-transcript/281-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 282,
+      "jp": "分かっていますが",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "知道 / 著 / 但是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/282-1-sentence.mp3",
+        "audio/shukan-transcript/282-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 283,
+      "jp": "これが私には",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "這個 / (主詞) / 對我",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/283-1-sentence.mp3",
+        "audio/shukan-transcript/283-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 284,
+      "jp": "合っているんです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "適合 / 著 / 的(強調)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/284-1-sentence.mp3",
+        "audio/shukan-transcript/284-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 285,
+      "jp": "何時でもいいんです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "幾點 / 都 / 可以 / 的(強調)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/285-1-sentence.mp3",
+        "audio/shukan-transcript/285-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 286,
+      "jp": "大切なのは",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "重要的 / 事 / (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/286-1-sentence.mp3",
+        "audio/shukan-transcript/286-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 287,
+      "jp": "毎日同じ時間であることです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "每天 / 相同的 / 時間 / 是 / 的事情 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/287-1-sentence.mp3",
+        "audio/shukan-transcript/287-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 288,
+      "jp": "まさに",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "正是/沒錯",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/288-1-sentence.mp3",
+        "audio/shukan-transcript/288-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 289,
+      "jp": "だから7時に起きます",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "所以 / 7點 / 在 / 起床",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/289-1-sentence.mp3",
+        "audio/shukan-transcript/289-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 290,
+      "jp": "最初にすることは",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "最初 / 在 / 做 / 的事 / (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/290-1-sentence.mp3",
+        "audio/shukan-transcript/290-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 291,
+      "jp": "ベッドを整えることです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "床 / (受詞) / 整理 / 的事情 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/291-1-sentence.mp3",
+        "audio/shukan-transcript/291-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 292,
+      "jp": "毎朝ベッドを",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "每早 / 床 / (受詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/292-1-sentence.mp3",
+        "audio/shukan-transcript/292-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 293,
+      "jp": "整えるんですか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "整理 / 的 / 嗎",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/293-1-sentence.mp3",
+        "audio/shukan-transcript/293-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 294,
+      "jp": "毎朝です",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "每早 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/294-1-sentence.mp3",
+        "audio/shukan-transcript/294-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 295,
+      "jp": "2分しかかかりませんが",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "2分 / 只有 / 花費 / 但是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/295-1-sentence.mp3",
+        "audio/shukan-transcript/295-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 296,
+      "jp": "達成感を感じます",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "達成感 / (受詞) / 感覺",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/296-1-sentence.mp3",
+        "audio/shukan-transcript/296-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 297,
+      "jp": "1日が",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "1日 / (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/297-1-sentence.mp3",
+        "audio/shukan-transcript/297-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 298,
+      "jp": "小さな勝利で",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "小的 / 勝利 / 以/用",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/298-1-sentence.mp3",
+        "audio/shukan-transcript/298-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 299,
+      "jp": "始まるんです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "開始 / 的(強調)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/299-1-sentence.mp3",
+        "audio/shukan-transcript/299-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 300,
+      "jp": "素晴らしいですね",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "極好/棒 / 呢",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/300-1-sentence.mp3",
+        "audio/shukan-transcript/300-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 301,
+      "jp": "小さな習慣が",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "小的 / 習慣 / (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/301-1-sentence.mp3",
+        "audio/shukan-transcript/301-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 302,
+      "jp": "勢いをつけてくれる",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "勢頭/動力 / (受詞) / 附上 / 給我",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/302-1-sentence.mp3",
+        "audio/shukan-transcript/302-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 303,
+      "jp": "その通りです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那個 / 樣子/沒錯 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/303-1-sentence.mp3",
+        "audio/shukan-transcript/303-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 304,
+      "jp": "それから",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "然後",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/304-1-sentence.mp3",
+        "audio/shukan-transcript/304-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 305,
+      "jp": "冷たいシャワーを",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "冷 / 淋浴 / (受詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/305-1-sentence.mp3",
+        "audio/shukan-transcript/305-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 306,
+      "jp": "浴びます",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "淋/洗",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/306-1-sentence.mp3",
+        "audio/shukan-transcript/306-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 307,
+      "jp": "冷水シャワーは",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "冷水 / 淋浴 / (主題)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/307-1-sentence.mp3",
+        "audio/shukan-transcript/307-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 308,
+      "jp": "ひどい感じがしますね",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "過分/糟糕 / 感覺 / (主詞) / 做/有 / 呢",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/308-1-sentence.mp3",
+        "audio/shukan-transcript/308-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 309,
+      "jp": "最初の10秒間は",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "最初的 / 10秒間 / (主題)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/309-1-sentence.mp3",
+        "audio/shukan-transcript/309-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 310,
+      "jp": "ひどいです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "糟糕 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/310-1-sentence.mp3",
+        "audio/shukan-transcript/310-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 311,
+      "jp": "でもその後は",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "但是 / 那 / 之後 / (主題)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/311-1-sentence.mp3",
+        "audio/shukan-transcript/311-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 312,
+      "jp": "完全に目が覚めます",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "完全 / 地 / 眼 / (主詞) / 覺醒",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/312-1-sentence.mp3",
+        "audio/shukan-transcript/312-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 313,
+      "jp": "冷水シャワーの後は",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "冷水 / 淋浴 / 的 / 後 / (主題)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/313-1-sentence.mp3",
+        "audio/shukan-transcript/313-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 314,
+      "jp": "活力が湧きます",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "活力 / (主詞) / 湧出",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/314-1-sentence.mp3",
+        "audio/shukan-transcript/314-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 315,
+      "jp": "私には絶対できません",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "對我 / (主題) / 絕對 / 做不到",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/315-1-sentence.mp3",
+        "audio/shukan-transcript/315-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 316,
+      "jp": "温かいシャワーが",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "溫暖的 / 淋浴 / (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/316-1-sentence.mp3",
+        "audio/shukan-transcript/316-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 317,
+      "jp": "大好きなんです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "最喜歡 / 的(強調)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/317-1-sentence.mp3",
+        "audio/shukan-transcript/317-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 318,
+      "jp": "人それぞれですね",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "人 / 各自/因人而異 / 呢",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/318-1-sentence.mp3",
+        "audio/shukan-transcript/318-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 319,
+      "jp": "シャワーの後",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "淋浴 / 的 / 後",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/319-1-sentence.mp3",
+        "audio/shukan-transcript/319-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 320,
+      "jp": "コーヒーを飲んで",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "咖啡 / (受詞) / 喝 / 並且",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/320-1-sentence.mp3",
+        "audio/shukan-transcript/320-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 321,
+      "jp": "20分間読書します",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "20分間 / 閱讀/讀書",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/321-1-sentence.mp3",
+        "audio/shukan-transcript/321-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 322,
+      "jp": "何を読むんですか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "什麼 / (受詞) / 讀 / 的 / 嗎",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/322-1-sentence.mp3",
+        "audio/shukan-transcript/322-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 323,
+      "jp": "大抵は本です",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "大致/通常 / (主題) / 書 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/323-1-sentence.mp3",
+        "audio/shukan-transcript/323-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 324,
+      "jp": "時々記事も読みますが",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "有時 / 文章 / 也 / 讀 / 但是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/324-1-sentence.mp3",
+        "audio/shukan-transcript/324-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 325,
+      "jp": "ポイントは毎朝",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "重點 / (主題) / 每早",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/325-1-sentence.mp3",
+        "audio/shukan-transcript/325-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 326,
+      "jp": "20分間の読書です",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "20分間的 / 閱讀 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/326-1-sentence.mp3",
+        "audio/shukan-transcript/326-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 327,
+      "jp": "スマホもテレビもなし",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "手機 / 也 / 電視 / 也 / 沒有",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/327-1-sentence.mp3",
+        "audio/shukan-transcript/327-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 328,
+      "jp": "ただ読書だけ",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "僅僅 / 閱讀 / 只有",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/328-1-sentence.mp3",
+        "audio/shukan-transcript/328-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 329,
+      "jp": "素晴らしい習慣ですね",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "極好的 / 習慣 / 呢",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/329-1-sentence.mp3",
+        "audio/shukan-transcript/329-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 330,
+      "jp": "朝の読書は",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "早上的 / 閱讀 / (主題)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/330-1-sentence.mp3",
+        "audio/shukan-transcript/330-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 331,
+      "jp": "ソーシャルメディアを",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "社群媒體 / (受詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/331-1-sentence.mp3",
+        "audio/shukan-transcript/331-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 332,
+      "jp": "スクロールするより",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "滑動/刷 / 比起",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/332-1-sentence.mp3",
+        "audio/shukan-transcript/332-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 333,
+      "jp": "ずっといい",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "一直/得多 / 好",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/333-1-sentence.mp3",
+        "audio/shukan-transcript/333-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 334,
+      "jp": "絶対にそうです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "絕對 / 地 / 是 / 那樣",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/334-1-sentence.mp3",
+        "audio/shukan-transcript/334-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 335,
+      "jp": "さて朝は終わりました",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那麼 / 早上 / (主題) / 結束了",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/335-1-sentence.mp3",
+        "audio/shukan-transcript/335-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 336,
+      "jp": "日中の習慣",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "日間的 / 習慣",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/336-1-sentence.mp3",
+        "audio/shukan-transcript/336-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 337,
+      "jp": "特に仕事中の",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "特別是 / 工作中的",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/337-1-sentence.mp3",
+        "audio/shukan-transcript/337-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 338,
+      "jp": "習慣について話しましょう",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "習慣 / 關於 / 說話/談談吧",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/338-1-sentence.mp3",
+        "audio/shukan-transcript/338-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 339,
+      "jp": "仕事の習慣は",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "工作的 / 習慣 / (主題)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/339-1-sentence.mp3",
+        "audio/shukan-transcript/339-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 340,
+      "jp": "とても大切です",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "非常 / 重要 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/340-1-sentence.mp3",
+        "audio/shukan-transcript/340-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 341,
+      "jp": "1日のほとんどを",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "1日的 / 大部分 / (受詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/341-1-sentence.mp3",
+        "audio/shukan-transcript/341-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 342,
+      "jp": "仕事に費やしていますからね",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "工作 / 上 / 正在花費 / 因為 / 呢",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/342-1-sentence.mp3",
+        "audio/shukan-transcript/342-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 343,
+      "jp": "そうですね",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "是 / 這樣 / 呢",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/343-1-sentence.mp3",
+        "audio/shukan-transcript/343-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 344,
+      "jp": "私の最初の",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "我的 / 最初的",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/344-1-sentence.mp3",
+        "audio/shukan-transcript/344-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 345,
+      "jp": "仕事の習慣は",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "工作的 / 習慣 / (主題)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/345-1-sentence.mp3",
+        "audio/shukan-transcript/345-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 346,
+      "jp": "毎朝職場に着いたら",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "每早 / 職場 / 抵達了 / 的話",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/346-1-sentence.mp3",
+        "audio/shukan-transcript/346-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 347,
+      "jp": "1日の計画を",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "1日的 / 計畫 / (受詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/347-1-sentence.mp3",
+        "audio/shukan-transcript/347-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 348,
+      "jp": "立てることです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "建立/制定 / 的事情 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/348-1-sentence.mp3",
+        "audio/shukan-transcript/348-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 349,
+      "jp": "それにどのくらい",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "在那個 / 上 / 大約多少",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/349-1-sentence.mp3",
+        "audio/shukan-transcript/349-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 350,
+      "jp": "時間がかかりますか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "時間 / (主詞) / 花費 / 嗎",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/350-1-sentence.mp3",
+        "audio/shukan-transcript/350-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 351,
+      "jp": "5分です",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "5分 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/351-1-sentence.mp3",
+        "audio/shukan-transcript/351-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 352,
+      "jp": "その日の最も重要な",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那一天的 / 最 / 重要的",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/352-1-sentence.mp3",
+        "audio/shukan-transcript/352-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 353,
+      "jp": "3つのタスクを",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "3個的 / 任務 / (受詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/353-1-sentence.mp3",
+        "audio/shukan-transcript/353-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 354,
+      "jp": "書き出します",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "寫出來",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/354-1-sentence.mp3",
+        "audio/shukan-transcript/354-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 355,
+      "jp": "たった3つですか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "僅僅/只有 / 3個 / 嗎",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/355-1-sentence.mp3",
+        "audio/shukan-transcript/355-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 356,
+      "jp": "たった3つです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "僅僅 / 3個 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/356-1-sentence.mp3",
+        "audio/shukan-transcript/356-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 357,
+      "jp": "10個のことを",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "10個的 / 事情 / (受詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/357-1-sentence.mp3",
+        "audio/shukan-transcript/357-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 358,
+      "jp": "やろうとすると",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "想要做 / 的話",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/358-1-sentence.mp3",
+        "audio/shukan-transcript/358-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 359,
+      "jp": "圧倒されて",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "被壓倒 / 並且",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/359-1-sentence.mp3",
+        "audio/shukan-transcript/359-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 360,
+      "jp": "何もできなくなります",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "什麼 / 也 / 變得無法做",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/360-1-sentence.mp3",
+        "audio/shukan-transcript/360-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 361,
+      "jp": "でも3つのタスクなら",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "但是 / 3個的 / 任務 / 的話",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/361-1-sentence.mp3",
+        "audio/shukan-transcript/361-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 362,
+      "jp": "実行可能です",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "實行 / 可能 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/362-1-sentence.mp3",
+        "audio/shukan-transcript/362-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 363,
+      "jp": "賢いですね",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "聰明 / 呢",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/363-1-sentence.mp3",
+        "audio/shukan-transcript/363-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 364,
+      "jp": "他には",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "其他 / 在/方面 / (主題)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/364-1-sentence.mp3",
+        "audio/shukan-transcript/364-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 365,
+      "jp": "90分ごとに",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "90分 / 每/間隔",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/365-1-sentence.mp3",
+        "audio/shukan-transcript/365-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 366,
+      "jp": "休憩を取ります",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "休息 / (受詞) / 取/休息",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/366-1-sentence.mp3",
+        "audio/shukan-transcript/366-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 367,
+      "jp": "90分ごと",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "90分 / 每",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/367-1-sentence.mp3",
+        "audio/shukan-transcript/367-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 368,
+      "jp": "なぜ90分なんですか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "為什麼 / 90分 / 的 / 嗎",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/368-1-sentence.mp3",
+        "audio/shukan-transcript/368-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 369,
+      "jp": "研究によると",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "研究 / 根據",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/369-1-sentence.mp3",
+        "audio/shukan-transcript/369-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 370,
+      "jp": "私たちの脳は",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "我們的 / 腦 / (主題)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/370-1-sentence.mp3",
+        "audio/shukan-transcript/370-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 371,
+      "jp": "約90分間",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "大約 / 90分間",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/371-1-sentence.mp3",
+        "audio/shukan-transcript/371-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 372,
+      "jp": "集中できるそうです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "能夠集中 / 聽說",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/372-1-sentence.mp3",
+        "audio/shukan-transcript/372-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 373,
+      "jp": "その後は",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那 / 之後 / (主題)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/373-1-sentence.mp3",
+        "audio/shukan-transcript/373-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 374,
+      "jp": "休憩が必要なんです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "休息 / (主詞) / 必要 / 的(強調)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/374-1-sentence.mp3",
+        "audio/shukan-transcript/374-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 375,
+      "jp": "休憩中は何をするんですか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "休息中 / (主題) / 什麼 / (受詞) / 做 / 的 / 嗎",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/375-1-sentence.mp3",
+        "audio/shukan-transcript/375-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 376,
+      "jp": "立ち上がって",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "站起來 / 並且",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/376-1-sentence.mp3",
+        "audio/shukan-transcript/376-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 377,
+      "jp": "歩き回って",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "四處走動 / 並且",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/377-1-sentence.mp3",
+        "audio/shukan-transcript/377-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 378,
+      "jp": "水やお茶を",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "水 / 或 / 茶 / (受詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/378-1-sentence.mp3",
+        "audio/shukan-transcript/378-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 379,
+      "jp": "取りに行くこともあります",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "去拿 / 的事情 / 也有",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/379-1-sentence.mp3",
+        "audio/shukan-transcript/379-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 380,
+      "jp": "デスクから離れて",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "辦公桌 / 離該 / 並且",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/380-1-sentence.mp3",
+        "audio/shukan-transcript/380-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 381,
+      "jp": "5分間だけです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "5分間 / 只有 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/381-1-sentence.mp3",
+        "audio/shukan-transcript/381-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 382,
+      "jp": "いい習慣ですね",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "好的 / 習慣 / 呢",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/382-1-sentence.mp3",
+        "audio/shukan-transcript/382-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 383,
+      "jp": "私もそうすべきです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "我 / 也 / 該那樣做",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/383-1-sentence.mp3",
+        "audio/shukan-transcript/383-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 384,
+      "jp": "今は4時間ぶっ通しで",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "現在 / (主題) / 4小時 / 連續地",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/384-1-sentence.mp3",
+        "audio/shukan-transcript/384-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 385,
+      "jp": "デスクに座っています",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "辦公桌 / 在 / 坐著",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/385-1-sentence.mp3",
+        "audio/shukan-transcript/385-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 386,
+      "jp": "それは体にも",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那個 / 對身體 / 也",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/386-1-sentence.mp3",
+        "audio/shukan-transcript/386-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 387,
+      "jp": "脳にもよくありません",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "對腦 / 也 / 不好",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/387-1-sentence.mp3",
+        "audio/shukan-transcript/387-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 388,
+      "jp": "分かっています",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "知道 / 著",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/388-1-sentence.mp3",
+        "audio/shukan-transcript/388-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 389,
+      "jp": "だからそれは",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "所以 / 那個 / (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/389-1-sentence.mp3",
+        "audio/shukan-transcript/389-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 390,
+      "jp": "私が作るべき",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "我 / (主詞) / 應該建立",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/390-1-sentence.mp3",
+        "audio/shukan-transcript/390-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 391,
+      "jp": "習慣です",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "習慣 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/391-1-sentence.mp3",
+        "audio/shukan-transcript/391-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 392,
+      "jp": "定期的に",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "定期地",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/392-1-sentence.mp3",
+        "audio/shukan-transcript/392-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 393,
+      "jp": "休憩を取ること",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "休息 / (受詞) / 取/休息 / 的事",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/393-1-sentence.mp3",
+        "audio/shukan-transcript/393-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 394,
+      "jp": "あなたはすでに",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "你 / (主題) / 已經",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/394-1-sentence.mp3",
+        "audio/shukan-transcript/394-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 395,
+      "jp": "どんな仕事の習慣を",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "什麼樣的 / 工作的 / 習慣 / (受詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/395-1-sentence.mp3",
+        "audio/shukan-transcript/395-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 396,
+      "jp": "持っていますか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "擁有 / 著 / 嗎",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/396-1-sentence.mp3",
+        "audio/shukan-transcript/396-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 397,
+      "jp": "1つ良い習慣があります",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "1個 / 好的 / 習慣 / (主詞) / 有",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/397-1-sentence.mp3",
+        "audio/shukan-transcript/397-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 398,
+      "jp": "朝一番に",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "早上 / 第一順位/最先 / 在",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/398-1-sentence.mp3",
+        "audio/shukan-transcript/398-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 399,
+      "jp": "メールをチェックしません",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "郵件 / (受詞) / 不檢查",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/399-1-sentence.mp3",
+        "audio/shukan-transcript/399-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 400,
+      "jp": "本当ですか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "真的 / 嗎",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/400-1-sentence.mp3",
+        "audio/shukan-transcript/400-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 401,
+      "jp": "なぜですか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "為什麼 / 是 / 嗎",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/401-1-sentence.mp3",
+        "audio/shukan-transcript/401-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 402,
+      "jp": "朝一番に",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "早上 / 最先 / 在",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/402-1-sentence.mp3",
+        "audio/shukan-transcript/402-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 403,
+      "jp": "メールをチェックすると",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "郵件 / (受詞) / 檢查 / 的話",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/403-1-sentence.mp3",
+        "audio/shukan-transcript/403-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 404,
+      "jp": "午前中ずっと",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "上午 / 一直",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/404-1-sentence.mp3",
+        "audio/shukan-transcript/404-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 405,
+      "jp": "他人の依頼に",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "他人的 / 委託/請求 / 對應",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/405-1-sentence.mp3",
+        "audio/shukan-transcript/405-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 406,
+      "jp": "対応することになるからです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "變成對應 / 的事情 / 因為 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/406-1-sentence.mp3",
+        "audio/shukan-transcript/406-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 407,
+      "jp": "反応的になってしまって",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "變得反應性 / 遺憾/掉了 / 並且",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/407-1-sentence.mp3",
+        "audio/shukan-transcript/407-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 408,
+      "jp": "主体的ではなくなります",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "主體性/主動 / 並非 / 變得",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/408-1-sentence.mp3",
+        "audio/shukan-transcript/408-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 409,
+      "jp": "ではいつ",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那麼 / 何時",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/409-1-sentence.mp3",
+        "audio/shukan-transcript/409-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 410,
+      "jp": "メールをチェックするんですか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "郵件 / (受詞) / 檢查 / 的 / 嗎",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/410-1-sentence.mp3",
+        "audio/shukan-transcript/410-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 411,
+      "jp": "10時です",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "10點 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/411-1-sentence.mp3",
+        "audio/shukan-transcript/411-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 412,
+      "jp": "8時から10時まで",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "8點 / 從 / 10點 / 到",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/412-1-sentence.mp3",
+        "audio/shukan-transcript/412-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 413,
+      "jp": "最も重要な",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "最 / 重要的",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/413-1-sentence.mp3",
+        "audio/shukan-transcript/413-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 414,
+      "jp": "仕事をします",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "工作 / (受詞) / 做",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/414-1-sentence.mp3",
+        "audio/shukan-transcript/414-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 415,
+      "jp": "それから",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "然後/在那之後",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/415-1-sentence.mp3",
+        "audio/shukan-transcript/415-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 416,
+      "jp": "メールをチェックします",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "郵件 / (受詞) / 檢查",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/416-1-sentence.mp3",
+        "audio/shukan-transcript/416-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 417,
+      "jp": "それは素晴らしいですね",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那個 / 極好 / 呢",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/417-1-sentence.mp3",
+        "audio/shukan-transcript/417-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 418,
+      "jp": "ランチはどうですか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "午餐 / (主題) / 如何 / 嗎",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/418-1-sentence.mp3",
+        "audio/shukan-transcript/418-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 419,
+      "jp": "ランチの習慣はありますか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "午餐的 / 習慣 / (主詞) / 有 / 嗎",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/419-1-sentence.mp3",
+        "audio/shukan-transcript/419-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 420,
+      "jp": "はいデスクから",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "是 / 辦公桌 / 離開",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/420-1-sentence.mp3",
+        "audio/shukan-transcript/420-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 421,
+      "jp": "離れて食べます",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "離開 / 並且 / 吃",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/421-1-sentence.mp3",
+        "audio/shukan-transcript/421-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 422,
+      "jp": "デスクから離れて",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "辦公桌 / 離開 / 並且",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/422-1-sentence.mp3",
+        "audio/shukan-transcript/422-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 423,
+      "jp": "そうです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "是 / 那樣",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/423-1-sentence.mp3",
+        "audio/shukan-transcript/423-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 424,
+      "jp": "多くの人が",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "很多的 / 人 / (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/424-1-sentence.mp3",
+        "audio/shukan-transcript/424-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 425,
+      "jp": "デスクで仕事をしながら",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "辦公桌 / 在 / 工作 / (受詞) / 一邊做一邊",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/425-1-sentence.mp3",
+        "audio/shukan-transcript/425-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 426,
+      "jp": "ランチを食べます",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "午餐 / (受詞) / 吃",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/426-1-sentence.mp3",
+        "audio/shukan-transcript/426-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 427,
+      "jp": "それは本当の",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那個 / 真正的",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/427-1-sentence.mp3",
+        "audio/shukan-transcript/427-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 428,
+      "jp": "休憩ではありません",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "休息 / 並非",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/428-1-sentence.mp3",
+        "audio/shukan-transcript/428-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 429,
+      "jp": "その通りですね",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那個 / 樣子/沒錯 / 呢",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/429-1-sentence.mp3",
+        "audio/shukan-transcript/429-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 430,
+      "jp": "だから天気が良ければ",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "所以 / 天氣 / (主詞) / 好的話",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/430-1-sentence.mp3",
+        "audio/shukan-transcript/430-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 431,
+      "jp": "外に出ます",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "外面 / 去/出",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/431-1-sentence.mp3",
+        "audio/shukan-transcript/431-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 432,
+      "jp": "または別の部屋に",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "或者 / 別的 / 房間 / 在",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/432-1-sentence.mp3",
+        "audio/shukan-transcript/432-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 433,
+      "jp": "座ります",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "坐",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/433-1-sentence.mp3",
+        "audio/shukan-transcript/433-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 434,
+      "jp": "30分間",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "30分間",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/434-1-sentence.mp3",
+        "audio/shukan-transcript/434-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 435,
+      "jp": "本当のランチ休憩を",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "真正的 / 午餐休息 / (受詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/435-1-sentence.mp3",
+        "audio/shukan-transcript/435-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 436,
+      "jp": "取ります",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "取/休息",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/436-1-sentence.mp3",
+        "audio/shukan-transcript/436-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 437,
+      "jp": "それは健康的な習慣です",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那個 / 健康的 / 習慣 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/437-1-sentence.mp3",
+        "audio/shukan-transcript/437-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 438,
+      "jp": "脳には",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "對腦 / (主題)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/438-1-sentence.mp3",
+        "audio/shukan-transcript/438-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 439,
+      "jp": "その休憩が必要です",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那個 / 休息 / (主詞) / 必要 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/439-1-sentence.mp3",
+        "audio/shukan-transcript/439-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 440,
+      "jp": "まさに",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "正是/沒錯",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/440-1-sentence.mp3",
+        "audio/shukan-transcript/440-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 441,
+      "jp": "あなたは似てます",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "你 / (主題) / 相似",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/441-1-sentence.mp3",
+        "audio/shukan-transcript/441-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 442,
+      "jp": "私もランチ中は",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "我 / 也 / 午餐中 / (主題)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/442-1-sentence.mp3",
+        "audio/shukan-transcript/442-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 443,
+      "jp": "仕事スペースを離れます",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "工作空間 / (受詞) / 離開",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/443-1-sentence.mp3",
+        "audio/shukan-transcript/443-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 444,
+      "jp": "そしてもう1つがあります",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "然後 / 還有 / 1個 / (主詞) / 有",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/444-1-sentence.mp3",
+        "audio/shukan-transcript/444-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 445,
+      "jp": "ランチの後",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "午餐的 / 後",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/445-1-sentence.mp3",
+        "audio/shukan-transcript/445-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 446,
+      "jp": "短い散歩をします",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "短的 / 散步 / (受詞) / 做",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/446-1-sentence.mp3",
+        "audio/shukan-transcript/446-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 447,
+      "jp": "どのくらい短いですか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "大約多少 / 短 / 嗎",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/447-1-sentence.mp3",
+        "audio/shukan-transcript/447-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 448,
+      "jp": "ブロックを1周するだけ",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "街區 / (受詞) / 繞1圈 / 做 / 僅僅",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/448-1-sentence.mp3",
+        "audio/shukan-transcript/448-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 449,
+      "jp": "10分間です",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "10分間 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/449-1-sentence.mp3",
+        "audio/shukan-transcript/449-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 450,
+      "jp": "午後のスランプを",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "下午的 / 低潮/萎靡 / (受詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/450-1-sentence.mp3",
+        "audio/shukan-transcript/450-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 451,
+      "jp": "避けるのに役立ちます",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "避免 / 的用途 / 有幫助",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/451-1-sentence.mp3",
+        "audio/shukan-transcript/451-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 452,
+      "jp": "午後のスランプ",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "下午的 / 低潮",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/452-1-sentence.mp3",
+        "audio/shukan-transcript/452-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 453,
+      "jp": "みんな知っていますよね",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "大家 / 知道 / 著 / 吧 / 呢",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/453-1-sentence.mp3",
+        "audio/shukan-transcript/453-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 454,
+      "jp": "あの感じ",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那個 / 感覺",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/454-1-sentence.mp3",
+        "audio/shukan-transcript/454-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 455,
+      "jp": "ランチを食べてから",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "午餐 / (受詞) / 吃了 / 之後",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/455-1-sentence.mp3",
+        "audio/shukan-transcript/455-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 456,
+      "jp": "とても眠くなる",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "非常 / 睏 / 變得",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/456-1-sentence.mp3",
+        "audio/shukan-transcript/456-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 457,
+      "jp": "そうです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "是 / 那樣",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/457-1-sentence.mp3",
+        "audio/shukan-transcript/457-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 458,
+      "jp": "でも10分間",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "但是 / 10分間",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/458-1-sentence.mp3",
+        "audio/shukan-transcript/458-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 459,
+      "jp": "体を動かせば",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "身體 / (受詞) / 移動/動 / 的話",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/459-1-sentence.mp3",
+        "audio/shukan-transcript/459-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 460,
+      "jp": "もっと目が覚めます",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "更 / 眼 / (主詞) / 覺醒/清醒",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/460-1-sentence.mp3",
+        "audio/shukan-transcript/460-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 461,
+      "jp": "それ試してみます",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那個 / 試試看",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/461-1-sentence.mp3",
+        "audio/shukan-transcript/461-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 462,
+      "jp": "さて夜の習慣について",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那麼 / 夜晚的 / 習慣 / 關於",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/462-1-sentence.mp3",
+        "audio/shukan-transcript/462-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 463,
+      "jp": "話しましょう",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "說話/談談吧",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/463-1-sentence.mp3",
+        "audio/shukan-transcript/463-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 464,
+      "jp": "ここでほとんどの人が",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "這裡 / 大部分的 / 人 / (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/464-1-sentence.mp3",
+        "audio/shukan-transcript/464-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 465,
+      "jp": "苦労します",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "辛苦/費心",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/465-1-sentence.mp3",
+        "audio/shukan-transcript/465-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 466,
+      "jp": "なぜ夜に",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "為什麼 / 夜晚 / 在",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/466-1-sentence.mp3",
+        "audio/shukan-transcript/466-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 467,
+      "jp": "苦労するんでしょう",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "辛苦 / 的 / 吧",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/467-1-sentence.mp3",
+        "audio/shukan-transcript/467-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 468,
+      "jp": "仕事の後で",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "工作的 / 後 / 並且",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/468-1-sentence.mp3",
+        "audio/shukan-transcript/468-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 469,
+      "jp": "疲れているからです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "正在疲累 / 因為 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/469-1-sentence.mp3",
+        "audio/shukan-transcript/469-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 470,
+      "jp": "エネルギーが低いので",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "能量/精力 / (主詞) / 低 / 因為",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/470-1-sentence.mp3",
+        "audio/shukan-transcript/470-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 471,
+      "jp": "ソファーに座って",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "沙發 / 在 / 坐 / 並且",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/471-1-sentence.mp3",
+        "audio/shukan-transcript/471-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 472,
+      "jp": "テレビを見るだけに",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "電視 / (受詞) / 看 / 僅僅 / 變成",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/472-1-sentence.mp3",
+        "audio/shukan-transcript/472-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 473,
+      "jp": "なってしまいます",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "變成 / 遺憾/掉了",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/473-1-sentence.mp3",
+        "audio/shukan-transcript/473-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 474,
+      "jp": "それはまさに",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那個 / 正是/確是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/474-1-sentence.mp3",
+        "audio/shukan-transcript/474-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 475,
+      "jp": "私がすることです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "我 / (主詞) / 做 / 的事情 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/475-1-sentence.mp3",
+        "audio/shukan-transcript/475-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 476,
+      "jp": "私も時々そうです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "我 / 也 / 有時 / 是那樣",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/476-1-sentence.mp3",
+        "audio/shukan-transcript/476-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 477,
+      "jp": "でもいくつかの",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "但是 / 幾個的",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/477-1-sentence.mp3",
+        "audio/shukan-transcript/477-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 478,
+      "jp": "生産的な夜の習慣を",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "生產性的 / 夜晚的 / 習慣 / (受詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/478-1-sentence.mp3",
+        "audio/shukan-transcript/478-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 479,
+      "jp": "持つ必要があります",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "擁有 / 必要 / 有",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/479-1-sentence.mp3",
+        "audio/shukan-transcript/479-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 480,
+      "jp": "あなたの夜の習慣は",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "你的 / 夜晚的 / 習慣 / (主題)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/480-1-sentence.mp3",
+        "audio/shukan-transcript/480-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 481,
+      "jp": "何ですか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "什麼 / 是 / 嗎",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/481-1-sentence.mp3",
+        "audio/shukan-transcript/481-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 482,
+      "jp": "まず家に帰ったら",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "首先 / 家 / 回到了 / 的話",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/482-1-sentence.mp3",
+        "audio/shukan-transcript/482-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 483,
+      "jp": "すぐに服を着替えます",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "立刻 / 衣服 / (受詞) / 換穿",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/483-1-sentence.mp3",
+        "audio/shukan-transcript/483-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 484,
+      "jp": "なぜそれが習慣なんですか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "為什麼 / 那個 / (主詞) / 習慣 / 的 / 嗎",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/484-1-sentence.mp3",
+        "audio/shukan-transcript/484-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 485,
+      "jp": "脳に仕事は終わり",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "對腦 / 工作 / (主題) / 結束",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/485-1-sentence.mp3",
+        "audio/shukan-transcript/485-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 486,
+      "jp": "家での時間が",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "家 / 裡的 / 時間 / (主詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/486-1-sentence.mp3",
+        "audio/shukan-transcript/486-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 487,
+      "jp": "始まったという信号を",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "開始了 / 叫做 / 信號 / (受詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/487-1-sentence.mp3",
+        "audio/shukan-transcript/487-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 488,
+      "jp": "送るからです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "發送 / 因為 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/488-1-sentence.mp3",
+        "audio/shukan-transcript/488-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 489,
+      "jp": "仕事の服を着ていると",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "工作的 / 衣服 / (受詞) / 穿著 / 的話",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/489-1-sentence.mp3",
+        "audio/shukan-transcript/489-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 490,
+      "jp": "精神的にまだ",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "精神上 / 還/仍",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/490-1-sentence.mp3",
+        "audio/shukan-transcript/490-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 491,
+      "jp": "仕事モードなんです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "工作模式 / 的(強調)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/491-1-sentence.mp3",
+        "audio/shukan-transcript/491-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 492,
+      "jp": "なるほど",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "原來如此",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/492-1-sentence.mp3",
+        "audio/shukan-transcript/492-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 493,
+      "jp": "だから快適な服に",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "所以 / 舒適的 / 衣服 / 換成",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/493-1-sentence.mp3",
+        "audio/shukan-transcript/493-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 494,
+      "jp": "着替えるんですね",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "換穿 / 的 / 呢",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/494-1-sentence.mp3",
+        "audio/shukan-transcript/494-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 495,
+      "jp": "まさに",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "正是/沒錯",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/495-1-sentence.mp3",
+        "audio/shukan-transcript/495-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 496,
+      "jp": "それから夕食を",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "然後 / 晚餐 / (受詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/496-1-sentence.mp3",
+        "audio/shukan-transcript/496-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 497,
+      "jp": "準備します",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "準備",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/497-1-sentence.mp3",
+        "audio/shukan-transcript/497-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 498,
+      "jp": "毎晩料理するんですか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "每晚 / 料理/做飯 / 的 / 嗎",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/498-1-sentence.mp3",
+        "audio/shukan-transcript/498-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 499,
+      "jp": "ほとんどの夜はそうです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "大部分的 / 夜晚 / (主題) / 是那樣",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/499-1-sentence.mp3",
+        "audio/shukan-transcript/499-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 500,
+      "jp": "デリバリーを頼むより",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "外送 / (受詞) / 點/依賴 / 比起",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/500-1-sentence.mp3",
+        "audio/shukan-transcript/500-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 501,
+      "jp": "健康的で安いです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "健康的 / 且 / 便宜 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/501-1-sentence.mp3",
+        "audio/shukan-transcript/501-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 502,
+      "jp": "料理は楽しいですか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "料理 / (主題) / 開心/有趣 / 嗎",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/502-1-sentence.mp3",
+        "audio/shukan-transcript/502-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 503,
+      "jp": "楽しいです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "開心 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/503-1-sentence.mp3",
+        "audio/shukan-transcript/503-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 504,
+      "jp": "リラックスできます",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "放鬆 / 能夠",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/504-1-sentence.mp3",
+        "audio/shukan-transcript/504-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 505,
+      "jp": "音楽をかけて",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "音樂 / 播放 / 並且",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/505-1-sentence.mp3",
+        "audio/shukan-transcript/505-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 506,
+      "jp": "料理するだけ",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "料理 / 僅僅",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/506-1-sentence.mp3",
+        "audio/shukan-transcript/506-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 507,
+      "jp": "瞑想みたいなものです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "冥想 / 像 / 的東西 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/507-1-sentence.mp3",
+        "audio/shukan-transcript/507-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 508,
+      "jp": "いいですね",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "好 / 耶",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/508-1-sentence.mp3",
+        "audio/shukan-transcript/508-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 509,
+      "jp": "私も料理の習慣を",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "我 / 也 / 料理的 / 習慣 / (受詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/509-1-sentence.mp3",
+        "audio/shukan-transcript/509-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 510,
+      "jp": "作ろうとしています",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "想要建立 / 正在做",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/510-1-sentence.mp3",
+        "audio/shukan-transcript/510-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 511,
+      "jp": "今は週に",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "現在 / (主題) / 包含週 / 在",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/511-1-sentence.mp3",
+        "audio/shukan-transcript/511-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 512,
+      "jp": "2、3回しか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "2、3次 / 只有",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/512-1-sentence.mp3",
+        "audio/shukan-transcript/512-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 513,
+      "jp": "料理しません",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "不料理",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/513-1-sentence.mp3",
+        "audio/shukan-transcript/513-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 514,
+      "jp": "それでも良いです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "即使那樣 / 好 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/514-1-sentence.mp3",
+        "audio/shukan-transcript/514-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 515,
+      "jp": "毎晩料理する必要は",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "每晚 / 料理 / 必要 / (主題)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/515-1-sentence.mp3",
+        "audio/shukan-transcript/515-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 516,
+      "jp": "ありません",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "沒有",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/516-1-sentence.mp3",
+        "audio/shukan-transcript/516-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 517,
+      "jp": "夜に他に",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "夜晚 / 在 / 其他 (空格)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/517-1-sentence.mp3",
+        "audio/shukan-transcript/517-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 518,
+      "jp": "何をしますか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "什麼 / (受詞) / 做 / 嗎",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/518-1-sentence.mp3",
+        "audio/shukan-transcript/518-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 519,
+      "jp": "夕食の後すぐに",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "晚餐的 / 後 / 立刻",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/519-1-sentence.mp3",
+        "audio/shukan-transcript/519-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 520,
+      "jp": "キッチンを片付けます",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "廚房 / (受詞) / 收拾/整理",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/520-1-sentence.mp3",
+        "audio/shukan-transcript/520-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 521,
+      "jp": "すぐにですか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "立刻 / 嗎",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/521-1-sentence.mp3",
+        "audio/shukan-transcript/521-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 522,
+      "jp": "すぐにです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "立刻 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/522-1-sentence.mp3",
+        "audio/shukan-transcript/522-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 523,
+      "jp": "待つと",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "等待 / 的話",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/523-1-sentence.mp3",
+        "audio/shukan-transcript/523-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 524,
+      "jp": "やらなくなります",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "變得不做",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/524-1-sentence.mp3",
+        "audio/shukan-transcript/524-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 525,
+      "jp": "汚れた皿を",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "髒的 / 盤子 / (受詞)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/525-1-sentence.mp3",
+        "audio/shukan-transcript/525-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 526,
+      "jp": "シンクに一晩",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "水槽 / 在 / 一晚",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/526-1-sentence.mp3",
+        "audio/shukan-transcript/526-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 527,
+      "jp": "放置することに",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "放置 / 的事情 / 變成",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/527-1-sentence.mp3",
+        "audio/shukan-transcript/527-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 528,
+      "jp": "なってしまいます",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "變成 / 遺憾/掉了",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/528-1-sentence.mp3",
+        "audio/shukan-transcript/528-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 529,
+      "jp": "私も同じことをします",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "我 / 也 / 相同的事 / (受詞) / 做",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/529-1-sentence.mp3",
+        "audio/shukan-transcript/529-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 530,
+      "jp": "食べた後すぐに",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "吃了 / 後 / 立刻",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/530-1-sentence.mp3",
+        "audio/shukan-transcript/530-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 531,
+      "jp": "キッチンを片付ける",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "廚房 / (受詞) / 收拾",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/531-1-sentence.mp3",
+        "audio/shukan-transcript/531-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 532,
+      "jp": "10分しかかりません",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "10分 / 只有 / 花費",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/532-1-sentence.mp3",
+        "audio/shukan-transcript/532-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 533,
+      "jp": "そうです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "是 / 那樣",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/533-1-sentence.mp3",
+        "audio/shukan-transcript/533-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 534,
+      "jp": "そして翌朝",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "然後 / 隔天早上",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/534-1-sentence.mp3",
+        "audio/shukan-transcript/534-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 535,
+      "jp": "目覚めた時",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "醒來了 / 時候",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/535-1-sentence.mp3",
+        "audio/shukan-transcript/535-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 536,
+      "jp": "キッチンが綺麗だと",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "廚房 / (主詞) / 乾淨/漂亮 / 的話",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/536-1-sentence.mp3",
+        "audio/shukan-transcript/536-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 537,
+      "jp": "気持ちがいいです",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "心情 / (主詞) / 好 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/537-1-sentence.mp3",
+        "audio/shukan-transcript/537-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 538,
+      "jp": "片付けた後は",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "收拾了 / 後 / (主題)",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/538-1-sentence.mp3",
+        "audio/shukan-transcript/538-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 539,
+      "jp": "何をしますか",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "什麼 / (受詞) / 做 / 嗎",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/539-1-sentence.mp3",
+        "audio/shukan-transcript/539-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 540,
+      "jp": "これが1日で",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "這個 / (主詞) / 1日 / 在",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/540-1-sentence.mp3",
+        "audio/shukan-transcript/540-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 541,
+      "jp": "1番好きな時間です",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "最 / 喜歡的 / 時間 / 是",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/541-1-sentence.mp3",
+        "audio/shukan-transcript/541-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 542,
+      "jp": "2時間リラックスします",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "2小時 / 放鬆",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/shukan-transcript/542-1-sentence.mp3",
+        "audio/shukan-transcript/542-2-literal.mp3"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,2247 @@
+{
+  "sheet": "習慣的養成",
+  "slug": "shukan",
+  "total": 140,
+  "tracks": [
+    {
+      "id": 1,
+      "jp": "絶つ",
+      "reading": "たつ",
+      "cn": "斷絕、戒除",
+      "example": "悪い習慣を絶つ。",
+      "example_literal": "壞的 習慣 (受詞) 戒除。",
+      "category": "一類動詞",
+      "level": "N1",
+      "segments": [
+        "audio/shukan/001-1-word.mp3",
+        "audio/shukan/001-2-meaning.mp3",
+        "audio/shukan/001-3-example.mp3",
+        "audio/shukan/001-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 2,
+      "jp": "減らす",
+      "reading": "へらす",
+      "cn": "減少",
+      "example": "体重を減らしたい。",
+      "example_literal": "體重 (受詞) 減少 想要。",
+      "category": "一類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/002-1-word.mp3",
+        "audio/shukan/002-2-meaning.mp3",
+        "audio/shukan/002-3-example.mp3",
+        "audio/shukan/002-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 3,
+      "jp": "示す",
+      "reading": "しめす",
+      "cn": "出示、指示",
+      "example": "目標は行き先を示す。",
+      "example_literal": "目標 (主詞) 目的地 (受詞) 指示。",
+      "category": "一類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/003-1-word.mp3",
+        "audio/shukan/003-2-meaning.mp3",
+        "audio/shukan/003-3-example.mp3",
+        "audio/shukan/003-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 4,
+      "jp": "向かう",
+      "reading": "むかう",
+      "cn": "朝向、前往",
+      "example": "目的地へ向かう。",
+      "example_literal": "目的地 (方向) 朝向。",
+      "category": "一類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/004-1-word.mp3",
+        "audio/shukan/004-2-meaning.mp3",
+        "audio/shukan/004-3-example.mp3",
+        "audio/shukan/004-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 5,
+      "jp": "変わる",
+      "reading": "かわる",
+      "cn": "改變(自動詞)",
+      "example": "習慣によって変わる。",
+      "example_literal": "習慣 依據 改變。",
+      "category": "一類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/shukan/005-1-word.mp3",
+        "audio/shukan/005-2-meaning.mp3",
+        "audio/shukan/005-3-example.mp3",
+        "audio/shukan/005-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 6,
+      "jp": "終わる",
+      "reading": "おわる",
+      "cn": "結束",
+      "example": "夢で終わってしまう。",
+      "example_literal": "夢 (狀態) 結束 (完成)。",
+      "category": "一類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/shukan/006-1-word.mp3",
+        "audio/shukan/006-2-meaning.mp3",
+        "audio/shukan/006-3-example.mp3",
+        "audio/shukan/006-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 7,
+      "jp": "押す",
+      "reading": "おす",
+      "cn": "按、推",
+      "example": "いいねボタンを押して。",
+      "example_literal": "讚 按鈕 (受詞) 按 (請求)。",
+      "category": "一類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/shukan/007-1-word.mp3",
+        "audio/shukan/007-2-meaning.mp3",
+        "audio/shukan/007-3-example.mp3",
+        "audio/shukan/007-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 8,
+      "jp": "言う",
+      "reading": "いう",
+      "cn": "說",
+      "example": "正直に言いたいこと。",
+      "example_literal": "誠實 (方式) 說 想 事情。",
+      "category": "一類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/shukan/008-1-word.mp3",
+        "audio/shukan/008-2-meaning.mp3",
+        "audio/shukan/008-3-example.mp3",
+        "audio/shukan/008-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 9,
+      "jp": "作る",
+      "reading": "つくる",
+      "cn": "製作、建立",
+      "example": "強い習慣を作る。",
+      "example_literal": "強的 習慣 (受詞) 製作。",
+      "category": "一類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/shukan/009-1-word.mp3",
+        "audio/shukan/009-2-meaning.mp3",
+        "audio/shukan/009-3-example.mp3",
+        "audio/shukan/009-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 10,
+      "jp": "頑張る",
+      "reading": "がんばる",
+      "cn": "努力、加油",
+      "example": "頑張りすぎる。",
+      "example_literal": "努力 過度。",
+      "category": "一類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/shukan/010-1-word.mp3",
+        "audio/shukan/010-2-meaning.mp3",
+        "audio/shukan/010-3-example.mp3",
+        "audio/shukan/010-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 11,
+      "jp": "違う",
+      "reading": "ちがう",
+      "cn": "不同",
+      "example": "人によって違う。",
+      "example_literal": "人 依據 不同。",
+      "category": "一類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/shukan/011-1-word.mp3",
+        "audio/shukan/011-2-meaning.mp3",
+        "audio/shukan/011-3-example.mp3",
+        "audio/shukan/011-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 12,
+      "jp": "磨く",
+      "reading": "みがく",
+      "cn": "刷(牙)、磨練",
+      "example": "歯を磨く。",
+      "example_literal": "牙齒 (受詞) 刷。",
+      "category": "一類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/shukan/012-1-word.mp3",
+        "audio/shukan/012-2-meaning.mp3",
+        "audio/shukan/012-3-example.mp3",
+        "audio/shukan/012-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 13,
+      "jp": "飲む",
+      "reading": "のむ",
+      "cn": "喝",
+      "example": "水を飲む。",
+      "example_literal": "水 (受詞) 喝。",
+      "category": "一類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/shukan/013-1-word.mp3",
+        "audio/shukan/013-2-meaning.mp3",
+        "audio/shukan/013-3-example.mp3",
+        "audio/shukan/013-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 14,
+      "jp": "目覚める",
+      "reading": "めざめる",
+      "cn": "醒來、覺醒",
+      "example": "1月1日に目覚めて。",
+      "example_literal": "1月1日 (時間) 醒來 (て形)。",
+      "category": "一類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/shukan/014-1-word.mp3",
+        "audio/shukan/014-2-meaning.mp3",
+        "audio/shukan/014-3-example.mp3",
+        "audio/shukan/014-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 15,
+      "jp": "思う",
+      "reading": "おもう",
+      "cn": "想、思考",
+      "example": "理由があると思う。",
+      "example_literal": "理由 (主詞) 存在 (引用) 想。",
+      "category": "一類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/shukan/015-1-word.mp3",
+        "audio/shukan/015-2-meaning.mp3",
+        "audio/shukan/015-3-example.mp3",
+        "audio/shukan/015-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 16,
+      "jp": "行く",
+      "reading": "いく",
+      "cn": "去",
+      "example": "洗面所に行って。",
+      "example_literal": "洗手間 (方向) 去 (て形)。",
+      "category": "一類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/shukan/016-1-word.mp3",
+        "audio/shukan/016-2-meaning.mp3",
+        "audio/shukan/016-3-example.mp3",
+        "audio/shukan/016-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 17,
+      "jp": "浴びる",
+      "reading": "あびる",
+      "cn": "淋、浴",
+      "example": "シャワーを浴びる。",
+      "example_literal": "淋浴 (受詞) 淋。",
+      "category": "一類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/shukan/017-1-word.mp3",
+        "audio/shukan/017-2-meaning.mp3",
+        "audio/shukan/017-3-example.mp3",
+        "audio/shukan/017-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 18,
+      "jp": "置く",
+      "reading": "おく",
+      "cn": "放置",
+      "example": "枕の上に本を置く。",
+      "example_literal": "枕頭 之上 (場所) 書 (受詞) 放置。",
+      "category": "一類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/shukan/018-1-word.mp3",
+        "audio/shukan/018-2-meaning.mp3",
+        "audio/shukan/018-3-example.mp3",
+        "audio/shukan/018-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 19,
+      "jp": "隠す",
+      "reading": "かくす",
+      "cn": "隱藏",
+      "example": "習慣を隠さない。",
+      "example_literal": "習慣 (受詞) 隱藏 (否定)。",
+      "category": "一類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/019-1-word.mp3",
+        "audio/shukan/019-2-meaning.mp3",
+        "audio/shukan/019-3-example.mp3",
+        "audio/shukan/019-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 20,
+      "jp": "伴う",
+      "reading": "ともなう",
+      "cn": "伴隨",
+      "example": "危険を伴う（類語推測）。",
+      "example_literal": "危險 (受詞) 伴隨（類語推測）。",
+      "category": "一類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/shukan/020-1-word.mp3",
+        "audio/shukan/020-2-meaning.mp3",
+        "audio/shukan/020-3-example.mp3",
+        "audio/shukan/020-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 21,
+      "jp": "続ける",
+      "reading": "つづける",
+      "cn": "持續(他動詞)",
+      "example": "習慣を続ける。",
+      "example_literal": "習慣 (受詞) 持續。",
+      "category": "二類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/shukan/021-1-word.mp3",
+        "audio/shukan/021-2-meaning.mp3",
+        "audio/shukan/021-3-example.mp3",
+        "audio/shukan/021-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 22,
+      "jp": "決める",
+      "reading": "きめる",
+      "cn": "決定",
+      "example": "やろうと決める。",
+      "example_literal": "做 (引用) 決定。",
+      "category": "二類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/shukan/022-1-word.mp3",
+        "audio/shukan/022-2-meaning.mp3",
+        "audio/shukan/022-3-example.mp3",
+        "audio/shukan/022-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 23,
+      "jp": "慣れる",
+      "reading": "なれる",
+      "cn": "習慣、適應",
+      "example": "体がそれに慣れる。",
+      "example_literal": "身體 (主詞) 那個 (對象) 習慣。",
+      "category": "二類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/023-1-word.mp3",
+        "audio/shukan/023-2-meaning.mp3",
+        "audio/shukan/023-3-example.mp3",
+        "audio/shukan/023-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 24,
+      "jp": "起きる",
+      "reading": "おきる",
+      "cn": "起床",
+      "example": "毎日同じ時間に起きる。",
+      "example_literal": "每天 相同 時間 (時間) 起床。",
+      "category": "二類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/shukan/024-1-word.mp3",
+        "audio/shukan/024-2-meaning.mp3",
+        "audio/shukan/024-3-example.mp3",
+        "audio/shukan/024-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 25,
+      "jp": "食べる",
+      "reading": "たべる",
+      "cn": "吃",
+      "example": "健康的に食べる。",
+      "example_literal": "健康的 (方式) 吃。",
+      "category": "二類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/shukan/025-1-word.mp3",
+        "audio/shukan/025-2-meaning.mp3",
+        "audio/shukan/025-3-example.mp3",
+        "audio/shukan/025-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 26,
+      "jp": "変える",
+      "reading": "かえる",
+      "cn": "改變(他動詞)",
+      "example": "一度に変えようとする。",
+      "example_literal": "一次 (時間) 改變 (意志)。",
+      "category": "二類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/shukan/026-1-word.mp3",
+        "audio/shukan/026-2-meaning.mp3",
+        "audio/shukan/026-3-example.mp3",
+        "audio/shukan/026-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 27,
+      "jp": "過ぎる",
+      "reading": "すぎる",
+      "cn": "過度、經過",
+      "example": "無理がありすぎる。",
+      "example_literal": "勉強 (主詞) 有 過度。",
+      "category": "二類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/shukan/027-1-word.mp3",
+        "audio/shukan/027-2-meaning.mp3",
+        "audio/shukan/027-3-example.mp3",
+        "audio/shukan/027-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 28,
+      "jp": "避ける",
+      "reading": "さける",
+      "cn": "避免",
+      "example": "スランプを避ける。",
+      "example_literal": "低潮 (受詞) 避免。",
+      "category": "二類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/shukan/028-1-word.mp3",
+        "audio/shukan/028-2-meaning.mp3",
+        "audio/shukan/028-3-example.mp3",
+        "audio/shukan/028-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 29,
+      "jp": "着替える",
+      "reading": "きがえる",
+      "cn": "換衣服",
+      "example": "服を着替える。",
+      "example_literal": "衣服 (受詞) 換。",
+      "category": "二類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/029-1-word.mp3",
+        "audio/shukan/029-2-meaning.mp3",
+        "audio/shukan/029-3-example.mp3",
+        "audio/shukan/029-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 30,
+      "jp": "見せる",
+      "reading": "みせる",
+      "cn": "給看",
+      "example": "他人に見せない。",
+      "example_literal": "他人 (對象) 給看 (否定)。",
+      "category": "二類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/shukan/030-1-word.mp3",
+        "audio/shukan/030-2-meaning.mp3",
+        "audio/shukan/030-3-example.mp3",
+        "audio/shukan/030-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 31,
+      "jp": "止める",
+      "reading": "やめる",
+      "cn": "停止、放棄",
+      "example": "やらなくなってしまう。",
+      "example_literal": "做 (否定) 變成 (完成)。",
+      "category": "二類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/shukan/031-1-word.mp3",
+        "audio/shukan/031-2-meaning.mp3",
+        "audio/shukan/031-3-example.mp3",
+        "audio/shukan/031-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 32,
+      "jp": "忘れる",
+      "reading": "わすれる",
+      "cn": "忘記",
+      "example": "質問に答えるのを忘れないで。",
+      "example_literal": "問題 (對象) 回答 事情 (受詞) 忘記 (否定請求)。",
+      "category": "二類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/shukan/032-1-word.mp3",
+        "audio/shukan/032-2-meaning.mp3",
+        "audio/shukan/032-3-example.mp3",
+        "audio/shukan/032-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 33,
+      "jp": "調べる",
+      "reading": "しらべる",
+      "cn": "調查",
+      "example": "研究によると（推測）。",
+      "example_literal": "研究 依據（推測）。",
+      "category": "二類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/shukan/033-1-word.mp3",
+        "audio/shukan/033-2-meaning.mp3",
+        "audio/shukan/033-3-example.mp3",
+        "audio/shukan/033-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 34,
+      "jp": "比べる",
+      "reading": "くらべる",
+      "cn": "比較",
+      "example": "他人と比べる（推測）。",
+      "example_literal": "他人 (對象) 比較（推測）。",
+      "category": "二類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/034-1-word.mp3",
+        "audio/shukan/034-2-meaning.mp3",
+        "audio/shukan/034-3-example.mp3",
+        "audio/shukan/034-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 35,
+      "jp": "覚える",
+      "reading": "おぼえる",
+      "cn": "記住",
+      "example": "語彙を覚える。",
+      "example_literal": "詞彙 (受詞) 記住。",
+      "category": "二類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/shukan/035-1-word.mp3",
+        "audio/shukan/035-2-meaning.mp3",
+        "audio/shukan/035-3-example.mp3",
+        "audio/shukan/035-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 36,
+      "jp": "応じる",
+      "reading": "おうじる",
+      "cn": "回應、因應",
+      "example": "依頼に対応する（類語）。",
+      "example_literal": "委託 (對象) 應對（類語）。",
+      "category": "二類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/shukan/036-1-word.mp3",
+        "audio/shukan/036-2-meaning.mp3",
+        "audio/shukan/036-3-example.mp3",
+        "audio/shukan/036-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 37,
+      "jp": "感じる",
+      "reading": "かんじる",
+      "cn": "感覺",
+      "example": "達成感を感じる。",
+      "example_literal": "成就感 (受詞) 感覺。",
+      "category": "二類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/037-1-word.mp3",
+        "audio/shukan/037-2-meaning.mp3",
+        "audio/shukan/037-3-example.mp3",
+        "audio/shukan/037-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 38,
+      "jp": "信じる",
+      "reading": "しんじる",
+      "cn": "相信",
+      "example": "自分を信じる（推測）。",
+      "example_literal": "自己 (受詞) 相信（推測）。",
+      "category": "二類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/038-1-word.mp3",
+        "audio/shukan/038-2-meaning.mp3",
+        "audio/shukan/038-3-example.mp3",
+        "audio/shukan/038-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 39,
+      "jp": "伸びる",
+      "reading": "のびる",
+      "cn": "伸展",
+      "example": "背筋が伸びる（推測）。",
+      "example_literal": "背肌 (主詞) 伸展（推測）。",
+      "category": "二類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/039-1-word.mp3",
+        "audio/shukan/039-2-meaning.mp3",
+        "audio/shukan/039-3-example.mp3",
+        "audio/shukan/039-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 40,
+      "jp": "見る",
+      "reading": "みる",
+      "cn": "看",
+      "example": "スマホを見ない。",
+      "example_literal": "手機 (受詞) 看 (否定)。",
+      "category": "二類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/shukan/040-1-word.mp3",
+        "audio/shukan/040-2-meaning.mp3",
+        "audio/shukan/040-3-example.mp3",
+        "audio/shukan/040-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 41,
+      "jp": "達成する",
+      "reading": "たっせいする",
+      "cn": "達成",
+      "example": "目標を達成する。",
+      "example_literal": "目標 (受詞) 達成。",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/041-1-word.mp3",
+        "audio/shukan/041-2-meaning.mp3",
+        "audio/shukan/041-3-example.mp3",
+        "audio/shukan/041-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 42,
+      "jp": "練習する",
+      "reading": "れんしゅうする",
+      "cn": "練習",
+      "example": "日本語を練習する。",
+      "example_literal": "日語 (受詞) 練習。",
+      "category": "三類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/shukan/042-1-word.mp3",
+        "audio/shukan/042-2-meaning.mp3",
+        "audio/shukan/042-3-example.mp3",
+        "audio/shukan/042-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 43,
+      "jp": "理解する",
+      "reading": "りかいする",
+      "cn": "理解",
+      "example": "違いを理解する。",
+      "example_literal": "差異 (受詞) 理解。",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/043-1-word.mp3",
+        "audio/shukan/043-2-meaning.mp3",
+        "audio/shukan/043-3-example.mp3",
+        "audio/shukan/043-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 44,
+      "jp": "説明する",
+      "reading": "せつめいする",
+      "cn": "說明",
+      "example": "皆さんのために説明する。",
+      "example_literal": "各位 (對象) 為了 說明。",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/044-1-word.mp3",
+        "audio/shukan/044-2-meaning.mp3",
+        "audio/shukan/044-3-example.mp3",
+        "audio/shukan/044-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 45,
+      "jp": "到達する",
+      "reading": "とうたつする",
+      "cn": "到達",
+      "example": "目標に到達する。",
+      "example_literal": "目標 (對象) 到達。",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/045-1-word.mp3",
+        "audio/shukan/045-2-meaning.mp3",
+        "audio/shukan/045-3-example.mp3",
+        "audio/shukan/045-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 46,
+      "jp": "行動する",
+      "reading": "こうどうする",
+      "cn": "行動",
+      "example": "日々の行動。",
+      "example_literal": "每日 的 行動。",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/046-1-word.mp3",
+        "audio/shukan/046-2-meaning.mp3",
+        "audio/shukan/046-3-example.mp3",
+        "audio/shukan/046-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 47,
+      "jp": "失敗する",
+      "reading": "しっぱいする",
+      "cn": "失敗",
+      "example": "ほとんど失敗した。",
+      "example_literal": "幾乎 失敗 (過去式)。",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/047-1-word.mp3",
+        "audio/shukan/047-2-meaning.mp3",
+        "audio/shukan/047-3-example.mp3",
+        "audio/shukan/047-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 48,
+      "jp": "形成する",
+      "reading": "けいせいする",
+      "cn": "形成",
+      "example": "習慣は形成される。",
+      "example_literal": "習慣 (主詞) 形成 (被動)。",
+      "category": "三類動詞",
+      "level": "N1",
+      "segments": [
+        "audio/shukan/048-1-word.mp3",
+        "audio/shukan/048-2-meaning.mp3",
+        "audio/shukan/048-3-example.mp3",
+        "audio/shukan/048-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 49,
+      "jp": "集中する",
+      "reading": "しゅうちゅうする",
+      "cn": "集中",
+      "example": "一つの習慣に集中する。",
+      "example_literal": "一個 的 習慣 (對象) 集中。",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/049-1-word.mp3",
+        "audio/shukan/049-2-meaning.mp3",
+        "audio/shukan/049-3-example.mp3",
+        "audio/shukan/049-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 50,
+      "jp": "影響する",
+      "reading": "えいきょうする",
+      "cn": "影響",
+      "example": "一日全体に影響する。",
+      "example_literal": "一天 全體 (對象) 影響。",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/050-1-word.mp3",
+        "audio/shukan/050-2-meaning.mp3",
+        "audio/shukan/050-3-example.mp3",
+        "audio/shukan/050-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 51,
+      "jp": "同意する",
+      "reading": "どういする",
+      "cn": "同意",
+      "example": "同意します。",
+      "example_literal": "同意 (敬語)。",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/051-1-word.mp3",
+        "audio/shukan/051-2-meaning.mp3",
+        "audio/shukan/051-3-example.mp3",
+        "audio/shukan/051-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 52,
+      "jp": "整理する",
+      "reading": "せいりする",
+      "cn": "整理",
+      "example": "ベッドを整える（類語）。",
+      "example_literal": "床 (受詞) 整理（類語）。",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/052-1-word.mp3",
+        "audio/shukan/052-2-meaning.mp3",
+        "audio/shukan/052-3-example.mp3",
+        "audio/shukan/052-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 53,
+      "jp": "読書する",
+      "reading": "どくしょする",
+      "cn": "閱讀",
+      "example": "20分間読書する。",
+      "example_literal": "20分鐘 閱讀。",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/053-1-word.mp3",
+        "audio/shukan/053-2-meaning.mp3",
+        "audio/shukan/053-3-example.mp3",
+        "audio/shukan/053-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 54,
+      "jp": "実行する",
+      "reading": "じっこうする",
+      "cn": "實行",
+      "example": "タスクなら実行可能。",
+      "example_literal": "任務 如果是 實行 可能。",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/054-1-word.mp3",
+        "audio/shukan/054-2-meaning.mp3",
+        "audio/shukan/054-3-example.mp3",
+        "audio/shukan/054-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 55,
+      "jp": "休憩する",
+      "reading": "きゅうけいする",
+      "cn": "休息",
+      "example": "休憩を取る。",
+      "example_literal": "休息 (受詞) 取。",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/055-1-word.mp3",
+        "audio/shukan/055-2-meaning.mp3",
+        "audio/shukan/055-3-example.mp3",
+        "audio/shukan/055-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 56,
+      "jp": "対応する",
+      "reading": "たいおうする",
+      "cn": "應對",
+      "example": "依頼に対応する。",
+      "example_literal": "委託 (對象) 應對。",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/056-1-word.mp3",
+        "audio/shukan/056-2-meaning.mp3",
+        "audio/shukan/056-3-example.mp3",
+        "audio/shukan/056-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 57,
+      "jp": "準備する",
+      "reading": "じゅんびする",
+      "cn": "準備",
+      "example": "夕食を準備する。",
+      "example_literal": "晚餐 (受詞) 準備。",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/057-1-word.mp3",
+        "audio/shukan/057-2-meaning.mp3",
+        "audio/shukan/057-3-example.mp3",
+        "audio/shukan/057-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 58,
+      "jp": "瞑想する",
+      "reading": "めいそうする",
+      "cn": "冥想",
+      "example": "瞑想みたいなものです。",
+      "example_literal": "冥想 之類 的 東西 是 (敬語)。",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/058-1-word.mp3",
+        "audio/shukan/058-2-meaning.mp3",
+        "audio/shukan/058-3-example.mp3",
+        "audio/shukan/058-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 59,
+      "jp": "リラックスする",
+      "reading": "りらっくすする",
+      "cn": "放鬆",
+      "example": "リラックスできます。",
+      "example_literal": "放鬆 能夠 (敬語)。",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/059-1-word.mp3",
+        "audio/shukan/059-2-meaning.mp3",
+        "audio/shukan/059-3-example.mp3",
+        "audio/shukan/059-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 60,
+      "jp": "改善する",
+      "reading": "かいぜんする",
+      "cn": "改善",
+      "example": "人生を改善する。",
+      "example_literal": "人生 (受詞) 改善。",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/060-1-word.mp3",
+        "audio/shukan/060-2-meaning.mp3",
+        "audio/shukan/060-3-example.mp3",
+        "audio/shukan/060-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 61,
+      "jp": "習慣",
+      "reading": "しゅうかん",
+      "cn": "習慣",
+      "example": "日々の習慣。",
+      "example_literal": "每日 的 習慣。",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/061-1-word.mp3",
+        "audio/shukan/061-2-meaning.mp3",
+        "audio/shukan/061-3-example.mp3",
+        "audio/shukan/061-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 62,
+      "jp": "目標",
+      "reading": "もくひょう",
+      "cn": "目標",
+      "example": "2026年の目標。",
+      "example_literal": "2026年 的 目標。",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/062-1-word.mp3",
+        "audio/shukan/062-2-meaning.mp3",
+        "audio/shukan/062-3-example.mp3",
+        "audio/shukan/062-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 63,
+      "jp": "計画",
+      "reading": "けいかく",
+      "cn": "計畫",
+      "example": "目標や計画。",
+      "example_literal": "目標 或 計畫。",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/063-1-word.mp3",
+        "audio/shukan/063-2-meaning.mp3",
+        "audio/shukan/063-3-example.mp3",
+        "audio/shukan/063-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 64,
+      "jp": "行き先",
+      "reading": "いきさき",
+      "cn": "目的地",
+      "example": "目標は行き先を示す。",
+      "example_literal": "目標 (主詞) 目的地 (受詞) 指示。",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/064-1-word.mp3",
+        "audio/shukan/064-2-meaning.mp3",
+        "audio/shukan/064-3-example.mp3",
+        "audio/shukan/064-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 65,
+      "jp": "自動的",
+      "reading": "じどうてき",
+      "cn": "自動的",
+      "example": "自動的にできるようになる。",
+      "example_literal": "自動的 (方式) 能夠 變成 (敬體)。",
+      "category": "名詞",
+      "level": "N2",
+      "segments": [
+        "audio/shukan/065-1-word.mp3",
+        "audio/shukan/065-2-meaning.mp3",
+        "audio/shukan/065-3-example.mp3",
+        "audio/shukan/065-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 66,
+      "jp": "忍耐",
+      "reading": "にんたい",
+      "cn": "忍耐",
+      "example": "忍耐強くいる。",
+      "example_literal": "忍耐 強的 (狀態) 處於。",
+      "category": "名詞",
+      "level": "N1",
+      "segments": [
+        "audio/shukan/066-1-word.mp3",
+        "audio/shukan/066-2-meaning.mp3",
+        "audio/shukan/066-3-example.mp3",
+        "audio/shukan/066-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 67,
+      "jp": "脳",
+      "reading": "のう",
+      "cn": "腦",
+      "example": "脳が圧倒される。",
+      "example_literal": "腦 (主詞) 被壓垮 (被動)。",
+      "category": "名詞",
+      "level": "N1",
+      "segments": [
+        "audio/shukan/067-1-word.mp3",
+        "audio/shukan/067-2-meaning.mp3",
+        "audio/shukan/067-3-example.mp3",
+        "audio/shukan/067-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 68,
+      "jp": "週末",
+      "reading": "しゅうまつ",
+      "cn": "週末",
+      "example": "週末も含めて。",
+      "example_literal": "週末 也 包含 (て形)。",
+      "category": "名詞",
+      "level": "N4",
+      "segments": [
+        "audio/shukan/068-1-word.mp3",
+        "audio/shukan/068-2-meaning.mp3",
+        "audio/shukan/068-3-example.mp3",
+        "audio/shukan/068-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 69,
+      "jp": "水分",
+      "reading": "すいぶん",
+      "cn": "水分",
+      "example": "水分不足。",
+      "example_literal": "水分 不足。",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/069-1-word.mp3",
+        "audio/shukan/069-2-meaning.mp3",
+        "audio/shukan/069-3-example.mp3",
+        "audio/shukan/069-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 70,
+      "jp": "達成感",
+      "reading": "たっせいかん",
+      "cn": "成就感",
+      "example": "達成感を感じる。",
+      "example_literal": "成就感 (受詞) 感覺。",
+      "category": "名詞",
+      "level": "N1",
+      "segments": [
+        "audio/shukan/070-1-word.mp3",
+        "audio/shukan/070-2-meaning.mp3",
+        "audio/shukan/070-3-example.mp3",
+        "audio/shukan/070-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 71,
+      "jp": "勝利",
+      "reading": "しょうり",
+      "cn": "勝利",
+      "example": "小さな勝利。",
+      "example_literal": "小的 勝利。",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/071-1-word.mp3",
+        "audio/shukan/071-2-meaning.mp3",
+        "audio/shukan/071-3-example.mp3",
+        "audio/shukan/071-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 72,
+      "jp": "活力",
+      "reading": "かつりょく",
+      "cn": "活力",
+      "example": "活力が湧く。",
+      "example_literal": "活力 (主詞) 湧出。",
+      "category": "名詞",
+      "level": "N1",
+      "segments": [
+        "audio/shukan/072-1-word.mp3",
+        "audio/shukan/072-2-meaning.mp3",
+        "audio/shukan/072-3-example.mp3",
+        "audio/shukan/072-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 73,
+      "jp": "依頼",
+      "reading": "いらい",
+      "cn": "委託、請求",
+      "example": "他人の依頼。",
+      "example_literal": "他人 的 委託。",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/073-1-word.mp3",
+        "audio/shukan/073-2-meaning.mp3",
+        "audio/shukan/073-3-example.mp3",
+        "audio/shukan/073-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 74,
+      "jp": "主体的",
+      "reading": "しゅたいてき",
+      "cn": "主動的、主體的",
+      "example": "主体的ではなくなる。",
+      "example_literal": "主動的 並非 變成 (否定)。",
+      "category": "名詞",
+      "level": "N1",
+      "segments": [
+        "audio/shukan/074-1-word.mp3",
+        "audio/shukan/074-2-meaning.mp3",
+        "audio/shukan/074-3-example.mp3",
+        "audio/shukan/074-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 75,
+      "jp": "証拠",
+      "reading": "しょうこ",
+      "cn": "證據",
+      "example": "視覚的な証拠。",
+      "example_literal": "視覺的 的 證據。",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/075-1-word.mp3",
+        "audio/shukan/075-2-meaning.mp3",
+        "audio/shukan/075-3-example.mp3",
+        "audio/shukan/075-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 76,
+      "jp": "一貫性",
+      "reading": "いっかんせい",
+      "cn": "一貫性",
+      "example": "一貫性は鍵です。",
+      "example_literal": "一貫性 (主詞) 鑰匙 是 (敬語)。",
+      "category": "名詞",
+      "level": "N1",
+      "segments": [
+        "audio/shukan/076-1-word.mp3",
+        "audio/shukan/076-2-meaning.mp3",
+        "audio/shukan/076-3-example.mp3",
+        "audio/shukan/076-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 77,
+      "jp": "きっかけ",
+      "reading": "きっかけ",
+      "cn": "契機、提示",
+      "example": "水を飲むきっかけ。",
+      "example_literal": "水 (受詞) 喝 的 契機。",
+      "category": "名詞",
+      "level": "N2",
+      "segments": [
+        "audio/shukan/077-1-word.mp3",
+        "audio/shukan/077-2-meaning.mp3",
+        "audio/shukan/077-3-example.mp3",
+        "audio/shukan/077-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 78,
+      "jp": "勢い",
+      "reading": "いきおい",
+      "cn": "氣勢、動能",
+      "example": "習慣が勢いをつける。",
+      "example_literal": "習慣 (主詞) 氣勢 (受詞) 增加。",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/078-1-word.mp3",
+        "audio/shukan/078-2-meaning.mp3",
+        "audio/shukan/078-3-example.mp3",
+        "audio/shukan/078-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 79,
+      "jp": "責任感",
+      "reading": "せきにんかん",
+      "cn": "責任感",
+      "example": "責任感が必要です。",
+      "example_literal": "責任感 (主詞) 必要 是 (敬語)。",
+      "category": "名詞",
+      "level": "N2",
+      "segments": [
+        "audio/shukan/079-1-word.mp3",
+        "audio/shukan/079-2-meaning.mp3",
+        "audio/shukan/079-3-example.mp3",
+        "audio/shukan/079-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 80,
+      "jp": "言い訳",
+      "reading": "いいわけ",
+      "cn": "藉口",
+      "example": "言い訳なしです。",
+      "example_literal": "藉口 沒有 是 (敬語)。",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/080-1-word.mp3",
+        "audio/shukan/080-2-meaning.mp3",
+        "audio/shukan/080-3-example.mp3",
+        "audio/shukan/080-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 81,
+      "jp": "実用的",
+      "reading": "じつようてき",
+      "cn": "實用的",
+      "example": "実用的な会話。",
+      "example_literal": "實用的 的 會話。",
+      "category": "な形容詞",
+      "level": "N2",
+      "segments": [
+        "audio/shukan/081-1-word.mp3",
+        "audio/shukan/081-2-meaning.mp3",
+        "audio/shukan/081-3-example.mp3",
+        "audio/shukan/081-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 82,
+      "jp": "大切",
+      "reading": "たいせつ",
+      "cn": "重要",
+      "example": "大切なテーマ。",
+      "example_literal": "重要 的 主題。",
+      "category": "な形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/shukan/082-1-word.mp3",
+        "audio/shukan/082-2-meaning.mp3",
+        "audio/shukan/082-3-example.mp3",
+        "audio/shukan/082-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 83,
+      "jp": "便利",
+      "reading": "べんり",
+      "cn": "方便",
+      "example": "便利な日本語。",
+      "example_literal": "方便 的 日語。",
+      "category": "な形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/shukan/083-1-word.mp3",
+        "audio/shukan/083-2-meaning.mp3",
+        "audio/shukan/083-3-example.mp3",
+        "audio/shukan/083-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 84,
+      "jp": "完璧",
+      "reading": "かんぺき",
+      "cn": "完美",
+      "example": "完璧な説明。",
+      "example_literal": "完美 的 說明。",
+      "category": "な形容詞",
+      "level": "N1",
+      "segments": [
+        "audio/shukan/084-1-word.mp3",
+        "audio/shukan/084-2-meaning.mp3",
+        "audio/shukan/084-3-example.mp3",
+        "audio/shukan/084-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 85,
+      "jp": "正直",
+      "reading": "しょうじき",
+      "cn": "誠實",
+      "example": "正直に言いたい。",
+      "example_literal": "誠實 (方式) 說 想。",
+      "category": "な形容詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/085-1-word.mp3",
+        "audio/shukan/085-2-meaning.mp3",
+        "audio/shukan/085-3-example.mp3",
+        "audio/shukan/085-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 86,
+      "jp": "自動的",
+      "reading": "じどうてき",
+      "cn": "自動的",
+      "example": "自動的なものにする。",
+      "example_literal": "自動的 的 東西 (對象) 做。",
+      "category": "な形容詞",
+      "level": "N2",
+      "segments": [
+        "audio/shukan/086-1-word.mp3",
+        "audio/shukan/086-2-meaning.mp3",
+        "audio/shukan/086-3-example.mp3",
+        "audio/shukan/086-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 87,
+      "jp": "簡単",
+      "reading": "かんたん",
+      "cn": "簡單",
+      "example": "習慣を簡単にする。",
+      "example_literal": "習慣 (受詞) 簡單 (狀態) 做。",
+      "category": "な形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/shukan/087-1-word.mp3",
+        "audio/shukan/087-2-meaning.mp3",
+        "audio/shukan/087-3-example.mp3",
+        "audio/shukan/087-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 88,
+      "jp": "穏やか",
+      "reading": "おだやか",
+      "cn": "平穩、溫和",
+      "example": "穏やかな朝。",
+      "example_literal": "平穩 的 早晨。",
+      "category": "な形容詞",
+      "level": "N2",
+      "segments": [
+        "audio/shukan/088-1-word.mp3",
+        "audio/shukan/088-2-meaning.mp3",
+        "audio/shukan/088-3-example.mp3",
+        "audio/shukan/088-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 89,
+      "jp": "重要",
+      "reading": "じゅうよう",
+      "cn": "重要",
+      "example": "これは重要なんですが。",
+      "example_literal": "這個 (主詞) 重要 是 (語助詞) 但。",
+      "category": "な形容詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/089-1-word.mp3",
+        "audio/shukan/089-2-meaning.mp3",
+        "audio/shukan/089-3-example.mp3",
+        "audio/shukan/089-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 90,
+      "jp": "健康的",
+      "reading": "けんこうてき",
+      "cn": "健康的",
+      "example": "健康的です。",
+      "example_literal": "健康的 是 (敬語)。",
+      "category": "な形容詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/090-1-word.mp3",
+        "audio/shukan/090-2-meaning.mp3",
+        "audio/shukan/090-3-example.mp3",
+        "audio/shukan/090-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 91,
+      "jp": "快適",
+      "reading": "かいてき",
+      "cn": "舒適",
+      "example": "快適な服。",
+      "example_literal": "舒適 的 衣服。",
+      "category": "な形容詞",
+      "level": "N2",
+      "segments": [
+        "audio/shukan/091-1-word.mp3",
+        "audio/shukan/091-2-meaning.mp3",
+        "audio/shukan/091-3-example.mp3",
+        "audio/shukan/091-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 92,
+      "jp": "生産的",
+      "reading": "せいさんてき",
+      "cn": "生產性的",
+      "example": "生産的な習慣。",
+      "example_literal": "生產的 的 習慣。",
+      "category": "な形容詞",
+      "level": "N2",
+      "segments": [
+        "audio/shukan/092-1-word.mp3",
+        "audio/shukan/092-2-meaning.mp3",
+        "audio/shukan/092-3-example.mp3",
+        "audio/shukan/092-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 93,
+      "jp": "自然",
+      "reading": "しぜん",
+      "cn": "自然",
+      "example": "自然になる。",
+      "example_literal": "自然 (狀態) 變成。",
+      "category": "な形容詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/093-1-word.mp3",
+        "audio/shukan/093-2-meaning.mp3",
+        "audio/shukan/093-3-example.mp3",
+        "audio/shukan/093-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 94,
+      "jp": "明白",
+      "reading": "めいはく",
+      "cn": "明白、明顯",
+      "example": "明白にすることです。",
+      "example_literal": "明白 (狀態) 做 事情 是 (敬語)。",
+      "category": "な形容詞",
+      "level": "N1",
+      "segments": [
+        "audio/shukan/094-1-word.mp3",
+        "audio/shukan/094-2-meaning.mp3",
+        "audio/shukan/094-3-example.mp3",
+        "audio/shukan/094-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 95,
+      "jp": "具体的",
+      "reading": "ぐたいてき",
+      "cn": "具體的",
+      "example": "とても具体的です。",
+      "example_literal": "非常 具體的 是 (敬語)。",
+      "category": "な形容詞",
+      "level": "N2",
+      "segments": [
+        "audio/shukan/095-1-word.mp3",
+        "audio/shukan/095-2-meaning.mp3",
+        "audio/shukan/095-3-example.mp3",
+        "audio/shukan/095-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 96,
+      "jp": "強力",
+      "reading": "きょうりょく",
+      "cn": "強力",
+      "example": "強力な習慣。",
+      "example_literal": "強力 的 習慣。",
+      "category": "な形容詞",
+      "level": "N2",
+      "segments": [
+        "audio/shukan/096-1-word.mp3",
+        "audio/shukan/096-2-meaning.mp3",
+        "audio/shukan/096-3-example.mp3",
+        "audio/shukan/096-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 97,
+      "jp": "必要",
+      "reading": "ひつよう",
+      "cn": "必要",
+      "example": "忍耐強くいる必要がある。",
+      "example_literal": "忍耐 強的 (狀態) 處於 必要 (主詞) 有。",
+      "category": "な形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/shukan/097-1-word.mp3",
+        "audio/shukan/097-2-meaning.mp3",
+        "audio/shukan/097-3-example.mp3",
+        "audio/shukan/097-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 98,
+      "jp": "大変",
+      "reading": "たいへん",
+      "cn": "辛苦",
+      "example": "それは大変ですね。",
+      "example_literal": "那個 (主詞) 辛苦 是 (敬語) (語助詞)。",
+      "category": "な形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/shukan/098-1-word.mp3",
+        "audio/shukan/098-2-meaning.mp3",
+        "audio/shukan/098-3-example.mp3",
+        "audio/shukan/098-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 99,
+      "jp": "綺麗",
+      "reading": "きれい",
+      "cn": "漂亮、乾淨",
+      "example": "キッチンが綺麗だと。",
+      "example_literal": "廚房 (主詞) 漂亮 是 (引用)。",
+      "category": "な形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/shukan/099-1-word.mp3",
+        "audio/shukan/099-2-meaning.mp3",
+        "audio/shukan/099-3-example.mp3",
+        "audio/shukan/099-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 100,
+      "jp": "好き",
+      "reading": "すき",
+      "cn": "喜歡",
+      "example": "番組を見るのが大好き。",
+      "example_literal": "節目 (受詞) 看 事情 (主詞) 非常喜歡。",
+      "category": "な形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/shukan/100-1-word.mp3",
+        "audio/shukan/100-2-meaning.mp3",
+        "audio/shukan/100-3-example.mp3",
+        "audio/shukan/100-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 101,
+      "jp": "難しい",
+      "reading": "むずかしい",
+      "cn": "困難",
+      "example": "習慣を作るのは難しい。",
+      "example_literal": "習慣 (受詞) 製作 事情 (主詞) 困難。",
+      "category": "い形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/shukan/101-1-word.mp3",
+        "audio/shukan/101-2-meaning.mp3",
+        "audio/shukan/101-3-example.mp3",
+        "audio/shukan/101-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 102,
+      "jp": "素晴らしい",
+      "reading": "すばらしい",
+      "cn": "極好、精彩",
+      "example": "素晴らしい目標。",
+      "example_literal": "極好的 目標。",
+      "category": "い形容詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/102-1-word.mp3",
+        "audio/shukan/102-2-meaning.mp3",
+        "audio/shukan/102-3-example.mp3",
+        "audio/shukan/102-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 103,
+      "jp": "強い",
+      "reading": "つよい",
+      "cn": "強",
+      "example": "強い習慣。",
+      "example_literal": "強的 習慣。",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/shukan/103-1-word.mp3",
+        "audio/shukan/103-2-meaning.mp3",
+        "audio/shukan/103-3-example.mp3",
+        "audio/shukan/103-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 104,
+      "jp": "新しい",
+      "reading": "あたらしい",
+      "cn": "新",
+      "example": "新しい習慣。",
+      "example_literal": "新的 習慣。",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/shukan/104-1-word.mp3",
+        "audio/shukan/104-2-meaning.mp3",
+        "audio/shukan/104-3-example.mp3",
+        "audio/shukan/104-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 105,
+      "jp": "良い",
+      "reading": "よい",
+      "cn": "好",
+      "example": "運動が良い。",
+      "example_literal": "運動 (主詞) 好。",
+      "category": "い形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/shukan/105-1-word.mp3",
+        "audio/shukan/105-2-meaning.mp3",
+        "audio/shukan/105-3-example.mp3",
+        "audio/shukan/105-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 106,
+      "jp": "早い",
+      "reading": "はやい",
+      "cn": "早、快",
+      "example": "すごく早いわけではない。",
+      "example_literal": "非常 早 並非 並非。",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/shukan/106-1-word.mp3",
+        "audio/shukan/106-2-meaning.mp3",
+        "audio/shukan/106-3-example.mp3",
+        "audio/shukan/106-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 107,
+      "jp": "忙しい",
+      "reading": "いそがしい",
+      "cn": "忙碌",
+      "example": "脳が忙しくなる。",
+      "example_literal": "腦 (主詞) 忙碌 變成。",
+      "category": "い形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/shukan/107-1-word.mp3",
+        "audio/shukan/107-2-meaning.mp3",
+        "audio/shukan/107-3-example.mp3",
+        "audio/shukan/107-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 108,
+      "jp": "痛い",
+      "reading": "いたい",
+      "cn": "痛",
+      "example": "背中が痛くなる。",
+      "example_literal": "背 (主詞) 痛 變成。",
+      "category": "い形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/shukan/108-1-word.mp3",
+        "audio/shukan/108-2-meaning.mp3",
+        "audio/shukan/108-3-example.mp3",
+        "audio/shukan/108-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 109,
+      "jp": "賢い",
+      "reading": "かしこい",
+      "cn": "聰明",
+      "example": "理由は賢いからです。",
+      "example_literal": "理由 (主詞) 聰明 因為 是 (敬語)。",
+      "category": "い形容詞",
+      "level": "N2",
+      "segments": [
+        "audio/shukan/109-1-word.mp3",
+        "audio/shukan/109-2-meaning.mp3",
+        "audio/shukan/109-3-example.mp3",
+        "audio/shukan/109-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 110,
+      "jp": "遅い",
+      "reading": "おそい",
+      "cn": "晚、慢",
+      "example": "あなたより遅い。",
+      "example_literal": "你 比 慢。",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/shukan/110-1-word.mp3",
+        "audio/shukan/110-2-meaning.mp3",
+        "audio/shukan/110-3-example.mp3",
+        "audio/shukan/110-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 111,
+      "jp": "冷たい",
+      "reading": "つめたい",
+      "cn": "冰冷",
+      "example": "冷たいシャワー。",
+      "example_literal": "冰冷的 淋浴。",
+      "category": "い形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/shukan/111-1-word.mp3",
+        "audio/shukan/111-2-meaning.mp3",
+        "audio/shukan/111-3-example.mp3",
+        "audio/shukan/111-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 112,
+      "jp": "ひどい",
+      "reading": "ひどい",
+      "cn": "過分、殘酷",
+      "example": "最初の10秒はひどい。",
+      "example_literal": "最初 的 10秒 (主詞) 殘酷。",
+      "category": "い形容詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/112-1-word.mp3",
+        "audio/shukan/112-2-meaning.mp3",
+        "audio/shukan/112-3-example.mp3",
+        "audio/shukan/112-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 113,
+      "jp": "面白い",
+      "reading": "おもしろい",
+      "cn": "有趣",
+      "example": "面白いものを見つける。",
+      "example_literal": "有趣的 東西 (受詞) 找到。",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/shukan/113-1-word.mp3",
+        "audio/shukan/113-2-meaning.mp3",
+        "audio/shukan/113-3-example.mp3",
+        "audio/shukan/113-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 114,
+      "jp": "眠い",
+      "reading": "ねむい",
+      "cn": "想睡",
+      "example": "とても眠くなる。",
+      "example_literal": "非常 想睡 變成。",
+      "category": "い形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/shukan/114-1-word.mp3",
+        "audio/shukan/114-2-meaning.mp3",
+        "audio/shukan/114-3-example.mp3",
+        "audio/shukan/114-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 115,
+      "jp": "安い",
+      "reading": "やすい",
+      "cn": "便宜",
+      "example": "デリバリーより安い。",
+      "example_literal": "外送 比 便宜。",
+      "category": "い形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/shukan/115-1-word.mp3",
+        "audio/shukan/115-2-meaning.mp3",
+        "audio/shukan/115-3-example.mp3",
+        "audio/shukan/115-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 116,
+      "jp": "詳しい",
+      "reading": "くわしい",
+      "cn": "詳細",
+      "example": "詳しくは（推測）。",
+      "example_literal": "詳細 (副詞)（推測）。",
+      "category": "い形容詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/116-1-word.mp3",
+        "audio/shukan/116-2-meaning.mp3",
+        "audio/shukan/116-3-example.mp3",
+        "audio/shukan/116-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 117,
+      "jp": "嬉しい",
+      "reading": "うれしい",
+      "cn": "開心",
+      "example": "嬉しい（推測）。",
+      "example_literal": "開心（推測）。",
+      "category": "い形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/shukan/117-1-word.mp3",
+        "audio/shukan/117-2-meaning.mp3",
+        "audio/shukan/117-3-example.mp3",
+        "audio/shukan/117-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 118,
+      "jp": "欲しい",
+      "reading": "ほしい",
+      "cn": "想要",
+      "example": "（〜したい）。",
+      "example_literal": "（〜想要做）。",
+      "category": "い形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/shukan/118-1-word.mp3",
+        "audio/shukan/118-2-meaning.mp3",
+        "audio/shukan/118-3-example.mp3",
+        "audio/shukan/118-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 119,
+      "jp": "ない",
+      "reading": "ない",
+      "cn": "沒有",
+      "example": "無理がない。",
+      "example_literal": "勉強 (主詞) 沒有。",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/shukan/119-1-word.mp3",
+        "audio/shukan/119-2-meaning.mp3",
+        "audio/shukan/119-3-example.mp3",
+        "audio/shukan/119-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 120,
+      "jp": "多い",
+      "reading": "おおい",
+      "cn": "多",
+      "example": "やろうとすることが多すぎる。",
+      "example_literal": "做 (意志) 事情 (主詞) 多 過度。",
+      "category": "い形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/shukan/120-1-word.mp3",
+        "audio/shukan/120-2-meaning.mp3",
+        "audio/shukan/120-3-example.mp3",
+        "audio/shukan/120-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 121,
+      "jp": "まさに",
+      "reading": "まさに",
+      "cn": "正是、確是",
+      "example": "まさにその通りです。",
+      "example_literal": "正是 那樣 是 (敬語)。",
+      "category": "副詞",
+      "level": "N2",
+      "segments": [
+        "audio/shukan/121-1-word.mp3",
+        "audio/shukan/121-2-meaning.mp3",
+        "audio/shukan/121-3-example.mp3",
+        "audio/shukan/121-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 122,
+      "jp": "ただ",
+      "reading": "ただ",
+      "cn": "僅僅、只是",
+      "example": "ただの夢で終わる。",
+      "example_literal": "僅僅 的 夢 (狀態) 結束。",
+      "category": "副詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/122-1-word.mp3",
+        "audio/shukan/122-2-meaning.mp3",
+        "audio/shukan/122-3-example.mp3",
+        "audio/shukan/122-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 123,
+      "jp": "是非",
+      "reading": "ぜひ",
+      "cn": "務必",
+      "example": "是非いいねボタンを。",
+      "example_literal": "務必 讚 按鈕 (受詞)。",
+      "category": "副詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/123-1-word.mp3",
+        "audio/shukan/123-2-meaning.mp3",
+        "audio/shukan/123-3-example.mp3",
+        "audio/shukan/123-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 124,
+      "jp": "実際",
+      "reading": "じっさい",
+      "cn": "實際",
+      "example": "実際に継続できる。",
+      "example_literal": "實際 (副詞) 持續 能夠。",
+      "category": "副詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/124-1-word.mp3",
+        "audio/shukan/124-2-meaning.mp3",
+        "audio/shukan/124-3-example.mp3",
+        "audio/shukan/124-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 125,
+      "jp": "自動的に",
+      "reading": "じどうてきに",
+      "cn": "自動地",
+      "example": "自動的にできる。",
+      "example_literal": "自動地 能夠。",
+      "category": "副詞",
+      "level": "N2",
+      "segments": [
+        "audio/shukan/125-1-word.mp3",
+        "audio/shukan/125-2-meaning.mp3",
+        "audio/shukan/125-3-example.mp3",
+        "audio/shukan/125-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 126,
+      "jp": "十分",
+      "reading": "じゅうぶん",
+      "cn": "足夠",
+      "example": "十分早いです。",
+      "example_literal": "足夠 早 是 (敬語)。",
+      "category": "副詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/126-1-word.mp3",
+        "audio/shukan/126-2-meaning.mp3",
+        "audio/shukan/126-3-example.mp3",
+        "audio/shukan/126-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 127,
+      "jp": "実は",
+      "reading": "じつは",
+      "cn": "其實",
+      "example": "実はそうでもない。",
+      "example_literal": "其實 那樣 也 並非。",
+      "category": "副詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/127-1-word.mp3",
+        "audio/shukan/127-2-meaning.mp3",
+        "audio/shukan/127-3-example.mp3",
+        "audio/shukan/127-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 128,
+      "jp": "絶対",
+      "reading": "ぜったい",
+      "cn": "絕對",
+      "example": "絶対やりません。",
+      "example_literal": "絕對 做 (否定敬語)。",
+      "category": "副詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/128-1-word.mp3",
+        "audio/shukan/128-2-meaning.mp3",
+        "audio/shukan/128-3-example.mp3",
+        "audio/shukan/128-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 129,
+      "jp": "ずっと",
+      "reading": "ずっと",
+      "cn": "一直、得多",
+      "example": "ずっといい。",
+      "example_literal": "一直 好。",
+      "category": "副詞",
+      "level": "N4",
+      "segments": [
+        "audio/shukan/129-1-word.mp3",
+        "audio/shukan/129-2-meaning.mp3",
+        "audio/shukan/129-3-example.mp3",
+        "audio/shukan/129-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 130,
+      "jp": "特に",
+      "reading": "とくに",
+      "cn": "特別",
+      "example": "特に仕事中。",
+      "example_literal": "特別 工作 中。",
+      "category": "副詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/130-1-word.mp3",
+        "audio/shukan/130-2-meaning.mp3",
+        "audio/shukan/130-3-example.mp3",
+        "audio/shukan/130-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 131,
+      "jp": "たった",
+      "reading": "たった",
+      "cn": "僅、只",
+      "example": "たった3つです。",
+      "example_literal": "僅 3個 是 (敬語)。",
+      "category": "副詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/131-1-word.mp3",
+        "audio/shukan/131-2-meaning.mp3",
+        "audio/shukan/131-3-example.mp3",
+        "audio/shukan/131-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 132,
+      "jp": "定期的に",
+      "reading": "ていきてきに",
+      "cn": "定期地",
+      "example": "定期的に休憩を取る。",
+      "example_literal": "定期地 休息 (受詞) 取。",
+      "category": "副詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/132-1-word.mp3",
+        "audio/shukan/132-2-meaning.mp3",
+        "audio/shukan/132-3-example.mp3",
+        "audio/shukan/132-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 133,
+      "jp": "すでに",
+      "reading": "すでに",
+      "cn": "已經",
+      "example": "あなたはすでに。",
+      "example_literal": "你 (主詞) 已經。",
+      "category": "副詞",
+      "level": "N2",
+      "segments": [
+        "audio/shukan/133-1-word.mp3",
+        "audio/shukan/133-2-meaning.mp3",
+        "audio/shukan/133-3-example.mp3",
+        "audio/shukan/133-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 134,
+      "jp": "もっと",
+      "reading": "もっと",
+      "cn": "更",
+      "example": "もっと読書して。",
+      "example_literal": "更 閱讀 (て形)。",
+      "category": "副詞",
+      "level": "N5",
+      "segments": [
+        "audio/shukan/134-1-word.mp3",
+        "audio/shukan/134-2-meaning.mp3",
+        "audio/shukan/134-3-example.mp3",
+        "audio/shukan/134-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 135,
+      "jp": "時々",
+      "reading": "ときどき",
+      "cn": "有時",
+      "example": "時々記事も読みます。",
+      "example_literal": "有時 文章 也 讀 (敬語)。",
+      "category": "副詞",
+      "level": "N5",
+      "segments": [
+        "audio/shukan/135-1-word.mp3",
+        "audio/shukan/135-2-meaning.mp3",
+        "audio/shukan/135-3-example.mp3",
+        "audio/shukan/135-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 136,
+      "jp": "一旦",
+      "reading": "いったん",
+      "cn": "暫且、一旦",
+      "example": "一旦（ここでは一貫）。",
+      "example_literal": "暫且（這裡是一貫）。",
+      "category": "副詞",
+      "level": "N1",
+      "segments": [
+        "audio/shukan/136-1-word.mp3",
+        "audio/shukan/136-2-meaning.mp3",
+        "audio/shukan/136-3-example.mp3",
+        "audio/shukan/136-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 137,
+      "jp": "大抵",
+      "reading": "たいてい",
+      "cn": "大抵、通常",
+      "example": "大抵は本です。",
+      "example_literal": "大抵 (主詞) 書 是 (敬語)。",
+      "category": "副詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/137-1-word.mp3",
+        "audio/shukan/137-2-meaning.mp3",
+        "audio/shukan/137-3-example.mp3",
+        "audio/shukan/137-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 138,
+      "jp": "突然",
+      "reading": "とつぜん",
+      "cn": "突然",
+      "example": "突然真夜中になって。",
+      "example_literal": "突然 半夜 變成 (て形)。",
+      "category": "副詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/138-1-word.mp3",
+        "audio/shukan/138-2-meaning.mp3",
+        "audio/shukan/138-3-example.mp3",
+        "audio/shukan/138-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 139,
+      "jp": "やはり",
+      "reading": "やはり",
+      "cn": "果然",
+      "example": "（文脈推測）。",
+      "example_literal": "（文脈推測）。",
+      "category": "副詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/139-1-word.mp3",
+        "audio/shukan/139-2-meaning.mp3",
+        "audio/shukan/139-3-example.mp3",
+        "audio/shukan/139-4-literal.mp3"
+      ]
+    },
+    {
+      "id": 140,
+      "jp": "かなり",
+      "reading": "かなり",
+      "cn": "相當",
+      "example": "（文脈推測）。",
+      "example_literal": "（文脈推測）。",
+      "category": "副詞",
+      "level": "N3",
+      "segments": [
+        "audio/shukan/140-1-word.mp3",
+        "audio/shukan/140-2-meaning.mp3",
+        "audio/shukan/140-3-example.mp3",
+        "audio/shukan/140-4-literal.mp3"
+      ]
+    }
+  ]
+}

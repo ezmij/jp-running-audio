@@ -23,12 +23,15 @@ SHEETS = [
     {"title": "常用的100個對話", "slug": "daily-100", "schema": "mrjp"},
     {"title": "談故鄉", "slug": "kokyou", "schema": "mrjp"},
     {"title": "イランカラプテ", "slug": "irankarapte", "schema": "mrjp"},
+    {"title": "習慣的養成", "slug": "shukan", "schema": "mrjp"},
     {"title": "常用的100個對話", "slug": "daily-100-transcript", "schema": "mrjp-transcript",
      "display_name": "常用的100個對話 — 全文對照"},
     {"title": "談故鄉", "slug": "kokyou-transcript", "schema": "mrjp-transcript",
      "display_name": "談故鄉 — 全文對照"},
     {"title": "イランカラプテ", "slug": "irankarapte-transcript", "schema": "mrjp-transcript",
      "display_name": "イランカラプテ — 全文歌詞對照"},
+    {"title": "習慣的養成", "slug": "shukan-transcript", "schema": "mrjp-transcript",
+     "display_name": "習慣的養成 — 全文對照"},
 ]
 
 # MR JP vocab categories appear as sub-headers inside 一、單字表整理
