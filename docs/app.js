@@ -715,6 +715,18 @@ function updateMediaSession() {
 
 function registerServiceWorker() {
   if (!("serviceWorker" in navigator)) return;
+
+  // Auto-reload when a new SW takes over (after a fresh deploy). Skip the
+  // very first install on this page — that one has no prior controller to
+  // displace, so reloading would be a useless extra round-trip.
+  const hadController = !!navigator.serviceWorker.controller;
+  let swReloading = false;
+  navigator.serviceWorker.addEventListener("controllerchange", () => {
+    if (!hadController || swReloading) return;
+    swReloading = true;
+    window.location.reload();
+  });
+
   navigator.serviceWorker.register("sw.js").catch((e) =>
     console.warn("sw register failed", e)
   );
