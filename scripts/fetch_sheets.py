@@ -32,6 +32,9 @@ SHEETS = [
      "display_name": "イランカラプテ — 全文歌詞對照"},
     {"title": "習慣的養成", "slug": "shukan-transcript", "schema": "mrjp-transcript",
      "display_name": "習慣的養成 — 全文對照"},
+    {"title": "口腔訓練", "slug": "koku", "schema": "mrjp"},
+    {"title": "口腔訓練", "slug": "koku-transcript", "schema": "mrjp-transcript",
+     "display_name": "口腔訓練 — 全文對照"},
 ]
 
 # MR JP vocab categories appear as sub-headers inside 一、單字表整理

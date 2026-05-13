@@ -26,6 +26,16 @@
       "total": 22
     },
     {
+      "slug": "koku",
+      "sheet": "口腔訓練",
+      "total": 38
+    },
+    {
+      "slug": "koku-transcript",
+      "sheet": "口腔訓練 — 全文對照",
+      "total": 479
+    },
+    {
       "slug": "kokyou",
       "sheet": "談故鄉",
       "total": 102
