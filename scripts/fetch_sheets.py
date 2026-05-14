@@ -14,10 +14,12 @@ import sys
 from pathlib import Path
 
 SHEET_ID = "19hrdgkU2kcAtdPUOHhZXqna0c4dMnezpiKo-EbVSv-E"
+SAISHO_SHEET_ID = "1TOwKDRMhv1xfmqp8pPUv6PEBDXQcHn1pak3va1wvvnQ"
 PROJECT_ROOT = Path(__file__).resolve().parent.parent
 DATA_DIR = PROJECT_ROOT / "data"
 
 # Output slug keeps filenames ASCII-safe
+# sheet_id defaults to SHEET_ID if not specified
 SHEETS = [
     {"title": "北海道BD農法", "slug": "bd-nouhou", "schema": "bd"},
     {"title": "常用的100個對話", "slug": "daily-100", "schema": "mrjp"},
@@ -35,6 +37,10 @@ SHEETS = [
     {"title": "口腔訓練", "slug": "koku", "schema": "mrjp"},
     {"title": "口腔訓練", "slug": "koku-transcript", "schema": "mrjp-transcript",
      "display_name": "口腔訓練 — 全文對照"},
+    {"title": "最初30句", "slug": "saisho30", "schema": "conversation",
+     "sheet_id": SAISHO_SHEET_ID, "display_name": "最初30句 — 日中對照"},
+    {"title": "自介10句", "slug": "jikai10", "schema": "conversation",
+     "sheet_id": SAISHO_SHEET_ID, "display_name": "自己紹介10句 — 日中對照"},
 ]
 
 # MR JP vocab categories appear as sub-headers inside 一、單字表整理
@@ -195,6 +201,42 @@ def parse_mrjp(rows: list[list[str]]) -> list[dict]:
     return out
 
 
+def parse_conversation(rows: list[list[str]]) -> list[dict]:
+    """
+    最初30句 / 自介10句 schema:
+      Col B (idx 1): vocabulary/grammar note (optional)
+      Col C (idx 2): Chinese sentence
+      Col D (idx 3): Japanese sentence
+      Col E+ (idx 4+): sentence breakdown parts (display only)
+
+    Sentence rows: col C (Chinese) AND col D (Japanese) both non-empty.
+    Grammar-note-only rows (col B has content, col C/D empty) are skipped.
+    Header rows (col C = "時間" or col D = "日文") are skipped.
+    """
+    out = []
+    for row in rows:
+        row = row + [""] * 9
+        cn = row[2].strip()
+        jp = row[3].strip()
+        if cn in ("時間", "標題", "綱址") or jp in ("日文", ""):
+            continue
+        if not cn or not jp:
+            continue
+        out.append({
+            "id": len(out) + 1,
+            "schema": "conversation",
+            "category": "",
+            "jp": jp,
+            "reading": "",
+            "cn": cn,
+            "example": "",
+            "example_literal": "",
+            "note": row[1].strip(),
+            "level": "",
+        })
+    return out
+
+
 def main() -> int:
     DATA_DIR.mkdir(parents=True, exist_ok=True)
     summary = []
@@ -202,14 +244,17 @@ def main() -> int:
         title = sheet["title"]
         slug = sheet["slug"]
         schema = sheet["schema"]
+        sid = sheet.get("sheet_id", SHEET_ID)
         # Read generously; transcript sections can extend to row ~800
         a1 = f"{title}!A1:I800"
         print(f"Fetching {title} ({schema}) ...", flush=True)
-        rows = gws_read(SHEET_ID, a1)
+        rows = gws_read(sid, a1)
         if schema == "bd":
             parsed = parse_bd(rows)
         elif schema == "mrjp-transcript":
             parsed = parse_mrjp_transcript(rows)
+        elif schema == "conversation":
+            parsed = parse_conversation(rows)
         else:
             parsed = parse_mrjp(rows)
 

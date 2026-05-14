@@ -140,6 +140,16 @@ def row_segments(row: dict) -> list[tuple[str, str, dict]]:
             segs.append(("literal", cn, ZH_VOICE))
         return segs
 
+    # Conversation schema: CN meaning first, then JP sentence
+    if schema == "conversation":
+        cn = strip_parens(row.get("cn", ""))
+        if cn:
+            segs.append(("meaning", cn, ZH_VOICE))
+        jp = strip_parens(row.get("jp", ""))
+        if jp:
+            segs.append(("sentence", jp, JA_VOICE))
+        return segs
+
     # Vocab schema (default):
     # 1. word + reading (reading only if different from jp) — no parens in word/reading
     if row["reading"] and row["reading"] != row["jp"]:

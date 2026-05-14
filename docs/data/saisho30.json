@@ -1,0 +1,875 @@
+{
+  "sheet": "最初30句 — 日中對照",
+  "slug": "saisho30",
+  "total": 62,
+  "tracks": [
+    {
+      "id": 1,
+      "jp": "お名前は何ですか？",
+      "reading": "",
+      "cn": "你叫什麼名字？",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/001-1-meaning.mp3",
+        "audio/saisho30/001-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 2,
+      "jp": "高正徳と申します。まさで大丈夫です。",
+      "reading": "",
+      "cn": "我叫高正德，簡單叫我阿正就好",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/002-1-meaning.mp3",
+        "audio/saisho30/002-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 3,
+      "jp": "どこから来ましたか？",
+      "reading": "",
+      "cn": "你是從哪裡來的？",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/003-1-meaning.mp3",
+        "audio/saisho30/003-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 4,
+      "jp": "台湾の宜蘭から来ました。",
+      "reading": "",
+      "cn": "我從台灣的宜蘭來",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/004-1-meaning.mp3",
+        "audio/saisho30/004-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 5,
+      "jp": "どこに泊まっていますか？",
+      "reading": "",
+      "cn": "你住在哪裡？(遊客)",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/005-1-meaning.mp3",
+        "audio/saisho30/005-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 6,
+      "jp": "どこに住んでいますか？",
+      "reading": "",
+      "cn": "--你住在哪裡？(住民)",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/006-1-meaning.mp3",
+        "audio/saisho30/006-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 7,
+      "jp": "APAホテルに泊まっています。",
+      "reading": "",
+      "cn": "我住在○○旅館",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/007-1-meaning.mp3",
+        "audio/saisho30/007-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 8,
+      "jp": "元気ですか？",
+      "reading": "",
+      "cn": "你好嗎？",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/008-1-meaning.mp3",
+        "audio/saisho30/008-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 9,
+      "jp": "少し緊張していますが、まあまあです。",
+      "reading": "",
+      "cn": "有點緊張，但還不錯",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/009-1-meaning.mp3",
+        "audio/saisho30/009-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 10,
+      "jp": "少し疲れていますが、まあまあです。",
+      "reading": "",
+      "cn": "--有點累，但還不錯",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/010-1-meaning.mp3",
+        "audio/saisho30/010-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 11,
+      "jp": "あなたはどうですか？",
+      "reading": "",
+      "cn": "你呢？",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/011-1-meaning.mp3",
+        "audio/saisho30/011-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 12,
+      "jp": "私も同じです。",
+      "reading": "",
+      "cn": "我也是",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/012-1-meaning.mp3",
+        "audio/saisho30/012-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 13,
+      "jp": "初めまして",
+      "reading": "",
+      "cn": "初次見面。",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/013-1-meaning.mp3",
+        "audio/saisho30/013-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 14,
+      "jp": "お久しぶりです",
+      "reading": "",
+      "cn": "好久不見",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/014-1-meaning.mp3",
+        "audio/saisho30/014-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 15,
+      "jp": "何をしていますか？",
+      "reading": "",
+      "cn": "你在做什麼？",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/015-1-meaning.mp3",
+        "audio/saisho30/015-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 16,
+      "jp": "本を読んでいます。",
+      "reading": "",
+      "cn": "我正在○○",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/016-1-meaning.mp3",
+        "audio/saisho30/016-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 17,
+      "jp": "日本語を話せますか？",
+      "reading": "",
+      "cn": "你會說○○語嗎？",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/017-1-meaning.mp3",
+        "audio/saisho30/017-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 18,
+      "jp": "日本語を少しだけ話せます。",
+      "reading": "",
+      "cn": "我會說一點點日文",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/018-1-meaning.mp3",
+        "audio/saisho30/018-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 19,
+      "jp": "どうして日本語を勉強していますか？",
+      "reading": "",
+      "cn": "你為什麼學習○○語？",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/019-1-meaning.mp3",
+        "audio/saisho30/019-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 20,
+      "jp": "日本人と交流したいし、面白い本がたくさんあるので読めるようになりたいです。",
+      "reading": "",
+      "cn": "因為想和日本人交流，還有，日本出版了很多有趣的書，希望有一天我能讀懂日文",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/020-1-meaning.mp3",
+        "audio/saisho30/020-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 21,
+      "jp": "どんな理由ですか？",
+      "reading": "",
+      "cn": "什麼原因呢？",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/021-1-meaning.mp3",
+        "audio/saisho30/021-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 22,
+      "jp": "仕事のためです。",
+      "reading": "",
+      "cn": "因為○○的關係。",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/022-1-meaning.mp3",
+        "audio/saisho30/022-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 23,
+      "jp": "どのくらい日本語を学んでいますか？",
+      "reading": "",
+      "cn": "你學習○○語多久了？",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/023-1-meaning.mp3",
+        "audio/saisho30/023-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 24,
+      "jp": "日本語を三年学んでいます。",
+      "reading": "",
+      "cn": "我最近三年開始學習日語",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/024-1-meaning.mp3",
+        "audio/saisho30/024-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 25,
+      "jp": "趣味は何ですか？",
+      "reading": "",
+      "cn": "你的興趣是什麼？",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/025-1-meaning.mp3",
+        "audio/saisho30/025-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 26,
+      "jp": "私の趣味は運転とハイキングです。",
+      "reading": "",
+      "cn": "我的興趣是開車和健行",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/026-1-meaning.mp3",
+        "audio/saisho30/026-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 27,
+      "jp": "ラーメンを作ったことがありますか？",
+      "reading": "",
+      "cn": "你做過○○嗎？",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/027-1-meaning.mp3",
+        "audio/saisho30/027-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 28,
+      "jp": "ラーメンを作ったことがあります。とても楽しかったです。",
+      "reading": "",
+      "cn": "我做過○○，挺好玩的",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/028-1-meaning.mp3",
+        "audio/saisho30/028-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 29,
+      "jp": "これを使ってもいいですか？",
+      "reading": "",
+      "cn": "我可以做○○嗎？",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/029-1-meaning.mp3",
+        "audio/saisho30/029-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 30,
+      "jp": "大丈夫です。ゆっくりしてください。",
+      "reading": "",
+      "cn": "可以，請慢慢來",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/030-1-meaning.mp3",
+        "audio/saisho30/030-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 31,
+      "jp": "いつ来ましたか？",
+      "reading": "",
+      "cn": "你什麼時候做了○○？",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/031-1-meaning.mp3",
+        "audio/saisho30/031-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 32,
+      "jp": "午後3時ごろだったと思います。",
+      "reading": "",
+      "cn": "大約在下午一點的時候吧",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/032-1-meaning.mp3",
+        "audio/saisho30/032-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 33,
+      "jp": "日本料理が好きですか？",
+      "reading": "",
+      "cn": "你喜歡○○嗎？",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/033-1-meaning.mp3",
+        "audio/saisho30/033-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 34,
+      "jp": "ドライブするのが好きです。",
+      "reading": "",
+      "cn": "我喜歡○○",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/034-1-meaning.mp3",
+        "audio/saisho30/034-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 35,
+      "jp": "休業はどういう意味ですか？",
+      "reading": "",
+      "cn": "○○是什麼意思？",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/035-1-meaning.mp3",
+        "audio/saisho30/035-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 36,
+      "jp": "休業はお店や会社を休むことだと思います。",
+      "reading": "",
+      "cn": "我認為是○○○的意思",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/036-1-meaning.mp3",
+        "audio/saisho30/036-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 37,
+      "jp": "泳ぐことができますか？",
+      "reading": "",
+      "cn": "你會○○嗎？",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/037-1-meaning.mp3",
+        "audio/saisho30/037-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 38,
+      "jp": "はい、泳ぐことができます",
+      "reading": "",
+      "cn": "我會啊！",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/038-1-meaning.mp3",
+        "audio/saisho30/038-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 39,
+      "jp": "ここにコンビニがありますか？",
+      "reading": "",
+      "cn": "這裡有○○嗎？",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/039-1-meaning.mp3",
+        "audio/saisho30/039-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 40,
+      "jp": "多分あると思います。探してみますね。",
+      "reading": "",
+      "cn": "我認為應該會有，我找看看哦",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/040-1-meaning.mp3",
+        "audio/saisho30/040-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 41,
+      "jp": "もう一度言ってください",
+      "reading": "",
+      "cn": "請再說一次。",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/041-1-meaning.mp3",
+        "audio/saisho30/041-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 42,
+      "jp": "分かりましたか？",
+      "reading": "",
+      "cn": "請問了解了嗎？",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/042-1-meaning.mp3",
+        "audio/saisho30/042-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 43,
+      "jp": "このコーヒーはいくらですか？",
+      "reading": "",
+      "cn": "○○多少錢？",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/043-1-meaning.mp3",
+        "audio/saisho30/043-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 44,
+      "jp": "このコーヒーは300円です。",
+      "reading": "",
+      "cn": "○○是○○○元",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/044-1-meaning.mp3",
+        "audio/saisho30/044-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 45,
+      "jp": "どこに行きたいですか？",
+      "reading": "",
+      "cn": "你想去哪裡？",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/045-1-meaning.mp3",
+        "audio/saisho30/045-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 46,
+      "jp": "京都に行きたいです。",
+      "reading": "",
+      "cn": "我想去○○。",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/046-1-meaning.mp3",
+        "audio/saisho30/046-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 47,
+      "jp": "駅にどうやって行きますか？",
+      "reading": "",
+      "cn": "要怎麼到○○？",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/047-1-meaning.mp3",
+        "audio/saisho30/047-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 48,
+      "jp": "たしか、この道を進んで、信号で右に曲がります",
+      "reading": "",
+      "cn": "我記得是………",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/048-1-meaning.mp3",
+        "audio/saisho30/048-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 49,
+      "jp": "どの本ですか？",
+      "reading": "",
+      "cn": "是哪個○○？",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/049-1-meaning.mp3",
+        "audio/saisho30/049-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 50,
+      "jp": "この本だと思いますけど",
+      "reading": "",
+      "cn": "我認為應該是這個",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/050-1-meaning.mp3",
+        "audio/saisho30/050-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 51,
+      "jp": "あの人は誰ですか？",
+      "reading": "",
+      "cn": "那位是誰？",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/051-1-meaning.mp3",
+        "audio/saisho30/051-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 52,
+      "jp": "あの人は私の妻、July さんです",
+      "reading": "",
+      "cn": "那位是○○○○",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/052-1-meaning.mp3",
+        "audio/saisho30/052-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 53,
+      "jp": "今は何時ですか？",
+      "reading": "",
+      "cn": "現在幾點？",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/053-1-meaning.mp3",
+        "audio/saisho30/053-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 54,
+      "jp": "午後9時です。",
+      "reading": "",
+      "cn": "現在是…：",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/054-1-meaning.mp3",
+        "audio/saisho30/054-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 55,
+      "jp": "おすすめの料理はありますか？",
+      "reading": "",
+      "cn": "有推薦的料理嗎？",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/055-1-meaning.mp3",
+        "audio/saisho30/055-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 56,
+      "jp": "カレーライスが美味しいですよ。",
+      "reading": "",
+      "cn": "咖哩飯很好吃哦",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/056-1-meaning.mp3",
+        "audio/saisho30/056-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 57,
+      "jp": "どれがほしいですか？",
+      "reading": "",
+      "cn": "請問你要哪個？",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/057-1-meaning.mp3",
+        "audio/saisho30/057-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 58,
+      "jp": "これをふたつください。",
+      "reading": "",
+      "cn": "我要這個。",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/058-1-meaning.mp3",
+        "audio/saisho30/058-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 59,
+      "jp": "注文してもいいですか？",
+      "reading": "",
+      "cn": "我可以點餐了嗎？",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/059-1-meaning.mp3",
+        "audio/saisho30/059-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 60,
+      "jp": "お会計をお願いします。",
+      "reading": "",
+      "cn": "請結帳。",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/060-1-meaning.mp3",
+        "audio/saisho30/060-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 61,
+      "jp": "写真を撮ってもらえませんか？",
+      "reading": "",
+      "cn": "你可以幫我○○嗎？",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/061-1-meaning.mp3",
+        "audio/saisho30/061-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 62,
+      "jp": "ありがとうございます。とても助かりました。",
+      "reading": "",
+      "cn": "謝謝，你幫了大忙",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/saisho30/062-1-meaning.mp3",
+        "audio/saisho30/062-2-sentence.mp3"
+      ]
+    }
+  ]
+}

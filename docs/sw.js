@@ -5,7 +5,7 @@
 //
 // CACHE_VERSION is auto-bumped by scripts/bump_sw_version.py before every
 // deploy. Different CACHE_VERSION → install runs → activate purges old cache.
-const CACHE_VERSION = "20260513014939";
+const CACHE_VERSION = "20260514235654";
 const CACHE = `jp-running-${CACHE_VERSION}`;
 
 const SHELL = [

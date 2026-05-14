@@ -1,0 +1,189 @@
+{
+  "sheet": "自己紹介10句 — 日中對照",
+  "slug": "jikai10",
+  "total": 13,
+  "tracks": [
+    {
+      "id": 1,
+      "jp": "皆さん、こんにちは。高正徳と申します。まさで大丈夫です。",
+      "reading": "",
+      "cn": "大家好，我叫高正德，簡單叫我阿正就好",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/jikai10/001-1-meaning.mp3",
+        "audio/jikai10/001-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 2,
+      "jp": "台湾の宜蘭出身で、皆さんにお会いできてとても嬉しいです。",
+      "reading": "",
+      "cn": "我來自台灣的宜蘭，很高興認識大家。",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/jikai10/002-1-meaning.mp3",
+        "audio/jikai10/002-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 3,
+      "jp": "仕事は臨床心理士をしていて、もう20年近くになります。",
+      "reading": "",
+      "cn": "我的工作是臨床心理師，將近20年了",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/jikai10/003-1-meaning.mp3",
+        "audio/jikai10/003-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 4,
+      "jp": "主に子どもや若者を対象にしています。",
+      "reading": "",
+      "cn": "主要服務對象是兒童和青少年，",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/jikai10/004-1-meaning.mp3",
+        "audio/jikai10/004-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 5,
+      "jp": "例えば発達障害や自閉症、注意欠陥多動性障害、不安障害、うつ病などのサポートをしています",
+      "reading": "",
+      "cn": "像是發展遲緩、自閉症、注意力不足過動症、焦慮症、憂鬱症等。",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/jikai10/005-1-meaning.mp3",
+        "audio/jikai10/005-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 6,
+      "jp": "自分の専門知識を活かして、少しでも多くの子どもや家庭が困難から抜け出せるようお手伝いしたいと思っています。",
+      "reading": "",
+      "cn": "我希望透過自己的專業，幫助更多家庭和孩子走出困難。",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/jikai10/006-1-meaning.mp3",
+        "audio/jikai10/006-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 7,
+      "jp": "趣味はドライブやハイキングです",
+      "reading": "",
+      "cn": "我平常喜歡開車兜風和健行。",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/jikai10/007-1-meaning.mp3",
+        "audio/jikai10/007-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 8,
+      "jp": "3年ほど前から日本語の勉強を始めました。",
+      "reading": "",
+      "cn": "最近三年我開始學習日文，",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/jikai10/008-1-meaning.mp3",
+        "audio/jikai10/008-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 9,
+      "jp": "まだまだ下手ですが、いつか日本の本が読めるようになりたいです。",
+      "reading": "",
+      "cn": "雖然不太流利，希望未來能看得懂日文書。",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/jikai10/009-1-meaning.mp3",
+        "audio/jikai10/009-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 10,
+      "jp": "日本の文化が大好きで、特に食べ物や美しい風景にとても魅力を感じています。",
+      "reading": "",
+      "cn": "我很喜歡日本的文化，尤其是美食和風景。",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/jikai10/010-1-meaning.mp3",
+        "audio/jikai10/010-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 11,
+      "jp": "家族も大切にしていて、2人の子どもがいます。",
+      "reading": "",
+      "cn": "我有兩個孩子，家庭對我來說很重要。",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/jikai10/011-1-meaning.mp3",
+        "audio/jikai10/011-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 12,
+      "jp": "もし何かお手伝いできることがあれば、遠慮なく言ってくださいね。",
+      "reading": "",
+      "cn": "如果有什麼需要我幫忙的，請不要客氣。",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/jikai10/012-1-meaning.mp3",
+        "audio/jikai10/012-2-sentence.mp3"
+      ]
+    },
+    {
+      "id": 13,
+      "jp": "これからどうぞよろしくお願いします。皆さんとお話しできるのを楽しみにしています。",
+      "reading": "",
+      "cn": "請多多指教，期待與大家多交流。",
+      "example": "",
+      "example_literal": "",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/jikai10/013-1-meaning.mp3",
+        "audio/jikai10/013-2-sentence.mp3"
+      ]
+    }
+  ]
+}
