@@ -140,14 +140,14 @@ def row_segments(row: dict) -> list[tuple[str, str, dict]]:
             segs.append(("literal", cn, ZH_VOICE))
         return segs
 
-    # Conversation schema: CN meaning first, then JP sentence
+    # Conversation schema: JP sentence first, then CN meaning (matches vocab pattern)
     if schema == "conversation":
-        cn = strip_parens(row.get("cn", ""))
-        if cn:
-            segs.append(("meaning", cn, ZH_VOICE))
         jp = strip_parens(row.get("jp", ""))
         if jp:
             segs.append(("sentence", jp, JA_VOICE))
+        cn = strip_parens(row.get("cn", ""))
+        if cn:
+            segs.append(("meaning", cn, ZH_VOICE))
         return segs
 
     # Vocab schema (default):
@@ -243,19 +243,32 @@ def main() -> int:
 
     token = get_access_token()
 
-    index = []
+    # Load existing index so partial runs don't clobber other slugs
+    index_path = MANIFEST_DIR / "index.json"
+    if index_path.exists():
+        try:
+            existing = json.loads(index_path.read_text(encoding="utf-8"))
+            index_map = {s["slug"]: s for s in existing.get("sheets", [])}
+        except Exception:
+            index_map = {}
+    else:
+        index_map = {}
+
     for slug in slugs:
         print(f"\n=== {slug} ===")
         manifest = process_sheet(slug, token, args.limit)
         if manifest and manifest.get("total", 0) > 0:
-            index.append({
+            index_map[manifest["slug"]] = {
                 "slug": manifest["slug"],
                 "sheet": manifest["sheet"],
                 "total": manifest["total"],
-            })
+            }
+
+    # Preserve original ordering, append new slugs at end
+    index = list(index_map.values())
 
     # Top-level index for PWA sheet picker
-    (MANIFEST_DIR / "index.json").write_text(
+    index_path.write_text(
         json.dumps({"sheets": index}, ensure_ascii=False, indent=2),
         encoding="utf-8",
     )
