@@ -64,6 +64,16 @@
       "slug": "jikai10",
       "sheet": "自己紹介10句 — 日中對照",
       "total": 13
+    },
+    {
+      "slug": "fuan-nou",
+      "sheet": "不安な脳",
+      "total": 105
+    },
+    {
+      "slug": "fuan-nou-transcript",
+      "sheet": "不安な脳 — 全文對照",
+      "total": 128
     }
   ]
 }

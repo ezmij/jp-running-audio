@@ -1,0 +1,1582 @@
+{
+  "sheet": "不安な脳",
+  "slug": "fuan-nou",
+  "total": 105,
+  "tracks": [
+    {
+      "id": 1,
+      "jp": "動く",
+      "reading": "うごく",
+      "cn": "行動、移動",
+      "example": "頭では分かっているでも体が動かない。",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/fuan-nou/001-1-word.mp3",
+        "audio/fuan-nou/001-2-meaning.mp3",
+        "audio/fuan-nou/001-3-example.mp3"
+      ]
+    },
+    {
+      "id": 2,
+      "jp": "削る",
+      "reading": "けずる",
+      "cn": "削減、消磨",
+      "example": "じわじわと自己評価を削っていく。",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/002-1-word.mp3",
+        "audio/fuan-nou/002-2-meaning.mp3",
+        "audio/fuan-nou/002-3-example.mp3"
+      ]
+    },
+    {
+      "id": 3,
+      "jp": "繰り返す",
+      "reading": "くりかえす",
+      "cn": "反覆做",
+      "example": "その繰り返しがじわじわと自己評価を削っていく。",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/fuan-nou/003-1-word.mp3",
+        "audio/fuan-nou/003-2-meaning.mp3",
+        "audio/fuan-nou/003-3-example.mp3"
+      ]
+    },
+    {
+      "id": 4,
+      "jp": "向かう",
+      "reading": "むかう",
+      "cn": "朝向、前往",
+      "example": "心配が行動に向かわない時。",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/fuan-nou/004-1-word.mp3",
+        "audio/fuan-nou/004-2-meaning.mp3",
+        "audio/fuan-nou/004-3-example.mp3"
+      ]
+    },
+    {
+      "id": 5,
+      "jp": "踏み出す",
+      "reading": "ふみだす",
+      "cn": "踏出、邁步",
+      "example": "その一歩を今日踏み出してみてください。",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/005-1-word.mp3",
+        "audio/fuan-nou/005-2-meaning.mp3",
+        "audio/fuan-nou/005-3-example.mp3"
+      ]
+    },
+    {
+      "id": 6,
+      "jp": "断ち切る",
+      "reading": "たちきる",
+      "cn": "切斷",
+      "example": "そのシフトがループを断ち切る入り口になります。",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/006-1-word.mp3",
+        "audio/fuan-nou/006-2-meaning.mp3",
+        "audio/fuan-nou/006-3-example.mp3"
+      ]
+    },
+    {
+      "id": 7,
+      "jp": "思い当たる",
+      "reading": "おもいあたる",
+      "cn": "心中有數、想到",
+      "example": "こういう経験思い当たりませんか？",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/007-1-word.mp3",
+        "audio/fuan-nou/007-2-meaning.mp3",
+        "audio/fuan-nou/007-3-example.mp3"
+      ]
+    },
+    {
+      "id": 8,
+      "jp": "回る",
+      "reading": "まわる",
+      "cn": "旋轉、持續運轉",
+      "example": "このループが静かに確実に回り続けます。",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/fuan-nou/008-1-word.mp3",
+        "audio/fuan-nou/008-2-meaning.mp3",
+        "audio/fuan-nou/008-3-example.mp3"
+      ]
+    },
+    {
+      "id": 9,
+      "jp": "守る",
+      "reading": "まもる",
+      "cn": "守護",
+      "example": "あなたのことを真剣に守ろうとしている。",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/fuan-nou/009-1-word.mp3",
+        "audio/fuan-nou/009-2-meaning.mp3",
+        "audio/fuan-nou/009-3-example.mp3"
+      ]
+    },
+    {
+      "id": 10,
+      "jp": "飛ぶ",
+      "reading": "とぶ",
+      "cn": "飛、跳躍",
+      "example": "現実にはたどり着かない場所まで飛んでいきます。",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/fuan-nou/010-1-word.mp3",
+        "audio/fuan-nou/010-2-meaning.mp3",
+        "audio/fuan-nou/010-3-example.mp3"
+      ]
+    },
+    {
+      "id": 11,
+      "jp": "刻む",
+      "reading": "きざむ",
+      "cn": "刻入、銘記",
+      "example": "動いても大丈夫という記憶を刻んでいきます。",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/011-1-word.mp3",
+        "audio/fuan-nou/011-2-meaning.mp3",
+        "audio/fuan-nou/011-3-example.mp3"
+      ]
+    },
+    {
+      "id": 12,
+      "jp": "繋がる",
+      "reading": "つながる",
+      "cn": "連結、連繫",
+      "example": "行動にうまく繋がっていない。",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/fuan-nou/012-1-word.mp3",
+        "audio/fuan-nou/012-2-meaning.mp3",
+        "audio/fuan-nou/012-3-example.mp3"
+      ]
+    },
+    {
+      "id": 13,
+      "jp": "踏む",
+      "reading": "ふむ",
+      "cn": "踩踏、踩到",
+      "example": "最初の一歩を踏む。",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/fuan-nou/013-1-word.mp3",
+        "audio/fuan-nou/013-2-meaning.mp3",
+        "audio/fuan-nou/013-3-example.mp3"
+      ]
+    },
+    {
+      "id": 14,
+      "jp": "縮む",
+      "reading": "ちぢむ",
+      "cn": "縮小",
+      "example": "不安と行動の距離が縮まる。",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/014-1-word.mp3",
+        "audio/fuan-nou/014-2-meaning.mp3",
+        "audio/fuan-nou/014-3-example.mp3"
+      ]
+    },
+    {
+      "id": 15,
+      "jp": "漂う",
+      "reading": "ただよう",
+      "cn": "漂流、徘徊",
+      "example": "同じ不安の中を漂続けているだけです。",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/015-1-word.mp3",
+        "audio/fuan-nou/015-2-meaning.mp3",
+        "audio/fuan-nou/015-3-example.mp3"
+      ]
+    },
+    {
+      "id": 16,
+      "jp": "積む",
+      "reading": "つむ",
+      "cn": "積累",
+      "example": "その感覚を積み重ねることが大切です。",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/fuan-nou/016-1-word.mp3",
+        "audio/fuan-nou/016-2-meaning.mp3",
+        "audio/fuan-nou/016-3-example.mp3"
+      ]
+    },
+    {
+      "id": 17,
+      "jp": "知る",
+      "reading": "しる",
+      "cn": "知道",
+      "example": "正体を知ることです。",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/fuan-nou/017-1-word.mp3",
+        "audio/fuan-nou/017-2-meaning.mp3",
+        "audio/fuan-nou/017-3-example.mp3"
+      ]
+    },
+    {
+      "id": 18,
+      "jp": "変わる",
+      "reading": "かわる",
+      "cn": "改變（自動）",
+      "example": "見え方が全く変わってきます。",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/fuan-nou/018-1-word.mp3",
+        "audio/fuan-nou/018-2-meaning.mp3",
+        "audio/fuan-nou/018-3-example.mp3"
+      ]
+    },
+    {
+      "id": 19,
+      "jp": "広がる",
+      "reading": "ひろがる",
+      "cn": "擴大、蔓延",
+      "example": "不安がじわじわと広がっていく。",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/fuan-nou/019-1-word.mp3",
+        "audio/fuan-nou/019-2-meaning.mp3",
+        "audio/fuan-nou/019-3-example.mp3"
+      ]
+    },
+    {
+      "id": 20,
+      "jp": "断つ",
+      "reading": "たつ",
+      "cn": "切斷、戒除",
+      "example": "不安のループを断つことが大切。",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/020-1-word.mp3",
+        "audio/fuan-nou/020-2-meaning.mp3",
+        "audio/fuan-nou/020-3-example.mp3"
+      ]
+    },
+    {
+      "id": 21,
+      "jp": "感じる",
+      "reading": "かんじる",
+      "cn": "感覺、感受",
+      "example": "脳が非常事態を宣言しているサインです。",
+      "example_literal": "",
+      "category": "二類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/fuan-nou/021-1-word.mp3",
+        "audio/fuan-nou/021-2-meaning.mp3",
+        "audio/fuan-nou/021-3-example.mp3"
+      ]
+    },
+    {
+      "id": 22,
+      "jp": "薄れる",
+      "reading": "うすれる",
+      "cn": "消退、淡薄",
+      "example": "自分への信頼が薄れていきます。",
+      "example_literal": "",
+      "category": "二類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/022-1-word.mp3",
+        "audio/fuan-nou/022-2-meaning.mp3",
+        "audio/fuan-nou/022-3-example.mp3"
+      ]
+    },
+    {
+      "id": 23,
+      "jp": "伝える",
+      "reading": "つたえる",
+      "cn": "傳達",
+      "example": "はっきりお伝えします。",
+      "example_literal": "",
+      "category": "二類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/fuan-nou/023-1-word.mp3",
+        "audio/fuan-nou/023-2-meaning.mp3",
+        "audio/fuan-nou/023-3-example.mp3"
+      ]
+    },
+    {
+      "id": 24,
+      "jp": "積み重ねる",
+      "reading": "つみかさねる",
+      "cn": "積累、堆疊",
+      "example": "その感覚を積み重ねることが大切。",
+      "example_literal": "",
+      "category": "二類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/024-1-word.mp3",
+        "audio/fuan-nou/024-2-meaning.mp3",
+        "audio/fuan-nou/024-3-example.mp3"
+      ]
+    },
+    {
+      "id": 25,
+      "jp": "求める",
+      "reading": "もとめる",
+      "cn": "追求、要求",
+      "example": "完璧を求めるほど始められなくなる。",
+      "example_literal": "",
+      "category": "二類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/fuan-nou/025-1-word.mp3",
+        "audio/fuan-nou/025-2-meaning.mp3",
+        "audio/fuan-nou/025-3-example.mp3"
+      ]
+    },
+    {
+      "id": 26,
+      "jp": "抱える",
+      "reading": "かかえる",
+      "cn": "背負、承擔",
+      "example": "不安を抱えたまま小さく動いてみる。",
+      "example_literal": "",
+      "category": "二類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/026-1-word.mp3",
+        "audio/fuan-nou/026-2-meaning.mp3",
+        "audio/fuan-nou/026-3-example.mp3"
+      ]
+    },
+    {
+      "id": 27,
+      "jp": "変える",
+      "reading": "かえる",
+      "cn": "改變（他動）",
+      "example": "考える方向を変える必要があります。",
+      "example_literal": "",
+      "category": "二類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/fuan-nou/027-1-word.mp3",
+        "audio/fuan-nou/027-2-meaning.mp3",
+        "audio/fuan-nou/027-3-example.mp3"
+      ]
+    },
+    {
+      "id": 28,
+      "jp": "縮める",
+      "reading": "ちぢめる",
+      "cn": "縮短",
+      "example": "不安と行動の距離を縮める理由。",
+      "example_literal": "",
+      "category": "二類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/028-1-word.mp3",
+        "audio/fuan-nou/028-2-meaning.mp3",
+        "audio/fuan-nou/028-3-example.mp3"
+      ]
+    },
+    {
+      "id": 29,
+      "jp": "覚える",
+      "reading": "おぼえる",
+      "cn": "記住、學習",
+      "example": "よく覚えていた。",
+      "example_literal": "",
+      "category": "二類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/fuan-nou/029-1-word.mp3",
+        "audio/fuan-nou/029-2-meaning.mp3",
+        "audio/fuan-nou/029-3-example.mp3"
+      ]
+    },
+    {
+      "id": 30,
+      "jp": "増える",
+      "reading": "ふえる",
+      "cn": "增加",
+      "example": "BDNFという物質が増えます。",
+      "example_literal": "",
+      "category": "二類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/fuan-nou/030-1-word.mp3",
+        "audio/fuan-nou/030-2-meaning.mp3",
+        "audio/fuan-nou/030-3-example.mp3"
+      ]
+    },
+    {
+      "id": 31,
+      "jp": "続ける",
+      "reading": "つづける",
+      "cn": "持續",
+      "example": "漂い続けているだけです。",
+      "example_literal": "",
+      "category": "二類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/fuan-nou/031-1-word.mp3",
+        "audio/fuan-nou/031-2-meaning.mp3",
+        "audio/fuan-nou/031-3-example.mp3"
+      ]
+    },
+    {
+      "id": 32,
+      "jp": "止める",
+      "reading": "やめる",
+      "cn": "停止、放棄",
+      "example": "考えることをやめるのではなく。",
+      "example_literal": "",
+      "category": "二類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/fuan-nou/032-1-word.mp3",
+        "audio/fuan-nou/032-2-meaning.mp3",
+        "audio/fuan-nou/032-3-example.mp3"
+      ]
+    },
+    {
+      "id": 33,
+      "jp": "見返す",
+      "reading": "みかえす",
+      "cn": "重新審視",
+      "example": "少し冷静に見返すことができます。",
+      "example_literal": "",
+      "category": "二類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/033-1-word.mp3",
+        "audio/fuan-nou/033-2-meaning.mp3",
+        "audio/fuan-nou/033-3-example.mp3"
+      ]
+    },
+    {
+      "id": 34,
+      "jp": "消える",
+      "reading": "きえる",
+      "cn": "消失",
+      "example": "不安が消えてから動くのではなく。",
+      "example_literal": "",
+      "category": "二類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/fuan-nou/034-1-word.mp3",
+        "audio/fuan-nou/034-2-meaning.mp3",
+        "audio/fuan-nou/034-3-example.mp3"
+      ]
+    },
+    {
+      "id": 35,
+      "jp": "似る",
+      "reading": "にる",
+      "cn": "相似",
+      "example": "不安の時の感覚とよく似ています。",
+      "example_literal": "",
+      "category": "二類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/fuan-nou/035-1-word.mp3",
+        "audio/fuan-nou/035-2-meaning.mp3",
+        "audio/fuan-nou/035-3-example.mp3"
+      ]
+    },
+    {
+      "id": 36,
+      "jp": "届ける",
+      "reading": "とどける",
+      "cn": "送達",
+      "example": "この動画が届く手助けになります。",
+      "example_literal": "",
+      "category": "二類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/fuan-nou/036-1-word.mp3",
+        "audio/fuan-nou/036-2-meaning.mp3",
+        "audio/fuan-nou/036-3-example.mp3"
+      ]
+    },
+    {
+      "id": 37,
+      "jp": "助ける",
+      "reading": "たすける",
+      "cn": "幫助",
+      "example": "手を差し伸べてくれる存在。",
+      "example_literal": "",
+      "category": "二類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/fuan-nou/037-1-word.mp3",
+        "audio/fuan-nou/037-2-meaning.mp3",
+        "audio/fuan-nou/037-3-example.mp3"
+      ]
+    },
+    {
+      "id": 38,
+      "jp": "始める",
+      "reading": "はじめる",
+      "cn": "開始（他動）",
+      "example": "何も始められなくなる。",
+      "example_literal": "",
+      "category": "二類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/fuan-nou/038-1-word.mp3",
+        "audio/fuan-nou/038-2-meaning.mp3",
+        "audio/fuan-nou/038-3-example.mp3"
+      ]
+    },
+    {
+      "id": 39,
+      "jp": "上書きする...",
+      "reading": "うわがき",
+      "cn": "覆蓋、覆寫",
+      "example": "感覚を安全なものとして上書きしていく。",
+      "example_literal": "",
+      "category": "二類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/039-1-word.mp3",
+        "audio/fuan-nou/039-2-meaning.mp3",
+        "audio/fuan-nou/039-3-example.mp3"
+      ]
+    },
+    {
+      "id": 40,
+      "jp": "生まれる",
+      "reading": "うまれる",
+      "cn": "誕生、產生",
+      "example": "脳の仕組みから生まれる避けがたい罠。",
+      "example_literal": "",
+      "category": "二類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/fuan-nou/040-1-word.mp3",
+        "audio/fuan-nou/040-2-meaning.mp3",
+        "audio/fuan-nou/040-3-example.mp3"
+      ]
+    },
+    {
+      "id": 41,
+      "jp": "察知する",
+      "reading": "さっちする",
+      "cn": "察覺、感知",
+      "example": "危険を察知するセンサーのようなもの。",
+      "example_literal": "",
+      "category": "三類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/041-1-word.mp3",
+        "audio/fuan-nou/041-2-meaning.mp3",
+        "audio/fuan-nou/041-3-example.mp3"
+      ]
+    },
+    {
+      "id": 42,
+      "jp": "活性化する",
+      "reading": "かっせいかする",
+      "cn": "活化、激活",
+      "example": "扁桃体と前頭前野が連動して活性化し。",
+      "example_literal": "",
+      "category": "三類動詞",
+      "level": "N1",
+      "segments": [
+        "audio/fuan-nou/042-1-word.mp3",
+        "audio/fuan-nou/042-2-meaning.mp3",
+        "audio/fuan-nou/042-3-example.mp3"
+      ]
+    },
+    {
+      "id": 43,
+      "jp": "消耗する",
+      "reading": "しょうもうする",
+      "cn": "消耗",
+      "example": "脳はエネルギーを大量に消耗します。",
+      "example_literal": "",
+      "category": "三類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/043-1-word.mp3",
+        "audio/fuan-nou/043-2-meaning.mp3",
+        "audio/fuan-nou/043-3-example.mp3"
+      ]
+    },
+    {
+      "id": 44,
+      "jp": "宣言する",
+      "reading": "せんげんする",
+      "cn": "宣告、宣言",
+      "example": "脳が勝手に非常事態を宣言しているサイン。",
+      "example_literal": "",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/fuan-nou/044-1-word.mp3",
+        "audio/fuan-nou/044-2-meaning.mp3",
+        "audio/fuan-nou/044-3-example.mp3"
+      ]
+    },
+    {
+      "id": 45,
+      "jp": "連動する",
+      "reading": "れんどうする",
+      "cn": "連動、聯動",
+      "example": "扁桃体と前頭前野が連動して活性化し。",
+      "example_literal": "",
+      "category": "三類動詞",
+      "level": "N1",
+      "segments": [
+        "audio/fuan-nou/045-1-word.mp3",
+        "audio/fuan-nou/045-2-meaning.mp3",
+        "audio/fuan-nou/045-3-example.mp3"
+      ]
+    },
+    {
+      "id": 46,
+      "jp": "先延ばしにする",
+      "reading": "さきのばしにする",
+      "cn": "拖延",
+      "example": "行動を先延ばしにする傾向がある。",
+      "example_literal": "",
+      "category": "三類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/046-1-word.mp3",
+        "audio/fuan-nou/046-2-meaning.mp3",
+        "audio/fuan-nou/046-3-example.mp3"
+      ]
+    },
+    {
+      "id": 47,
+      "jp": "過小評価する",
+      "reading": "かしょうひょうかする",
+      "cn": "低估",
+      "example": "自分の対処能力を過小評価する。",
+      "example_literal": "",
+      "category": "三類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/047-1-word.mp3",
+        "audio/fuan-nou/047-2-meaning.mp3",
+        "audio/fuan-nou/047-3-example.mp3"
+      ]
+    },
+    {
+      "id": 48,
+      "jp": "解決する",
+      "reading": "かいけつする",
+      "cn": "解決",
+      "example": "解決策には向かわずただループする。",
+      "example_literal": "",
+      "category": "三類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/fuan-nou/048-1-word.mp3",
+        "audio/fuan-nou/048-2-meaning.mp3",
+        "audio/fuan-nou/048-3-example.mp3"
+      ]
+    },
+    {
+      "id": 49,
+      "jp": "集中する",
+      "reading": "しゅうちゅうする",
+      "cn": "集中",
+      "example": "具体的な一歩に焦点を当てる。",
+      "example_literal": "",
+      "category": "三類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/fuan-nou/049-1-word.mp3",
+        "audio/fuan-nou/049-2-meaning.mp3",
+        "audio/fuan-nou/049-3-example.mp3"
+      ]
+    },
+    {
+      "id": 50,
+      "jp": "対処する",
+      "reading": "たいしょする",
+      "cn": "應對、處理",
+      "example": "何かが起きても自分にはどうにもできない。",
+      "example_literal": "",
+      "category": "三類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/050-1-word.mp3",
+        "audio/fuan-nou/050-2-meaning.mp3",
+        "audio/fuan-nou/050-3-example.mp3"
+      ]
+    },
+    {
+      "id": 51,
+      "jp": "確認する",
+      "reading": "かくにんする",
+      "cn": "確認",
+      "example": "実際の脅威に近い反応が起きることが確認されています。",
+      "example_literal": "",
+      "category": "三類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/fuan-nou/051-1-word.mp3",
+        "audio/fuan-nou/051-2-meaning.mp3",
+        "audio/fuan-nou/051-3-example.mp3"
+      ]
+    },
+    {
+      "id": 52,
+      "jp": "過大評価する",
+      "reading": "かだいひょうかする",
+      "cn": "高估",
+      "example": "周囲のサポートを過大評価する。",
+      "example_literal": "",
+      "category": "三類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/052-1-word.mp3",
+        "audio/fuan-nou/052-2-meaning.mp3",
+        "audio/fuan-nou/052-3-example.mp3"
+      ]
+    },
+    {
+      "id": 53,
+      "jp": "上書きする",
+      "reading": "うわがきする",
+      "cn": "覆寫",
+      "example": "感覚を安全なものとして上書きしていく。",
+      "example_literal": "",
+      "category": "三類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/053-1-word.mp3",
+        "audio/fuan-nou/053-2-meaning.mp3",
+        "audio/fuan-nou/053-3-example.mp3"
+      ]
+    },
+    {
+      "id": 54,
+      "jp": "変化する",
+      "reading": "へんかする",
+      "cn": "變化",
+      "example": "脳の状態がわずかに変化する。",
+      "example_literal": "",
+      "category": "三類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/fuan-nou/054-1-word.mp3",
+        "audio/fuan-nou/054-2-meaning.mp3",
+        "audio/fuan-nou/054-3-example.mp3"
+      ]
+    },
+    {
+      "id": 55,
+      "jp": "反応する",
+      "reading": "はんのうする",
+      "cn": "反應",
+      "example": "脅威に反応して体に警戒信号を送ります。",
+      "example_literal": "",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/fuan-nou/055-1-word.mp3",
+        "audio/fuan-nou/055-2-meaning.mp3",
+        "audio/fuan-nou/055-3-example.mp3"
+      ]
+    },
+    {
+      "id": 56,
+      "jp": "扁桃体",
+      "reading": "へんとうたい",
+      "cn": "杏仁核",
+      "example": "脳の中に扁桃体という部分があります。",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N1",
+      "segments": [
+        "audio/fuan-nou/056-1-word.mp3",
+        "audio/fuan-nou/056-2-meaning.mp3",
+        "audio/fuan-nou/056-3-example.mp3"
+      ]
+    },
+    {
+      "id": 57,
+      "jp": "前頭前野",
+      "reading": "ぜんとうぜんや",
+      "cn": "前額葉皮質",
+      "example": "扁桃体と前頭前野が連動して活性化し。",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N1",
+      "segments": [
+        "audio/fuan-nou/057-1-word.mp3",
+        "audio/fuan-nou/057-2-meaning.mp3",
+        "audio/fuan-nou/057-3-example.mp3"
+      ]
+    },
+    {
+      "id": 58,
+      "jp": "罠",
+      "reading": "わな",
+      "cn": "陷阱",
+      "example": "脳の仕組みから生まれる避けがたい罠。",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/058-1-word.mp3",
+        "audio/fuan-nou/058-2-meaning.mp3",
+        "audio/fuan-nou/058-3-example.mp3"
+      ]
+    },
+    {
+      "id": 59,
+      "jp": "隔たり",
+      "reading": "へだたり",
+      "cn": "距離、隔閡",
+      "example": "心配と行動の間にある隔たりの正体。",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/059-1-word.mp3",
+        "audio/fuan-nou/059-2-meaning.mp3",
+        "audio/fuan-nou/059-3-example.mp3"
+      ]
+    },
+    {
+      "id": 60,
+      "jp": "自己評価",
+      "reading": "じこひょうか",
+      "cn": "自我評價",
+      "example": "じわじわと自己評価を削っていく。",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/060-1-word.mp3",
+        "audio/fuan-nou/060-2-meaning.mp3",
+        "audio/fuan-nou/060-3-example.mp3"
+      ]
+    },
+    {
+      "id": 61,
+      "jp": "感受性",
+      "reading": "かんじゅせい",
+      "cn": "感受性",
+      "example": "感受性が高く、責任感が強い傾向がある。",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/061-1-word.mp3",
+        "audio/fuan-nou/061-2-meaning.mp3",
+        "audio/fuan-nou/061-3-example.mp3"
+      ]
+    },
+    {
+      "id": 62,
+      "jp": "責任感",
+      "reading": "せきにんかん",
+      "cn": "責任感",
+      "example": "責任感が強い傾向があります。",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/fuan-nou/062-1-word.mp3",
+        "audio/fuan-nou/062-2-meaning.mp3",
+        "audio/fuan-nou/062-3-example.mp3"
+      ]
+    },
+    {
+      "id": 63,
+      "jp": "完璧主義",
+      "reading": "かんぺきしゅぎ",
+      "cn": "完美主義",
+      "example": "心配と完璧主義には深い繋がりがあります。",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/063-1-word.mp3",
+        "audio/fuan-nou/063-2-meaning.mp3",
+        "audio/fuan-nou/063-3-example.mp3"
+      ]
+    },
+    {
+      "id": 64,
+      "jp": "反芻",
+      "reading": "はんすう",
+      "cn": "反芻、反覆思考",
+      "example": "同じ心配を頭の中でぐるぐると繰り返す状態。",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N1",
+      "segments": [
+        "audio/fuan-nou/064-1-word.mp3",
+        "audio/fuan-nou/064-2-meaning.mp3",
+        "audio/fuan-nou/064-3-example.mp3"
+      ]
+    },
+    {
+      "id": 65,
+      "jp": "歪み",
+      "reading": "ゆがみ",
+      "cn": "扭曲、偏差",
+      "example": "不安な脳が作り出す4つの歪み。",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/065-1-word.mp3",
+        "audio/fuan-nou/065-2-meaning.mp3",
+        "audio/fuan-nou/065-3-example.mp3"
+      ]
+    },
+    {
+      "id": 66,
+      "jp": "対処能力",
+      "reading": "たいしょのうりょく",
+      "cn": "應對能力",
+      "example": "対処能力も高いことが多い。",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/066-1-word.mp3",
+        "audio/fuan-nou/066-2-meaning.mp3",
+        "audio/fuan-nou/066-3-example.mp3"
+      ]
+    },
+    {
+      "id": 67,
+      "jp": "警戒信号",
+      "reading": "けいかいしんごう",
+      "cn": "警戒信號",
+      "example": "体に警戒信号を送ります。",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/067-1-word.mp3",
+        "audio/fuan-nou/067-2-meaning.mp3",
+        "audio/fuan-nou/067-3-example.mp3"
+      ]
+    },
+    {
+      "id": 68,
+      "jp": "意思",
+      "reading": "いし",
+      "cn": "意志、意思",
+      "example": "これは意思の弱さではなく。",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/fuan-nou/068-1-word.mp3",
+        "audio/fuan-nou/068-2-meaning.mp3",
+        "audio/fuan-nou/068-3-example.mp3"
+      ]
+    },
+    {
+      "id": 69,
+      "jp": "燃料",
+      "reading": "ねんりょう",
+      "cn": "燃料",
+      "example": "心配を燃料にして小さな行動に変えていく。",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/fuan-nou/069-1-word.mp3",
+        "audio/fuan-nou/069-2-meaning.mp3",
+        "audio/fuan-nou/069-3-example.mp3"
+      ]
+    },
+    {
+      "id": 70,
+      "jp": "シグナル",
+      "reading": "しぐなる",
+      "cn": "信號",
+      "example": "まだ準備が足りないというシグナルを出し続ける。",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/fuan-nou/070-1-word.mp3",
+        "audio/fuan-nou/070-2-meaning.mp3",
+        "audio/fuan-nou/070-3-example.mp3"
+      ]
+    },
+    {
+      "id": 71,
+      "jp": "リハビリ",
+      "reading": "りはびり",
+      "cn": "復健",
+      "example": "一種のリハビリのようなものです。",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/fuan-nou/071-1-word.mp3",
+        "audio/fuan-nou/071-2-meaning.mp3",
+        "audio/fuan-nou/071-3-example.mp3"
+      ]
+    },
+    {
+      "id": 72,
+      "jp": "信頼",
+      "reading": "しんらい",
+      "cn": "信賴",
+      "example": "自分への信頼が薄れていきます。",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/fuan-nou/072-1-word.mp3",
+        "audio/fuan-nou/072-2-meaning.mp3",
+        "audio/fuan-nou/072-3-example.mp3"
+      ]
+    },
+    {
+      "id": 73,
+      "jp": "確信",
+      "reading": "かくしん",
+      "cn": "核心、確信",
+      "example": "それが今日の話の確信です。",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/073-1-word.mp3",
+        "audio/fuan-nou/073-2-meaning.mp3",
+        "audio/fuan-nou/073-3-example.mp3"
+      ]
+    },
+    {
+      "id": 74,
+      "jp": "脅威",
+      "reading": "きょうい",
+      "cn": "威脅",
+      "example": "実際の脅威に近い反応。",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/074-1-word.mp3",
+        "audio/fuan-nou/074-2-meaning.mp3",
+        "audio/fuan-nou/074-3-example.mp3"
+      ]
+    },
+    {
+      "id": 75,
+      "jp": "出来事",
+      "reading": "できごと",
+      "cn": "事件、情況",
+      "example": "将来の不確かな出来事を想像するだけで。",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/fuan-nou/075-1-word.mp3",
+        "audio/fuan-nou/075-2-meaning.mp3",
+        "audio/fuan-nou/075-3-example.mp3"
+      ]
+    },
+    {
+      "id": 76,
+      "jp": "慎重な",
+      "reading": "しんちょうな",
+      "cn": "謹慎的",
+      "example": "心配ばかりする人は慎重で真面目な人だ。",
+      "example_literal": "",
+      "category": "な形容詞",
+      "level": "N3",
+      "segments": [
+        "audio/fuan-nou/076-1-word.mp3",
+        "audio/fuan-nou/076-2-meaning.mp3",
+        "audio/fuan-nou/076-3-example.mp3"
+      ]
+    },
+    {
+      "id": 77,
+      "jp": "真面目な",
+      "reading": "まじめな",
+      "cn": "認真的",
+      "example": "心配ばかりする人は慎重で真面目な人だ。",
+      "example_literal": "",
+      "category": "な形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/fuan-nou/077-1-word.mp3",
+        "audio/fuan-nou/077-2-meaning.mp3",
+        "audio/fuan-nou/077-3-example.mp3"
+      ]
+    },
+    {
+      "id": 78,
+      "jp": "誠実な",
+      "reading": "せいじつな",
+      "cn": "誠實的",
+      "example": "ある意味で誠実な反応なのです。",
+      "example_literal": "",
+      "category": "な形容詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/078-1-word.mp3",
+        "audio/fuan-nou/078-2-meaning.mp3",
+        "audio/fuan-nou/078-3-example.mp3"
+      ]
+    },
+    {
+      "id": 79,
+      "jp": "具体的な",
+      "reading": "ぐたいてきな",
+      "cn": "具體的",
+      "example": "具体的な一歩に焦点を当てる。",
+      "example_literal": "",
+      "category": "な形容詞",
+      "level": "N3",
+      "segments": [
+        "audio/fuan-nou/079-1-word.mp3",
+        "audio/fuan-nou/079-2-meaning.mp3",
+        "audio/fuan-nou/079-3-example.mp3"
+      ]
+    },
+    {
+      "id": 80,
+      "jp": "効果的な",
+      "reading": "こうかてきな",
+      "cn": "有效的",
+      "example": "最も効果的な対処法の一つが体を動かすこと。",
+      "example_literal": "",
+      "category": "な形容詞",
+      "level": "N3",
+      "segments": [
+        "audio/fuan-nou/080-1-word.mp3",
+        "audio/fuan-nou/080-2-meaning.mp3",
+        "audio/fuan-nou/080-3-example.mp3"
+      ]
+    },
+    {
+      "id": 81,
+      "jp": "確実な",
+      "reading": "かくじつな",
+      "cn": "確實的",
+      "example": "このループが静かに確実に回り続けます。",
+      "example_literal": "",
+      "category": "な形容詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/081-1-word.mp3",
+        "audio/fuan-nou/081-2-meaning.mp3",
+        "audio/fuan-nou/081-3-example.mp3"
+      ]
+    },
+    {
+      "id": 82,
+      "jp": "過剰な",
+      "reading": "かじょうな",
+      "cn": "過度的",
+      "example": "特定の回路が過剰に働いています。",
+      "example_literal": "",
+      "category": "な形容詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/082-1-word.mp3",
+        "audio/fuan-nou/082-2-meaning.mp3",
+        "audio/fuan-nou/082-3-example.mp3"
+      ]
+    },
+    {
+      "id": 83,
+      "jp": "不確かな",
+      "reading": "ふたしかな",
+      "cn": "不確定的",
+      "example": "将来の不確かな出来事を想像するだけで。",
+      "example_literal": "",
+      "category": "な形容詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/083-1-word.mp3",
+        "audio/fuan-nou/083-2-meaning.mp3",
+        "audio/fuan-nou/083-3-example.mp3"
+      ]
+    },
+    {
+      "id": 84,
+      "jp": "わずかな",
+      "reading": "わずかな",
+      "cn": "少量的、些微的",
+      "example": "脳の状態がわずかに変わる。",
+      "example_literal": "",
+      "category": "な形容詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/084-1-word.mp3",
+        "audio/fuan-nou/084-2-meaning.mp3",
+        "audio/fuan-nou/084-3-example.mp3"
+      ]
+    },
+    {
+      "id": 85,
+      "jp": "強い",
+      "reading": "つよい",
+      "cn": "強烈的、強大的",
+      "example": "責任感が強い傾向があります。",
+      "example_literal": "",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/fuan-nou/085-1-word.mp3",
+        "audio/fuan-nou/085-2-meaning.mp3",
+        "audio/fuan-nou/085-3-example.mp3"
+      ]
+    },
+    {
+      "id": 86,
+      "jp": "少ない",
+      "reading": "すくない",
+      "cn": "稀少的",
+      "example": "失敗が少ない。",
+      "example_literal": "",
+      "category": "い形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/fuan-nou/086-1-word.mp3",
+        "audio/fuan-nou/086-2-meaning.mp3",
+        "audio/fuan-nou/086-3-example.mp3"
+      ]
+    },
+    {
+      "id": 87,
+      "jp": "深い",
+      "reading": "ふかい",
+      "cn": "深刻的、深厚的",
+      "example": "心配と完璧主義には深い繋がりがあります。",
+      "example_literal": "",
+      "category": "い形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/fuan-nou/087-1-word.mp3",
+        "audio/fuan-nou/087-2-meaning.mp3",
+        "audio/fuan-nou/087-3-example.mp3"
+      ]
+    },
+    {
+      "id": 88,
+      "jp": "難しい",
+      "reading": "むずかしい",
+      "cn": "困難的",
+      "example": "難しいことは何も必要ありません。",
+      "example_literal": "",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/fuan-nou/088-1-word.mp3",
+        "audio/fuan-nou/088-2-meaning.mp3",
+        "audio/fuan-nou/088-3-example.mp3"
+      ]
+    },
+    {
+      "id": 89,
+      "jp": "小さい",
+      "reading": "ちいさい",
+      "cn": "小的、微小的",
+      "example": "小さな行動に変えていくことができたら。",
+      "example_literal": "",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/fuan-nou/089-1-word.mp3",
+        "audio/fuan-nou/089-2-meaning.mp3",
+        "audio/fuan-nou/089-3-example.mp3"
+      ]
+    },
+    {
+      "id": 90,
+      "jp": "怠い",
+      "reading": "だるい",
+      "cn": "懶散的、疲憊的",
+      "example": "あなたは怠けているのではありません。",
+      "example_literal": "",
+      "category": "い形容詞",
+      "level": "N3",
+      "segments": [
+        "audio/fuan-nou/090-1-word.mp3",
+        "audio/fuan-nou/090-2-meaning.mp3",
+        "audio/fuan-nou/090-3-example.mp3"
+      ]
+    },
+    {
+      "id": 91,
+      "jp": "重い",
+      "reading": "おもい",
+      "cn": "沉重的",
+      "example": "胃りが重くなる。",
+      "example_literal": "",
+      "category": "い形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/fuan-nou/091-1-word.mp3",
+        "audio/fuan-nou/091-2-meaning.mp3",
+        "audio/fuan-nou/091-3-example.mp3"
+      ]
+    },
+    {
+      "id": 92,
+      "jp": "高い",
+      "reading": "たかい",
+      "cn": "高的",
+      "example": "感受性が高く。",
+      "example_literal": "",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/fuan-nou/092-1-word.mp3",
+        "audio/fuan-nou/092-2-meaning.mp3",
+        "audio/fuan-nou/092-3-example.mp3"
+      ]
+    },
+    {
+      "id": 93,
+      "jp": "多い",
+      "reading": "おおい",
+      "cn": "多的",
+      "example": "思っているよりずっと多くいます。",
+      "example_literal": "",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/fuan-nou/093-1-word.mp3",
+        "audio/fuan-nou/093-2-meaning.mp3",
+        "audio/fuan-nou/093-3-example.mp3"
+      ]
+    },
+    {
+      "id": 94,
+      "jp": "大きい",
+      "reading": "おおきい",
+      "cn": "大的",
+      "example": "不安はむしろ大きくなる。",
+      "example_literal": "",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/fuan-nou/094-1-word.mp3",
+        "audio/fuan-nou/094-2-meaning.mp3",
+        "audio/fuan-nou/094-3-example.mp3"
+      ]
+    },
+    {
+      "id": 95,
+      "jp": "じわじわと",
+      "reading": "じわじわと",
+      "cn": "逐漸地、慢慢地",
+      "example": "じわじわと自己評価を削っていく。",
+      "example_literal": "",
+      "category": "副詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/095-1-word.mp3",
+        "audio/fuan-nou/095-2-meaning.mp3",
+        "audio/fuan-nou/095-3-example.mp3"
+      ]
+    },
+    {
+      "id": 96,
+      "jp": "むしろ",
+      "reading": "むしろ",
+      "cn": "反而、寧可",
+      "example": "心配は悪いものではありません。むしろ感受性が高い。",
+      "example_literal": "",
+      "category": "副詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/096-1-word.mp3",
+        "audio/fuan-nou/096-2-meaning.mp3",
+        "audio/fuan-nou/096-3-example.mp3"
+      ]
+    },
+    {
+      "id": 97,
+      "jp": "さらに",
+      "reading": "さらに",
+      "cn": "更加、進一步",
+      "example": "大きくなった不安がさらに完璧を求めさせる。",
+      "example_literal": "",
+      "category": "副詞",
+      "level": "N3",
+      "segments": [
+        "audio/fuan-nou/097-1-word.mp3",
+        "audio/fuan-nou/097-2-meaning.mp3",
+        "audio/fuan-nou/097-3-example.mp3"
+      ]
+    },
+    {
+      "id": 98,
+      "jp": "ただ",
+      "reading": "ただ",
+      "cn": "只是、僅僅",
+      "example": "ただループする。",
+      "example_literal": "",
+      "category": "副詞",
+      "level": "N3",
+      "segments": [
+        "audio/fuan-nou/098-1-word.mp3",
+        "audio/fuan-nou/098-2-meaning.mp3",
+        "audio/fuan-nou/098-3-example.mp3"
+      ]
+    },
+    {
+      "id": 99,
+      "jp": "わずかに",
+      "reading": "わずかに",
+      "cn": "稍微、少量",
+      "example": "脳の状態がわずかに変わる。",
+      "example_literal": "",
+      "category": "副詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/099-1-word.mp3",
+        "audio/fuan-nou/099-2-meaning.mp3",
+        "audio/fuan-nou/099-3-example.mp3"
+      ]
+    },
+    {
+      "id": 100,
+      "jp": "はっきり",
+      "reading": "はっきり",
+      "cn": "清楚地、明確地",
+      "example": "はっきりお伝えします。",
+      "example_literal": "",
+      "category": "副詞",
+      "level": "N3",
+      "segments": [
+        "audio/fuan-nou/100-1-word.mp3",
+        "audio/fuan-nou/100-2-meaning.mp3",
+        "audio/fuan-nou/100-3-example.mp3"
+      ]
+    },
+    {
+      "id": 101,
+      "jp": "静かに",
+      "reading": "しずかに",
+      "cn": "靜靜地、悄悄地",
+      "example": "このループが静かに確実に回り続けます。",
+      "example_literal": "",
+      "category": "副詞",
+      "level": "N4",
+      "segments": [
+        "audio/fuan-nou/101-1-word.mp3",
+        "audio/fuan-nou/101-2-meaning.mp3",
+        "audio/fuan-nou/101-3-example.mp3"
+      ]
+    },
+    {
+      "id": 102,
+      "jp": "だんだん",
+      "reading": "だんだん",
+      "cn": "漸漸地",
+      "example": "だんだん自分への信頼が薄れていきます。",
+      "example_literal": "",
+      "category": "副詞",
+      "level": "N4",
+      "segments": [
+        "audio/fuan-nou/102-1-word.mp3",
+        "audio/fuan-nou/102-2-meaning.mp3",
+        "audio/fuan-nou/102-3-example.mp3"
+      ]
+    },
+    {
+      "id": 103,
+      "jp": "永遠に",
+      "reading": "えいえんに",
+      "cn": "永遠地",
+      "example": "行動に適したタイミングは永遠に来ません。",
+      "example_literal": "",
+      "category": "副詞",
+      "level": "N3",
+      "segments": [
+        "audio/fuan-nou/103-1-word.mp3",
+        "audio/fuan-nou/103-2-meaning.mp3",
+        "audio/fuan-nou/103-3-example.mp3"
+      ]
+    },
+    {
+      "id": 104,
+      "jp": "真剣に",
+      "reading": "しんけんに",
+      "cn": "認真地、認真",
+      "example": "あなたのことを真剣に守ろうとしている。",
+      "example_literal": "",
+      "category": "副詞",
+      "level": "N3",
+      "segments": [
+        "audio/fuan-nou/104-1-word.mp3",
+        "audio/fuan-nou/104-2-meaning.mp3",
+        "audio/fuan-nou/104-3-example.mp3"
+      ]
+    },
+    {
+      "id": 105,
+      "jp": "常に",
+      "reading": "つねに",
+      "cn": "常常、始終",
+      "example": "不安な脳は常にまだ準備が足りないというシグナルを出す。",
+      "example_literal": "",
+      "category": "副詞",
+      "level": "N2",
+      "segments": [
+        "audio/fuan-nou/105-1-word.mp3",
+        "audio/fuan-nou/105-2-meaning.mp3",
+        "audio/fuan-nou/105-3-example.mp3"
+      ]
+    }
+  ]
+}
