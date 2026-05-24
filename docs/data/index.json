@@ -74,6 +74,16 @@
       "slug": "fuan-nou-transcript",
       "sheet": "不安な脳 — 全文對照",
       "total": 128
+    },
+    {
+      "slug": "think-jp",
+      "sheet": "日語思考訓練",
+      "total": 116
+    },
+    {
+      "slug": "think-jp-transcript",
+      "sheet": "日語思考訓練 — 全文對照",
+      "total": 82
     }
   ]
 }

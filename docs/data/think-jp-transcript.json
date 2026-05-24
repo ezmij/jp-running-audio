@@ -1,0 +1,1155 @@
+{
+  "sheet": "日語思考訓練 — 全文對照",
+  "slug": "think-jp-transcript",
+  "total": 82,
+  "tracks": [
+    {
+      "id": 1,
+      "jp": "頭の中(あたまのなか)で考える",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "在腦袋裡 思考",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/001-1-sentence.mp3",
+        "audio/think-jp-transcript/001-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 2,
+      "jp": "翻訳(ほんやく)しないで話す",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "不翻譯 說話",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/002-1-sentence.mp3",
+        "audio/think-jp-transcript/002-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 3,
+      "jp": "神経回路(しんけいかいろ)を作る",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "建立 神經回路",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/003-1-sentence.mp3",
+        "audio/think-jp-transcript/003-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 4,
+      "jp": "母国語(ぼこくご)を使わずに",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "不使用 母語",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/004-1-sentence.mp3",
+        "audio/think-jp-transcript/004-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 5,
+      "jp": "日本語(にほんご)で感じる",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "用日語 感受",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/005-1-sentence.mp3",
+        "audio/think-jp-transcript/005-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 6,
+      "jp": "うちなる独白(どくはく)をする",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "進行 內心獨白",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/006-1-sentence.mp3",
+        "audio/think-jp-transcript/006-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 7,
+      "jp": "頭の中(あたまのなか)の言い換え(いいかえ)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "腦袋裡的 換個說法",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/007-1-sentence.mp3",
+        "audio/think-jp-transcript/007-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 8,
+      "jp": "自分(じぶん)の考え(かんがえ)を伝える(つたえる)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "傳達 自己的想法",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/008-1-sentence.mp3",
+        "audio/think-jp-transcript/008-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 9,
+      "jp": "理解可能(りかいかのう)なインプット",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "可理解的 輸入素材",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/009-1-sentence.mp3",
+        "audio/think-jp-transcript/009-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 10,
+      "jp": "少しだけ難しい(むずかしい)レベル",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "稍微困難的 程度",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/010-1-sentence.mp3",
+        "audio/think-jp-transcript/010-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 11,
+      "jp": "毎日(まいにち)聞く(きく)ことが大切(たいせつ)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "每天聽 很重要",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/011-1-sentence.mp3",
+        "audio/think-jp-transcript/011-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 12,
+      "jp": "良質(りょうしつ)な素材(そざい)を選ぶ(えらぶ)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "選擇 優質的素材",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/012-1-sentence.mp3",
+        "audio/think-jp-transcript/012-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 13,
+      "jp": "シャドーイングを練習(れんしゅう)する",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "練習 跟讀法",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/013-1-sentence.mp3",
+        "audio/think-jp-transcript/013-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 14,
+      "jp": "声(こえ)に出して(だして)繰り返す(くりかえす)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "出聲 反覆練習",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/014-1-sentence.mp3",
+        "audio/think-jp-transcript/014-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 15,
+      "jp": "発音(はつおん)とリズムを習得(しゅうとく)する",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "習得 發音和節奏",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/015-1-sentence.mp3",
+        "audio/think-jp-transcript/015-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 16,
+      "jp": "ネイティブの話し方(はなしかた)に慣れる(なれる)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "習慣 母語者的說話方式",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/016-1-sentence.mp3",
+        "audio/think-jp-transcript/016-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 17,
+      "jp": "アウトプットの機会(きかい)を増やす(ふやす)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "增加 輸出的機會",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/017-1-sentence.mp3",
+        "audio/think-jp-transcript/017-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 18,
+      "jp": "実際(じっさい)に使う(つかう)練習(れんしゅう)をする",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "進行 實際使用的練習",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/018-1-sentence.mp3",
+        "audio/think-jp-transcript/018-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 19,
+      "jp": "間違い(まちがい)を恐れずに(おそれずに)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "不害怕 錯誤",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/019-1-sentence.mp3",
+        "audio/think-jp-transcript/019-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 20,
+      "jp": "積極的(せっきょくてき)に話す(はなす)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "積極地 說話",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/020-1-sentence.mp3",
+        "audio/think-jp-transcript/020-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 21,
+      "jp": "流暢さ(りゅうちょうさ)を高める(たかめる)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "提高 流暢度",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/021-1-sentence.mp3",
+        "audio/think-jp-transcript/021-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 22,
+      "jp": "自動的(じどうてき)に言葉(ことば)が出る(でる)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "語言 自動地出現",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/022-1-sentence.mp3",
+        "audio/think-jp-transcript/022-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 23,
+      "jp": "翻訳(ほんやく)のプロセスを省く(はぶく)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "省略 翻譯的過程",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/023-1-sentence.mp3",
+        "audio/think-jp-transcript/023-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 24,
+      "jp": "脳(のう)の使い方(つかいかた)を変える(かえる)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "改變 大腦的使用方式",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/024-1-sentence.mp3",
+        "audio/think-jp-transcript/024-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 25,
+      "jp": "神経回路(しんけいかいろ)を活性化(かっせいか)する",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "活化 神經回路",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/025-1-sentence.mp3",
+        "audio/think-jp-transcript/025-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 26,
+      "jp": "継続(けいぞく)的に練習(れんしゅう)する",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "持續地 練習",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/026-1-sentence.mp3",
+        "audio/think-jp-transcript/026-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 27,
+      "jp": "反復(はんぷく)が記憶(きおく)を強化(きょうか)する",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "反覆 強化記憶",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/027-1-sentence.mp3",
+        "audio/think-jp-transcript/027-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 28,
+      "jp": "プラトーを乗り越える(のりこえる)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "克服 停滯期",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/028-1-sentence.mp3",
+        "audio/think-jp-transcript/028-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 29,
+      "jp": "メンタルブロックを外す(はずす)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "消除 心理障礙",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/029-1-sentence.mp3",
+        "audio/think-jp-transcript/029-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 30,
+      "jp": "感情(かんじょう)と結びつける(むすびつける)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "和感情 連結起來",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/030-1-sentence.mp3",
+        "audio/think-jp-transcript/030-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 31,
+      "jp": "学習(がくしゅう)の一貫性(いっかんせい)を保つ(たもつ)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "維持 學習的一貫性",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/031-1-sentence.mp3",
+        "audio/think-jp-transcript/031-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 32,
+      "jp": "毎日(まいにち)少し(すこし)ずつ進む(すすむ)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "每天 一點一點前進",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/032-1-sentence.mp3",
+        "audio/think-jp-transcript/032-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 33,
+      "jp": "長期的(ちょうきてき)な練習(れんしゅう)が必要(ひつよう)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "需要 長期的練習",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/033-1-sentence.mp3",
+        "audio/think-jp-transcript/033-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 34,
+      "jp": "実況中継(じっきょうちゅうけい)をする",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "進行 實況轉播",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/034-1-sentence.mp3",
+        "audio/think-jp-transcript/034-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 35,
+      "jp": "周り(まわり)の物(もの)を説明(せつめい)する",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "說明 周圍的事物",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/035-1-sentence.mp3",
+        "audio/think-jp-transcript/035-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 36,
+      "jp": "日本語(にほんご)で実況(じっきょう)する",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "用日語 進行實況",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/036-1-sentence.mp3",
+        "audio/think-jp-transcript/036-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 37,
+      "jp": "歩き(あるき)ながら独白(どくはく)する",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "邊走路 邊獨白",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/037-1-sentence.mp3",
+        "audio/think-jp-transcript/037-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 38,
+      "jp": "頭の中(あたまのなか)で独り言(ひとりごと)を言う(いう)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "在腦袋裡 說獨白",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/038-1-sentence.mp3",
+        "audio/think-jp-transcript/038-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 39,
+      "jp": "日常(にちじょう)の場面(ばめん)を描写(びょうしゃ)する",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "描述 日常的場景",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/039-1-sentence.mp3",
+        "audio/think-jp-transcript/039-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 40,
+      "jp": "感情(かんじょう)を日本語(にほんご)で表現(ひょうげん)する",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "用日語 表達感情",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/040-1-sentence.mp3",
+        "audio/think-jp-transcript/040-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 41,
+      "jp": "考え(かんがえ)を日本語(にほんご)に変える(かえる)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "把想法 換成日語",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/041-1-sentence.mp3",
+        "audio/think-jp-transcript/041-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 42,
+      "jp": "母国語(ぼこくご)を介さない(かいさない)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "不透過 母語",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/042-1-sentence.mp3",
+        "audio/think-jp-transcript/042-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 43,
+      "jp": "直接(ちょくせつ)日本語(にほんご)で思う(おもう)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "直接 用日語思考",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/043-1-sentence.mp3",
+        "audio/think-jp-transcript/043-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 44,
+      "jp": "言葉(ことば)の選択(せんたく)を素早く(すばやく)する",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "快速地 選擇語言",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/044-1-sentence.mp3",
+        "audio/think-jp-transcript/044-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 45,
+      "jp": "表現(ひょうげん)を瞬時(しゅんじ)に切り替える(きりかえる)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "瞬間地 切換表達",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/045-1-sentence.mp3",
+        "audio/think-jp-transcript/045-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 46,
+      "jp": "語彙(ごい)を文脈(ぶんみゃく)で覚える(おぼえる)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "在語境中 記憶詞彙",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/046-1-sentence.mp3",
+        "audio/think-jp-transcript/046-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 47,
+      "jp": "フレーズ全体(ぜんたい)を覚える(おぼえる)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "記住 整個短語",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/047-1-sentence.mp3",
+        "audio/think-jp-transcript/047-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 48,
+      "jp": "単語(たんご)だけでなく文(ぶん)で学ぶ(まなぶ)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "不只學單字 用句子學",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/048-1-sentence.mp3",
+        "audio/think-jp-transcript/048-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 49,
+      "jp": "実際(じっさい)の会話(かいわ)に近い(ちかい)練習(れんしゅう)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "接近 實際會話的練習",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/049-1-sentence.mp3",
+        "audio/think-jp-transcript/049-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 50,
+      "jp": "ネイティブと同じ(おなじ)感覚(かんかく)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "和母語者 同樣的感覺",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/050-1-sentence.mp3",
+        "audio/think-jp-transcript/050-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 51,
+      "jp": "言語(げんご)の感覚(かんかく)を養う(やしなう)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "培養 語言的感覺",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/051-1-sentence.mp3",
+        "audio/think-jp-transcript/051-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 52,
+      "jp": "自然(しぜん)なリズムを身につける(みにつける)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "習得 自然的節奏",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/052-1-sentence.mp3",
+        "audio/think-jp-transcript/052-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 53,
+      "jp": "文化(ぶんか)的背景(はいけい)を理解(りかい)する",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "理解 文化的背景",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/053-1-sentence.mp3",
+        "audio/think-jp-transcript/053-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 54,
+      "jp": "表現(ひょうげん)の幅(はば)を広げる(ひろげる)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "擴大 表達的範圍",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/054-1-sentence.mp3",
+        "audio/think-jp-transcript/054-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 55,
+      "jp": "同じ(おなじ)意味(いみ)を別(べつ)の言葉(ことば)で",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "用不同的語言 表達同樣意思",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/055-1-sentence.mp3",
+        "audio/think-jp-transcript/055-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 56,
+      "jp": "言い換え(いいかえ)の力(ちから)を鍛える(きたえる)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "鍛鍊 換句話說的能力",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/056-1-sentence.mp3",
+        "audio/think-jp-transcript/056-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 57,
+      "jp": "簡単(かんたん)な言葉(ことば)で説明(せつめい)する",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "用簡單的語言 說明",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/057-1-sentence.mp3",
+        "audio/think-jp-transcript/057-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 58,
+      "jp": "複雑(ふくざつ)な概念(がいねん)を伝える(つたえる)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "傳達 複雜的概念",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/058-1-sentence.mp3",
+        "audio/think-jp-transcript/058-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 59,
+      "jp": "語彙不足(ごいぶそく)を乗り越える(のりこえる)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "克服 詞彙不足",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/059-1-sentence.mp3",
+        "audio/think-jp-transcript/059-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 60,
+      "jp": "創造的(そうぞうてき)に表現(ひょうげん)する",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "創意地 表達",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/060-1-sentence.mp3",
+        "audio/think-jp-transcript/060-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 61,
+      "jp": "知っている言葉(ことば)を組み合わせる(くみあわせる)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "組合 認識的語言",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/061-1-sentence.mp3",
+        "audio/think-jp-transcript/061-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 62,
+      "jp": "インプットの量(りょう)を増やす(ふやす)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "增加 輸入的量",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/062-1-sentence.mp3",
+        "audio/think-jp-transcript/062-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 63,
+      "jp": "質(しつ)の高い(たかい)素材(そざい)を使う(つかう)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "使用 高品質的素材",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/063-1-sentence.mp3",
+        "audio/think-jp-transcript/063-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 64,
+      "jp": "自分(じぶん)のレベルに合った(あった)教材(きょうざい)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "符合 自己程度的教材",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/064-1-sentence.mp3",
+        "audio/think-jp-transcript/064-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 65,
+      "jp": "難しすぎない(むずかしすぎない)内容(ないよう)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "不要太難的 內容",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/065-1-sentence.mp3",
+        "audio/think-jp-transcript/065-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 66,
+      "jp": "理解(りかい)しながら聞く(きく)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "一邊理解 一邊聽",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/066-1-sentence.mp3",
+        "audio/think-jp-transcript/066-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 67,
+      "jp": "文脈(ぶんみゃく)から意味(いみ)を推測(すいそく)する",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "從語境 推測意思",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/067-1-sentence.mp3",
+        "audio/think-jp-transcript/067-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 68,
+      "jp": "繰り返し(くりかえし)聞いて(きいて)慣れる(なれる)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "反覆聽 習慣",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/068-1-sentence.mp3",
+        "audio/think-jp-transcript/068-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 69,
+      "jp": "多様(たよう)な素材(そざい)に触れる(ふれる)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "接觸 多樣的素材",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/069-1-sentence.mp3",
+        "audio/think-jp-transcript/069-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 70,
+      "jp": "ポッドキャストで学ぶ(まなぶ)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "用播客 學習",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/070-1-sentence.mp3",
+        "audio/think-jp-transcript/070-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 71,
+      "jp": "動画(どうが)を活用(かつよう)する",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "活用 影片",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/071-1-sentence.mp3",
+        "audio/think-jp-transcript/071-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 72,
+      "jp": "読書(どくしょ)で語彙(ごい)を増やす(ふやす)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "用讀書 增加詞彙",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/072-1-sentence.mp3",
+        "audio/think-jp-transcript/072-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 73,
+      "jp": "話す(はなす)機会(きかい)を作る(つくる)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "創造 說話的機會",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/073-1-sentence.mp3",
+        "audio/think-jp-transcript/073-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 74,
+      "jp": "録音(ろくおん)して聞き直す(ききなおす)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "錄音 再聽",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/074-1-sentence.mp3",
+        "audio/think-jp-transcript/074-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 75,
+      "jp": "フィードバックをもらう",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "獲得 回饋",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/075-1-sentence.mp3",
+        "audio/think-jp-transcript/075-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 76,
+      "jp": "間違い(まちがい)から学ぶ(まなぶ)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "從錯誤 學習",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/076-1-sentence.mp3",
+        "audio/think-jp-transcript/076-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 77,
+      "jp": "上達(じょうたつ)を実感(じっかん)する",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "切身感受 進步",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/077-1-sentence.mp3",
+        "audio/think-jp-transcript/077-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 78,
+      "jp": "自信(じしん)をつける",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "建立 自信",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/078-1-sentence.mp3",
+        "audio/think-jp-transcript/078-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 79,
+      "jp": "恐れ(おそれ)を乗り越える(のりこえる)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "克服 恐懼",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/079-1-sentence.mp3",
+        "audio/think-jp-transcript/079-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 80,
+      "jp": "挑戦(ちょうせん)することを楽しむ(たのしむ)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "享受 挑戰",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/080-1-sentence.mp3",
+        "audio/think-jp-transcript/080-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 81,
+      "jp": "失敗(しっぱい)を恐れない(おそれない)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "不害怕 失敗",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/081-1-sentence.mp3",
+        "audio/think-jp-transcript/081-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 82,
+      "jp": "ゆっくり着実(ちゃくじつ)に進む(すすむ)",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "緩慢而踏實地 前進",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/082-1-sentence.mp3",
+        "audio/think-jp-transcript/082-2-literal.mp3"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1747 @@
+{
+  "sheet": "日語思考訓練",
+  "slug": "think-jp",
+  "total": 116,
+  "tracks": [
+    {
+      "id": 1,
+      "jp": "踏み固める",
+      "reading": "ふみかためる",
+      "cn": "踩穩、鞏固",
+      "example": "神経回路を踏み固める",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/think-jp/001-1-word.mp3",
+        "audio/think-jp/001-2-meaning.mp3",
+        "audio/think-jp/001-3-example.mp3"
+      ]
+    },
+    {
+      "id": 2,
+      "jp": "鍛える",
+      "reading": "きたえる",
+      "cn": "鍛鍊",
+      "example": "脳を鍛える練習をする",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/think-jp/002-1-word.mp3",
+        "audio/think-jp/002-2-meaning.mp3",
+        "audio/think-jp/002-3-example.mp3"
+      ]
+    },
+    {
+      "id": 3,
+      "jp": "進む",
+      "reading": "すすむ",
+      "cn": "前進、進步",
+      "example": "学習が徐々に進む",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/think-jp/003-1-word.mp3",
+        "audio/think-jp/003-2-meaning.mp3",
+        "audio/think-jp/003-3-example.mp3"
+      ]
+    },
+    {
+      "id": 4,
+      "jp": "育てる",
+      "reading": "そだてる",
+      "cn": "培育",
+      "example": "日本語の感覚を育てる",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/004-1-word.mp3",
+        "audio/think-jp/004-2-meaning.mp3",
+        "audio/think-jp/004-3-example.mp3"
+      ]
+    },
+    {
+      "id": 5,
+      "jp": "使う",
+      "reading": "つかう",
+      "cn": "使用",
+      "example": "毎日日本語を使う",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/think-jp/005-1-word.mp3",
+        "audio/think-jp/005-2-meaning.mp3",
+        "audio/think-jp/005-3-example.mp3"
+      ]
+    },
+    {
+      "id": 6,
+      "jp": "聞く",
+      "reading": "きく",
+      "cn": "聽",
+      "example": "インプットをたくさん聞く",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/think-jp/006-1-word.mp3",
+        "audio/think-jp/006-2-meaning.mp3",
+        "audio/think-jp/006-3-example.mp3"
+      ]
+    },
+    {
+      "id": 7,
+      "jp": "読む",
+      "reading": "よむ",
+      "cn": "閱讀",
+      "example": "日本語の本を読む",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/think-jp/007-1-word.mp3",
+        "audio/think-jp/007-2-meaning.mp3",
+        "audio/think-jp/007-3-example.mp3"
+      ]
+    },
+    {
+      "id": 8,
+      "jp": "話す",
+      "reading": "はなす",
+      "cn": "說話",
+      "example": "自然に話す練習をする",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/think-jp/008-1-word.mp3",
+        "audio/think-jp/008-2-meaning.mp3",
+        "audio/think-jp/008-3-example.mp3"
+      ]
+    },
+    {
+      "id": 9,
+      "jp": "学ぶ",
+      "reading": "まなぶ",
+      "cn": "學習",
+      "example": "文化も一緒に学ぶ",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/009-1-word.mp3",
+        "audio/think-jp/009-2-meaning.mp3",
+        "audio/think-jp/009-3-example.mp3"
+      ]
+    },
+    {
+      "id": 10,
+      "jp": "繰り返す",
+      "reading": "くりかえす",
+      "cn": "反覆",
+      "example": "フレーズを繰り返す",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/010-1-word.mp3",
+        "audio/think-jp/010-2-meaning.mp3",
+        "audio/think-jp/010-3-example.mp3"
+      ]
+    },
+    {
+      "id": 11,
+      "jp": "気づく",
+      "reading": "きづく",
+      "cn": "注意到",
+      "example": "自分の間違いに気づく",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/011-1-word.mp3",
+        "audio/think-jp/011-2-meaning.mp3",
+        "audio/think-jp/011-3-example.mp3"
+      ]
+    },
+    {
+      "id": 12,
+      "jp": "感じる",
+      "reading": "かんじる",
+      "cn": "感受",
+      "example": "日本語で感じる",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/012-1-word.mp3",
+        "audio/think-jp/012-2-meaning.mp3",
+        "audio/think-jp/012-3-example.mp3"
+      ]
+    },
+    {
+      "id": 13,
+      "jp": "考える",
+      "reading": "かんがえる",
+      "cn": "思考",
+      "example": "日本語で考える",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/think-jp/013-1-word.mp3",
+        "audio/think-jp/013-2-meaning.mp3",
+        "audio/think-jp/013-3-example.mp3"
+      ]
+    },
+    {
+      "id": 14,
+      "jp": "歩く",
+      "reading": "あるく",
+      "cn": "走路",
+      "example": "歩きながら独白する",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/think-jp/014-1-word.mp3",
+        "audio/think-jp/014-2-meaning.mp3",
+        "audio/think-jp/014-3-example.mp3"
+      ]
+    },
+    {
+      "id": 15,
+      "jp": "選ぶ",
+      "reading": "えらぶ",
+      "cn": "選擇",
+      "example": "適切な表現を選ぶ",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/015-1-word.mp3",
+        "audio/think-jp/015-2-meaning.mp3",
+        "audio/think-jp/015-3-example.mp3"
+      ]
+    },
+    {
+      "id": 16,
+      "jp": "探す",
+      "reading": "さがす",
+      "cn": "尋找",
+      "example": "正しい言葉を探す",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/think-jp/016-1-word.mp3",
+        "audio/think-jp/016-2-meaning.mp3",
+        "audio/think-jp/016-3-example.mp3"
+      ]
+    },
+    {
+      "id": 17,
+      "jp": "比べる",
+      "reading": "くらべる",
+      "cn": "比較",
+      "example": "母国語と比べない",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/017-1-word.mp3",
+        "audio/think-jp/017-2-meaning.mp3",
+        "audio/think-jp/017-3-example.mp3"
+      ]
+    },
+    {
+      "id": 18,
+      "jp": "追い込む",
+      "reading": "おいこむ",
+      "cn": "逼迫",
+      "example": "自分を追い込まない",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/think-jp/018-1-word.mp3",
+        "audio/think-jp/018-2-meaning.mp3",
+        "audio/think-jp/018-3-example.mp3"
+      ]
+    },
+    {
+      "id": 19,
+      "jp": "掘り下げる",
+      "reading": "ほりさげる",
+      "cn": "深入探討",
+      "example": "テーマを掘り下げる",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/think-jp/019-1-word.mp3",
+        "audio/think-jp/019-2-meaning.mp3",
+        "audio/think-jp/019-3-example.mp3"
+      ]
+    },
+    {
+      "id": 20,
+      "jp": "録音する",
+      "reading": "ろくおんする",
+      "cn": "錄音",
+      "example": "自分の声を録音する",
+      "example_literal": "",
+      "category": "一類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/020-1-word.mp3",
+        "audio/think-jp/020-2-meaning.mp3",
+        "audio/think-jp/020-3-example.mp3"
+      ]
+    },
+    {
+      "id": 21,
+      "jp": "覚える",
+      "reading": "おぼえる",
+      "cn": "記憶",
+      "example": "単語を覚える",
+      "example_literal": "",
+      "category": "二類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/think-jp/021-1-word.mp3",
+        "audio/think-jp/021-2-meaning.mp3",
+        "audio/think-jp/021-3-example.mp3"
+      ]
+    },
+    {
+      "id": 22,
+      "jp": "訓練する",
+      "reading": "くんれんする",
+      "cn": "訓練",
+      "example": "脳を訓練する",
+      "example_literal": "",
+      "category": "二類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/022-1-word.mp3",
+        "audio/think-jp/022-2-meaning.mp3",
+        "audio/think-jp/022-3-example.mp3"
+      ]
+    },
+    {
+      "id": 23,
+      "jp": "消耗する",
+      "reading": "しょうもうする",
+      "cn": "消耗",
+      "example": "エネルギーを消耗する",
+      "example_literal": "",
+      "category": "二類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/think-jp/023-1-word.mp3",
+        "audio/think-jp/023-2-meaning.mp3",
+        "audio/think-jp/023-3-example.mp3"
+      ]
+    },
+    {
+      "id": 24,
+      "jp": "始める",
+      "reading": "はじめる",
+      "cn": "開始",
+      "example": "独白を始める",
+      "example_literal": "",
+      "category": "二類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/think-jp/024-1-word.mp3",
+        "audio/think-jp/024-2-meaning.mp3",
+        "audio/think-jp/024-3-example.mp3"
+      ]
+    },
+    {
+      "id": 25,
+      "jp": "見る",
+      "reading": "みる",
+      "cn": "看",
+      "example": "日本語の動画を見る",
+      "example_literal": "",
+      "category": "二類動詞",
+      "level": "N5",
+      "segments": [
+        "audio/think-jp/025-1-word.mp3",
+        "audio/think-jp/025-2-meaning.mp3",
+        "audio/think-jp/025-3-example.mp3"
+      ]
+    },
+    {
+      "id": 26,
+      "jp": "続ける",
+      "reading": "つづける",
+      "cn": "繼續",
+      "example": "練習を続ける",
+      "example_literal": "",
+      "category": "二類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/026-1-word.mp3",
+        "audio/think-jp/026-2-meaning.mp3",
+        "audio/think-jp/026-3-example.mp3"
+      ]
+    },
+    {
+      "id": 27,
+      "jp": "集中する",
+      "reading": "しゅうちゅうする",
+      "cn": "集中",
+      "example": "インプットに集中する",
+      "example_literal": "",
+      "category": "二類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/027-1-word.mp3",
+        "audio/think-jp/027-2-meaning.mp3",
+        "audio/think-jp/027-3-example.mp3"
+      ]
+    },
+    {
+      "id": 28,
+      "jp": "変える",
+      "reading": "かえる",
+      "cn": "改變",
+      "example": "習慣を変える",
+      "example_literal": "",
+      "category": "二類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/028-1-word.mp3",
+        "audio/think-jp/028-2-meaning.mp3",
+        "audio/think-jp/028-3-example.mp3"
+      ]
+    },
+    {
+      "id": 29,
+      "jp": "教える",
+      "reading": "おしえる",
+      "cn": "教導",
+      "example": "方法を教える",
+      "example_literal": "",
+      "category": "二類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/think-jp/029-1-word.mp3",
+        "audio/think-jp/029-2-meaning.mp3",
+        "audio/think-jp/029-3-example.mp3"
+      ]
+    },
+    {
+      "id": 30,
+      "jp": "起きる",
+      "reading": "おきる",
+      "cn": "發生",
+      "example": "変化が起きる",
+      "example_literal": "",
+      "category": "二類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/think-jp/030-1-word.mp3",
+        "audio/think-jp/030-2-meaning.mp3",
+        "audio/think-jp/030-3-example.mp3"
+      ]
+    },
+    {
+      "id": 31,
+      "jp": "感じる",
+      "reading": "かんじる",
+      "cn": "感受",
+      "example": "流暢さを感じる",
+      "example_literal": "",
+      "category": "二類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/031-1-word.mp3",
+        "audio/think-jp/031-2-meaning.mp3",
+        "audio/think-jp/031-3-example.mp3"
+      ]
+    },
+    {
+      "id": 32,
+      "jp": "理解する",
+      "reading": "りかいする",
+      "cn": "理解",
+      "example": "文脈を理解する",
+      "example_literal": "",
+      "category": "二類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/032-1-word.mp3",
+        "audio/think-jp/032-2-meaning.mp3",
+        "audio/think-jp/032-3-example.mp3"
+      ]
+    },
+    {
+      "id": 33,
+      "jp": "翻訳する",
+      "reading": "ほんやくする",
+      "cn": "翻譯",
+      "example": "頭の中で翻訳しない",
+      "example_literal": "",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/033-1-word.mp3",
+        "audio/think-jp/033-2-meaning.mp3",
+        "audio/think-jp/033-3-example.mp3"
+      ]
+    },
+    {
+      "id": 34,
+      "jp": "練習する",
+      "reading": "れんしゅうする",
+      "cn": "練習",
+      "example": "毎日練習する",
+      "example_literal": "",
+      "category": "三類動詞",
+      "level": "N4",
+      "segments": [
+        "audio/think-jp/034-1-word.mp3",
+        "audio/think-jp/034-2-meaning.mp3",
+        "audio/think-jp/034-3-example.mp3"
+      ]
+    },
+    {
+      "id": 35,
+      "jp": "インプットする",
+      "reading": "",
+      "cn": "輸入（學習素材）",
+      "example": "良質なインプットをする",
+      "example_literal": "",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/035-1-word.mp3",
+        "audio/think-jp/035-2-meaning.mp3",
+        "audio/think-jp/035-3-example.mp3"
+      ]
+    },
+    {
+      "id": 36,
+      "jp": "シャドーイングする",
+      "reading": "",
+      "cn": "跟讀練習",
+      "example": "ポッドキャストをシャドーイングする",
+      "example_literal": "",
+      "category": "三類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/think-jp/036-1-word.mp3",
+        "audio/think-jp/036-2-meaning.mp3",
+        "audio/think-jp/036-3-example.mp3"
+      ]
+    },
+    {
+      "id": 37,
+      "jp": "録音する",
+      "reading": "ろくおんする",
+      "cn": "錄音",
+      "example": "自分の発音を録音する",
+      "example_literal": "",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/037-1-word.mp3",
+        "audio/think-jp/037-2-meaning.mp3",
+        "audio/think-jp/037-3-example.mp3"
+      ]
+    },
+    {
+      "id": 38,
+      "jp": "コミュニケーションする",
+      "reading": "",
+      "cn": "溝通",
+      "example": "ネイティブとコミュニケーションする",
+      "example_literal": "",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/038-1-word.mp3",
+        "audio/think-jp/038-2-meaning.mp3",
+        "audio/think-jp/038-3-example.mp3"
+      ]
+    },
+    {
+      "id": 39,
+      "jp": "理解する",
+      "reading": "りかいする",
+      "cn": "理解",
+      "example": "文章を理解する",
+      "example_literal": "",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/039-1-word.mp3",
+        "audio/think-jp/039-2-meaning.mp3",
+        "audio/think-jp/039-3-example.mp3"
+      ]
+    },
+    {
+      "id": 40,
+      "jp": "集中する",
+      "reading": "しゅうちゅうする",
+      "cn": "集中",
+      "example": "一つのことに集中する",
+      "example_literal": "",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/040-1-word.mp3",
+        "audio/think-jp/040-2-meaning.mp3",
+        "audio/think-jp/040-3-example.mp3"
+      ]
+    },
+    {
+      "id": 41,
+      "jp": "注目する",
+      "reading": "ちゅうもくする",
+      "cn": "注目",
+      "example": "重要な点に注目する",
+      "example_literal": "",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/041-1-word.mp3",
+        "audio/think-jp/041-2-meaning.mp3",
+        "audio/think-jp/041-3-example.mp3"
+      ]
+    },
+    {
+      "id": 42,
+      "jp": "活性化する",
+      "reading": "かっせいかする",
+      "cn": "活化",
+      "example": "神経回路を活性化する",
+      "example_literal": "",
+      "category": "三類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/think-jp/042-1-word.mp3",
+        "audio/think-jp/042-2-meaning.mp3",
+        "audio/think-jp/042-3-example.mp3"
+      ]
+    },
+    {
+      "id": 43,
+      "jp": "探求する",
+      "reading": "たんきゅうする",
+      "cn": "探求",
+      "example": "言語の深みを探求する",
+      "example_literal": "",
+      "category": "三類動詞",
+      "level": "N2",
+      "segments": [
+        "audio/think-jp/043-1-word.mp3",
+        "audio/think-jp/043-2-meaning.mp3",
+        "audio/think-jp/043-3-example.mp3"
+      ]
+    },
+    {
+      "id": 44,
+      "jp": "意識する",
+      "reading": "いしきする",
+      "cn": "意識",
+      "example": "発音を意識する",
+      "example_literal": "",
+      "category": "三類動詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/044-1-word.mp3",
+        "audio/think-jp/044-2-meaning.mp3",
+        "audio/think-jp/044-3-example.mp3"
+      ]
+    },
+    {
+      "id": 45,
+      "jp": "神経回路",
+      "reading": "しんけいかいろ",
+      "cn": "神經回路",
+      "example": "神経回路を踏み固める",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N2",
+      "segments": [
+        "audio/think-jp/045-1-word.mp3",
+        "audio/think-jp/045-2-meaning.mp3",
+        "audio/think-jp/045-3-example.mp3"
+      ]
+    },
+    {
+      "id": 46,
+      "jp": "翻訳",
+      "reading": "ほんやく",
+      "cn": "翻譯",
+      "example": "頭の中での翻訳を避ける",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/046-1-word.mp3",
+        "audio/think-jp/046-2-meaning.mp3",
+        "audio/think-jp/046-3-example.mp3"
+      ]
+    },
+    {
+      "id": 47,
+      "jp": "母国語",
+      "reading": "ぼこくご",
+      "cn": "母語",
+      "example": "母国語を介さずに考える",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/047-1-word.mp3",
+        "audio/think-jp/047-2-meaning.mp3",
+        "audio/think-jp/047-3-example.mp3"
+      ]
+    },
+    {
+      "id": 48,
+      "jp": "学習者",
+      "reading": "がくしゅうしゃ",
+      "cn": "學習者",
+      "example": "多くの学習者が苦労する",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/048-1-word.mp3",
+        "audio/think-jp/048-2-meaning.mp3",
+        "audio/think-jp/048-3-example.mp3"
+      ]
+    },
+    {
+      "id": 49,
+      "jp": "経路",
+      "reading": "けいろ",
+      "cn": "路徑",
+      "example": "脳内の経路を作る",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N2",
+      "segments": [
+        "audio/think-jp/049-1-word.mp3",
+        "audio/think-jp/049-2-meaning.mp3",
+        "audio/think-jp/049-3-example.mp3"
+      ]
+    },
+    {
+      "id": 50,
+      "jp": "独白",
+      "reading": "どくはく",
+      "cn": "獨白",
+      "example": "うちなる独白の練習",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N2",
+      "segments": [
+        "audio/think-jp/050-1-word.mp3",
+        "audio/think-jp/050-2-meaning.mp3",
+        "audio/think-jp/050-3-example.mp3"
+      ]
+    },
+    {
+      "id": 51,
+      "jp": "実況中継",
+      "reading": "じっきょうちゅうけい",
+      "cn": "實況轉播",
+      "example": "頭の中で実況中継する",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N2",
+      "segments": [
+        "audio/think-jp/051-1-word.mp3",
+        "audio/think-jp/051-2-meaning.mp3",
+        "audio/think-jp/051-3-example.mp3"
+      ]
+    },
+    {
+      "id": 52,
+      "jp": "流暢さ",
+      "reading": "りゅうちょうさ",
+      "cn": "流暢度",
+      "example": "流暢さを高める",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N2",
+      "segments": [
+        "audio/think-jp/052-1-word.mp3",
+        "audio/think-jp/052-2-meaning.mp3",
+        "audio/think-jp/052-3-example.mp3"
+      ]
+    },
+    {
+      "id": 53,
+      "jp": "インプット",
+      "reading": "",
+      "cn": "輸入、學習素材",
+      "example": "質の高いインプット",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/053-1-word.mp3",
+        "audio/think-jp/053-2-meaning.mp3",
+        "audio/think-jp/053-3-example.mp3"
+      ]
+    },
+    {
+      "id": 54,
+      "jp": "アウトプット",
+      "reading": "",
+      "cn": "輸出、表達",
+      "example": "アウトプットの機会を増やす",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/054-1-word.mp3",
+        "audio/think-jp/054-2-meaning.mp3",
+        "audio/think-jp/054-3-example.mp3"
+      ]
+    },
+    {
+      "id": 55,
+      "jp": "シャドーイング",
+      "reading": "",
+      "cn": "跟讀法",
+      "example": "シャドーイングの効果",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N2",
+      "segments": [
+        "audio/think-jp/055-1-word.mp3",
+        "audio/think-jp/055-2-meaning.mp3",
+        "audio/think-jp/055-3-example.mp3"
+      ]
+    },
+    {
+      "id": 56,
+      "jp": "反復",
+      "reading": "はんぷく",
+      "cn": "反覆",
+      "example": "反復練習が大切だ",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/056-1-word.mp3",
+        "audio/think-jp/056-2-meaning.mp3",
+        "audio/think-jp/056-3-example.mp3"
+      ]
+    },
+    {
+      "id": 57,
+      "jp": "活性化",
+      "reading": "かっせいか",
+      "cn": "活化",
+      "example": "脳の活性化を促す",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N2",
+      "segments": [
+        "audio/think-jp/057-1-word.mp3",
+        "audio/think-jp/057-2-meaning.mp3",
+        "audio/think-jp/057-3-example.mp3"
+      ]
+    },
+    {
+      "id": 58,
+      "jp": "感情",
+      "reading": "かんじょう",
+      "cn": "感情",
+      "example": "感情と結びつけて覚える",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/058-1-word.mp3",
+        "audio/think-jp/058-2-meaning.mp3",
+        "audio/think-jp/058-3-example.mp3"
+      ]
+    },
+    {
+      "id": 59,
+      "jp": "メンタルブロック",
+      "reading": "",
+      "cn": "心理障礙",
+      "example": "メンタルブロックを外す",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N2",
+      "segments": [
+        "audio/think-jp/059-1-word.mp3",
+        "audio/think-jp/059-2-meaning.mp3",
+        "audio/think-jp/059-3-example.mp3"
+      ]
+    },
+    {
+      "id": 60,
+      "jp": "プラトー",
+      "reading": "",
+      "cn": "停滯期",
+      "example": "プラトーを乗り越える",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N2",
+      "segments": [
+        "audio/think-jp/060-1-word.mp3",
+        "audio/think-jp/060-2-meaning.mp3",
+        "audio/think-jp/060-3-example.mp3"
+      ]
+    },
+    {
+      "id": 61,
+      "jp": "一貫性",
+      "reading": "いっかんせい",
+      "cn": "一貫性",
+      "example": "一貫性のある練習",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N2",
+      "segments": [
+        "audio/think-jp/061-1-word.mp3",
+        "audio/think-jp/061-2-meaning.mp3",
+        "audio/think-jp/061-3-example.mp3"
+      ]
+    },
+    {
+      "id": 62,
+      "jp": "知識",
+      "reading": "ちしき",
+      "cn": "知識",
+      "example": "文法知識を活用する",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/062-1-word.mp3",
+        "audio/think-jp/062-2-meaning.mp3",
+        "audio/think-jp/062-3-example.mp3"
+      ]
+    },
+    {
+      "id": 63,
+      "jp": "言い換え",
+      "reading": "いいかえ",
+      "cn": "換個說法",
+      "example": "頭の中の言い換え練習",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N2",
+      "segments": [
+        "audio/think-jp/063-1-word.mp3",
+        "audio/think-jp/063-2-meaning.mp3",
+        "audio/think-jp/063-3-example.mp3"
+      ]
+    },
+    {
+      "id": 64,
+      "jp": "理解可能",
+      "reading": "りかいかのう",
+      "cn": "可理解的",
+      "example": "理解可能なインプット",
+      "example_literal": "",
+      "category": "名詞",
+      "level": "N2",
+      "segments": [
+        "audio/think-jp/064-1-word.mp3",
+        "audio/think-jp/064-2-meaning.mp3",
+        "audio/think-jp/064-3-example.mp3"
+      ]
+    },
+    {
+      "id": 65,
+      "jp": "自然（な）",
+      "reading": "しぜん",
+      "cn": "自然的",
+      "example": "自然な日本語を使う",
+      "example_literal": "",
+      "category": "な形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/think-jp/065-1-word.mp3",
+        "audio/think-jp/065-2-meaning.mp3",
+        "audio/think-jp/065-3-example.mp3"
+      ]
+    },
+    {
+      "id": 66,
+      "jp": "積極的（な）",
+      "reading": "せっきょくてき",
+      "cn": "積極的",
+      "example": "積極的に話す",
+      "example_literal": "",
+      "category": "な形容詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/066-1-word.mp3",
+        "audio/think-jp/066-2-meaning.mp3",
+        "audio/think-jp/066-3-example.mp3"
+      ]
+    },
+    {
+      "id": 67,
+      "jp": "効果的（な）",
+      "reading": "こうかてき",
+      "cn": "有效的",
+      "example": "効果的な学習方法",
+      "example_literal": "",
+      "category": "な形容詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/067-1-word.mp3",
+        "audio/think-jp/067-2-meaning.mp3",
+        "audio/think-jp/067-3-example.mp3"
+      ]
+    },
+    {
+      "id": 68,
+      "jp": "具体的（な）",
+      "reading": "ぐたいてき",
+      "cn": "具體的",
+      "example": "具体的な練習方法",
+      "example_literal": "",
+      "category": "な形容詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/068-1-word.mp3",
+        "audio/think-jp/068-2-meaning.mp3",
+        "audio/think-jp/068-3-example.mp3"
+      ]
+    },
+    {
+      "id": 69,
+      "jp": "重要（な）",
+      "reading": "じゅうよう",
+      "cn": "重要的",
+      "example": "継続が重要だ",
+      "example_literal": "",
+      "category": "な形容詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/069-1-word.mp3",
+        "audio/think-jp/069-2-meaning.mp3",
+        "audio/think-jp/069-3-example.mp3"
+      ]
+    },
+    {
+      "id": 70,
+      "jp": "様々（な）",
+      "reading": "さまざま",
+      "cn": "各式各樣",
+      "example": "様々な学習戦略",
+      "example_literal": "",
+      "category": "な形容詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/070-1-word.mp3",
+        "audio/think-jp/070-2-meaning.mp3",
+        "audio/think-jp/070-3-example.mp3"
+      ]
+    },
+    {
+      "id": 71,
+      "jp": "安全（な）",
+      "reading": "あんぜん",
+      "cn": "安全的",
+      "example": "安全な練習環境",
+      "example_literal": "",
+      "category": "な形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/think-jp/071-1-word.mp3",
+        "audio/think-jp/071-2-meaning.mp3",
+        "audio/think-jp/071-3-example.mp3"
+      ]
+    },
+    {
+      "id": 72,
+      "jp": "明確（な）",
+      "reading": "めいかく",
+      "cn": "明確的",
+      "example": "明確な目標を持つ",
+      "example_literal": "",
+      "category": "な形容詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/072-1-word.mp3",
+        "audio/think-jp/072-2-meaning.mp3",
+        "audio/think-jp/072-3-example.mp3"
+      ]
+    },
+    {
+      "id": 73,
+      "jp": "可能（な）",
+      "reading": "かのう",
+      "cn": "可能的",
+      "example": "誰でも可能な方法",
+      "example_literal": "",
+      "category": "な形容詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/073-1-word.mp3",
+        "audio/think-jp/073-2-meaning.mp3",
+        "audio/think-jp/073-3-example.mp3"
+      ]
+    },
+    {
+      "id": 74,
+      "jp": "流暢（な）",
+      "reading": "りゅうちょう",
+      "cn": "流暢的",
+      "example": "流暢な会話を目指す",
+      "example_literal": "",
+      "category": "な形容詞",
+      "level": "N2",
+      "segments": [
+        "audio/think-jp/074-1-word.mp3",
+        "audio/think-jp/074-2-meaning.mp3",
+        "audio/think-jp/074-3-example.mp3"
+      ]
+    },
+    {
+      "id": 75,
+      "jp": "適切（な）",
+      "reading": "てきせつ",
+      "cn": "適切的",
+      "example": "適切な教材を選ぶ",
+      "example_literal": "",
+      "category": "な形容詞",
+      "level": "N2",
+      "segments": [
+        "audio/think-jp/075-1-word.mp3",
+        "audio/think-jp/075-2-meaning.mp3",
+        "audio/think-jp/075-3-example.mp3"
+      ]
+    },
+    {
+      "id": 76,
+      "jp": "複雑（な）",
+      "reading": "ふくざつ",
+      "cn": "複雜的",
+      "example": "複雑な文法も覚えられる",
+      "example_literal": "",
+      "category": "な形容詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/076-1-word.mp3",
+        "audio/think-jp/076-2-meaning.mp3",
+        "audio/think-jp/076-3-example.mp3"
+      ]
+    },
+    {
+      "id": 77,
+      "jp": "難しい",
+      "reading": "むずかしい",
+      "cn": "困難的",
+      "example": "翻訳なしで話すのは難しい",
+      "example_literal": "",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/think-jp/077-1-word.mp3",
+        "audio/think-jp/077-2-meaning.mp3",
+        "audio/think-jp/077-3-example.mp3"
+      ]
+    },
+    {
+      "id": 78,
+      "jp": "早い",
+      "reading": "はやい",
+      "cn": "快速的",
+      "example": "早い上達を目指す",
+      "example_literal": "",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/think-jp/078-1-word.mp3",
+        "audio/think-jp/078-2-meaning.mp3",
+        "audio/think-jp/078-3-example.mp3"
+      ]
+    },
+    {
+      "id": 79,
+      "jp": "遅い",
+      "reading": "おそい",
+      "cn": "緩慢的",
+      "example": "進歩が遅いと感じる",
+      "example_literal": "",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/think-jp/079-1-word.mp3",
+        "audio/think-jp/079-2-meaning.mp3",
+        "audio/think-jp/079-3-example.mp3"
+      ]
+    },
+    {
+      "id": 80,
+      "jp": "強い",
+      "reading": "つよい",
+      "cn": "強的",
+      "example": "強い習慣を作る",
+      "example_literal": "",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/think-jp/080-1-word.mp3",
+        "audio/think-jp/080-2-meaning.mp3",
+        "audio/think-jp/080-3-example.mp3"
+      ]
+    },
+    {
+      "id": 81,
+      "jp": "恥ずかしい",
+      "reading": "はずかしい",
+      "cn": "害羞的",
+      "example": "間違えるのが恥ずかしい",
+      "example_literal": "",
+      "category": "い形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/think-jp/081-1-word.mp3",
+        "audio/think-jp/081-2-meaning.mp3",
+        "audio/think-jp/081-3-example.mp3"
+      ]
+    },
+    {
+      "id": 82,
+      "jp": "良い",
+      "reading": "よい",
+      "cn": "好的",
+      "example": "良いインプットを選ぶ",
+      "example_literal": "",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/think-jp/082-1-word.mp3",
+        "audio/think-jp/082-2-meaning.mp3",
+        "audio/think-jp/082-3-example.mp3"
+      ]
+    },
+    {
+      "id": 83,
+      "jp": "楽しい",
+      "reading": "たのしい",
+      "cn": "快樂的",
+      "example": "楽しく学ぶことが大切",
+      "example_literal": "",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/think-jp/083-1-word.mp3",
+        "audio/think-jp/083-2-meaning.mp3",
+        "audio/think-jp/083-3-example.mp3"
+      ]
+    },
+    {
+      "id": 84,
+      "jp": "面白い",
+      "reading": "おもしろい",
+      "cn": "有趣的",
+      "example": "面白い教材を使う",
+      "example_literal": "",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/think-jp/084-1-word.mp3",
+        "audio/think-jp/084-2-meaning.mp3",
+        "audio/think-jp/084-3-example.mp3"
+      ]
+    },
+    {
+      "id": 85,
+      "jp": "厳しい",
+      "reading": "きびしい",
+      "cn": "嚴格的",
+      "example": "自分に厳しい練習をする",
+      "example_literal": "",
+      "category": "い形容詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/085-1-word.mp3",
+        "audio/think-jp/085-2-meaning.mp3",
+        "audio/think-jp/085-3-example.mp3"
+      ]
+    },
+    {
+      "id": 86,
+      "jp": "適切な",
+      "reading": "てきせつな",
+      "cn": "適當的",
+      "example": "適切な方法を使う",
+      "example_literal": "",
+      "category": "い形容詞",
+      "level": "N2",
+      "segments": [
+        "audio/think-jp/086-1-word.mp3",
+        "audio/think-jp/086-2-meaning.mp3",
+        "audio/think-jp/086-3-example.mp3"
+      ]
+    },
+    {
+      "id": 87,
+      "jp": "長い",
+      "reading": "ながい",
+      "cn": "長的",
+      "example": "長い文を理解する",
+      "example_literal": "",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/think-jp/087-1-word.mp3",
+        "audio/think-jp/087-2-meaning.mp3",
+        "audio/think-jp/087-3-example.mp3"
+      ]
+    },
+    {
+      "id": 88,
+      "jp": "短い",
+      "reading": "みじかい",
+      "cn": "短的",
+      "example": "短いフレーズから始める",
+      "example_literal": "",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/think-jp/088-1-word.mp3",
+        "audio/think-jp/088-2-meaning.mp3",
+        "audio/think-jp/088-3-example.mp3"
+      ]
+    },
+    {
+      "id": 89,
+      "jp": "自然な",
+      "reading": "しぜんな",
+      "cn": "自然的",
+      "example": "自然な反応をする",
+      "example_literal": "",
+      "category": "い形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/think-jp/089-1-word.mp3",
+        "audio/think-jp/089-2-meaning.mp3",
+        "audio/think-jp/089-3-example.mp3"
+      ]
+    },
+    {
+      "id": 90,
+      "jp": "正しい",
+      "reading": "ただしい",
+      "cn": "正確的",
+      "example": "正しい発音を身につける",
+      "example_literal": "",
+      "category": "い形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/think-jp/090-1-word.mp3",
+        "audio/think-jp/090-2-meaning.mp3",
+        "audio/think-jp/090-3-example.mp3"
+      ]
+    },
+    {
+      "id": 91,
+      "jp": "新しい",
+      "reading": "あたらしい",
+      "cn": "新的",
+      "example": "新しい表現を覚える",
+      "example_literal": "",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/think-jp/091-1-word.mp3",
+        "audio/think-jp/091-2-meaning.mp3",
+        "audio/think-jp/091-3-example.mp3"
+      ]
+    },
+    {
+      "id": 92,
+      "jp": "多い",
+      "reading": "おおい",
+      "cn": "多的",
+      "example": "インプットが多い",
+      "example_literal": "",
+      "category": "い形容詞",
+      "level": "N5",
+      "segments": [
+        "audio/think-jp/092-1-word.mp3",
+        "audio/think-jp/092-2-meaning.mp3",
+        "audio/think-jp/092-3-example.mp3"
+      ]
+    },
+    {
+      "id": 93,
+      "jp": "少ない",
+      "reading": "すくない",
+      "cn": "少的",
+      "example": "練習時間が少ない",
+      "example_literal": "",
+      "category": "い形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/think-jp/093-1-word.mp3",
+        "audio/think-jp/093-2-meaning.mp3",
+        "audio/think-jp/093-3-example.mp3"
+      ]
+    },
+    {
+      "id": 94,
+      "jp": "明るい",
+      "reading": "あかるい",
+      "cn": "明亮的",
+      "example": "明るい声で話す",
+      "example_literal": "",
+      "category": "い形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/think-jp/094-1-word.mp3",
+        "audio/think-jp/094-2-meaning.mp3",
+        "audio/think-jp/094-3-example.mp3"
+      ]
+    },
+    {
+      "id": 95,
+      "jp": "大切な",
+      "reading": "たいせつな",
+      "cn": "重要的",
+      "example": "継続が大切だ",
+      "example_literal": "",
+      "category": "い形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/think-jp/095-1-word.mp3",
+        "audio/think-jp/095-2-meaning.mp3",
+        "audio/think-jp/095-3-example.mp3"
+      ]
+    },
+    {
+      "id": 96,
+      "jp": "深い",
+      "reading": "ふかい",
+      "cn": "深的",
+      "example": "深い理解が必要だ",
+      "example_literal": "",
+      "category": "い形容詞",
+      "level": "N4",
+      "segments": [
+        "audio/think-jp/096-1-word.mp3",
+        "audio/think-jp/096-2-meaning.mp3",
+        "audio/think-jp/096-3-example.mp3"
+      ]
+    },
+    {
+      "id": 97,
+      "jp": "自動的に",
+      "reading": "じどうてきに",
+      "cn": "自動地",
+      "example": "自動的に日本語が出てくる",
+      "example_literal": "",
+      "category": "副詞",
+      "level": "N2",
+      "segments": [
+        "audio/think-jp/097-1-word.mp3",
+        "audio/think-jp/097-2-meaning.mp3",
+        "audio/think-jp/097-3-example.mp3"
+      ]
+    },
+    {
+      "id": 98,
+      "jp": "徐々に",
+      "reading": "じょじょに",
+      "cn": "漸漸地",
+      "example": "徐々に上達する",
+      "example_literal": "",
+      "category": "副詞",
+      "level": "N2",
+      "segments": [
+        "audio/think-jp/098-1-word.mp3",
+        "audio/think-jp/098-2-meaning.mp3",
+        "audio/think-jp/098-3-example.mp3"
+      ]
+    },
+    {
+      "id": 99,
+      "jp": "積極的に",
+      "reading": "せっきょくてきに",
+      "cn": "積極地",
+      "example": "積極的に話す",
+      "example_literal": "",
+      "category": "副詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/099-1-word.mp3",
+        "audio/think-jp/099-2-meaning.mp3",
+        "audio/think-jp/099-3-example.mp3"
+      ]
+    },
+    {
+      "id": 100,
+      "jp": "常に",
+      "reading": "つねに",
+      "cn": "常常",
+      "example": "常に日本語で考える",
+      "example_literal": "",
+      "category": "副詞",
+      "level": "N2",
+      "segments": [
+        "audio/think-jp/100-1-word.mp3",
+        "audio/think-jp/100-2-meaning.mp3",
+        "audio/think-jp/100-3-example.mp3"
+      ]
+    },
+    {
+      "id": 101,
+      "jp": "自然に",
+      "reading": "しぜんに",
+      "cn": "自然地",
+      "example": "自然に言葉が出てくる",
+      "example_literal": "",
+      "category": "副詞",
+      "level": "N4",
+      "segments": [
+        "audio/think-jp/101-1-word.mp3",
+        "audio/think-jp/101-2-meaning.mp3",
+        "audio/think-jp/101-3-example.mp3"
+      ]
+    },
+    {
+      "id": 102,
+      "jp": "頻繁に",
+      "reading": "ひんぱんに",
+      "cn": "頻繁地",
+      "example": "頻繁に練習する",
+      "example_literal": "",
+      "category": "副詞",
+      "level": "N2",
+      "segments": [
+        "audio/think-jp/102-1-word.mp3",
+        "audio/think-jp/102-2-meaning.mp3",
+        "audio/think-jp/102-3-example.mp3"
+      ]
+    },
+    {
+      "id": 103,
+      "jp": "一貫して",
+      "reading": "いっかんして",
+      "cn": "一貫地",
+      "example": "一貫して練習を続ける",
+      "example_literal": "",
+      "category": "副詞",
+      "level": "N2",
+      "segments": [
+        "audio/think-jp/103-1-word.mp3",
+        "audio/think-jp/103-2-meaning.mp3",
+        "audio/think-jp/103-3-example.mp3"
+      ]
+    },
+    {
+      "id": 104,
+      "jp": "徐々に",
+      "reading": "じょじょに",
+      "cn": "逐漸",
+      "example": "徐々に翻訳が減る",
+      "example_literal": "",
+      "category": "副詞",
+      "level": "N2",
+      "segments": [
+        "audio/think-jp/104-1-word.mp3",
+        "audio/think-jp/104-2-meaning.mp3",
+        "audio/think-jp/104-3-example.mp3"
+      ]
+    },
+    {
+      "id": 105,
+      "jp": "意識的に",
+      "reading": "いしきてきに",
+      "cn": "有意識地",
+      "example": "意識的に練習する",
+      "example_literal": "",
+      "category": "副詞",
+      "level": "N2",
+      "segments": [
+        "audio/think-jp/105-1-word.mp3",
+        "audio/think-jp/105-2-meaning.mp3",
+        "audio/think-jp/105-3-example.mp3"
+      ]
+    },
+    {
+      "id": 106,
+      "jp": "無意識に",
+      "reading": "むいしきに",
+      "cn": "無意識地",
+      "example": "無意識に話せるようになる",
+      "example_literal": "",
+      "category": "副詞",
+      "level": "N2",
+      "segments": [
+        "audio/think-jp/106-1-word.mp3",
+        "audio/think-jp/106-2-meaning.mp3",
+        "audio/think-jp/106-3-example.mp3"
+      ]
+    },
+    {
+      "id": 107,
+      "jp": "実際に",
+      "reading": "じっさいに",
+      "cn": "實際上",
+      "example": "実際に使ってみる",
+      "example_literal": "",
+      "category": "副詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/107-1-word.mp3",
+        "audio/think-jp/107-2-meaning.mp3",
+        "audio/think-jp/107-3-example.mp3"
+      ]
+    },
+    {
+      "id": 108,
+      "jp": "特に",
+      "reading": "とくに",
+      "cn": "特別是",
+      "example": "発音に特に注意する",
+      "example_literal": "",
+      "category": "副詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/108-1-word.mp3",
+        "audio/think-jp/108-2-meaning.mp3",
+        "audio/think-jp/108-3-example.mp3"
+      ]
+    },
+    {
+      "id": 109,
+      "jp": "すでに",
+      "reading": "すでに",
+      "cn": "已經",
+      "example": "すでに上達している",
+      "example_literal": "",
+      "category": "副詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/109-1-word.mp3",
+        "audio/think-jp/109-2-meaning.mp3",
+        "audio/think-jp/109-3-example.mp3"
+      ]
+    },
+    {
+      "id": 110,
+      "jp": "まず",
+      "reading": "まず",
+      "cn": "首先",
+      "example": "まず聞くことから始める",
+      "example_literal": "",
+      "category": "副詞",
+      "level": "N4",
+      "segments": [
+        "audio/think-jp/110-1-word.mp3",
+        "audio/think-jp/110-2-meaning.mp3",
+        "audio/think-jp/110-3-example.mp3"
+      ]
+    },
+    {
+      "id": 111,
+      "jp": "だんだん",
+      "reading": "だんだん",
+      "cn": "漸漸",
+      "example": "だんだん上手になる",
+      "example_literal": "",
+      "category": "副詞",
+      "level": "N4",
+      "segments": [
+        "audio/think-jp/111-1-word.mp3",
+        "audio/think-jp/111-2-meaning.mp3",
+        "audio/think-jp/111-3-example.mp3"
+      ]
+    },
+    {
+      "id": 112,
+      "jp": "ついに",
+      "reading": "ついに",
+      "cn": "終於",
+      "example": "ついに流暢になった",
+      "example_literal": "",
+      "category": "副詞",
+      "level": "N3",
+      "segments": [
+        "audio/think-jp/112-1-word.mp3",
+        "audio/think-jp/112-2-meaning.mp3",
+        "audio/think-jp/112-3-example.mp3"
+      ]
+    },
+    {
+      "id": 113,
+      "jp": "もっと",
+      "reading": "もっと",
+      "cn": "更加",
+      "example": "もっと練習したい",
+      "example_literal": "",
+      "category": "副詞",
+      "level": "N5",
+      "segments": [
+        "audio/think-jp/113-1-word.mp3",
+        "audio/think-jp/113-2-meaning.mp3",
+        "audio/think-jp/113-3-example.mp3"
+      ]
+    },
+    {
+      "id": 114,
+      "jp": "すぐに",
+      "reading": "すぐに",
+      "cn": "馬上",
+      "example": "すぐに返事できる",
+      "example_literal": "",
+      "category": "副詞",
+      "level": "N4",
+      "segments": [
+        "audio/think-jp/114-1-word.mp3",
+        "audio/think-jp/114-2-meaning.mp3",
+        "audio/think-jp/114-3-example.mp3"
+      ]
+    },
+    {
+      "id": 115,
+      "jp": "ゆっくり",
+      "reading": "ゆっくり",
+      "cn": "慢慢地",
+      "example": "ゆっくり話す",
+      "example_literal": "",
+      "category": "副詞",
+      "level": "N5",
+      "segments": [
+        "audio/think-jp/115-1-word.mp3",
+        "audio/think-jp/115-2-meaning.mp3",
+        "audio/think-jp/115-3-example.mp3"
+      ]
+    },
+    {
+      "id": 116,
+      "jp": "絶えず",
+      "reading": "たえず",
+      "cn": "不斷地",
+      "example": "絶えず練習を続ける",
+      "example_literal": "",
+      "category": "副詞",
+      "level": "N2",
+      "segments": [
+        "audio/think-jp/116-1-word.mp3",
+        "audio/think-jp/116-2-meaning.mp3",
+        "audio/think-jp/116-3-example.mp3"
+      ]
+    }
+  ]
+}
