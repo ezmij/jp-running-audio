@@ -40,6 +40,7 @@ const state = {
   segmentTimer: null,
   activeSegments: [],
   settings: loadSettings(),
+  transcriptFontSize: parseInt(localStorage.getItem("transcriptFontSize")) || 22,
 };
 
 const $ = (id) => document.getElementById(id);
@@ -331,6 +332,16 @@ function bindEvents() {
     updateModeIndicator();
   });
   $("speed-btn").addEventListener("click", cycleSpeed);
+  $("font-smaller-btn").addEventListener("click", () => {
+    state.transcriptFontSize = Math.max(14, state.transcriptFontSize - 2);
+    localStorage.setItem("transcriptFontSize", state.transcriptFontSize);
+    applyJpFontSize();
+  });
+  $("font-larger-btn").addEventListener("click", () => {
+    state.transcriptFontSize = Math.min(44, state.transcriptFontSize + 2);
+    localStorage.setItem("transcriptFontSize", state.transcriptFontSize);
+    applyJpFontSize();
+  });
 
   $("settings-back-btn").addEventListener("click", () => {
     $("settings").classList.remove("active");
@@ -488,6 +499,9 @@ function startPlaying() {
   $("settings").classList.remove("active");
   $("player").classList.add("active");
   updateModeIndicator();
+  const isTranscript = state.currentSheet?.schema === "transcript";
+  $("font-smaller-btn").hidden = !isTranscript;
+  $("font-larger-btn").hidden = !isTranscript;
   setupSlider();
   renderTrack();
   playCurrent();
@@ -505,6 +519,8 @@ function goHome() {
   $("player").classList.remove("active");
   $("settings").classList.remove("active");
   $("home").classList.add("active");
+  $("font-smaller-btn").hidden = true;
+  $("font-larger-btn").hidden = true;
 }
 
 function updateModeIndicator() {
@@ -530,6 +546,20 @@ function cycleSpeed() {
   updateSpeedIndicator();
 }
 
+// ----- Font size -----
+
+function applyJpFontSize() {
+  const isTranscript = state.currentSheet?.schema === "transcript";
+  const jpEl = $("jp");
+  if (isTranscript) {
+    jpEl.style.fontSize = state.transcriptFontSize + "px";
+    jpEl.style.lineHeight = "1.5";
+  } else {
+    jpEl.style.fontSize = "";
+    jpEl.style.lineHeight = "";
+  }
+}
+
 // ----- Rendering -----
 
 function currentTrack() {
@@ -542,8 +572,11 @@ function renderTrack() {
   $("sheet-title").textContent = state.currentSheet.sheet;
   $("position").textContent = `${state.currentTrackIdx + 1} / ${state.currentSheet.total}`;
   setField("category", [t.category, t.level].filter(Boolean).join(" · "));
-  setField("jp", t.jp);
-  setField("reading", t.reading && t.reading !== t.jp ? t.reading : "");
+  const isTranscript = state.currentSheet?.schema === "transcript";
+  const jpText = isTranscript ? t.jp.replace(/\([^)]*\)|（[^）]*）/g, "").trim() : t.jp;
+  setField("jp", jpText);
+  applyJpFontSize();
+  setField("reading", (!isTranscript && t.reading && t.reading !== t.jp) ? t.reading : "");
   setField("cn", t.cn);
   setField("example", t.example);
   setField("literal", t.example_literal);

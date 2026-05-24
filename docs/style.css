@@ -36,6 +36,7 @@ h1 { font-size: 24px; font-weight: 600; margin: 8px 0 20px; }
 #sheet-title { font-size: 15px; color: #ccc; }
 #position { font-size: 12px; color: #888; margin-top: 2px; }
 #mode-indicator, #speed-btn { font-size: 14px; padding: 6px 10px; background: #222; border-radius: 6px; min-width: 56px; }
+#font-smaller-btn, #font-larger-btn { font-size: 13px; padding: 6px 8px; background: #222; border-radius: 6px; min-width: 32px; color: #ccc; }
 #speed-btn { font-variant-numeric: tabular-nums; }
 
 .card { flex: 1; background: linear-gradient(180deg, #141414, #0c0c0c); border-radius: 18px; padding: 24px 20px; margin: 8px 0; display: flex; flex-direction: column; gap: 14px; overflow-y: auto; }
