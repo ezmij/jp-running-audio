@@ -1,15 +1,15 @@
 {
   "sheet": "日語思考訓練 — 全文對照",
   "slug": "think-jp-transcript",
-  "total": 82,
+  "total": 217,
   "tracks": [
     {
       "id": 1,
-      "jp": "頭の中(あたまのなか)で考える",
+      "jp": "今日のエピソードは頭の中で常に母国語に翻訳することなく自然に日本語で話すために脳をどう訓練するかについてです。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "在腦袋裡 思考",
+      "example_literal": "今天的集數 是關於 如何訓練大腦 不在腦中翻譯成母語 而自然地用日語說話。",
       "category": "",
       "level": "",
       "segments": [
@@ -19,11 +19,11 @@
     },
     {
       "id": 2,
-      "jp": "翻訳(ほんやく)しないで話す",
+      "jp": "僕が第2言語として日本語を学んでいた時、頭の中で一言1区全てを翻訳していました。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "不翻譯 說話",
+      "example_literal": "我 學習日語作為第二語言時，腦中 把每個詞 全都翻譯了。",
       "category": "",
       "level": "",
       "segments": [
@@ -33,11 +33,11 @@
     },
     {
       "id": 3,
-      "jp": "神経回路(しんけいかいろ)を作る",
+      "jp": "精神的に消耗しますし、会話のスピードが本当に遅くなってしまいます。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "建立 神經回路",
+      "example_literal": "精神上 很消耗，而且 對話速度 真的 變慢了。",
       "category": "",
       "level": "",
       "segments": [
@@ -47,11 +47,11 @@
     },
     {
       "id": 4,
-      "jp": "母国語(ぼこくご)を使わずに",
+      "jp": "脳を再訓練するための実践的な戦略があるんです。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "不使用 母語",
+      "example_literal": "有 重新訓練大腦的 實用策略。",
       "category": "",
       "level": "",
       "segments": [
@@ -61,11 +61,11 @@
     },
     {
       "id": 5,
-      "jp": "日本語(にほんご)で感じる",
+      "jp": "最も大きな問題はやはりタイムラグだったと思います。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "用日語 感受",
+      "example_literal": "最大的問題 果然是 時間延遲。",
       "category": "",
       "level": "",
       "segments": [
@@ -75,11 +75,11 @@
     },
     {
       "id": 6,
-      "jp": "うちなる独白(どくはく)をする",
+      "jp": "誰かに質問されてから自分が情報を処理している間にあの気まずい沈黙の時間ができてしまうんです。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "進行 內心獨白",
+      "example_literal": "被人提問之後 自己處理資訊的期間，那種 尷尬的沉默時間 就出現了。",
       "category": "",
       "level": "",
       "segments": [
@@ -89,11 +89,11 @@
     },
     {
       "id": 7,
-      "jp": "頭の中(あたまのなか)の言い換え(いいかえ)",
+      "jp": "まず日本語を理解して、次にそれを母国語に翻訳して、母国語で返答を考えて、そして最後にそれをまた日本語に翻訳する必要がありました。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "腦袋裡的 換個說法",
+      "example_literal": "首先理解日語，然後翻譯成母語，用母語想回答，最後 又把它翻譯成日語。",
       "category": "",
       "level": "",
       "segments": [
@@ -103,11 +103,11 @@
     },
     {
       "id": 8,
-      "jp": "自分(じぶん)の考え(かんがえ)を伝える(つたえる)",
+      "jp": "本来なら理解すると返答するの2ステップで済むはずなのに会話が非常に難しく感じるのも無理はありません。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "傳達 自己的想法",
+      "example_literal": "本來 只需要理解和回答 2個步驟，感覺對話非常困難 也難怪。",
       "category": "",
       "level": "",
       "segments": [
@@ -117,11 +117,11 @@
     },
     {
       "id": 9,
-      "jp": "理解可能(りかいかのう)なインプット",
+      "jp": "JLPTのN3レベルくらいの中級の学習者の多くが無意識のうちにまだこれをやってしまうことがあるんです。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "可理解的 輸入素材",
+      "example_literal": "很多JLPT N3水準左右的 中級學習者，有時 無意識地 還是會這樣做。",
       "category": "",
       "level": "",
       "segments": [
@@ -131,11 +131,11 @@
     },
     {
       "id": 10,
-      "jp": "少しだけ難しい(むずかしい)レベル",
+      "jp": "脳がその翻訳の経路を使うように訓練されてしまっているんです。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "稍微困難的 程度",
+      "example_literal": "大腦 已經被訓練成 使用那個翻譯路徑。",
       "category": "",
       "level": "",
       "segments": [
@@ -145,11 +145,11 @@
     },
     {
       "id": 11,
-      "jp": "毎日(まいにち)聞く(きく)ことが大切(たいせつ)",
+      "jp": "だから特に緊張している時や疲れている時は自動的にその経路を使ってしまいます。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "每天聽 很重要",
+      "example_literal": "所以 特別是緊張的時候 或疲累的時候，會自動使用那條路徑。",
       "category": "",
       "level": "",
       "segments": [
@@ -159,11 +159,11 @@
     },
     {
       "id": 12,
-      "jp": "良質(りょうしつ)な素材(そざい)を選ぶ(えらぶ)",
+      "jp": "つまり脳に新しい経路を作る必要があるということですね。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "選擇 優質的素材",
+      "example_literal": "也就是說，需要在大腦中 建立新的路徑。",
       "category": "",
       "level": "",
       "segments": [
@@ -173,11 +173,11 @@
     },
     {
       "id": 13,
-      "jp": "シャドーイングを練習(れんしゅう)する",
+      "jp": "農科学者が言うところの神経回路を日本語で直接構築する必要があるんです。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "練習 跟讀法",
+      "example_literal": "需要直接用日語 建構 神經科學家所說的 神經迴路。",
       "category": "",
       "level": "",
       "segments": [
@@ -187,11 +187,11 @@
     },
     {
       "id": 14,
-      "jp": "声(こえ)に出して(だして)繰り返す(くりかえす)",
+      "jp": "脳を森だと想像してみてください。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "出聲 反覆練習",
+      "example_literal": "請試著把大腦 想像成 森林。",
       "category": "",
       "level": "",
       "segments": [
@@ -201,11 +201,11 @@
     },
     {
       "id": 15,
-      "jp": "発音(はつおん)とリズムを習得(しゅうとく)する",
+      "jp": "そしてA地点からB地点に移動する必要があります。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "習得 發音和節奏",
+      "example_literal": "然後 需要從A地點 移動到 B地點。",
       "category": "",
       "level": "",
       "segments": [
@@ -215,11 +215,11 @@
     },
     {
       "id": 16,
-      "jp": "ネイティブの話し方(はなしかた)に慣れる(なれる)",
+      "jp": "最初は明確な道がないのでしみや枝を押し分けて進まなければなりません。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "習慣 母語者的說話方式",
+      "example_literal": "一開始 沒有明確的道路，必須 撥開 灌木和樹枝 前進。",
       "category": "",
       "level": "",
       "segments": [
@@ -229,11 +229,11 @@
     },
     {
       "id": 17,
-      "jp": "アウトプットの機会(きかい)を増やす(ふやす)",
+      "jp": "それは初めて日本語を学び始めた時と同じで全てが難しく感じられる状態ですね。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "增加 輸出的機會",
+      "example_literal": "那和 第一次開始學日語時 一樣，所有事 感覺 很難的狀態。",
       "category": "",
       "level": "",
       "segments": [
@@ -243,11 +243,11 @@
     },
     {
       "id": 18,
-      "jp": "実際(じっさい)に使う(つかう)練習(れんしゅう)をする",
+      "jp": "でも毎日同じルートを歩けば最終的には森の中に明確な道ができるわけですね。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "進行 實際使用的練習",
+      "example_literal": "但每天走相同路線，最終 森林中 就會出現明確的道路。",
       "category": "",
       "level": "",
       "segments": [
@@ -257,11 +257,11 @@
     },
     {
       "id": 19,
-      "jp": "間違い(まちがい)を恐れずに(おそれずに)",
+      "jp": "草が踏み固められ、道がはっきりしてきて、やがて何も考えずに簡単に歩けるようになります。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "不害怕 錯誤",
+      "example_literal": "草被踩實了，道路 變清晰了，最終 不用思考 就能輕鬆走。",
       "category": "",
       "level": "",
       "segments": [
@@ -271,11 +271,11 @@
     },
     {
       "id": 20,
-      "jp": "積極的(せっきょくてき)に話す(はなす)",
+      "jp": "まさにそれが言語を学ぶ時に脳の中で起こることなんですね。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "積極地 說話",
+      "example_literal": "那正是 學習語言時 大腦中 發生的事。",
       "category": "",
       "level": "",
       "segments": [
@@ -285,11 +285,11 @@
     },
     {
       "id": 21,
-      "jp": "流暢さ(りゅうちょうさ)を高める(たかめる)",
+      "jp": "日本語で直接考える回数が多ければ多いほどその経路は強くなっていきます。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "提高 流暢度",
+      "example_literal": "直接用日語思考的次數 越多，那條路徑 就越強。",
       "category": "",
       "level": "",
       "segments": [
@@ -299,11 +299,11 @@
     },
     {
       "id": 22,
-      "jp": "自動的(じどうてき)に言葉(ことば)が出る(でる)",
+      "jp": "そして最終的にはそれが自動的なものになります。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "語言 自動地出現",
+      "example_literal": "然後最終 那會 變成自動的。",
       "category": "",
       "level": "",
       "segments": [
@@ -313,11 +313,11 @@
     },
     {
       "id": 23,
-      "jp": "翻訳(ほんやく)のプロセスを省く(はぶく)",
+      "jp": "ですから今日は皆さんの脳にその日本語の経路を構築するための実践的な戦略をご紹介します。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "省略 翻譯的過程",
+      "example_literal": "所以今天 介紹 在大家腦中 建構那條日語路徑的 實用策略。",
       "category": "",
       "level": "",
       "segments": [
@@ -327,11 +327,11 @@
     },
     {
       "id": 24,
-      "jp": "脳(のう)の使い方(つかいかた)を変える(かえる)",
+      "jp": "レベルの中級者の多くはすでにたくさんの日本語の単語や文法を知っています。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "改變 大腦的使用方式",
+      "example_literal": "N3水準的 中級者 很多 已經知道很多 日語單字和文法。",
       "category": "",
       "level": "",
       "segments": [
@@ -341,11 +341,11 @@
     },
     {
       "id": 25,
-      "jp": "神経回路(しんけいかいろ)を活性化(かっせいか)する",
+      "jp": "問題はアクティベーションつまり活性化なんです。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "活化 神經回路",
+      "example_literal": "問題是 Activation 也就是 活化。",
       "category": "",
       "level": "",
       "segments": [
@@ -355,11 +355,11 @@
     },
     {
       "id": 26,
-      "jp": "継続(けいぞく)的に練習(れんしゅう)する",
+      "jp": "単語は脳の中に保存されていますがアクティブな状態になっていません。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "持續地 練習",
+      "example_literal": "單字 保存在大腦中，但 沒有 處於活躍狀態。",
       "category": "",
       "level": "",
       "segments": [
@@ -369,11 +369,11 @@
     },
     {
       "id": 27,
-      "jp": "反復(はんぷく)が記憶(きおく)を強化(きょうか)する",
+      "jp": "それはまるで本棚に置かれたまま1度も読まれない本のようなものです。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "反覆 強化記憶",
+      "example_literal": "那就像 放在書架上 一次也沒被讀的 書。",
       "category": "",
       "level": "",
       "segments": [
@@ -383,11 +383,11 @@
     },
     {
       "id": 28,
-      "jp": "プラトーを乗り越える(のりこえる)",
+      "jp": "1日を通して母国語で何かを考えた時、少し立ち止まってこれを日本語でどういうだろうと自分に問いかけてみてください。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "克服 停滯期",
+      "example_literal": "一整天 用母語思考某事時，稍微停下來 問問自己 這用日語怎麼說。",
       "category": "",
       "level": "",
       "segments": [
@@ -397,11 +397,11 @@
     },
     {
       "id": 29,
-      "jp": "メンタルブロックを外す(はずす)",
+      "jp": "今朝私は緑茶を入れていたんですが、その時母国語でもっと熱いお湯が必要だなと思ったんです。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "消除 心理障礙",
+      "example_literal": "今早 我在泡綠茶，那時 用母語想到 需要更熱的熱水。",
       "category": "",
       "level": "",
       "segments": [
@@ -411,11 +411,11 @@
     },
     {
       "id": 30,
-      "jp": "感情(かんじょう)と結びつける(むすびつける)",
+      "jp": "でもそこで立ち止まって頭の中でもっと熱いお湯が欲しいと日本語で言ってみました。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "和感情 連結起來",
+      "example_literal": "但在那裡停下來，腦中 試著用日語說了 想要更熱的熱水。",
       "category": "",
       "level": "",
       "segments": [
@@ -425,11 +425,11 @@
     },
     {
       "id": 31,
-      "jp": "学習(がくしゅう)の一貫性(いっかんせい)を保つ(たもつ)",
+      "jp": "例えばこのお茶は少しぬるいですねと言い換えることもできますね。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "維持 學習的一貫性",
+      "example_literal": "例如 也可以換說成 這個茶 有點溫吧。",
       "category": "",
       "level": "",
       "segments": [
@@ -439,11 +439,11 @@
     },
     {
       "id": 32,
-      "jp": "毎日(まいにち)少し(すこし)ずつ進む(すすむ)",
+      "jp": "あるいはもう少しお湯を足しましょうとか熱いお茶を入れ直しますということもできますよね。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "每天 一點一點前進",
+      "example_literal": "或者 也可以說 再加一點熱水 或 重新泡熱茶 對吧。",
       "category": "",
       "level": "",
       "segments": [
@@ -453,11 +453,11 @@
     },
     {
       "id": 33,
-      "jp": "長期的(ちょうきてき)な練習(れんしゅう)が必要(ひつよう)",
+      "jp": "つまりただ1つの文を翻訳するだけではなくて同じアイデアを表現する様々な方法を探求しているんですね。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "需要 長期的練習",
+      "example_literal": "也就是說，不是只翻譯一個句子，而是探索 表達同一個想法的 各種方法。",
       "category": "",
       "level": "",
       "segments": [
@@ -467,11 +467,11 @@
     },
     {
       "id": 34,
-      "jp": "実況中継(じっきょうちゅうけい)をする",
+      "jp": "なぜなら日本語で柔軟に考えるよう脳を刺激するからです。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "進行 實況轉播",
+      "example_literal": "因為 刺激大腦 用日語 靈活思考。",
       "category": "",
       "level": "",
       "segments": [
@@ -481,11 +481,11 @@
     },
     {
       "id": 35,
-      "jp": "周り(まわり)の物(もの)を説明(せつめい)する",
+      "jp": "正しい翻訳は1つしかないと思い込むのを防いでくれます。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "說明 周圍的事物",
+      "example_literal": "防止 誤以為 正確翻譯只有一個。",
       "category": "",
       "level": "",
       "segments": [
@@ -495,11 +495,11 @@
     },
     {
       "id": 36,
-      "jp": "日本語(にほんご)で実況(じっきょう)する",
+      "jp": "確かに言語というのは一言一区完璧な翻訳を見つけることではありません。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "用日語 進行實況",
+      "example_literal": "確實 所謂語言 不是找到 一字一句 完美的翻譯。",
       "category": "",
       "level": "",
       "segments": [
@@ -509,11 +509,11 @@
     },
     {
       "id": 37,
-      "jp": "歩き(あるき)ながら独白(どくはく)する",
+      "jp": "意味を伝えることが全てですよね。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "邊走路 邊獨白",
+      "example_literal": "傳達意思 才是一切。",
       "category": "",
       "level": "",
       "segments": [
@@ -523,11 +523,11 @@
     },
     {
       "id": 38,
-      "jp": "頭の中(あたまのなか)で独り言(ひとりごと)を言う(いう)",
+      "jp": "ですから1日中自分の考えをキャッチしてそれを日本語で言い換えるべきなんです。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "在腦袋裡 說獨白",
+      "example_literal": "所以 整天 應該捕捉自己的想法 並用日語換句話說。",
       "category": "",
       "level": "",
       "segments": [
@@ -537,11 +537,11 @@
     },
     {
       "id": 39,
-      "jp": "日常(にちじょう)の場面(ばめん)を描写(びょうしゃ)する",
+      "jp": "ただ1回やるだけで終わらせないでください。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "描述 日常的場景",
+      "example_literal": "不要只做一次就結束。",
       "category": "",
       "level": "",
       "segments": [
@@ -551,11 +551,11 @@
     },
     {
       "id": 40,
-      "jp": "感情(かんじょう)を日本語(にほんご)で表現(ひょうげん)する",
+      "jp": "同じことを言うために2つか3つの異なる表現を考えてみてください。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "用日語 表達感情",
+      "example_literal": "試著想出 2到3個 表達同一件事的 不同說法。",
       "category": "",
       "level": "",
       "segments": [
@@ -565,11 +565,11 @@
     },
     {
       "id": 41,
-      "jp": "考え(かんがえ)を日本語(にほんご)に変える(かえる)",
+      "jp": "それによって神経回路がさらに強くなるんですね。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "把想法 換成日語",
+      "example_literal": "靠那個 神經迴路 會更加強化。",
       "category": "",
       "level": "",
       "segments": [
@@ -579,11 +579,11 @@
     },
     {
       "id": 42,
-      "jp": "母国語(ぼこくご)を介さない(かいさない)",
+      "jp": "さらにこれは実際の会話の準備にもなります。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "不透過 母語",
+      "example_literal": "而且 這 也成為 實際對話的準備。",
       "category": "",
       "level": "",
       "segments": [
@@ -593,11 +593,11 @@
     },
     {
       "id": 43,
-      "jp": "直接(ちょくせつ)日本語(にほんご)で思う(おもう)",
+      "jp": "なぜなら実生活では相手が理解できなかった時に何かを言い換える必要がある場面がよくあるからです。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "直接 用日語思考",
+      "example_literal": "因為 在現實生活中 對方無法理解時，需要換句話說的場合 很常見。",
       "category": "",
       "level": "",
       "segments": [
@@ -607,11 +607,11 @@
     },
     {
       "id": 44,
-      "jp": "言葉(ことば)の選択(せんたく)を素早く(すばやく)する",
+      "jp": "それはそのアイデアに至る経路が1つしかなかったからです。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "快速地 選擇語言",
+      "example_literal": "那是因為 到達那個想法的路徑 只有一條。",
       "category": "",
       "level": "",
       "segments": [
@@ -621,11 +621,11 @@
     },
     {
       "id": 45,
-      "jp": "表現(ひょうげん)を瞬時(しゅんじ)に切り替える(きりかえる)",
+      "jp": "でも複数の経路を作る練習をしていれば選択肢ができるわけですね。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "瞬間地 切換表達",
+      "example_literal": "但如果練習 製作多條路徑，就能有 選擇。",
       "category": "",
       "level": "",
       "segments": [
@@ -635,11 +635,11 @@
     },
     {
       "id": 46,
-      "jp": "語彙(ごい)を文脈(ぶんみゃく)で覚える(おぼえる)",
+      "jp": "まず毎日の活動を3つ選んでください。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "在語境中 記憶詞彙",
+      "example_literal": "首先 選 3個 每日的活動。",
       "category": "",
       "level": "",
       "segments": [
@@ -649,11 +649,11 @@
     },
     {
       "id": 47,
-      "jp": "フレーズ全体(ぜんたい)を覚える(おぼえる)",
+      "jp": "例えば朝ご飯を作る、電車で通勤する、寝る準備をするなどです。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "記住 整個短語",
+      "example_literal": "例如 做早飯、搭電車通勤、準備睡覺 等等。",
       "category": "",
       "level": "",
       "segments": [
@@ -663,11 +663,11 @@
     },
     {
       "id": 48,
-      "jp": "単語(たんご)だけでなく文(ぶん)で学ぶ(まなぶ)",
+      "jp": "これらの活動中、自分がしていることを頭の中で日本語で実況中継してください。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "不只學單字 用句子學",
+      "example_literal": "這些活動中，腦中 用日語 實況播報 自己在做的事。",
       "category": "",
       "level": "",
       "segments": [
@@ -677,11 +677,11 @@
     },
     {
       "id": 49,
-      "jp": "実際(じっさい)の会話(かいわ)に近い(ちかい)練習(れんしゅう)",
+      "jp": "そしてそれぞれのアクションを少なくとも2つの異なる方法で言うように自分に挑戦してみてください。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "接近 實際會話的練習",
+      "example_literal": "然後 試著挑戰自己 每個動作 至少用2種 不同方式說。",
       "category": "",
       "level": "",
       "segments": [
@@ -691,11 +691,11 @@
     },
     {
       "id": 50,
-      "jp": "ネイティブと同じ(おなじ)感覚(かんかく)",
+      "jp": "例えばどんな感じですか?そうですね、歯を磨いているとしましょう。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "和母語者 同樣的感覺",
+      "example_literal": "好吧，假設 在刷牙。",
       "category": "",
       "level": "",
       "segments": [
@@ -705,11 +705,11 @@
     },
     {
       "id": 51,
-      "jp": "言語(げんご)の感覚(かんかく)を養う(やしなう)",
+      "jp": "頭の中で歯を磨いていますと考えます。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "培養 語言的感覺",
+      "example_literal": "腦中 想著 在刷牙。",
       "category": "",
       "level": "",
       "segments": [
@@ -719,11 +719,11 @@
     },
     {
       "id": 52,
-      "jp": "自然(しぜん)なリズムを身につける(みにつける)",
+      "jp": "として次に歯ブラシを使っていますとか口の中を綺麗にしていますと考えます。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "習得 自然的節奏",
+      "example_literal": "然後 接著想 正在使用牙刷 或 正在清潔口中。",
       "category": "",
       "level": "",
       "segments": [
@@ -733,11 +733,11 @@
     },
     {
       "id": 53,
-      "jp": "文化(ぶんか)的背景(はいけい)を理解(りかい)する",
+      "jp": "シンプルな行動でも2つか3つの表現を使うんですね。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "理解 文化的背景",
+      "example_literal": "即使是 簡單的行動 也用 2到3種 表現。",
       "category": "",
       "level": "",
       "segments": [
@@ -747,11 +747,11 @@
     },
     {
       "id": 54,
-      "jp": "表現(ひょうげん)の幅(はば)を広げる(ひろげる)",
+      "jp": "これを1週間続けると日本語がより自然に流れ始めることに気づくはずです。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "擴大 表達的範圍",
+      "example_literal": "繼續一週 應該會注意到 日語 開始 更自然地流暢。",
       "category": "",
       "level": "",
       "segments": [
@@ -761,11 +761,11 @@
     },
     {
       "id": 55,
-      "jp": "同じ(おなじ)意味(いみ)を別(べつ)の言葉(ことば)で",
+      "jp": "脳が言語にアクセスするためのルートを増やしたからです。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "用不同的語言 表達同樣意思",
+      "example_literal": "因為 大腦 增加了 訪問語言的路線。",
       "category": "",
       "level": "",
       "segments": [
@@ -775,11 +775,11 @@
     },
     {
       "id": 56,
-      "jp": "言い換え(いいかえ)の力(ちから)を鍛える(きたえる)",
+      "jp": "これに違和感を持つ人もいるかもしれませんが、実は言語学習において最も強力なツールの1つなんです。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "鍛鍊 換句話說的能力",
+      "example_literal": "雖然 有些人 對此 可能感到不適，但其實 在語言學習中 是最強大的工具之一。",
       "category": "",
       "level": "",
       "segments": [
@@ -789,11 +789,11 @@
     },
     {
       "id": 57,
-      "jp": "簡単(かんたん)な言葉(ことば)で説明(せつめい)する",
+      "jp": "最初から全てを日本語でやる必要はありません。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "用簡單的語言 說明",
+      "example_literal": "從一開始 不需要 全部用日語做。",
       "category": "",
       "level": "",
       "segments": [
@@ -803,11 +803,11 @@
     },
     {
       "id": 58,
-      "jp": "複雑(ふくざつ)な概念(がいねん)を伝える(つたえる)",
+      "jp": "まずはバイリンガルのうちなる毒白から始めてください。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "傳達 複雜的概念",
+      "example_literal": "首先 從雙語的內在獨白 開始。",
       "category": "",
       "level": "",
       "segments": [
@@ -817,11 +817,11 @@
     },
     {
       "id": 59,
-      "jp": "語彙不足(ごいぶそく)を乗り越える(のりこえる)",
+      "jp": "母国語で分を考えてその後でそれを日本語で繰り返すんです。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "克服 詞彙不足",
+      "example_literal": "用母語思考句子，之後 用日語 重複它。",
       "category": "",
       "level": "",
       "segments": [
@@ -831,11 +831,11 @@
     },
     {
       "id": 60,
-      "jp": "創造的(そうぞうてき)に表現(ひょうげん)する",
+      "jp": "プレッシャーのない環境で言っているということです。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "創意地 表達",
+      "example_literal": "是在 沒有壓力的環境 中說的。",
       "category": "",
       "level": "",
       "segments": [
@@ -845,11 +845,11 @@
     },
     {
       "id": 61,
-      "jp": "知っている言葉(ことば)を組み合わせる(くみあわせる)",
+      "jp": "あなたの答えを待っている人もいないし、文法を評価する人もいません。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "組合 認識的語言",
+      "example_literal": "沒有人等你的回答，也沒有人評估文法。",
       "category": "",
       "level": "",
       "segments": [
@@ -859,11 +859,11 @@
     },
     {
       "id": 62,
-      "jp": "インプットの量(りょう)を増やす(ふやす)",
+      "jp": "そして時間が経つと面白いことが起こり始めます。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "增加 輸入的量",
+      "example_literal": "然後 隨著時間過去，有趣的事 開始發生。",
       "category": "",
       "level": "",
       "segments": [
@@ -873,11 +873,11 @@
     },
     {
       "id": 63,
-      "jp": "質(しつ)の高い(たかい)素材(そざい)を使う(つかう)",
+      "jp": "日本語が先に出てくるようになるんです。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "使用 高品質的素材",
+      "example_literal": "日語 開始 先出來。",
       "category": "",
       "level": "",
       "segments": [
@@ -887,11 +887,11 @@
     },
     {
       "id": 64,
-      "jp": "自分(じぶん)のレベルに合った(あった)教材(きょうざい)",
+      "jp": "時には最初に翻訳する必要もなく直接日本語で思い浮かぶようになります。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "符合 自己程度的教材",
+      "example_literal": "有時 不需要先翻譯，直接 用日語 浮現。",
       "category": "",
       "level": "",
       "segments": [
@@ -901,11 +901,11 @@
     },
     {
       "id": 65,
-      "jp": "難しすぎない(むずかしすぎない)内容(ないよう)",
+      "jp": "ただし練習すればの話です。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "不要太難的 內容",
+      "example_literal": "但 只限於有練習的情況。",
       "category": "",
       "level": "",
       "segments": [
@@ -915,11 +915,11 @@
     },
     {
       "id": 66,
-      "jp": "理解(りかい)しながら聞く(きく)",
+      "jp": "脳は非常に効率的です。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "一邊理解 一邊聽",
+      "example_literal": "大腦 非常有效率。",
       "category": "",
       "level": "",
       "segments": [
@@ -929,11 +929,11 @@
     },
     {
       "id": 67,
-      "jp": "文脈(ぶんみゃく)から意味(いみ)を推測(すいそく)する",
+      "jp": "つまりこの日本語の経路を使い続ければ最終的に脳はあ、翻訳するよりもこっちの方が早いぞと気づくわけですね。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "從語境 推測意思",
+      "example_literal": "也就是說 繼續使用這條日語路徑，最終 大腦 察覺到 啊，這邊比翻譯更快啊。",
       "category": "",
       "level": "",
       "segments": [
@@ -943,11 +943,11 @@
     },
     {
       "id": 68,
-      "jp": "繰り返し(くりかえし)聞いて(きいて)慣れる(なれる)",
+      "jp": "まさに脳はより効率的なので直接日本語のルートを好むようになります。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "反覆聽 習慣",
+      "example_literal": "正是 大腦更有效率，所以 開始偏好 直接的日語路線。",
       "category": "",
       "level": "",
       "segments": [
@@ -957,11 +957,11 @@
     },
     {
       "id": 69,
-      "jp": "多様(たよう)な素材(そざい)に触れる(ふれる)",
+      "jp": "退屈なことばかり実況しないでください。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "接觸 多樣的素材",
+      "example_literal": "不要只實況 無聊的事。",
       "category": "",
       "level": "",
       "segments": [
@@ -971,11 +971,11 @@
     },
     {
       "id": 70,
-      "jp": "ポッドキャストで学ぶ(まなぶ)",
+      "jp": "だから代わりに実際の思考、意見、感情反応を持つようにしてください。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "用播客 學習",
+      "example_literal": "所以 代替地 請擁有 實際的思考、意見、情緒反應。",
       "category": "",
       "level": "",
       "segments": [
@@ -985,11 +985,11 @@
     },
     {
       "id": 71,
-      "jp": "動画(どうが)を活用(かつよう)する",
+      "jp": "例えば渋谷でとてもおしゃれなジャケットを着ている人を見かけたとしましょう。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "活用 影片",
+      "example_literal": "例如 假設 在澀谷 看到了 穿著非常時尚外套的人。",
       "category": "",
       "level": "",
       "segments": [
@@ -999,11 +999,11 @@
     },
     {
       "id": 72,
-      "jp": "読書(どくしょ)で語彙(ごい)を増やす(ふやす)",
+      "jp": "素敵なジャケットだなと思うだけではなく、もっと深く関わってみてください。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "用讀書 增加詞彙",
+      "example_literal": "不只是想 真是漂亮的外套，請 更深入地 參與。",
       "category": "",
       "level": "",
       "segments": [
@@ -1013,11 +1013,11 @@
     },
     {
       "id": 73,
-      "jp": "話す(はなす)機会(きかい)を作る(つくる)",
+      "jp": "うわあ、あのジャケットとてもおしゃれだな。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "創造 說話的機會",
+      "example_literal": "哇，那件外套 真是時尚。",
       "category": "",
       "level": "",
       "segments": [
@@ -1027,11 +1027,11 @@
     },
     {
       "id": 74,
-      "jp": "録音(ろくおん)して聞き直す(ききなおす)",
+      "jp": "どこで買ったんだろう?私もあんなのが欲しいな。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "錄音 再聽",
+      "example_literal": "在哪裡買的呢？我也想要那樣的。",
       "category": "",
       "level": "",
       "segments": [
@@ -1041,11 +1041,11 @@
     },
     {
       "id": 75,
-      "jp": "フィードバックをもらう",
+      "jp": "でももう少し暗い色がいいな。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "獲得 回饋",
+      "example_literal": "但 再暗一點的顏色比較好。",
       "category": "",
       "level": "",
       "segments": [
@@ -1055,11 +1055,11 @@
     },
     {
       "id": 76,
-      "jp": "間違い(まちがい)から学ぶ(まなぶ)",
+      "jp": "後でネットで似たようなものを探してみようかな。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "從錯誤 學習",
+      "example_literal": "之後 在網路上 試著找找 類似的東西吧。",
       "category": "",
       "level": "",
       "segments": [
@@ -1069,11 +1069,11 @@
     },
     {
       "id": 77,
-      "jp": "上達(じょうたつ)を実感(じっかん)する",
+      "jp": "ただものにラベルを貼るだけではなくリアルな内的会話をしているんですね。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "切身感受 進步",
+      "example_literal": "不只是給東西貼標籤，而是在做 真實的內部對話。",
       "category": "",
       "level": "",
       "segments": [
@@ -1083,11 +1083,11 @@
     },
     {
       "id": 78,
-      "jp": "自信(じしん)をつける",
+      "jp": "複雑な文章を使いの状況を想像し、自分の好みを表現しています。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "建立 自信",
+      "example_literal": "使用複雜句子，想像狀況，表達自己的偏好。",
       "category": "",
       "level": "",
       "segments": [
@@ -1097,11 +1097,11 @@
     },
     {
       "id": 79,
-      "jp": "恐れ(おそれ)を乗り越える(のりこえる)",
+      "jp": "これは脳にとってはるかに価値があるんです。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "克服 恐懼",
+      "example_literal": "這 對大腦來說 有更大的價值。",
       "category": "",
       "level": "",
       "segments": [
@@ -1111,11 +1111,11 @@
     },
     {
       "id": 80,
-      "jp": "挑戦(ちょうせん)することを楽しむ(たのしむ)",
+      "jp": "なぜならこれが私たちが実生活で実際に言語を使っている方法だからですよね。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "享受 挑戰",
+      "example_literal": "因為 這是 我們在現實生活中 實際使用語言的方式。",
       "category": "",
       "level": "",
       "segments": [
@@ -1125,11 +1125,11 @@
     },
     {
       "id": 81,
-      "jp": "失敗(しっぱい)を恐れない(おそれない)",
+      "jp": "まさに私たちはただものに名前をつけるだけではありません。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "不害怕 失敗",
+      "example_literal": "正是 我們 不只是 給東西命名。",
       "category": "",
       "level": "",
       "segments": [
@@ -1139,16 +1139,1906 @@
     },
     {
       "id": 82,
-      "jp": "ゆっくり着実(ちゃくじつ)に進む(すすむ)",
+      "jp": "意見を持ち、計画を立て、物事について疑問に思います。",
       "reading": "",
       "cn": "",
       "example": "",
-      "example_literal": "緩慢而踏實地 前進",
+      "example_literal": "有意見，制定計劃，對事物感到疑問。",
       "category": "",
       "level": "",
       "segments": [
         "audio/think-jp-transcript/082-1-sentence.mp3",
         "audio/think-jp-transcript/082-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 83,
+      "jp": "つまりうちなる毒白は単なる語の練習ではなく実際の思考を反映するべきなんですね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "也就是說 內在獨白 不只是語言練習，應該 反映 實際的思考。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/083-1-sentence.mp3",
+        "audio/think-jp-transcript/083-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 84,
+      "jp": "感情を使うことが重要です。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "使用情感很重要。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/084-1-sentence.mp3",
+        "audio/think-jp-transcript/084-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 85,
+      "jp": "イライラした時、そのイライラを頭の中で日本語で表現してみてください。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "煩躁的時候，試著在腦中 用日語 表達那種煩躁。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/085-1-sentence.mp3",
+        "audio/think-jp-transcript/085-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 86,
+      "jp": "これ本当にイライラするとか信じられない、なんでこんなことが起きるのとか。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "例如「這真的很煩躁」或「不可思議，為什麼會發生這種事」之類的。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/086-1-sentence.mp3",
+        "audio/think-jp-transcript/086-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 87,
+      "jp": "そして何かについて嬉しいと感じた時はこれ最高とかうまくいって本当に良かったと考えてみてください。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "感到高興的時候 試著想 「這最棒了」或「順利 真是太好了」。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/087-1-sentence.mp3",
+        "audio/think-jp-transcript/087-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 88,
+      "jp": "感情は脳の深い部分で処理されるため、これにより非常に強力な神経が生まれます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "因為 情感 在大腦深層 被處理，由此 產生 非常強大的神經。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/088-1-sentence.mp3",
+        "audio/think-jp-transcript/088-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 89,
+      "jp": "つまり言語が感情と結びついていると、より記憶に定着しやすいということですね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "也就是說 語言 與情感 連結，就更 容易定著 在記憶中。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/089-1-sentence.mp3",
+        "audio/think-jp-transcript/089-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 90,
+      "jp": "これが外国語で汚い言葉やスラングをすぐ覚えてしまう理由でもあります。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "這也是 用外語 很快記住 粗話和俚語的原因。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/090-1-sentence.mp3",
+        "audio/think-jp-transcript/090-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 91,
+      "jp": "それは強い感情を伴って言われることが多いからです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那是因為 往往伴隨著 強烈的情感 被說出。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/091-1-sentence.mp3",
+        "audio/think-jp-transcript/091-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 92,
+      "jp": "でもこの原理はポジティブな感情にも使えます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "但 這個原理 也能用在 正面情感上。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/092-1-sentence.mp3",
+        "audio/think-jp-transcript/092-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 93,
+      "jp": "ですから喜び、イライラ、驚きなど全てを打ちなる毒白の中で日本語で表現するんですね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "所以 喜悅、煩躁、驚訝等 全部 在內在獨白中 用日語表現。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/093-1-sentence.mp3",
+        "audio/think-jp-transcript/093-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 94,
+      "jp": "そして時間が経つにつれて日本語は単なる知的なものだけでなくあなたの感情の言語になっていきます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "隨著時間過去，日語 不只是 單純智識的，也成為 你的情感語言。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/094-1-sentence.mp3",
+        "audio/think-jp-transcript/094-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 95,
+      "jp": "でもただ聞いたり読んだりすればいいわけではありません。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "但 不是 只是聽或讀 就好了。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/095-1-sentence.mp3",
+        "audio/think-jp-transcript/095-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 96,
+      "jp": "適切なレベルの適切な種類のインプットが必要です。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "需要 適當水準的 適當種類的 輸入。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/096-1-sentence.mp3",
+        "audio/think-jp-transcript/096-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 97,
+      "jp": "多くの中級学習者は2つの間違いのどちらかを犯してしまいます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "很多中級學習者 會犯 兩種錯誤中的一種。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/097-1-sentence.mp3",
+        "audio/think-jp-transcript/097-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 98,
+      "jp": "最初の間違いは簡単すぎるコンテンツを消費することです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "第一個錯誤是 消費 太簡單的內容。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/098-1-sentence.mp3",
+        "audio/think-jp-transcript/098-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 99,
+      "jp": "快適だからという理由で初心者向けの教材にとまってしまうんです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "因為 舒適 就停留在 初學者教材。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/099-1-sentence.mp3",
+        "audio/think-jp-transcript/099-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 100,
+      "jp": "脳は刺激を受けていないので成長しません。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "大腦 沒有受到刺激，所以 不成長。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/100-1-sentence.mp3",
+        "audio/think-jp-transcript/100-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 101,
+      "jp": "ニュース番組を見たり難しい学術記事を読んだりするなど非常に高度なコンテンツに飛びついてしまうんです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "看新聞節目 或讀困難的學術文章 等，一下子跳到 非常高難度的內容。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/101-1-sentence.mp3",
+        "audio/think-jp-transcript/101-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 102,
+      "jp": "そして圧倒されて挫折してしまうわけですね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "然後 被壓倒 就放棄了。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/102-1-sentence.mp3",
+        "audio/think-jp-transcript/102-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 103,
+      "jp": "ですから鍵となるのは理解可能なインプットを見つけることです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "所以 關鍵 是找到 可理解的輸入。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/103-1-sentence.mp3",
+        "audio/think-jp-transcript/103-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 104,
+      "jp": "現在のレベルよりほんの少し上のコンテンツという意味です。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "意思是 比目前水準 稍微高一點 的內容。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/104-1-sentence.mp3",
+        "audio/think-jp-transcript/104-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 105,
+      "jp": "ほとんどの部分多分70%から80%は理解できますが、あなたにとって挑戦となる新しい単語や文法もいくつか含まれている状態です。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "大部分 大概70%到80% 能理解，但 也包含一些 對你來說有挑戰的 新單字和文法。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/105-1-sentence.mp3",
+        "audio/think-jp-transcript/105-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 106,
+      "jp": "つまり快適だけど同時に学んでもいるという状態ですね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "也就是說 舒適 但同時 也在學習的狀態。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/106-1-sentence.mp3",
+        "audio/think-jp-transcript/106-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 107,
+      "jp": "これが脳のトレーニングにとって最適なスポットなんです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "這是 對大腦訓練 最適合的地帶。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/107-1-sentence.mp3",
+        "audio/think-jp-transcript/107-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 108,
+      "jp": "まずあなたのレベルの言語学習者向けに作られたコンテンツを探してください。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "首先 尋找 為你水準的語言學習者 製作的內容。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/108-1-sentence.mp3",
+        "audio/think-jp-transcript/108-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 109,
+      "jp": "中級学習者向けに特別に作られたポッドキャスト、YouTubeチャンネル、段階別読み物などがあります。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "有 專為中級學習者製作的 播客、YouTube頻道、分級讀物 等等。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/109-1-sentence.mp3",
+        "audio/think-jp-transcript/109-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 110,
+      "jp": "私たちも中級学習者にとって分かりやすくかつ少し挑戦的になるようにコンテンツをデザインしています。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "我們也把內容 設計成 對中級學習者 易懂且稍有挑戰。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/110-1-sentence.mp3",
+        "audio/think-jp-transcript/110-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 111,
+      "jp": "2つ目の戦略はネイティブ向けのコンテンツをサポート付きで使うことです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "第二個策略 是 附帶支援地 使用 給母語者的內容。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/111-1-sentence.mp3",
+        "audio/think-jp-transcript/111-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 112,
+      "jp": "例えば日本のドラマやアニメを日本語の字幕付きで見ることです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "例如 附日語字幕 看 日本連續劇或動漫。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/112-1-sentence.mp3",
+        "audio/think-jp-transcript/112-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 113,
+      "jp": "音声は本物のネイティブレベルですが、字幕があるので内容を追いやすくなります。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "音聲 是真實的母語水準，但因為有字幕 內容 容易跟上。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/113-1-sentence.mp3",
+        "audio/think-jp-transcript/113-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 114,
+      "jp": "字幕を使ってみる時は少しだけ先読みしてみてください。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "使用字幕時 試著稍微 預讀。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/114-1-sentence.mp3",
+        "audio/think-jp-transcript/114-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 115,
+      "jp": "セリフが離される前に次のセリフをちらっと見るんです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "在台詞說出前 瞥一眼 下一個台詞。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/115-1-sentence.mp3",
+        "audio/think-jp-transcript/115-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 116,
+      "jp": "そうすることで脳が何を聞き取るべきかを事前に把握できます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那樣做 大腦 能事前掌握 應該聽取什麼。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/116-1-sentence.mp3",
+        "audio/think-jp-transcript/116-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 117,
+      "jp": "これはリスニングの理解力を向上させるのに非常に効果的です。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "這對 提升聽力理解力 非常有效。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/117-1-sentence.mp3",
+        "audio/think-jp-transcript/117-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 118,
+      "jp": "リーディングには私が70%のルールと呼んでいるものをお勧めします。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "對閱讀 推薦 我稱為70%規則的 東西。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/118-1-sentence.mp3",
+        "audio/think-jp-transcript/118-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 119,
+      "jp": "何かを読んでいて単語の30%以上が理解できない場合それは難しすぎます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "讀某樣東西 30%以上的單字 無法理解，那就 太難了。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/119-1-sentence.mp3",
+        "audio/think-jp-transcript/119-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 120,
+      "jp": "脇においてもっと簡単なものを探してください。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "放到一邊，找 更簡單的東西。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/120-1-sentence.mp3",
+        "audio/think-jp-transcript/120-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 121,
+      "jp": "つまり少なくとも70%は自然に理解できるべきだということですね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "也就是說 至少70% 應該 自然地理解。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/121-1-sentence.mp3",
+        "audio/think-jp-transcript/121-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 122,
+      "jp": "そのレベルなら文脈から新しい単語の意味を推測することができます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那個水準 能從文脈 推測 新單字的意思。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/122-1-sentence.mp3",
+        "audio/think-jp-transcript/122-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 123,
+      "jp": "これはネイティブスピーカーが自然に語を増やす方法と同じです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "這和 母語者 自然地增加詞彙的方法 相同。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/123-1-sentence.mp3",
+        "audio/think-jp-transcript/123-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 124,
+      "jp": "1問ごとに立ち止まって単語を調べていたら本当の意味で読んでいるとは言えませんから",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "每一個問題 停下來查單字的話，不能說是 真正在讀。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/124-1-sentence.mp3",
+        "audio/think-jp-transcript/124-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 125,
+      "jp": "それでは単なる翻訳の練習になってしまい流さを養う役には立ちません。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那樣的話 只是 翻譯練習，無助於 培養流暢。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/125-1-sentence.mp3",
+        "audio/think-jp-transcript/125-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 126,
+      "jp": "中級レベルなら段階別読み物がとても良いと思います。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "中級水準 分級讀物 很好。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/126-1-sentence.mp3",
+        "audio/think-jp-transcript/126-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 127,
+      "jp": "これらはあなたのレベルにあった語意と文法を使用するように適用された小説や物語です。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "這些是 適應使用 符合你水準的 詞義和文法的 小說和故事。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/127-1-sentence.mp3",
+        "audio/think-jp-transcript/127-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 128,
+      "jp": "重要なのは何度も止まることなくスムーズに読めることです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "重要的是 能流暢地閱讀 不多次停下來。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/128-1-sentence.mp3",
+        "audio/think-jp-transcript/128-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 129,
+      "jp": "脳には1つおきに単語を調べるような途切れ途切れの作業ではなく日本語の流れを経験させたいんです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "讓大腦 體驗 日語的流動，而不是 隔一個就查單字的 斷斷續續作業。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/129-1-sentence.mp3",
+        "audio/think-jp-transcript/129-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 130,
+      "jp": "特に自分が興味を持っているトピックを選ぶなら最高です。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "特別是 選擇自己有興趣的話題 最好了。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/130-1-sentence.mp3",
+        "audio/think-jp-transcript/130-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 131,
+      "jp": "コンテンツに興味がある時、脳はそれを理解しようとより強く同期づけられるからです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "對內容有興趣時，大腦 被更強烈地 驅動去 理解它。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/131-1-sentence.mp3",
+        "audio/think-jp-transcript/131-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 132,
+      "jp": "つまり自分の趣味や興味のあることについて日本語で読むべきだということですね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "也就是說 應該 用日語 閱讀 關於自己的嗜好和興趣的事。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/132-1-sentence.mp3",
+        "audio/think-jp-transcript/132-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 133,
+      "jp": "和食を作るのが好きなら料理ブログを読み、テクノロジーが好きならIT記事を読み、京都旅行が好きなら旅行ガイドを読んでください。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "如果喜歡做日式料理 就讀料理部落格，喜歡科技 就讀IT文章，喜歡京都旅行 就讀旅遊指南。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/133-1-sentence.mp3",
+        "audio/think-jp-transcript/133-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 134,
+      "jp": "情報を知りたいという欲求があるので脳は理解しようと一生懸命に働きます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "因為有 想知道資訊的欲望，大腦 努力工作 去理解。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/134-1-sentence.mp3",
+        "audio/think-jp-transcript/134-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 135,
+      "jp": "反復と復讐について、多くの人は同じ記事を5回連続で読むことだと思っています。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "關於反復複習，很多人以為是 連續讀同一篇文章5次 直到理解所有單字。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/135-1-sentence.mp3",
+        "audio/think-jp-transcript/135-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 136,
+      "jp": "感覚を開けた再路室が効果的です。今日ポッドキャストのエピソードを聞いて3日後にもう1度聞き、さらに1週間後にまた聞くんです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "隔開感覺的複習更有效。今天聽播客集數，3天後 再聽一次，再過一週 又再聽。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/136-1-sentence.mp3",
+        "audio/think-jp-transcript/136-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 137,
+      "jp": "なぜならそのコンテンツに戻るたびに脳は少し違う状態にあるからです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "因為 每次回到那個內容，大腦 處於 稍微不同的狀態。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/137-1-sentence.mp3",
+        "audio/think-jp-transcript/137-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 138,
+      "jp": "その間にあなたはより多くを学び、より多く練習しています。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "其間 你 學到更多，也練習了更多。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/138-1-sentence.mp3",
+        "audio/think-jp-transcript/138-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 139,
+      "jp": "だからより深いレベルで理解できるんです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "所以 能在 更深的層次 理解。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/139-1-sentence.mp3",
+        "audio/think-jp-transcript/139-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 140,
+      "jp": "つまり最初は70%しか理解できなくても2回目には85%理解できるかもしれません。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "也就是說 一開始 只能理解70%，第二次 可能理解85%。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/140-1-sentence.mp3",
+        "audio/think-jp-transcript/140-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 141,
+      "jp": "そして3回目にはほとんど全てを理解しとても楽に感じられるようになります。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "第三次 理解幾乎全部，感覺 非常輕鬆。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/141-1-sentence.mp3",
+        "audio/think-jp-transcript/141-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 142,
+      "jp": "さらにその都度神経回路を強化しているんです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "而且 每次 都在強化 神經迴路。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/142-1-sentence.mp3",
+        "audio/think-jp-transcript/142-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 143,
+      "jp": "日本語のパターンが脳の中でどんどん強くなっているんですね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "日語的模式 在大腦中 越來越強。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/143-1-sentence.mp3",
+        "audio/think-jp-transcript/143-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 144,
+      "jp": "これは脳の中に構築された日本語を積極的に使う場所です。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "這是 積極使用 在大腦中建構的日語 的地方。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/144-1-sentence.mp3",
+        "audio/think-jp-transcript/144-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 145,
+      "jp": "多くの学習者は何年をかけて日本語をインプットし、読み、聞き、勉強しますが、実際に話すことになると恐怖を感じてしまいます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "很多學習者 花幾年時間 輸入日語、閱讀、聆聽、學習，但 實際上說話時 感到恐懼。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/145-1-sentence.mp3",
+        "audio/think-jp-transcript/145-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 146,
+      "jp": "主に間違えることへの恐怖です。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "主要是 犯錯的恐懼。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/146-1-sentence.mp3",
+        "audio/think-jp-transcript/146-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 147,
+      "jp": "愚かに聞こえることへの恐怖、相手に理解されないことへの恐怖ですね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "聽起來愚蠢的恐懼，不被對方理解的恐懼。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/147-1-sentence.mp3",
+        "audio/think-jp-transcript/147-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 148,
+      "jp": "実際に話さない限り話すように脳を訓練することはできません。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "除非 實際說話，無法 訓練大腦 去說話。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/148-1-sentence.mp3",
+        "audio/think-jp-transcript/148-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 149,
+      "jp": "1人で話す練習には色々な方法があり、いくつかは他よりも効果的です。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "一個人說話的練習 有各種方法，有些 比其他 更有效。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/149-1-sentence.mp3",
+        "audio/think-jp-transcript/149-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 150,
+      "jp": "私のお気に入りの1つはシャドウイングと呼ばれるものです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "我最喜歡的之一 是稱為 跟讀的東西。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/150-1-sentence.mp3",
+        "audio/think-jp-transcript/150-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 151,
+      "jp": "ポッドキャストや動画などでネイティブスピーカーの音声を聞き、彼らのリズムイントネーション発音に合わせようとしながら彼らが言うことをそのまま繰り返します。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "聽播客或影片等 母語者的聲音，試著配合 他們的節奏音調發音，原樣重複 他們說的話。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/151-1-sentence.mp3",
+        "audio/think-jp-transcript/151-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 152,
+      "jp": "シャドーイングには色々なレベルがあります。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "跟讀 有各種層次。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/152-1-sentence.mp3",
+        "audio/think-jp-transcript/152-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 153,
+      "jp": "基本レベルでは1ごとに一時停止して繰り返します。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "基礎層次 每一個 暫停後重複。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/153-1-sentence.mp3",
+        "audio/think-jp-transcript/153-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 154,
+      "jp": "そして上級レベルでは山びのように彼らと一緒にリアルタイムで話すようにします。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "高級層次 像迴音般 和他們一起 即時說話。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/154-1-sentence.mp3",
+        "audio/think-jp-transcript/154-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 155,
+      "jp": "なぜなら口の筋肉リズム流調さを同時に鍛えられるからです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "因為 能同時鍛練 嘴部肌肉 節奏 流暢。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/155-1-sentence.mp3",
+        "audio/think-jp-transcript/155-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 156,
+      "jp": "まさに脳が日本語の自然なリズムと流れを内面化し始めます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "正是 大腦 開始內化 日語的自然節奏和流動。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/156-1-sentence.mp3",
+        "audio/think-jp-transcript/156-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 157,
+      "jp": "もう1つの強力な方法は自分自身を録音することです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "另一個強大的方法 是 錄製自己。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/157-1-sentence.mp3",
+        "audio/think-jp-transcript/157-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 158,
+      "jp": "なぜかと言うと、録音せずに話している時は自分がどう聞こえているか実際には分からないからです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "因為 沒有錄音地說話時，實際上 不知道 自己聽起來怎麼樣。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/158-1-sentence.mp3",
+        "audio/think-jp-transcript/158-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 159,
+      "jp": "でも自分を録音して聞き直すと自分の間違いに気づくことができます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "但 錄製自己 再聽，能夠 察覺自己的錯誤。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/159-1-sentence.mp3",
+        "audio/think-jp-transcript/159-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 160,
+      "jp": "あなたが自分自身の先生になるんです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "你 成為 自己的老師。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/160-1-sentence.mp3",
+        "audio/think-jp-transcript/160-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 161,
+      "jp": "話すのが早すぎるとか、単語の語尾が消えてしまっているとか、イントネーションが平坦に聞こえるとか、そういうことに気づけるわけですね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "說話太快，或 單字語尾 消失了，或 語調 聽起來平坦，能夠察覺 那些事。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/161-1-sentence.mp3",
+        "audio/think-jp-transcript/161-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 162,
+      "jp": "トピックを1つ選んで、録音しながらそれについて2分間話します。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "請選一個話題，邊錄音 邊關於那個 說2分鐘。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/162-1-sentence.mp3",
+        "audio/think-jp-transcript/162-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 163,
+      "jp": "その後聞き直して改善したい点を3つ目もします。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "之後 再聽，找出3個 想改善的點。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/163-1-sentence.mp3",
+        "audio/think-jp-transcript/163-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 164,
+      "jp": "1度に全てを直そうとすると圧倒されてしまいますから、具体的な3つのポイントを選んでください。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "一次想全部修正 就會不知所措，所以選擇 具體的3個點。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/164-1-sentence.mp3",
+        "audio/think-jp-transcript/164-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 165,
+      "jp": "そしてもう1度録音します。その3つの改善に集中して同じトピックについてもう1度話すんですね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "然後 再錄一次，集中在那3個改善，關於同一個話題 再說一次。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/165-1-sentence.mp3",
+        "audio/think-jp-transcript/165-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 166,
+      "jp": "多くの学習者は完璧に話すことが目標だと思ってしまいますが、そうではありません。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "很多學習者以為 完美說話 是目標，但那 並不是目標。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/166-1-sentence.mp3",
+        "audio/think-jp-transcript/166-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 167,
+      "jp": "目標は効果的にコミュニケーションを取ることです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "目標是 有效地 溝通。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/167-1-sentence.mp3",
+        "audio/think-jp-transcript/167-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 168,
+      "jp": "間違いは実は良いことなんですよ。なぜなら間違いはあなたの知識のギャップがどこにあるかを教えてくれるからです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "錯誤 其實 是好事。因為 錯誤 告訴你 知識的缺口 在哪裡。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/168-1-sentence.mp3",
+        "audio/think-jp-transcript/168-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 169,
+      "jp": "それぞれの間違いは何かを学ぶ機会なんです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "每個錯誤 是 學習某事的機會。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/169-1-sentence.mp3",
+        "audio/think-jp-transcript/169-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 170,
+      "jp": "むしろ間違えていないならそれは自分を十分に追い込んでいない証拠だと私は思います。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "反而 如果沒有犯錯，那是 沒有充分逼迫自己的 證據。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/170-1-sentence.mp3",
+        "audio/think-jp-transcript/170-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 171,
+      "jp": "目標は快適なゾーンの少し外側に自分を押し出すことです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "目標是 把自己 推到 舒適區 稍微外側。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/171-1-sentence.mp3",
+        "audio/think-jp-transcript/171-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 172,
+      "jp": "少し深快感を感じるくらいが良いですが、固まってしまうほど不快であってはいけません。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "感到 稍微不舒服的程度 較好，但 不能不舒服到 僵住。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/172-1-sentence.mp3",
+        "audio/think-jp-transcript/172-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 173,
+      "jp": "良い意味で挑戦していると感じる時と圧倒されていると感じる時の違いに気づきそれに応じて調整する必要があります。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "需要察覺 感覺到好的挑戰 和 感到被壓倒 的差別，並 相應調整。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/173-1-sentence.mp3",
+        "audio/think-jp-transcript/173-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 174,
+      "jp": "会話中に自分が完全に迷子になっていると気づいたら、もう少しゆっくり話してもらえますかとか別のことを話しませんかと言ってもいいわけですね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "對話中 察覺到自己 完全迷失了，可以說「不好意思，能說慢一點嗎」或「要不要聊別的」。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/174-1-sentence.mp3",
+        "audio/think-jp-transcript/174-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 175,
+      "jp": "独り言の実況中継と呼ばれるものです。1日中自分がしていること、考えていること、感じていることを日本語で実況するんですが、それを声に出して行うんです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "叫做 自言自語實況播報。一整天 用日語 出聲 實況 自己做的事、想的事、感受到的事。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/175-1-sentence.mp3",
+        "audio/think-jp-transcript/175-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 176,
+      "jp": "さて、お昼ご飯を作りましょう。おにぎりにしようかな。冷蔵庫に何があるかな?あ、梅干と酒がある。美味しそうですね。のりも巻きましょう。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那麼，做午飯吧。要做飯糰嗎。冰箱裡有什麼呢。啊，有梅干和鮭魚。看起來好吃。也捲上海苔吧。（自言自語實況播報示範）",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/176-1-sentence.mp3",
+        "audio/think-jp-transcript/176-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 177,
+      "jp": "なぜならリアルタイムでの日本語の生成を練習しているからです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "因為 在練習 即時的日語生成。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/177-1-sentence.mp3",
+        "audio/think-jp-transcript/177-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 178,
+      "jp": "何を言うか考えているのではなく、自分が経験していることをただ言っているだけなんです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "不是在思考說什麼，只是 說出 自己正在體驗的事。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/178-1-sentence.mp3",
+        "audio/think-jp-transcript/178-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 179,
+      "jp": "つまりとても自発的だということですね。そしてそれは実際の会話でまさに必要なことなんです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "也就是說 非常自發。那 正是 實際對話中 需要的。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/179-1-sentence.mp3",
+        "audio/think-jp-transcript/179-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 180,
+      "jp": "考えすぎずに自発的に話せるようになる必要があります。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "需要 不過度思考 能自發地說話。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/180-1-sentence.mp3",
+        "audio/think-jp-transcript/180-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 181,
+      "jp": "家で1人でいる時にやってみてください。シャワーを浴びている時、料理をしている時、掃除をしている時などです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "請 在家 一個人的時候 試試。洗澡時、做料理時、打掃時 等等。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/181-1-sentence.mp3",
+        "audio/think-jp-transcript/181-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 182,
+      "jp": "その時脳は自由に言語に集中できるからです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "那時 大腦 能自由地 集中在語言。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/182-1-sentence.mp3",
+        "audio/think-jp-transcript/182-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 183,
+      "jp": "脳がストレスモードに入ってしまうんです。ストレスを感じていると自分の持っている言語の知識にアクセスするのが難しくなります。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "大腦 進入了 壓力模式。感到壓力時，難以 訪問 自己擁有的語言知識。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/183-1-sentence.mp3",
+        "audio/think-jp-transcript/183-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 184,
+      "jp": "まずそれが正常で一時的なことだと認識してください。上級スピーカーでさえ誰もがこれを経験します。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "首先 認識到 那是正常且暫時的。即使是高級說話者，每個人 都經歷這個。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/184-1-sentence.mp3",
+        "audio/think-jp-transcript/184-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 185,
+      "jp": "いくつかのつなぎ言葉フィラーを準備しておきましょう。えっと少し考えさせてくださいとか、それは面白い質問ですねとかどう言えばいいかなといったフレーズです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "準備好 幾個 填充語。例如「嗯讓我想一下」或「那是個有趣問題」或「怎麼說好呢」那樣的短語。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/185-1-sentence.mp3",
+        "audio/think-jp-transcript/185-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 186,
+      "jp": "しかもそれを日本語で行うことで会話の流れを途切れさせずに住みます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "而且 用日語進行，不中斷對話的流動。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/186-1-sentence.mp3",
+        "audio/think-jp-transcript/186-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 187,
+      "jp": "これらのフレーズは質問から答えへとあなたを導く橋のようなものです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "這些短語 像是 引導你 從問題到答案的 橋梁。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/187-1-sentence.mp3",
+        "audio/think-jp-transcript/187-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 188,
+      "jp": "もう1つのテクニックは言おうとしていることをシンプルにすることです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "另一個技巧 是 把想說的 簡化。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/188-1-sentence.mp3",
+        "audio/think-jp-transcript/188-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 189,
+      "jp": "私たちはよく複雑なことを表現しようとして適切な言葉が見つからずにフリーズしてしまいます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "我們 常常 試著表達複雜的事，找不到適當的話 就卡住了。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/189-1-sentence.mp3",
+        "audio/think-jp-transcript/189-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 190,
+      "jp": "ですから諦める代わりに表現できるようなよりシンプルなアイデアに分解するんです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "所以 不放棄，分解成 能夠表達的 更簡單的想法。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/190-1-sentence.mp3",
+        "audio/think-jp-transcript/190-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 191,
+      "jp": "例えば大学院で工学を学ぶべきか、それとも卒業後すぐに働き始めるべきか悩んでいますと言いたいとしましょう。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "例如 假設想說「煩惱是否應該在研究所學工程，還是畢業後馬上開始工作」。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/191-1-sentence.mp3",
+        "audio/think-jp-transcript/191-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 192,
+      "jp": "もしそれを正確に表現できないならシンプルにして将来について考えています、もっと勉強するか働くかまだ分かりませんということができます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "如果無法精確表達，就簡化成「在思考將來，還不知道 是多讀書 還是工作」。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/192-1-sentence.mp3",
+        "audio/think-jp-transcript/192-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 193,
+      "jp": "はるかにシンプルになりましたが依前としてメインのアイデアは伝わっていますね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "變得 遠遠更簡單了，但 主要想法 依然傳達。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/193-1-sentence.mp3",
+        "audio/think-jp-transcript/193-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 194,
+      "jp": "そしてシンプルなバージョンを口に出すことでより詳細を付け加えるのが簡単になることもよくあります。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "說出簡單的版本，更容易 加上更多細節 也很常見。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/194-1-sentence.mp3",
+        "audio/think-jp-transcript/194-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 195,
+      "jp": "とにかく話し始めることで脳がリラックスし、より多くの言葉にアクセスしやすくなりますね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "總之 開始說話，大腦 放鬆，更容易 訪問更多的話。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/195-1-sentence.mp3",
+        "audio/think-jp-transcript/195-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 196,
+      "jp": "これらのテクニックを毎日15分から30分一貫して練習していると2週間から3週間で小さな変化に気づき始めます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "每天一致地練習這些技巧15到30分鐘，2到3週後 開始察覺 小小的變化。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/196-1-sentence.mp3",
+        "audio/think-jp-transcript/196-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 197,
+      "jp": "日本語の単語やフレーズが以前より自然に頭に浮かぶようになることに気づくかもしれません。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "可能察覺到 日語的單字和短語 比以前更自然地 浮現腦中。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/197-1-sentence.mp3",
+        "audio/think-jp-transcript/197-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 198,
+      "jp": "意識しなくても一瞬日本語で考えている自分に気づくこともあるでしょう。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "也可能 不自覺地 察覺到 一瞬間 用日語思考的自己。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/198-1-sentence.mp3",
+        "audio/think-jp-transcript/198-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 199,
+      "jp": "そして約2ヶ月後にはこれらの瞬間がより頻繁になります。翻訳せずに頭の中で1つの完全な考えを日本語で持てるようになるかもしれません。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "大約2個月後，這些瞬間 變得更頻繁。可能 不翻譯地 腦中 用日語 持有一個完整的想法。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/199-1-sentence.mp3",
+        "audio/think-jp-transcript/199-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 200,
+      "jp": "そして6ヶ月後には一貫した練習を6ヶ月続けると多くの人が日本語がより自然に感じられるようになったと報告しています。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "6個月後，持續一致練習6個月，很多人 報告 日語 感覺更自然了。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/200-1-sentence.mp3",
+        "audio/think-jp-transcript/200-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 201,
+      "jp": "自分が外国語を話していると常に意識することはなくなります。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "不再 總是意識到 自己在說外語。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/201-1-sentence.mp3",
+        "audio/think-jp-transcript/201-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 202,
+      "jp": "鍵となるのはスピードではなく一貫性です。週に1回詰め込むより毎日少しずつ練習する方が良いということですね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "關鍵 不是速度 而是一致性。比 一週一次硬塞，每天 少量練習 更好。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/202-1-sentence.mp3",
+        "audio/think-jp-transcript/202-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 203,
+      "jp": "まさに脳の神経回路を構築するには定期的な露出と練習が必要なんです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "正是 構築大腦神經迴路 需要 定期的接觸和練習。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/203-1-sentence.mp3",
+        "audio/think-jp-transcript/203-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 204,
+      "jp": "言語学習は短距離ではなくマラソンなんです。週に1回運動しただけで強くなれるとは期待できませんから。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "語言學習 不是短跑 而是馬拉松。只 一週運動一次 無法期待 變強。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/204-1-sentence.mp3",
+        "audio/think-jp-transcript/204-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 205,
+      "jp": "多くの言語学習者は自分に対して信じられないほど厳しいんです。1つのミスをするたびに自分を責めてしまいますから。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "很多語言學習者 對自己 難以置信地嚴格。每犯一個錯誤 就責怪自己。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/205-1-sentence.mp3",
+        "audio/think-jp-transcript/205-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 206,
+      "jp": "言語を学ぶことはあなたの脳が行う最も複雑な作業の1つだということです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "學習語言 是你的大腦 進行的 最複雜作業之一。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/206-1-sentence.mp3",
+        "audio/think-jp-transcript/206-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 207,
+      "jp": "記憶、パターンの認識、筋肉の強調、そして文化の理解が含まれますからね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "因為 包含 記憶、模式識別、肌肉協調，以及 文化理解。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/207-1-sentence.mp3",
+        "audio/think-jp-transcript/207-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 208,
+      "jp": "小さな勝利を祝いましょう。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "慶祝 小小的勝利。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/208-1-sentence.mp3",
+        "audio/think-jp-transcript/208-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 209,
+      "jp": "先月なら理解できなかったドラマのシーンが今日は理解できましたか?それは進歩です。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "上個月 無法理解的 連續劇場景 今天理解了嗎？那是 進步。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/209-1-sentence.mp3",
+        "audio/think-jp-transcript/209-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 210,
+      "jp": "今日日本語で会話をしましたか?たえ間違えたとしてもそれは進歩ですよ。まさに挑戦するたびにあなたは脳を訓練しています。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "今天 用日語 對話了嗎？即使犯了錯 那也是 進步。正是 每次挑戰 你都在 訓練大腦。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/210-1-sentence.mp3",
+        "audio/think-jp-transcript/210-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 211,
+      "jp": "言語学習はフラストレーションが溜まることもあり、特に私たちがプラト停滞と呼ぶ時期には進歩していないと感じやすいですから。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "語言學習 有時 累積挫折感，特別是 我們稱為瓶頸停滯的 時期，容易感覺 沒有進步。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/211-1-sentence.mp3",
+        "audio/think-jp-transcript/211-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 212,
+      "jp": "練習はしているのに日本語がうまくなっているように見えない時期ですね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "雖然在練習，日語 看起來 沒有變好的 時期。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/212-1-sentence.mp3",
+        "audio/think-jp-transcript/212-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 213,
+      "jp": "この停滞の間でもあなたの脳はしっかり働いているんです。知識を定着させ繋がりを作っています。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "即使在這個停滯期間，你的大腦 也確實在工作。讓知識定著，建立連結。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/213-1-sentence.mp3",
+        "audio/think-jp-transcript/213-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 214,
+      "jp": "つまり目には見えなくても上達はしているということですね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "也就是說 即使 看不見，也在進步。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/214-1-sentence.mp3",
+        "audio/think-jp-transcript/214-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 215,
+      "jp": "そして突然全てがカチッとはまるブレイクスルーの瞬間が訪れます。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "然後 突然 一切 咔嚓地 卡到位的 突破瞬間 到來。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/215-1-sentence.mp3",
+        "audio/think-jp-transcript/215-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 216,
+      "jp": "だから停滞にいる時も諦めないでください。練習を続けてください。プロセスを信じることですね。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "所以 即使在停滯期 也不要放棄。繼續練習。要相信 過程。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/216-1-sentence.mp3",
+        "audio/think-jp-transcript/216-2-literal.mp3"
+      ]
+    },
+    {
+      "id": 217,
+      "jp": "あなたの脳は驚くべきものであり、進歩していないと感じている時でさえちゃんと働いているんです。",
+      "reading": "",
+      "cn": "",
+      "example": "",
+      "example_literal": "你的大腦 是令人驚嘆的，即使 感覺沒有進步的時候 也確實在工作。",
+      "category": "",
+      "level": "",
+      "segments": [
+        "audio/think-jp-transcript/217-1-sentence.mp3",
+        "audio/think-jp-transcript/217-2-literal.mp3"
       ]
     }
   ]
