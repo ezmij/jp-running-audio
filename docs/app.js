@@ -147,11 +147,16 @@ async function loadSheetIndex() {
     for (const s of state.sheets) {
       const li = document.createElement("li");
       li.dataset.slug = s.slug;
-      li.innerHTML = `
-        <span>${s.sheet}</span>
-        <span class="count">${s.total} 詞 <span class="cache-badge" data-cache-badge="${s.slug}" title="點主題進去會自動下載到離線"></span></span>
-      `;
-      li.addEventListener("click", () => openSheet(s.slug));
+      if (s.total === 0) {
+        li.classList.add("placeholder");
+        li.innerHTML = `<span>${s.sheet}</span>`;
+      } else {
+        li.innerHTML = `
+          <span>${s.sheet}</span>
+          <span class="count">${s.total} 詞 <span class="cache-badge" data-cache-badge="${s.slug}" title="點主題進去會自動下載到離線"></span></span>
+        `;
+        li.addEventListener("click", () => openSheet(s.slug));
+      }
       list.appendChild(li);
     }
     if (state.sheets.length === 0) {

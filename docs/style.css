@@ -22,6 +22,8 @@ h1 { font-size: 24px; font-weight: 600; margin: 8px 0 20px; }
 .sheet-list li:active { background: #252525; }
 .sheet-list li .count { color: #888; font-size: 14px; }
 .sheet-list li.loading { color: #666; cursor: default; justify-content: center; }
+.sheet-list li.placeholder { color: #555; cursor: default; }
+.sheet-list li.placeholder:active { background: #1a1a1a; }
 
 .mode-toggle { display: flex; gap: 8px; background: #1a1a1a; padding: 4px; border-radius: 12px; }
 .mode-btn { flex: 1; background: transparent; color: #aaa; border: none; padding: 12px; font-size: 15px; border-radius: 8px; cursor: pointer; font-family: inherit; }

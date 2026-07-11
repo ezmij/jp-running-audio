@@ -1,21 +1,6 @@
 {
   "sheets": [
     {
-      "slug": "bd-nouhou",
-      "sheet": "北海道BD農法",
-      "total": 154
-    },
-    {
-      "slug": "daily-100",
-      "sheet": "常用的100個對話",
-      "total": 130
-    },
-    {
-      "slug": "daily-100-transcript",
-      "sheet": "常用的100個對話 — 全文對照",
-      "total": 222
-    },
-    {
       "slug": "irankarapte",
       "sheet": "イランカラプテ",
       "total": 140
@@ -34,6 +19,16 @@
       "slug": "koku-transcript",
       "sheet": "口腔訓練 — 全文對照",
       "total": 479
+    },
+    {
+      "slug": "daily-100",
+      "sheet": "常用的100個對話",
+      "total": 130
+    },
+    {
+      "slug": "daily-100-transcript",
+      "sheet": "常用的100個對話 — 全文對照",
+      "total": 222
     },
     {
       "slug": "kokyou",
@@ -84,6 +79,21 @@
       "slug": "think-jp-transcript",
       "sheet": "日語思考訓練 — 全文對照",
       "total": 217
+    },
+    {
+      "slug": "placeholder-17",
+      "sheet": "待補充",
+      "total": 0
+    },
+    {
+      "slug": "placeholder-18",
+      "sheet": "待補充",
+      "total": 0
+    },
+    {
+      "slug": "bd-nouhou",
+      "sheet": "北海道BD農法",
+      "total": 154
     }
   ]
 }
